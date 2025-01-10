@@ -1,15 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8" />
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8"/>
     <title>Wizard's Companion</title>
-    <base href="/" />
-    <link href="css/app.css" rel="stylesheet" />
-    <link href="manifest.json" rel="manifest" />
+    <link rel="icon" href="spellbook.png"/>
+    <base href="/"/>
+    <link href="css/app.css" rel="stylesheet"/>
+    <link href="manifest.json" rel="manifest"/>
 
     <!-- If you add any scoped CSS files, uncomment the following to load them -->
-    <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet" />
+    <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
 
     <!-- Start Single Page Apps for GitHub Pages -->
     <script type="text/javascript">
@@ -34,12 +32,29 @@
             }
         }(window.location))
     </script>
+
+<!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
+
+<!-- %%-PRERENDERING-HEADOUTLET-END-%% -->
 </head>
 
 <body>
     <div id="app">
         <h1 id="LoadingText">Loading...</h1>
-    </div>
+    
+<!-- %%-PRERENDERING-BEGIN-%% -->
+<div style="opacity: 0; position: fixed; z-index: -1; top: 0; left: 0; bottom: 0; right: 0;">
+    <main><h1>Wizard's Companion</h1>
+
+<ul><li><a href="/pets">Pets</a></li>
+    <li><a href="/gardening">Gardening</a></li>
+    <li><a href="/deckathlon">Deckathlon</a></li>
+    <li><a href="/monstrology">Monstrology</a></li></ul></main>
+        <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
+
+</div>
+<!-- %%-PRERENDERING-END-%% -->
+</div>
 
     <div id="blazor-error-ui">
         An unhandled error has occurred.
@@ -48,6 +63,7 @@
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
-</body>
 
-</html>
+
+
+</body></html>

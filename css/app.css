@@ -6,9 +6,10 @@
 
 body
 {
-    background-color: #222222;
+    background-color: #161616;
     color: white;
     font-family:'Comic Sans MS';
+    padding: 20px 40px;
 }
 
 #LoadingText
@@ -23,11 +24,42 @@ body
 h1, h2, h3, h4, h5, h6
 {
     font-family: 'Wizard Fancy';
-    color:aqua;
+    color: #ffff00;
 }
 
-h1{
+h1
+{
     text-align: center;
+}
+
+h1 > img{
+    margin: 0 10px 0 0;
+    height: 100%;
+
+}
+
+/* unvisited link */
+a:link
+{
+    color: #ffff00;
+}
+
+/* visited link */
+a:visited
+{
+    color: #ffff00;
+}
+
+/* mouse over link */
+a:hover
+{
+    
+}
+
+/* selected link */
+a:active
+{
+    
 }
 
 .wrap

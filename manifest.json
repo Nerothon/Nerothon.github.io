@@ -1,16 +1,16 @@
 {
-  "name": "Wizard101.Blazor.WebAssembly",
-  "short_name": "Wizard101.Blazor.WebAssembly",
+  "name": "Wizard's Companion",
+  "short_name": "Wizard's Companion",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#03173d",
+  "background_color": "#161616",
+  "theme_color": "#ffff00",
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "icon-512.png",
+      "src": "spellbook.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "128x128"
     }
   ]
 }
