@@ -1,6 +1,18 @@
 self.assetsManifest = {
-  "version": "gxIqPbm5",
+  "version": "ZABDFBIm",
   "assets": [
+    {
+      "hash": "sha256-Rk+XDzdxRb7anRZDXyIQjufGs84+rJm3UdJ39aLerW4=",
+      "url": ".gitignore"
+    },
+    {
+      "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "url": ".nojekyll"
+    },
+    {
+      "hash": "sha256-Adlt107PMthPYdoCRbLwjEzjGd+7x/e+k9ilBuqSacw=",
+      "url": "404.html"
+    },
     {
       "hash": "sha256-tPIOFMZjBzAkwM4VRfWPT3s7Y9lOnm+oO0JMCSy9p4A=",
       "url": "_framework/Microsoft.AspNetCore.Components.Web.g92tul72wl.wasm"
@@ -170,6 +182,10 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
+      "hash": "sha256-HrDVZitZMAE9cgWh0iIiCzrhEEA/lEIFCxMZtxIq2ps=",
+      "url": "fonts/Wizard Fancy.ttf"
+    },
+    {
       "hash": "sha256-oEo6d+KqX5fjxTiZk/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
       "url": "icon-512.png"
     },
@@ -250,7 +266,7 @@ self.assetsManifest = {
       "url": "images/icons/Will.png"
     },
     {
-      "hash": "sha256-K+Ratxkpq0+2owTwgcGLRqClfXM1mWyXmefCyIBKkYA=",
+      "hash": "sha256-4LVYBgFprm+8TlzuO44PmRS5S+IU7th9NPF8oB+r1SE=",
       "url": "index.html"
     },
     {
