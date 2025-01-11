@@ -5,7 +5,7 @@
       "url": ".gitattributes"
     },
     {
-      "hash": "sha256-Rk+XDzdxRb7anRZDXyIQjufGs84+rJm3UdJ39aLerW4=",
+      "hash": "sha256-9x9VbFVkwW+n76tH2MsSR13Dw4IAb+Jxn\/7WcriY6ro=",
       "url": ".gitignore"
     },
     {
@@ -273,7 +273,7 @@
       "url": "images\/icons\/Will.png"
     },
     {
-      "hash": "sha256-WH\/ARJRq+DmVOuFUGF+16RtKo5bkGqoqJEFlqDhAmHU=",
+      "hash": "sha256-60MrM9Coy+zIlmhb\/CoaG4AOibCavgYbuGbTrCordo8=",
       "url": "index.html"
     },
     {
@@ -285,37 +285,37 @@
       "url": "spellbook.png"
     },
     {
-      "hash": "sha256-cuQgrKUaUoF7jnKq8r\/ZC09MHTSbhr3fTxaBCOitJQo=",
+      "hash": "sha256-vAF+\/8O2zTVhP0CIvmbhxrEpUH1I+r2ONQFpyO6AfA4=",
       "url": "pets\/index.html"
     },
     {
-      "hash": "sha256-qOjEb7OrRM249vSbfe8c93CkQq1iF+dSSJ\/ZeLuSLJA=",
+      "hash": "sha256-nYu053Y8ju6ptViLlLXs8ZQ8dW6WBICtx5UmV2xtRtY=",
       "url": "pets\/basics\/index.html"
     },
     {
-      "hash": "sha256-3qvVEpko3ej9oV5lQMXHVj+DBPmzHGxCU6hWjegjA90=",
+      "hash": "sha256-LU4P4J2gY9lmakFVSIcy3El07wmKn2hyeDpw5qpLFQ4=",
       "url": "pets\/basics\/pedigree\/index.html"
     },
     {
-      "hash": "sha256-gDIw+UZFadJm2\/r9WTCxtgFZ3F3bKAc1S2TJAaSlTtI=",
+      "hash": "sha256-PJeCrZRy72DYyKJvhi+2J\/l6FdCGvKOVHgfxxJ8r\/ME=",
       "url": "pets\/basics\/statistics\/index.html"
     },
     {
-      "hash": "sha256-sR0OlE9+SApGFdXSMCLA3zfQAwLXURpH\/VE1iBMr0K4=",
+      "hash": "sha256-hWYSWgX+zfcRtieTTY34Ai4DaWR7ifaeLB2bqZU922s=",
       "url": "pets\/basics\/jewels\/index.html"
     },
     {
-      "hash": "sha256-18u6bJBnBALhuYo7vtenm+meloq4\/SEyHbFTzyqda2E=",
+      "hash": "sha256-a6MdC65dLl30gEzpakYvgZLPlBACZlbswZj\/kV2x+HE=",
       "url": "gardening\/index.html"
     },
     {
-      "hash": "sha256-18u6bJBnBALhuYo7vtenm+meloq4\/SEyHbFTzyqda2E=",
+      "hash": "sha256-a6MdC65dLl30gEzpakYvgZLPlBACZlbswZj\/kV2x+HE=",
       "url": "deckathlon\/index.html"
     },
     {
-      "hash": "sha256-18u6bJBnBALhuYo7vtenm+meloq4\/SEyHbFTzyqda2E=",
+      "hash": "sha256-a6MdC65dLl30gEzpakYvgZLPlBACZlbswZj\/kV2x+HE=",
       "url": "monstrology\/index.html"
     }
   ],
-  "version": "sLKv3e63"
+  "version": "NGjEwrLd"
 };
