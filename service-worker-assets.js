@@ -145,11 +145,11 @@
       "url": "_framework\/System.Text.RegularExpressions.gl65p7jdfx.wasm"
     },
     {
-      "hash": "sha256-hgFmUW8oWgnUfi6oNVEtAoU3u0xWKLwHwC64Gp6PX9g=",
-      "url": "_framework\/Wizard101.Blazor.WebAssembly.awnumdc9tt.wasm"
+      "hash": "sha256-a3ES4i+9Dn20rvkz41fgNh9Mfq88s32sVEGsp4uLU9k=",
+      "url": "_framework\/Wizard101.Blazor.WebAssembly.h16wgi10uw.wasm"
     },
     {
-      "hash": "sha256-h4+uRjzdyQ181FFGo4MJ8zNsLZkgGRTS+q8HpYr0R8k=",
+      "hash": "sha256-Sfn9COfKfbbj3\/+htUjwYIVllSVQQtGT6ig19UajJ+s=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -373,27 +373,27 @@
       "url": "pets\/catalogue\/index.html"
     },
     {
-      "hash": "sha256-IbnX4Y8dlZVyr\/57FIMFEtl0H+vqS9xN8o8RoNtPx\/w=",
+      "hash": "sha256-Wie8hApQQsN5WiUdgBsBARDc7SHNnT92BD31GQZGsKs=",
       "url": "pets\/catalogue\/1\/index.html"
     },
     {
-      "hash": "sha256-g7qoAxZUy5lun1FS8yQmqNSDP8HYqSjGsKa1+nSWD1U=",
+      "hash": "sha256-Tyo0o1L1U\/4yyC3UirsiELc+sV58x+YSRlhJo+GxI4g=",
       "url": "pets\/catalogue\/2\/index.html"
     },
     {
-      "hash": "sha256-EiKZy+AP29nfplDCVodVLSuxPMNvlvp\/lbmu+csMG44=",
+      "hash": "sha256-V7i9jpZ6NT4V8tHEj2BY7YswPeIOYvWTOXtNXsZZ0bU=",
       "url": "pets\/catalogue\/3\/index.html"
     },
     {
-      "hash": "sha256-TFNKjiGLD3yQqkm+JAB4JUbbJ0bkTyR3XfEujOdWhwA=",
+      "hash": "sha256-5vPqHON+vcRvdcuoQven5FQksDu2fhUlkUNXkf42wuE=",
       "url": "pets\/catalogue\/4\/index.html"
     },
     {
-      "hash": "sha256-pplBb9gSTxY4gBL85I7NOiVZetKcist264keFdOXID8=",
+      "hash": "sha256-u5KJF3zi7y6O10bsPtDc+wcuWcVEUnBzAqHWqYxVLe0=",
       "url": "pets\/catalogue\/5\/index.html"
     },
     {
-      "hash": "sha256-GQSXJe76otvFxW4dOfXPHgZG8gVHjoSFNntZkc0Ridc=",
+      "hash": "sha256-U0MO\/f3ODgyoEXg++2OnitPuCJuvfe\/XRGV74hIqg38=",
       "url": "pets\/catalogue\/6\/index.html"
     },
     {
@@ -409,5 +409,5 @@
       "url": "monstrology\/index.html"
     }
   ],
-  "version": "jXoTEIPi"
+  "version": "acPGyQF3"
 };
