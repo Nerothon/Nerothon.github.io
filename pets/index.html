@@ -1,7 +1,4 @@
 <!DOCTYPE html><html lang="en"><head>
-    <meta name="description" content="og:description index"/>
-    <meta property="og:description" content="og:description index"/>
-    <title>Wizard's Companion</title>
     <meta property="og:site_name" content="Wizard's Companion"/>
 
     <link rel="icon" href="spellbook.png"/>
@@ -19,32 +16,22 @@
     <!-- If you add any scoped CSS files, uncomment the following to load them -->
     <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
 
-    <!-- Start Single Page Apps for GitHub Pages -->
-    <!--<script type="text/javascript">
-        // Single Page Apps for GitHub Pages
-        // MIT License
-        // https://github.com/rafgraph/spa-github-pages
-        // This script checks to see if a redirect is present in the query string,
-        // converts it back into the correct url and adds it to the
-        // browser's history using window.history.replaceState(...),
-        // which won't cause the browser to attempt to load the new url.
-        // When the single page app is loaded further down in this file,
-        // the correct url will be waiting in the browser's history for
-        // the single page app to route accordingly.
-        (function (l) {
-            if (l.search[1] === '/') {
-                var decoded = l.search.slice(1).split('&').map(function (s) {
-                    return s.replace(/~and~/g, '&')
-                }).join('?');
-                window.history.replaceState(null, null,
-                    l.pathname.slice(0, -1) + decoded + l.hash
-                );
-            }
-        }(window.location))
-    </script>-->
-
 <!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
+<title>Pets - Wizard&#x27;s Companion</title><meta property="og:title" content="Pets - Wizard&#x27;s Companion" />
+    <meta property="og:url" content="" />
+    <meta property="og:type" content="article" />
 
+    <meta name="date" content="" />
+
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+
+    <meta name="keywords" content="" />
+    <meta property="article:tag" content="" />
+
+    <meta name="image" content="" />
+    <meta property="og:image" content="" />
+    <meta name="twitter:card" content="summary_large_image">
 <!-- %%-PRERENDERING-HEADOUTLET-END-%% -->
 </head>
 
@@ -54,9 +41,14 @@
     
 <!-- %%-PRERENDERING-BEGIN-%% -->
 <div style="opacity: 0; position: fixed; z-index: -1; top: 0; left: 0; bottom: 0; right: 0;">
-    <main><h1>Pets</h1>
+    
 
-<ul><li><a href="/pets/basics">Basics</a></li></ul></main>
+
+<header><h1>Wizard's Companion</h1></header>
+<main><h2 b-qrrbmox22x>Pets</h2>
+<ul><li><a href="/pets/guides">Guides</a></li>
+    <li><a href="/pets/tools">Tools</a></li>
+    <li><a href="/pets/database">Database</a></li></ul></main>
         <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
 
 </div>
@@ -70,6 +62,9 @@
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
+    <environment names="Development">
+        <script src="_framework/aspnetcore-browser-refresh.js"></script>
+    </environment>
 
 
 
