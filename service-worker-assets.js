@@ -145,11 +145,11 @@
       "url": "_framework\/System.Text.RegularExpressions.gl65p7jdfx.wasm"
     },
     {
-      "hash": "sha256-3EGxKSbkM4SZU8+Was8a7UumcaC4RFrD8Tn\/XRxHS\/8=",
-      "url": "_framework\/Wizard101.Blazor.WebAssembly.0pm5grey2m.wasm"
+      "hash": "sha256-1eFvaIOt92VJ7DtLYbrEHz46M5BexFXjBBJL9oIUdOA=",
+      "url": "_framework\/Wizard101.Blazor.WebAssembly.dqqa4qhwt2.wasm"
     },
     {
-      "hash": "sha256-rfmwm\/koUjcJmrPHKjGpBOLmIt552bOcodvRq7f4P4o=",
+      "hash": "sha256-TlW8\/cE0jwfjpZ8PoPexj+eqlDLaLEslV13tsC5V+lI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -273,7 +273,7 @@
       "url": "images\/icons\/Will.png"
     },
     {
-      "hash": "sha256-6BXjq0AGibABIdZSoGng6L5HTuHVFmTkLV0FLB8j0as=",
+      "hash": "sha256-WH\/ARJRq+DmVOuFUGF+16RtKo5bkGqoqJEFlqDhAmHU=",
       "url": "index.html"
     },
     {
@@ -285,37 +285,37 @@
       "url": "spellbook.png"
     },
     {
-      "hash": "sha256-94GBYRhGWt+Za4FtZJgTVq3Tfp3zYdvQYi4u5ry0WC8=",
+      "hash": "sha256-cuQgrKUaUoF7jnKq8r\/ZC09MHTSbhr3fTxaBCOitJQo=",
       "url": "pets\/index.html"
     },
     {
-      "hash": "sha256-jDhPtKlp146d2HYgQCwQV6KU1nfzQOlJWEz9xHZ+\/VE=",
+      "hash": "sha256-qOjEb7OrRM249vSbfe8c93CkQq1iF+dSSJ\/ZeLuSLJA=",
       "url": "pets\/basics\/index.html"
     },
     {
-      "hash": "sha256-vOGL7tiCZa+sJOfRSQ9nlmET6KHtgowFd05KLHyhOEY=",
+      "hash": "sha256-3qvVEpko3ej9oV5lQMXHVj+DBPmzHGxCU6hWjegjA90=",
       "url": "pets\/basics\/pedigree\/index.html"
     },
     {
-      "hash": "sha256-0h2Rs6Tfue\/YghQxgnVgOBcEXSM5Ekw7qNwmFos\/bJY=",
+      "hash": "sha256-gDIw+UZFadJm2\/r9WTCxtgFZ3F3bKAc1S2TJAaSlTtI=",
       "url": "pets\/basics\/statistics\/index.html"
     },
     {
-      "hash": "sha256-Rcs0Yp\/MJmyYrmB380w0JdUItZ4iRvZXcjtPND8K6MI=",
+      "hash": "sha256-sR0OlE9+SApGFdXSMCLA3zfQAwLXURpH\/VE1iBMr0K4=",
       "url": "pets\/basics\/jewels\/index.html"
     },
     {
-      "hash": "sha256-9OhV9vkywh9UlsEWoVxOjGUbllRFvTZGHUiBv03VvKk=",
+      "hash": "sha256-18u6bJBnBALhuYo7vtenm+meloq4\/SEyHbFTzyqda2E=",
       "url": "gardening\/index.html"
     },
     {
-      "hash": "sha256-9OhV9vkywh9UlsEWoVxOjGUbllRFvTZGHUiBv03VvKk=",
+      "hash": "sha256-18u6bJBnBALhuYo7vtenm+meloq4\/SEyHbFTzyqda2E=",
       "url": "deckathlon\/index.html"
     },
     {
-      "hash": "sha256-9OhV9vkywh9UlsEWoVxOjGUbllRFvTZGHUiBv03VvKk=",
+      "hash": "sha256-18u6bJBnBALhuYo7vtenm+meloq4\/SEyHbFTzyqda2E=",
       "url": "monstrology\/index.html"
     }
   ],
-  "version": "BEFUpWIV"
+  "version": "sLKv3e63"
 };
