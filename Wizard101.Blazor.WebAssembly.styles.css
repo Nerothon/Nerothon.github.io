@@ -24,3 +24,26 @@
 
     width: 50%;
 }
+/* /Pages/Categories/Pets/Catalogue/Pet.razor.rz.scp.css */
+.pet[b-to84yicpyv]
+{
+    border: 2px solid #ffd800;
+    padding: 20px;
+    margin: 20px;
+}
+
+.pet-info[b-to84yicpyv]
+{
+}
+
+.pet-screenshots[b-to84yicpyv], .pet-info[b-to84yicpyv]
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.pet-screenshot[b-to84yicpyv]
+{
+    width: 50%;
+}

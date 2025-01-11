@@ -13,7 +13,7 @@
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-QBrNlJ1pIrfiv4wo8I4jmZwI2H0Hs6ejqYYf59obEnI=",
+      "hash": "sha256-KBCegUtP9tKHtmoga+YCjZPWHMc9VPSYiPDJSE1fzOY=",
       "url": "Wizard101.Blazor.WebAssembly.styles.css"
     },
     {
@@ -145,11 +145,11 @@
       "url": "_framework\/System.Text.RegularExpressions.gl65p7jdfx.wasm"
     },
     {
-      "hash": "sha256-a3ES4i+9Dn20rvkz41fgNh9Mfq88s32sVEGsp4uLU9k=",
-      "url": "_framework\/Wizard101.Blazor.WebAssembly.h16wgi10uw.wasm"
+      "hash": "sha256-S7GyMCz+j3g58ml9XDpzsILQy4mBlXakg3bjMvfDmw8=",
+      "url": "_framework\/Wizard101.Blazor.WebAssembly.vjk1f1gqnb.wasm"
     },
     {
-      "hash": "sha256-Sfn9COfKfbbj3\/+htUjwYIVllSVQQtGT6ig19UajJ+s=",
+      "hash": "sha256-OvCfc7oTjSAFzvfuvodZoVhitSQmSJaTK9\/yG2RcZxc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -369,31 +369,31 @@
       "url": "pets\/database\/index.html"
     },
     {
-      "hash": "sha256-NaGETpQV2qTR8+DI1kawBBuXQFdmRdx07C9pefwPzOY=",
+      "hash": "sha256-mFGfZSomIsrAN4Xfp1fl6hA9eoFoo35mEZ3SPUVl6Ds=",
       "url": "pets\/catalogue\/index.html"
     },
     {
-      "hash": "sha256-Wie8hApQQsN5WiUdgBsBARDc7SHNnT92BD31GQZGsKs=",
+      "hash": "sha256-QCRb6ErBRIFaNMeCd0v7aThCWyV\/O9uFtdqEftLHODs=",
       "url": "pets\/catalogue\/1\/index.html"
     },
     {
-      "hash": "sha256-Tyo0o1L1U\/4yyC3UirsiELc+sV58x+YSRlhJo+GxI4g=",
+      "hash": "sha256-8aasX1mqbJ73SR0nnIZ7MXBcaKD4f\/JSyCYM9+vG5js=",
       "url": "pets\/catalogue\/2\/index.html"
     },
     {
-      "hash": "sha256-V7i9jpZ6NT4V8tHEj2BY7YswPeIOYvWTOXtNXsZZ0bU=",
+      "hash": "sha256-Qf4iiebM\/ICbDaMXLjZBQO04phQqPfKrC9YcxiZmStM=",
       "url": "pets\/catalogue\/3\/index.html"
     },
     {
-      "hash": "sha256-5vPqHON+vcRvdcuoQven5FQksDu2fhUlkUNXkf42wuE=",
+      "hash": "sha256-ZM8rUgeC0on1Sv336HwoCD+JiK4Z0SBLwSp8CRn6R9o=",
       "url": "pets\/catalogue\/4\/index.html"
     },
     {
-      "hash": "sha256-u5KJF3zi7y6O10bsPtDc+wcuWcVEUnBzAqHWqYxVLe0=",
+      "hash": "sha256-3jXzjq2oiWfKNWoFcjIzsedqP+x3gmirK6EuCdcMD18=",
       "url": "pets\/catalogue\/5\/index.html"
     },
     {
-      "hash": "sha256-U0MO\/f3ODgyoEXg++2OnitPuCJuvfe\/XRGV74hIqg38=",
+      "hash": "sha256-XcFBFSLf3awcAvY636M06tjkBkyVVIAqaXG6f5p7+uM=",
       "url": "pets\/catalogue\/6\/index.html"
     },
     {
@@ -409,5 +409,5 @@
       "url": "monstrology\/index.html"
     }
   ],
-  "version": "acPGyQF3"
+  "version": "9iRzSwUY"
 };
