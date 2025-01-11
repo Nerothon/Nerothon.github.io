@@ -13,7 +13,7 @@
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-Adlt107PMthPYdoCRbLwjEzjGd+7x\/e+k9ilBuqSacw=",
+      "hash": "sha256-IBlUjfnlqh3drmokVqOo6p5gnvPDitUjhp5MewuQFsU=",
       "url": "404.html"
     },
     {
@@ -145,11 +145,11 @@
       "url": "_framework\/System.Text.RegularExpressions.gl65p7jdfx.wasm"
     },
     {
-      "hash": "sha256-w9gFFs5tgQJqgy7Lj5rElVxjuisRlBpUF6MHWWXoMvc=",
-      "url": "_framework\/Wizard101.Blazor.WebAssembly.rye8jmlero.wasm"
+      "hash": "sha256-3EGxKSbkM4SZU8+Was8a7UumcaC4RFrD8Tn\/XRxHS\/8=",
+      "url": "_framework\/Wizard101.Blazor.WebAssembly.0pm5grey2m.wasm"
     },
     {
-      "hash": "sha256-e79oW8hRZ+HyUJtWbY0lXyIQYNMFoNPlo70ZkmDYP4A=",
+      "hash": "sha256-rfmwm\/koUjcJmrPHKjGpBOLmIt552bOcodvRq7f4P4o=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -273,7 +273,7 @@
       "url": "images\/icons\/Will.png"
     },
     {
-      "hash": "sha256-+WkJDhkd4Mfb6wkkMtRpALs\/8w3m9aSm4X6GbkVrfm8=",
+      "hash": "sha256-bh18D3zHaS+h4Jg6a1kmLzWJZS38jHeuddNznGKrptc=",
       "url": "index.html"
     },
     {
@@ -285,37 +285,37 @@
       "url": "spellbook.png"
     },
     {
-      "hash": "sha256-fyCHr7nOjVKiyewtuqRwcr10Wn4Ly4USAch3iXlikic=",
+      "hash": "sha256-DLyxW4csSaef4y9\/RCgVyS5cg02npRAF68yx91gTDyE=",
       "url": "pets\/index.html"
     },
     {
-      "hash": "sha256-+fpCIsSF3diCSb3cmiVqoaDepIUlpfgkzxjQPwXdfVo=",
+      "hash": "sha256-spgZAo6a249r87aTqAkR5y3RCZYxW0iODJzQ9tPNvgE=",
       "url": "pets\/basics\/index.html"
     },
     {
-      "hash": "sha256-oYnoarf1A\/43YpfLjWZZObGwOJtQofjMO8PbNZvWXC8=",
+      "hash": "sha256-JBf1UROmpv8druTv0C+KtCOtKVK5l\/PhyN+I+ILS0uY=",
       "url": "pets\/basics\/pedigree\/index.html"
     },
     {
-      "hash": "sha256-IxEVAhHJDzda3XEXkBvPwodN57dN1PsYxkYUVfONR30=",
+      "hash": "sha256-IKvibNlZpqZOUU\/b6bJzOc752ut2HeQF3SvtX3CEAPo=",
       "url": "pets\/basics\/statistics\/index.html"
     },
     {
-      "hash": "sha256-QineOF7DQ1crfFwgw04xEjVEaL+uWFo4WKjvTYJFeyU=",
+      "hash": "sha256-RQn\/iQvUl584tjim\/iarMYc69ZAJduQphUEd3dHgRWQ=",
       "url": "pets\/basics\/jewels\/index.html"
     },
     {
-      "hash": "sha256-BguYu6MrVz1WtYVoiANCWKZtox5jixzwu0CdyM+Pg38=",
+      "hash": "sha256-t3vKN6EqAjDBYPQx31HSnriDaDpjZtp86qiTWWjg+Qg=",
       "url": "gardening\/index.html"
     },
     {
-      "hash": "sha256-BguYu6MrVz1WtYVoiANCWKZtox5jixzwu0CdyM+Pg38=",
+      "hash": "sha256-t3vKN6EqAjDBYPQx31HSnriDaDpjZtp86qiTWWjg+Qg=",
       "url": "deckathlon\/index.html"
     },
     {
-      "hash": "sha256-BguYu6MrVz1WtYVoiANCWKZtox5jixzwu0CdyM+Pg38=",
+      "hash": "sha256-t3vKN6EqAjDBYPQx31HSnriDaDpjZtp86qiTWWjg+Qg=",
       "url": "monstrology\/index.html"
     }
   ],
-  "version": "2VqDoC1k"
+  "version": "n3TETp+p"
 };
