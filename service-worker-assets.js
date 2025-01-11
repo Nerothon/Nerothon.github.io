@@ -5,7 +5,7 @@
       "url": ".gitattributes"
     },
     {
-      "hash": "sha256-9x9VbFVkwW+n76tH2MsSR13Dw4IAb+Jxn\/7WcriY6ro=",
+      "hash": "sha256-Rk+XDzdxRb7anRZDXyIQjufGs84+rJm3UdJ39aLerW4=",
       "url": ".gitignore"
     },
     {
@@ -13,7 +13,7 @@
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-mKsCDDgEuka0TNjSeZympGeNuKfHakgJFtrV5UxSA1E=",
+      "hash": "sha256-SK29kLj0yQPu329Vo4L2iz9yejsjwmLIExOXBUkt1hM=",
       "url": "404.html"
     },
     {
@@ -145,11 +145,11 @@
       "url": "_framework\/System.Text.RegularExpressions.gl65p7jdfx.wasm"
     },
     {
-      "hash": "sha256-1eFvaIOt92VJ7DtLYbrEHz46M5BexFXjBBJL9oIUdOA=",
-      "url": "_framework\/Wizard101.Blazor.WebAssembly.dqqa4qhwt2.wasm"
+      "hash": "sha256-Y3xp2Xy6khZrYsdhJ9i3UPATnxMT3ubiHM6Tc5cJ\/4A=",
+      "url": "_framework\/Wizard101.Blazor.WebAssembly.zcps9107wk.wasm"
     },
     {
-      "hash": "sha256-TlW8\/cE0jwfjpZ8PoPexj+eqlDLaLEslV13tsC5V+lI=",
+      "hash": "sha256-zaXEkkDhcV8yPvylRT6u6AAxqgfIUSqDKCLKI+awMy8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -289,7 +289,7 @@
       "url": "pets\/index.html"
     },
     {
-      "hash": "sha256-nYu053Y8ju6ptViLlLXs8ZQ8dW6WBICtx5UmV2xtRtY=",
+      "hash": "sha256-SoWSujsL7EUboQkvNFVPVRMcGnbEin0BBJQC7gIrIK8=",
       "url": "pets\/basics\/index.html"
     },
     {
@@ -301,7 +301,7 @@
       "url": "pets\/basics\/statistics\/index.html"
     },
     {
-      "hash": "sha256-hWYSWgX+zfcRtieTTY34Ai4DaWR7ifaeLB2bqZU922s=",
+      "hash": "sha256-VDHg4cckynOlaLOR6x+VGHMXwSdPlkFieaqH53z\/gRc=",
       "url": "pets\/basics\/jewels\/index.html"
     },
     {
@@ -317,5 +317,5 @@
       "url": "monstrology\/index.html"
     }
   ],
-  "version": "NGjEwrLd"
+  "version": "vxaBC+aS"
 };
