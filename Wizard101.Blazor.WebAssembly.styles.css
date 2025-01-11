@@ -1,1 +1,26 @@
 /* /ArticleLayout.razor.rz.scp.css */
+/* /Pages/Categories/Pets/Catalogue/Catalogue.razor.rz.scp.css */
+.pet[b-8kuan99scd]
+{
+    border: 2px solid #ffd800;
+    padding: 20px;
+    margin: 20px;
+}
+
+.pet-info[b-8kuan99scd]
+{
+
+}
+
+.pet-screenshots[b-8kuan99scd], .pet-info[b-8kuan99scd]
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.pet-screenshot[b-8kuan99scd]
+{
+
+    width: 50%;
+}
