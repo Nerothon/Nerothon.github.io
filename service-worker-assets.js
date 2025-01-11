@@ -13,7 +13,7 @@
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-IBlUjfnlqh3drmokVqOo6p5gnvPDitUjhp5MewuQFsU=",
+      "hash": "sha256-mKsCDDgEuka0TNjSeZympGeNuKfHakgJFtrV5UxSA1E=",
       "url": "404.html"
     },
     {
@@ -273,7 +273,7 @@
       "url": "images\/icons\/Will.png"
     },
     {
-      "hash": "sha256-bh18D3zHaS+h4Jg6a1kmLzWJZS38jHeuddNznGKrptc=",
+      "hash": "sha256-6BXjq0AGibABIdZSoGng6L5HTuHVFmTkLV0FLB8j0as=",
       "url": "index.html"
     },
     {
@@ -285,37 +285,37 @@
       "url": "spellbook.png"
     },
     {
-      "hash": "sha256-DLyxW4csSaef4y9\/RCgVyS5cg02npRAF68yx91gTDyE=",
+      "hash": "sha256-94GBYRhGWt+Za4FtZJgTVq3Tfp3zYdvQYi4u5ry0WC8=",
       "url": "pets\/index.html"
     },
     {
-      "hash": "sha256-spgZAo6a249r87aTqAkR5y3RCZYxW0iODJzQ9tPNvgE=",
+      "hash": "sha256-jDhPtKlp146d2HYgQCwQV6KU1nfzQOlJWEz9xHZ+\/VE=",
       "url": "pets\/basics\/index.html"
     },
     {
-      "hash": "sha256-JBf1UROmpv8druTv0C+KtCOtKVK5l\/PhyN+I+ILS0uY=",
+      "hash": "sha256-vOGL7tiCZa+sJOfRSQ9nlmET6KHtgowFd05KLHyhOEY=",
       "url": "pets\/basics\/pedigree\/index.html"
     },
     {
-      "hash": "sha256-IKvibNlZpqZOUU\/b6bJzOc752ut2HeQF3SvtX3CEAPo=",
+      "hash": "sha256-0h2Rs6Tfue\/YghQxgnVgOBcEXSM5Ekw7qNwmFos\/bJY=",
       "url": "pets\/basics\/statistics\/index.html"
     },
     {
-      "hash": "sha256-RQn\/iQvUl584tjim\/iarMYc69ZAJduQphUEd3dHgRWQ=",
+      "hash": "sha256-Rcs0Yp\/MJmyYrmB380w0JdUItZ4iRvZXcjtPND8K6MI=",
       "url": "pets\/basics\/jewels\/index.html"
     },
     {
-      "hash": "sha256-t3vKN6EqAjDBYPQx31HSnriDaDpjZtp86qiTWWjg+Qg=",
+      "hash": "sha256-9OhV9vkywh9UlsEWoVxOjGUbllRFvTZGHUiBv03VvKk=",
       "url": "gardening\/index.html"
     },
     {
-      "hash": "sha256-t3vKN6EqAjDBYPQx31HSnriDaDpjZtp86qiTWWjg+Qg=",
+      "hash": "sha256-9OhV9vkywh9UlsEWoVxOjGUbllRFvTZGHUiBv03VvKk=",
       "url": "deckathlon\/index.html"
     },
     {
-      "hash": "sha256-t3vKN6EqAjDBYPQx31HSnriDaDpjZtp86qiTWWjg+Qg=",
+      "hash": "sha256-9OhV9vkywh9UlsEWoVxOjGUbllRFvTZGHUiBv03VvKk=",
       "url": "monstrology\/index.html"
     }
   ],
-  "version": "n3TETp+p"
+  "version": "BEFUpWIV"
 };
