@@ -13,7 +13,7 @@
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-SK29kLj0yQPu329Vo4L2iz9yejsjwmLIExOXBUkt1hM=",
+      "hash": "sha256-DFcaSiaZ4fQB49mNWdPkCgyqliUwLP0ppE7dWt7ucaE=",
       "url": "404.html"
     },
     {
@@ -273,7 +273,7 @@
       "url": "images\/icons\/Will.png"
     },
     {
-      "hash": "sha256-60MrM9Coy+zIlmhb\/CoaG4AOibCavgYbuGbTrCordo8=",
+      "hash": "sha256-PXa3WLxTMcLwbwM++kHv4nl52x55JKY3XON+9keD8pE=",
       "url": "index.html"
     },
     {
@@ -285,37 +285,37 @@
       "url": "spellbook.png"
     },
     {
-      "hash": "sha256-vAF+\/8O2zTVhP0CIvmbhxrEpUH1I+r2ONQFpyO6AfA4=",
+      "hash": "sha256-InzWtC8oE7c8Aa1K+OaVv9N\/miAro2GkthKD1yRBg9c=",
       "url": "pets\/index.html"
     },
     {
-      "hash": "sha256-SoWSujsL7EUboQkvNFVPVRMcGnbEin0BBJQC7gIrIK8=",
+      "hash": "sha256-m7y+cZ309wecA3x03Qa9cdC4tJfRYhhivYZmVWzDJJs=",
       "url": "pets\/basics\/index.html"
     },
     {
-      "hash": "sha256-LU4P4J2gY9lmakFVSIcy3El07wmKn2hyeDpw5qpLFQ4=",
+      "hash": "sha256-jvFGO1bns6BIkHcvrCFQKvQXZjuHJDahjx4G+4LeOOw=",
       "url": "pets\/basics\/pedigree\/index.html"
     },
     {
-      "hash": "sha256-PJeCrZRy72DYyKJvhi+2J\/l6FdCGvKOVHgfxxJ8r\/ME=",
+      "hash": "sha256-TT7uXj7I\/CbiCPE2Suf08ihMCuG5P3lVYUrx+Ugb4GE=",
       "url": "pets\/basics\/statistics\/index.html"
     },
     {
-      "hash": "sha256-VDHg4cckynOlaLOR6x+VGHMXwSdPlkFieaqH53z\/gRc=",
+      "hash": "sha256-WyQLYwKJ4rWKytmmBaJILTyEuEBs4X7J7h9pyqMdzU8=",
       "url": "pets\/basics\/jewels\/index.html"
     },
     {
-      "hash": "sha256-a6MdC65dLl30gEzpakYvgZLPlBACZlbswZj\/kV2x+HE=",
+      "hash": "sha256-hunLXIqvBxJw1tfs77TzePc93ycCb9p\/AB8\/cXAPzn4=",
       "url": "gardening\/index.html"
     },
     {
-      "hash": "sha256-a6MdC65dLl30gEzpakYvgZLPlBACZlbswZj\/kV2x+HE=",
+      "hash": "sha256-hunLXIqvBxJw1tfs77TzePc93ycCb9p\/AB8\/cXAPzn4=",
       "url": "deckathlon\/index.html"
     },
     {
-      "hash": "sha256-a6MdC65dLl30gEzpakYvgZLPlBACZlbswZj\/kV2x+HE=",
+      "hash": "sha256-hunLXIqvBxJw1tfs77TzePc93ycCb9p\/AB8\/cXAPzn4=",
       "url": "monstrology\/index.html"
     }
   ],
-  "version": "vxaBC+aS"
+  "version": "XsDUCZCi"
 };
