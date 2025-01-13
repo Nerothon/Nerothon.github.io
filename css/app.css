@@ -4,27 +4,33 @@
     src: url('../fonts/Wizard Fancy.ttf') format('truetype');
 }
 
-body
+:root
 {
-    background-color: #161616;
-    color: white;
-    font-family:'Comic Sans MS';
-    padding: 20px 40px;
+    --color-accent-normal: #ffff00;
+    --color-background-normal: #161616;
+    --color-text-normal: white;
+    --color-text-header: var(--color-accent-normal);
+    --font-family-normal: 'Comic Sans MS';
+    --font-family-header: 'Wizard Fancy';
 }
 
-#LoadingText
+html
 {
-    position: fixed; /* or absolute */
-    top: 50%;
-    left: 50%;
-    /* bring your own prefixes */
-    transform: translate(-50%, -50%);
+    scroll-behavior: smooth;
+}
+
+body
+{
+    background-color: var(--color-background-normal);
+    color: var(--color-text-normal);
+    font-family: var(--font-family-normal);
+    padding: 0px 10px;
 }
 
 h1, h2, h3, h4, h5, h6
 {
-    font-family: 'Wizard Fancy';
-    color: #ffff00;
+    font-family: var(--font-family-header);
+    color: var(--color-accent-normal);
 }
 
 h1, h2
@@ -32,22 +38,44 @@ h1, h2
     text-align: center;
 }
 
-h1 > img{
-    margin: 0 10px 0 0;
-    height: 100%;
-
+h3
+{
+    margin-top: 0px;
 }
 
+section:has(h3:target)
+{
+    background: rgba(255, 255, 0, 0.20);
+}
+
+h1 > img
+{
+}
+
+section{
+    padding: 10px;
+}
+
+section + section
+{
+    margin-top: 30px;
+}
+
+.section-content
+{
+    padding: 20px;
+    border: 2px solid var(--color-accent-normal);
+}
 /* unvisited link */
 a:link
 {
-    color: #ffff00;
+    color: var(--color-accent-normal);
 }
 
 /* visited link */
 a:visited
 {
-    color: #ffff00;
+    color: var(--color-accent-normal);
 }
 
 /* mouse over link */
@@ -62,6 +90,17 @@ a:active
     
 }
 
+iframe
+{
+    width: 100%;
+    height: 100vh;
+}
+
+code{
+    padding: 2px 5px;
+    background-color: rgba(255, 255, 0, 0.20);
+}
+
 .wrap
 {
     white-space: pre-line;
@@ -70,6 +109,15 @@ a:active
 h1:focus
 {
     outline: none;
+}
+
+
+#LoadingText
+{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 #blazor-error-ui {
