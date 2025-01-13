@@ -55,9 +55,42 @@
 
 <section><h3 id="spell-card">Spell Card giving talents</h3></section>
 
-<section><h3 id="may-cast">May-Cast talents</h3></section>
+<section><h3 id="may-cast">May-Cast/MC talents</h3></section>
 
-<section><h3 id="will-cast">Will-Cast talents</h3></section></main>
+<section><h3 id="active">Active/Locked talents</h3>
+    <div>
+        Active talents are special talents that can be, well, activated on command. While other talents are passive and work without your intervention, active talents require you to activate them to use their effect.
+        <br>There are 2 types of Active talents - Adventure talents and Combat talents.
+        <br>Every active talent has a <a href="/pets/guides/statistics#happiness">Happiness</a> cost associated with it. Every time you use an active talent, it will cost your pet some <a href="/pets/guides/statistics#happiness">Happiness</a>. You can't use an active talent if the pet doesn't have enough Happiness.
+        <br>Every active talent has a cooldown associated with it. Every time you use an active talent it will go on cooldown. You will have to wait for it to cooldown i norder to be able to use another active ability again.
+        <br>All active talents start of locked. When you manifest them for the first time, you have to unlock them first with Tokens if you want to use them. Once you unlock it, it will stay unlocked on all <b>YOUR</b> offsprings of that pet. So if that pet is the parent of your next pet, the offsping will have it unlocked. This is only true for your pets/offsprings. If another player hatches with that pet, unless their pet has the talent unlocked, they will receive offspring with the talent locked, just how you originally gor it first time.
+    </div>
+
+    <h4 id="adventure">Tokens</h4>
+    <div>
+        There are 4 Ranks of tokens:
+        <ul><li>Rank 1 - <a href="https://wiki.wizard101central.com/wiki/Reagent:Talent_Token">Talent Token</a> - generic token that is used in unlocking process of all active talents</li>
+            <li>
+                Rank 2 - Triad Tokens:
+                <ul><li><a href="https://wiki.wizard101central.com/wiki/Reagent:Elemental_Token">Elemental Token</a></li>
+                    <li><a href="https://wiki.wizard101central.com/wiki/Reagent:Spirit_Token">Spirit Token</a></li>
+                    <li><a href="https://wiki.wizard101central.com/wiki/Reagent:Harmonious_Token">Harmonious Token</a></li></ul></li>
+            <li>
+                Rank 3 - School Tokens - one for each school:
+                <ul><li><a href="https://wiki.wizard101central.com/wiki/Reagent:Balance_Token">Balance Token</a></li>
+                    <li><a href="https://wiki.wizard101central.com/wiki/Reagent:Death_Token">Death Token</a></li>
+                    <li><a href="https://wiki.wizard101central.com/wiki/Reagent:Fire_Token">Fire Token</a></li>
+                    <li><a href="https://wiki.wizard101central.com/wiki/Reagent:Ice_Token">Ice Token</a></li>
+                    <li><a href="https://wiki.wizard101central.com/wiki/Reagent:Life_Token">Life Token</a></li>
+                    <li><a href="https://wiki.wizard101central.com/wiki/Reagent:Myth_Token">Myth Token</a></li>
+                    <li><a href="https://wiki.wizard101central.com/wiki/Reagent:Storm_Token">Storm Token</a></li></ul></li>
+            <li>Rank 4 - Spell Tokens - these are tokens for specific spells, for example <a href="https://wiki.wizard101central.com/wiki/Reagent:Hydra_Token">Hydra Token</a></li></ul></div>
+
+    <h4 id="adventure">Adventure talents</h4>
+    <div></div>
+
+    <h4 id="combat">Combat/Will-Cast/WC talents</h4>
+    <div></div></section></main>
         <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
 
 </div>
@@ -70,7 +103,7 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
-    <script>navigator.serviceWorker.register('service-worker.js');</script>
+    <script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>
     <environment names="Development">
         <script src="_framework/aspnetcore-browser-refresh.js"></script>
     </environment>
