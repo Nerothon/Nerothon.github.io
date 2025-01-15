@@ -365,15 +365,15 @@
       "url": "_framework\/Tesseract.mapevgy94t.wasm"
     },
     {
-      "hash": "sha256-K5xlZfesrSkjw9q8g59RbwBy7buxliWMJC0RHvmEAUQ=",
-      "url": "_framework\/Wizard101.Blazor.WebAssembly.j6oniox462.wasm"
+      "hash": "sha256-awGCXNR2XODfjjoN0yMmtUYZk2t5MmuvjiKIYBeNKNE=",
+      "url": "_framework\/Wizard101.Blazor.WebAssembly.t2nb11zhw0.wasm"
     },
     {
-      "hash": "sha256-O+uaZ7UJymbNA\/35UP0HxirNB3pHA83kk+RNq4jieA8=",
-      "url": "_framework\/Wizard101.Library.tevz3qs5p1.wasm"
+      "hash": "sha256-9IKanbKX5xgUJ7MdFtjcuUvB3\/SgDcjaf+lDY6GsOVQ=",
+      "url": "_framework\/Wizard101.Library.whngsjahmm.wasm"
     },
     {
-      "hash": "sha256-NSUp3tN4nDDmlbNNTIQnEzx2lM3hMebVcjlLDGgOTwM=",
+      "hash": "sha256-0AtOeGa56drnqm7ZnjiODBVkscKrBGf\/Q8SExyy6nl8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -5337,8 +5337,4704 @@
       "url": "pets\/database\/index.html"
     },
     {
-      "hash": "sha256-HcwPk4JMZzd2p5zemaB8iGVK+SI1+DFof6jC\/cgafwM=",
+      "hash": "sha256-OIR3dTuUQCTWRXzBKENfcLgQfn7wPlBqPlbmonBhsZI=",
       "url": "pets\/database\/pets\/index.html"
+    },
+    {
+      "hash": "sha256-5xTrtznmumPhh5jRXK2ebvmsmEkvnZYVi1SWRxKRrhw=",
+      "url": "pets\/database\/pet\/AardwolfGhost\/index.html"
+    },
+    {
+      "hash": "sha256-vBe33BO8Tg\/aVZp6E3i3s3Sex58aCPYTANdruUPb\/bg=",
+      "url": "pets\/database\/pet\/AbleRacoon\/index.html"
+    },
+    {
+      "hash": "sha256-xEl79Sck0xwhEVCsqWEdA32W9zH7qkLUkFIhpzkwdnc=",
+      "url": "pets\/database\/pet\/AcidRainCore\/index.html"
+    },
+    {
+      "hash": "sha256-1\/Y+wwQo3QJmD0t8iPgxPY0hBXyXhs0ZJWUGgAofRSc=",
+      "url": "pets\/database\/pet\/AdventurousRacoon\/index.html"
+    },
+    {
+      "hash": "sha256-X9SkoHAR93YBvBkY2nUoyI0hkEF0l8ssHEH+WkTa9mw=",
+      "url": "pets\/database\/pet\/AfflictedTreant\/index.html"
+    },
+    {
+      "hash": "sha256-XVvvGwAfn\/UeRFNIpdS5LjQFhPnxV+xsv4w0KzCUGnA=",
+      "url": "pets\/database\/pet\/AlertHound\/index.html"
+    },
+    {
+      "hash": "sha256-6+jQHt+P3ByEGpUdINkLOpfjiQbx2ieWS52f41I8sdM=",
+      "url": "pets\/database\/pet\/AlienPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-Fl+3dKY00LLAxYu2vL1PRTng2tXacBcJr7kYW8jwEdE=",
+      "url": "pets\/database\/pet\/AmaranthineHound\/index.html"
+    },
+    {
+      "hash": "sha256-\/H2ftm3CUGb\/W4oDOFfq0kWWiDRbmATh3YdEeNb1CVA=",
+      "url": "pets\/database\/pet\/AmberShenlongDragon\/index.html"
+    },
+    {
+      "hash": "sha256-5Cf+aTLG7uALwqCpDAZwC8u1S4Qs\/BWb512Bd\/Pfb1g=",
+      "url": "pets\/database\/pet\/AmethystHound\/index.html"
+    },
+    {
+      "hash": "sha256-EsgatrVHtZ70tpY6sICgRuEsX\/k8vZ9aUj\/Jy3LdMlY=",
+      "url": "pets\/database\/pet\/ApophisScarab\/index.html"
+    },
+    {
+      "hash": "sha256-cMF17OdQmACGN9QmtH1+2Cc0b7WAPCsJAoKN8F8m8QI=",
+      "url": "pets\/database\/pet\/AquaDragon\/index.html"
+    },
+    {
+      "hash": "sha256-+OiUrRgmr0hiS8fp918ra0\/+Wqe215fC8aS4XjQI0\/M=",
+      "url": "pets\/database\/pet\/ArcaneGolem\/index.html"
+    },
+    {
+      "hash": "sha256-eRsAbejKlQ5xMgxzB91MlNlPbUSm5lfdmhyOdhV\/t8g=",
+      "url": "pets\/database\/pet\/ArcaneHelpers\/index.html"
+    },
+    {
+      "hash": "sha256-G+398nWztGPyqJfr3CTJBWKyRJ7UeBa8K2Mg5le6Or8=",
+      "url": "pets\/database\/pet\/Archfiend\/index.html"
+    },
+    {
+      "hash": "sha256-MM9TTFCi7CWyBTFg2iAL8LhE3oAh7CtVQwuqr0oMTF4=",
+      "url": "pets\/database\/pet\/ArcticCat\/index.html"
+    },
+    {
+      "hash": "sha256-s1vhbiS1lTV7LgDMsyf+M2VXv8CY4KWRWrFohUpAr\/g=",
+      "url": "pets\/database\/pet\/ArcticElf\/index.html"
+    },
+    {
+      "hash": "sha256-DreqzXSqIEH1ZDV9P74cFW+xreTCuUVF8BuWCpidvws=",
+      "url": "pets\/database\/pet\/ArcticNinjaPig\/index.html"
+    },
+    {
+      "hash": "sha256-P8DhsEAO4X1E6Ks7QKpriTmYA+MkdPZMbxu7Do\/1SnM=",
+      "url": "pets\/database\/pet\/ArcticOctopus\/index.html"
+    },
+    {
+      "hash": "sha256-EZK+zd7SYohLWY0pILgF+slfBrSV5eUltwUW7+J+PAA=",
+      "url": "pets\/database\/pet\/ArcticSerpent\/index.html"
+    },
+    {
+      "hash": "sha256-LNnCTeSGD1gEDhd8O98sva1HlysgpM6xvfDbmBrS6m4=",
+      "url": "pets\/database\/pet\/ArcticTriton\/index.html"
+    },
+    {
+      "hash": "sha256-4OGovoZRWG2CibJ1XxxSt+oJFS9OL5NBimDgUeiGY8Y=",
+      "url": "pets\/database\/pet\/ArmorDragon\/index.html"
+    },
+    {
+      "hash": "sha256-s\/FvApHstfnhjd7eV965ci7gTC04ILh0AosZpHcXOBE=",
+      "url": "pets\/database\/pet\/Armordillo\/index.html"
+    },
+    {
+      "hash": "sha256-T4h06mI+yB6bXW7kc7EmMjIOgEb7bF9bhl6SfAH9bFs=",
+      "url": "pets\/database\/pet\/ArmoredSkeleton\/index.html"
+    },
+    {
+      "hash": "sha256-G4RtOhCbts91nVF9IFbsNYiDHG+ZJkFZxTzuv+1NxEI=",
+      "url": "pets\/database\/pet\/AshQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-9OeNh2SIokTQee3hk2HM9dp5u0OlMPDm\/nXME8Oef1w=",
+      "url": "pets\/database\/pet\/AshSpider\/index.html"
+    },
+    {
+      "hash": "sha256-ZN8e52bF4jPFaR3J2vyYYuManFjG3lVKbNUEHBiKs2Q=",
+      "url": "pets\/database\/pet\/AssailingDragon\/index.html"
+    },
+    {
+      "hash": "sha256-OXU\/sonoYRTu\/a9gTAA3aJFQvnpWxXb0t86\/0nj\/eLk=",
+      "url": "pets\/database\/pet\/AstralJudge\/index.html"
+    },
+    {
+      "hash": "sha256-1h8h702UZNgtAPqm5+pYArLk7hrorP87+KtbDhn4mKg=",
+      "url": "pets\/database\/pet\/AstromancersRat\/index.html"
+    },
+    {
+      "hash": "sha256-tw2RYYWMPoPBJMkOs1jqAo4hUQEB+LGlg2NF3cjQr90=",
+      "url": "pets\/database\/pet\/AttentiveHound\/index.html"
+    },
+    {
+      "hash": "sha256-zZGmhb1GCUWbrPcKnKQxBOkioXx5rPSbS8QMSU6fpmQ=",
+      "url": "pets\/database\/pet\/AuspiciousDragon\/index.html"
+    },
+    {
+      "hash": "sha256-5lMuWXCO75qlDNtEkVdDhLTfqEnVEJCZcN0V6LiC5qY=",
+      "url": "pets\/database\/pet\/AuspiciousOx\/index.html"
+    },
+    {
+      "hash": "sha256-OZCqNcXWU34f3RlLlHXWBAkOybR6eypDb97R8jb2aBg=",
+      "url": "pets\/database\/pet\/AuspiciousRabbit\/index.html"
+    },
+    {
+      "hash": "sha256-G0asieAK7rvERo92z5tlJPAL25qIe6WLPay5cnTCn5s=",
+      "url": "pets\/database\/pet\/AuspiciousTiger\/index.html"
+    },
+    {
+      "hash": "sha256-2y0ZoEtax4xVflhPUcTkPZ5qmjK\/NVjUrd8J1R6pUvQ=",
+      "url": "pets\/database\/pet\/AutumnalTreant\/index.html"
+    },
+    {
+      "hash": "sha256-GpGizIYs5V192YlyCz12\/cWlp0qROgaXfK7g57vWQbg=",
+      "url": "pets\/database\/pet\/AvengingFossil\/index.html"
+    },
+    {
+      "hash": "sha256-reW0EhOhVyDkpK6AurV4y\/2Gq7tcQ5EJ7H\/X8mQ7r0k=",
+      "url": "pets\/database\/pet\/AzureDragon\/index.html"
+    },
+    {
+      "hash": "sha256-skVgS3h3us9TEpPu9YWMSQMkdT3PSAXTzIlFDufiQ5E=",
+      "url": "pets\/database\/pet\/BabaYagasEgg\/index.html"
+    },
+    {
+      "hash": "sha256-ex4xZ+Z4xu+o\/XqrO9kdEX74SSGD2f45D67Vq+JWOnM=",
+      "url": "pets\/database\/pet\/Babydactyl\/index.html"
+    },
+    {
+      "hash": "sha256-dqsnUt79iE6qN\/1xFKbBzlfRsPJnSXunm6AvsHDxTRA=",
+      "url": "pets\/database\/pet\/BalanceArmaments\/index.html"
+    },
+    {
+      "hash": "sha256-6N9IV1Xp\/ubGvKl6aHBmIFwmaMBFXyIxgHSOcet1DJE=",
+      "url": "pets\/database\/pet\/BalanceClassPet\/index.html"
+    },
+    {
+      "hash": "sha256-yZYcB1S5+mv0EktPo18U80DJiEr7REMpv5Qp2FZNrmo=",
+      "url": "pets\/database\/pet\/BalanceHamster\/index.html"
+    },
+    {
+      "hash": "sha256-Gv+1sN3ruFkYRTb\/uv7ZnMDIrep2I6n+5+z6XH3HREQ=",
+      "url": "pets\/database\/pet\/BalanceWartle\/index.html"
+    },
+    {
+      "hash": "sha256-Uky0UA6i+pZU2X0d9rrB0x0b4CbixbPIYULZ9KoVRhY=",
+      "url": "pets\/database\/pet\/BalanceishFrog\/index.html"
+    },
+    {
+      "hash": "sha256-DJiZUmlgbk6R7tGrvnakWSK6IlwWQ3aPkeFY6zTmjwo=",
+      "url": "pets\/database\/pet\/BalancedGlowbug\/index.html"
+    },
+    {
+      "hash": "sha256-Sr7KKeFzlzRNTosV5GV8SpwD3xA7gXVKKuxkyLHDPh4=",
+      "url": "pets\/database\/pet\/BananaSpider\/index.html"
+    },
+    {
+      "hash": "sha256-+irA6FRLudbEDZHh84qchjmoenQyr4wYosFh4G8+C3I=",
+      "url": "pets\/database\/pet\/BarkervilleHound\/index.html"
+    },
+    {
+      "hash": "sha256-d6jyjXy7zuAGExPzUTqp6uMVXZHZ6D2M9t7v4f5Fq6Q=",
+      "url": "pets\/database\/pet\/Basilisk\/index.html"
+    },
+    {
+      "hash": "sha256-phu2Tep1CTrsH9hZjQdkiFhp+aRL5sr3R9eYEeRUshY=",
+      "url": "pets\/database\/pet\/BattleCherub\/index.html"
+    },
+    {
+      "hash": "sha256-D5L3qAYdUSYZ0vuN47qljkscQynDOyBiRN6XF5JAPbs=",
+      "url": "pets\/database\/pet\/BattlePig\/index.html"
+    },
+    {
+      "hash": "sha256-zoRcXpJ2jTFwYzn7MqdgHSXZ+ddl6wQiEQmEpb06IWU=",
+      "url": "pets\/database\/pet\/Beastling\/index.html"
+    },
+    {
+      "hash": "sha256-vcdAekZqmCiAntsvyVlc3z7NKw184rqyJjgK5kGiMWE=",
+      "url": "pets\/database\/pet\/BeastmastersEagle\/index.html"
+    },
+    {
+      "hash": "sha256-awIR7FUrPYa0pYMc5wtnfUxN8wG8Oo2NGpMPpdBXnU0=",
+      "url": "pets\/database\/pet\/BeauFrog\/index.html"
+    },
+    {
+      "hash": "sha256-di0YExgZMiEf4C7ilwtDmjwhspPQN4t599PJzBvoI0I=",
+      "url": "pets\/database\/pet\/BeguiledGargoyle\/index.html"
+    },
+    {
+      "hash": "sha256-K3l82F78Xjg0+AvFRUQyFTvTTTO5EmrGud+y2kjVmng=",
+      "url": "pets\/database\/pet\/BettaFish\/index.html"
+    },
+    {
+      "hash": "sha256-4w+pU5cvlJcxYuoyKd7r3zAFkge9iCwKEF9CZV7JVj4=",
+      "url": "pets\/database\/pet\/BigChill\/index.html"
+    },
+    {
+      "hash": "sha256-bK0pV6hBsd5MUqWJPRvZNH8br+u\/IYRFEXHzibcTD2U=",
+      "url": "pets\/database\/pet\/BitterDraconian\/index.html"
+    },
+    {
+      "hash": "sha256-W6nRTHS9tQpJvsU1Fq8EviV1tuHVjvA9T6kXwY8k410=",
+      "url": "pets\/database\/pet\/BlackCat\/index.html"
+    },
+    {
+      "hash": "sha256-1yeG\/b3oNTQI+YMsEU78cFfbwVTN1L247yXtsri5B4k=",
+      "url": "pets\/database\/pet\/BlackSpider\/index.html"
+    },
+    {
+      "hash": "sha256-1dUXT2awGeXs3zdOatgIF0JwuvVmo6iCA+tyV9HjVew=",
+      "url": "pets\/database\/pet\/BlastColossus\/index.html"
+    },
+    {
+      "hash": "sha256-WbEzciJF\/liFxs6+UaeeMi+8iv18jUuu0II1s0J7C2Y=",
+      "url": "pets\/database\/pet\/BlazeBeast\/index.html"
+    },
+    {
+      "hash": "sha256-V6oNFu2CVR52aUSkk4HR5nsJaNpNZYdXSGX666Y0lEY=",
+      "url": "pets\/database\/pet\/BlazeFox\/index.html"
+    },
+    {
+      "hash": "sha256-EimqpJjpUUaR41+0WK0ux11rYXo+SLuMMrs0Yg9l78k=",
+      "url": "pets\/database\/pet\/Blazezilla\/index.html"
+    },
+    {
+      "hash": "sha256-rHFv1yrFgMQItujxR67+l3+QKcj2Q5556VqLJlnkOL0=",
+      "url": "pets\/database\/pet\/BlazingOctopus\/index.html"
+    },
+    {
+      "hash": "sha256-vyBhoFFR540oko3B2kTnRh7szr\/\/MDL2BQf\/b7f6RV4=",
+      "url": "pets\/database\/pet\/BlightedTreant\/index.html"
+    },
+    {
+      "hash": "sha256-SKaeqvI3zP40zGJjO6WbfjS2ILTUUvPhJwwhPjr5iZg=",
+      "url": "pets\/database\/pet\/BlimpAlly\/index.html"
+    },
+    {
+      "hash": "sha256-XQxFlfR02f\/V0hH9oPIxZVhT\/t0BDBcY6+RcXE4SuK4=",
+      "url": "pets\/database\/pet\/BlimpBuddy\/index.html"
+    },
+    {
+      "hash": "sha256-yaa3\/S23ygkLvVNYH18g1g4q4zpdI1JdDAanAT3hOq0=",
+      "url": "pets\/database\/pet\/BlimpChum\/index.html"
+    },
+    {
+      "hash": "sha256-DEMoz3XLKe3EtVrb\/ZXtXxdypFf0l4qNF8q0KXnAtK0=",
+      "url": "pets\/database\/pet\/BlimpCompanion\/index.html"
+    },
+    {
+      "hash": "sha256-svIAHyy3cmof5PvXhciH3MKurMBLojX2QbvEOl3q2Y0=",
+      "url": "pets\/database\/pet\/BlimpFriend\/index.html"
+    },
+    {
+      "hash": "sha256-hjMZ6ZMguNPj1fNSPt+3fNrDHD0Egzt24EcYqJwDCgI=",
+      "url": "pets\/database\/pet\/BlimpPal\/index.html"
+    },
+    {
+      "hash": "sha256-FVBGkrpYMVEkOCSCj4k+kaAEc+S9KHlEiM2JhyKly+c=",
+      "url": "pets\/database\/pet\/BlimpSidekick\/index.html"
+    },
+    {
+      "hash": "sha256-phlVs2MRKSpcP+34oKmVWZIM\/iu\/W2bX5pBVAC1wLFs=",
+      "url": "pets\/database\/pet\/BlizzardCat\/index.html"
+    },
+    {
+      "hash": "sha256-exxKvCT564UgFi\/1AaOfLAZAHxgRvBKWaQTM\/s3Yklg=",
+      "url": "pets\/database\/pet\/BlizzardElf\/index.html"
+    },
+    {
+      "hash": "sha256-D7pSOJ0gYPOUXuvH4CVEYwfgCtD+EAwrvv1USauNNI4=",
+      "url": "pets\/database\/pet\/BlizzardEye\/index.html"
+    },
+    {
+      "hash": "sha256-yRHDxPcf3JsoXEDbtwbtT9XEmD5E58ZUgRFH0VX7hgA=",
+      "url": "pets\/database\/pet\/BloodHound\/index.html"
+    },
+    {
+      "hash": "sha256-OVESbXVIXKK224DAg6QnCh7wrYGZqHLIn9BW20Ra\/mo=",
+      "url": "pets\/database\/pet\/Bloodbat\/index.html"
+    },
+    {
+      "hash": "sha256-2LWA8Bktkb9SNpmtocCSPF9ON\/ngJ2ywXPAUITu5228=",
+      "url": "pets\/database\/pet\/Bloodwing\/index.html"
+    },
+    {
+      "hash": "sha256-PZoS+XZV7hIT+Dk67vsFJnNLDDjrg0MHABLfqqrO+j8=",
+      "url": "pets\/database\/pet\/BlossomPixie\/index.html"
+    },
+    {
+      "hash": "sha256-RgkeA8bbvS3K2ULGiXHMvQfbR0uu\/T7ypq6OFlAU190=",
+      "url": "pets\/database\/pet\/BlueBanshee\/index.html"
+    },
+    {
+      "hash": "sha256-bpbM8y6Ogu\/Wb3bF9Pz00VDmNYT60t7I9aCw7pGqqeA=",
+      "url": "pets\/database\/pet\/BlueCatThug\/index.html"
+    },
+    {
+      "hash": "sha256-FOViGJLKnCRVS9a3o\/AJkey1oVspyS22R1bEpUwW02Q=",
+      "url": "pets\/database\/pet\/BlueCyclops\/index.html"
+    },
+    {
+      "hash": "sha256-Ixa8FgPfCUrv7we0lKDC1Dbkc7639aX6MYfqEdzg36s=",
+      "url": "pets\/database\/pet\/BlueDragon\/index.html"
+    },
+    {
+      "hash": "sha256-g+iRrLEsXIQ5rcDgtxonK8NjzhO\/bWHtibB0ho1xiQY=",
+      "url": "pets\/database\/pet\/BlueGhost\/index.html"
+    },
+    {
+      "hash": "sha256-jOW9PaGnomEBkhefuij7YL5Yk9urAmNJJke\/yiBJ5Bc=",
+      "url": "pets\/database\/pet\/BlueGlobulin\/index.html"
+    },
+    {
+      "hash": "sha256-ye2w4hrW5aW+g9IThn79+mA5T3Mr7NhSeGOo7xdTIFI=",
+      "url": "pets\/database\/pet\/BlueSpider\/index.html"
+    },
+    {
+      "hash": "sha256-59QaxZywB4i9wsKSj+AFL1MWTX7wv14iuvch6r\/ggBc=",
+      "url": "pets\/database\/pet\/BlusteringScamp\/index.html"
+    },
+    {
+      "hash": "sha256-g4\/RuEASFvLjgjKkuCkq6RNY4ODMAEL+N5GESfHxNUE=",
+      "url": "pets\/database\/pet\/BoarKnight\/index.html"
+    },
+    {
+      "hash": "sha256-kMVZegeVUR2zPPYxVa0w4Au+g6LUECGSKM1\/Q4iWoYM=",
+      "url": "pets\/database\/pet\/BoilerGolem\/index.html"
+    },
+    {
+      "hash": "sha256-3e7gVS8wC76LKsbpABifapJL5dT0A2TgB3IkugQpcAo=",
+      "url": "pets\/database\/pet\/BoldDragon\/index.html"
+    },
+    {
+      "hash": "sha256-okXbBnXJIATW0mYVukCI1H5+ea8so+langPvvYiuL6M=",
+      "url": "pets\/database\/pet\/BoltColossus\/index.html"
+    },
+    {
+      "hash": "sha256-E0w0O5\/3lUItqCC1QAPUTfA0BkNKiP23TLbFKyTJ8\/4=",
+      "url": "pets\/database\/pet\/BoltDemon\/index.html"
+    },
+    {
+      "hash": "sha256-iKyszWU0Pi6tS\/5ziEYMRt\/1CLafn3u8MC4II79ylI4=",
+      "url": "pets\/database\/pet\/BoneDragon\/index.html"
+    },
+    {
+      "hash": "sha256-myplrK19TI2lWQDWTbFflseO5k91MO6shWTvc4IXZBY=",
+      "url": "pets\/database\/pet\/Bonechiller\/index.html"
+    },
+    {
+      "hash": "sha256-9gjj8UM+PmrOyQStOZED98nH\/BGrTBfphmwDQ\/2bNQw=",
+      "url": "pets\/database\/pet\/Booloon\/index.html"
+    },
+    {
+      "hash": "sha256-7VzhWZjKk49oqR+tWCbZXw1GCGWUcC+E9Wa7AcrpkRg=",
+      "url": "pets\/database\/pet\/BorealisGolem\/index.html"
+    },
+    {
+      "hash": "sha256-LoLhD+S1UV5goDMoetEhgaUBoDcxxOuDyOZ8B2C5\/G4=",
+      "url": "pets\/database\/pet\/BossBanshee\/index.html"
+    },
+    {
+      "hash": "sha256-W\/yKLHmfMUEwBswjuZJtymGKPVYvzF+4oFIdMAZHMt0=",
+      "url": "pets\/database\/pet\/BoundlessKnight\/index.html"
+    },
+    {
+      "hash": "sha256-bP3QlcjBbzgeULuarsQQ0KrRXjNH6gIUG3RvfuuW38A=",
+      "url": "pets\/database\/pet\/BrainyAssistant\/index.html"
+    },
+    {
+      "hash": "sha256-eDbXo3A3wxSNwmPBkuGJm4lUVOyokzt+AztZCu1BdwA=",
+      "url": "pets\/database\/pet\/BrassGolem\/index.html"
+    },
+    {
+      "hash": "sha256-7vpqXWwD8IeWvZnXwaZbfkBs4OPgxPIXz3haoWOBL98=",
+      "url": "pets\/database\/pet\/BraveHound\/index.html"
+    },
+    {
+      "hash": "sha256-jFYeWjanUP6PxC7hFdnn\/XmsF\/E226DA7LxzCUycS0I=",
+      "url": "pets\/database\/pet\/BravePiggle\/index.html"
+    },
+    {
+      "hash": "sha256-AFIyrIXbCsPFs0g0DirdJLIl9auGNBW348nX1y3bICo=",
+      "url": "pets\/database\/pet\/BronzeGolem\/index.html"
+    },
+    {
+      "hash": "sha256-LEY6ABZlsjiRLFYbz6SgP4+D64zDkg+rClLf9bSy2g4=",
+      "url": "pets\/database\/pet\/BronzeHelephant\/index.html"
+    },
+    {
+      "hash": "sha256-atlTSbpDW9jHcCmPVgedEW82Y+94A7q4yWrVsE6d1Vw=",
+      "url": "pets\/database\/pet\/BrotherCheesiwitz\/index.html"
+    },
+    {
+      "hash": "sha256-9JDVwJPdocXJZ0t0pzc10hzBnin+haDy1bI0+OMu1S8=",
+      "url": "pets\/database\/pet\/BrownRatMagician\/index.html"
+    },
+    {
+      "hash": "sha256-1BYh5S1LD\/Fw+dlsDoZ\/Ljqz7VG86Tk+xVjZt+mjfOo=",
+      "url": "pets\/database\/pet\/BrownRecluseSpider\/index.html"
+    },
+    {
+      "hash": "sha256-zeOn5GNatpJqcB8CRGmmHdmaqSzPJWn14UZJ\/k0iIeE=",
+      "url": "pets\/database\/pet\/BrownSpider\/index.html"
+    },
+    {
+      "hash": "sha256-l5BvdU6Q5wGz4JEqvhdI521UIkepJm5Bd7uSYVl1Z60=",
+      "url": "pets\/database\/pet\/BrutalSnowblin\/index.html"
+    },
+    {
+      "hash": "sha256-AUWKz9Y6u3dg0QgiN7XhVCogPJTgctpYP7yIZfnciFY=",
+      "url": "pets\/database\/pet\/BrutePiggle\/index.html"
+    },
+    {
+      "hash": "sha256-x253qWL+wPwfMVlNbzDR08Lt+lletzhdUb9jppRs3FU=",
+      "url": "pets\/database\/pet\/BuddyBot\/index.html"
+    },
+    {
+      "hash": "sha256-jS2GNLLAXAYHnYWDYdmKnjZY8hVRqbS4E1yo9GOwcpQ=",
+      "url": "pets\/database\/pet\/BuddyDragon\/index.html"
+    },
+    {
+      "hash": "sha256-r4Kr1U81wnqPVy0+20YKOyvfwNpOgI6EMfmYQ18vcD0=",
+      "url": "pets\/database\/pet\/BumbleBee\/index.html"
+    },
+    {
+      "hash": "sha256-by2o+2ZQ66\/ZYhrGWtRlohL6FXNPUReKqkFgifTNsDE=",
+      "url": "pets\/database\/pet\/BunnyMallow\/index.html"
+    },
+    {
+      "hash": "sha256-JGltzBV1dw\/QPremOvSr06zV8HLwcMhaULDI3WFEVrA=",
+      "url": "pets\/database\/pet\/BurlapBoy\/index.html"
+    },
+    {
+      "hash": "sha256-WrN5BE9b8ZseiMBIHp\/UhWxkAHM8y+XktoHeUYnSMRc=",
+      "url": "pets\/database\/pet\/Burninator\/index.html"
+    },
+    {
+      "hash": "sha256-4LA7Z2wme4c8ekIUoeWuEZCiKETGanPHIDvplsrYRHg=",
+      "url": "pets\/database\/pet\/BurningDryad\/index.html"
+    },
+    {
+      "hash": "sha256-Jp0m3Z8jjlo98Y3rbLmyB8\/caaQDBejvdtK3A8Bv+TY=",
+      "url": "pets\/database\/pet\/BurningPixie\/index.html"
+    },
+    {
+      "hash": "sha256-hUAe7wDhnuutQErG0eXRg78pYZMSuz1PwExxqiWctZo=",
+      "url": "pets\/database\/pet\/Burnotaur\/index.html"
+    },
+    {
+      "hash": "sha256-ze3Ub0XdWwhp1n8abdtYkQseadhO3ILivy+GzNo5KGw=",
+      "url": "pets\/database\/pet\/BurntScorpion\/index.html"
+    },
+    {
+      "hash": "sha256-HLsrtdIJPhXZ9tJns3TvLs+Wy5PKtwf1J+tfJB5tFLI=",
+      "url": "pets\/database\/pet\/Burnzilla\/index.html"
+    },
+    {
+      "hash": "sha256-3pfx+IxRxNX+XAD2alYX3GG1Qs+OsYJIMbeVOdDbm9o=",
+      "url": "pets\/database\/pet\/CalixcoKitten\/index.html"
+    },
+    {
+      "hash": "sha256-rIeQNIJPJvItePu16zQXV02tmTAeyMZ0qrHDp35PViY=",
+      "url": "pets\/database\/pet\/CarefulHound\/index.html"
+    },
+    {
+      "hash": "sha256-4ZlEhiEWG1esHgkYSHY2mXorrmtWS15bM\/\/6hfRfo2Y=",
+      "url": "pets\/database\/pet\/CarnationPixie\/index.html"
+    },
+    {
+      "hash": "sha256-y\/rEAb17M2FBvxix8yaHMS8tmwUl6MbbM60E53+G7is=",
+      "url": "pets\/database\/pet\/CarnivalElf\/index.html"
+    },
+    {
+      "hash": "sha256-LFgwpI4rZMbiann\/35533T\/u5m9SzD+UxoX71vg6Ofw=",
+      "url": "pets\/database\/pet\/CarnivoreFlytrap\/index.html"
+    },
+    {
+      "hash": "sha256-R+14FYd6OvyRhpyim0JaVbheniQ4w\/4cI6ceEtWGxkU=",
+      "url": "pets\/database\/pet\/CatThug\/index.html"
+    },
+    {
+      "hash": "sha256-NOYcI5B+b0\/A3phRH8UNCQDOolcvsXERhHmTp0BO3ss=",
+      "url": "pets\/database\/pet\/Catersquall\/index.html"
+    },
+    {
+      "hash": "sha256-WHFIWIxFFmidYoMTxZqT5Q4I0ELmicLq61JSM38pZWo=",
+      "url": "pets\/database\/pet\/CautiousHound\/index.html"
+    },
+    {
+      "hash": "sha256-ZnrxXwblsGNrsWwlEDQmsJb5vd8oC+6xdarWyi0KHRQ=",
+      "url": "pets\/database\/pet\/CaveChameleon\/index.html"
+    },
+    {
+      "hash": "sha256-fgcpV7L7FLeVB4+c2qHJRPuPzPeiXa0N6ENcWXHsf\/M=",
+      "url": "pets\/database\/pet\/CemetaryFairy\/index.html"
+    },
+    {
+      "hash": "sha256-my\/ze\/m2HPs5y8iHvAVfweo+XKq9Ei0E\/flpD8QkBpU=",
+      "url": "pets\/database\/pet\/Cerberus\/index.html"
+    },
+    {
+      "hash": "sha256-UuwU\/hYGYFGhXQZv24zJ4iFoWJMAQL6fzvLp+7iniFk=",
+      "url": "pets\/database\/pet\/CerisePixie\/index.html"
+    },
+    {
+      "hash": "sha256-OjSRgFUVob1EBxbnJ7UkqGZvF9EbqdMPb8AvU7MSx3A=",
+      "url": "pets\/database\/pet\/CeruleanDragon\/index.html"
+    },
+    {
+      "hash": "sha256-u\/tziGVJ086NsYGCvFWz3dZELN2n\/8UyYJitw\/uAMbE=",
+      "url": "pets\/database\/pet\/Chameleon\/index.html"
+    },
+    {
+      "hash": "sha256-YK0PBDxQsMjXoLHm+rnUrEYKmyk7eG5zHioh7+mREoU=",
+      "url": "pets\/database\/pet\/ChaosLeviathan\/index.html"
+    },
+    {
+      "hash": "sha256-n7M6dzvOrssdrzcMOLwTvW6DaTv3t6z5EHfHEFhYi2k=",
+      "url": "pets\/database\/pet\/ChargingBull\/index.html"
+    },
+    {
+      "hash": "sha256-uhTEzAFcBCb\/D+m8rU9NYUcpK9snHPBAVWGKzCjXkhE=",
+      "url": "pets\/database\/pet\/CharmingMinstrel\/index.html"
+    },
+    {
+      "hash": "sha256-VPWNWLYjsNCvE+2wrnPFkHXzkMZViMKZljLkOKU692o=",
+      "url": "pets\/database\/pet\/CharmingStarry\/index.html"
+    },
+    {
+      "hash": "sha256-asXtusW2ZM8S0bMWecHauqCxEEv26y9ZhXxS1K1pGeI=",
+      "url": "pets\/database\/pet\/CharredFossil\/index.html"
+    },
+    {
+      "hash": "sha256-5uf79Go\/mOEhsCkV09+9avih0M\/+owQbtxw+oqRZFtQ=",
+      "url": "pets\/database\/pet\/CharredGrimhorn\/index.html"
+    },
+    {
+      "hash": "sha256-7Z7wBA5kWZgb01s7BSAWOLziZwC8GorBgeSh9Yg6zj8=",
+      "url": "pets\/database\/pet\/CharredNinja\/index.html"
+    },
+    {
+      "hash": "sha256-VC5cRN5ZZoXDCZSCKkR8GyZmNucIj0zbOV8ha+2cRxs=",
+      "url": "pets\/database\/pet\/Charrlossus\/index.html"
+    },
+    {
+      "hash": "sha256-vaeRRnjZNYopdAzpt6dfdUUa6H1qfLxqPCDihwQqKcQ=",
+      "url": "pets\/database\/pet\/CheeryPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-ipD0JWWCjFS\/IZ\/xRYtU1tKArlIq+lzgxb46X9ijMcE=",
+      "url": "pets\/database\/pet\/CheetahPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-8v2nDTL3NSq\/6eUOsa9J0FvHHMk3s565mO94aQIt0E4=",
+      "url": "pets\/database\/pet\/ChieftainsOwl\/index.html"
+    },
+    {
+      "hash": "sha256-fST\/CPrLnBBQ1DWGNdObLQq0jI89ZUEvWykoALbhwXI=",
+      "url": "pets\/database\/pet\/ChillKrokomummy\/index.html"
+    },
+    {
+      "hash": "sha256-9j3TxExBavVnqwUs8XfK3\/YgyienL7rBVPsBOXJ\/CCc=",
+      "url": "pets\/database\/pet\/ChilledScorpion\/index.html"
+    },
+    {
+      "hash": "sha256-Wpnw0SjuERgIoBI9AsH4zhq6AclFNkv9ZVfOwvPzjtU=",
+      "url": "pets\/database\/pet\/ChillfangDraconian\/index.html"
+    },
+    {
+      "hash": "sha256-\/B8IqxDKs9SMzL6LXeRFSj\/Srmf2g+3ELYj8Btr8Dqo=",
+      "url": "pets\/database\/pet\/ChillingShark\/index.html"
+    },
+    {
+      "hash": "sha256-gPONFjLK651cgPo96Gej3g9k5ijfismoxAGb7\/1WzJQ=",
+      "url": "pets\/database\/pet\/Chimera\/index.html"
+    },
+    {
+      "hash": "sha256-ObXfePELJlMiSlc1YTczHOOnpP2E0lG0Gcwynet4jMQ=",
+      "url": "pets\/database\/pet\/ChipmunkConductor\/index.html"
+    },
+    {
+      "hash": "sha256-tlgv6cMB\/1BfrCEhJtiT\/fBpRQodcCuDWNWUiPKPSNo=",
+      "url": "pets\/database\/pet\/ChocoHoppos\/index.html"
+    },
+    {
+      "hash": "sha256-5DcjndYUvGrCmsJw4hKlnGo7R4KUhueABatXIXkbmoA=",
+      "url": "pets\/database\/pet\/ChocosteinsMonster\/index.html"
+    },
+    {
+      "hash": "sha256-0aFBZIpj8FpCqhBrUZkP7pQxFg6rsj10nBs\/vYp639s=",
+      "url": "pets\/database\/pet\/ChristmasElf\/index.html"
+    },
+    {
+      "hash": "sha256-tYBG7t0OMVcXsZidPpw5jfkhnIwbPSJUM2D3Jz\/zBEg=",
+      "url": "pets\/database\/pet\/CinamazingBear\/index.html"
+    },
+    {
+      "hash": "sha256-yQExmHkKnySMQz3lrPLAqqfcabML5+yHDt3RdXy9tXU=",
+      "url": "pets\/database\/pet\/CinderSerpent\/index.html"
+    },
+    {
+      "hash": "sha256-exZnvqqQVBtAskvWc4a9QLUb2cFsdIFFQe3lESGZ\/xw=",
+      "url": "pets\/database\/pet\/CineratorGolem\/index.html"
+    },
+    {
+      "hash": "sha256-aG+jRavqoMK2Txu578zbGbOveyfe7BVEg3xlqQq4Kz4=",
+      "url": "pets\/database\/pet\/ClamoringGhulture\/index.html"
+    },
+    {
+      "hash": "sha256-xc+6qEi6DFHVFKWXM8PvwnR4qWiJmInOxOn1zosA1sY=",
+      "url": "pets\/database\/pet\/CleverCogs\/index.html"
+    },
+    {
+      "hash": "sha256-ArFOLztjzpeuQDvIaB7Pb8O7m7K5nFCqagyExRBrsdo=",
+      "url": "pets\/database\/pet\/CleverCrabling\/index.html"
+    },
+    {
+      "hash": "sha256-lJechFQpzDpxdeo1doHDXZwwtiguVUr5eZQo3ZpRJmY=",
+      "url": "pets\/database\/pet\/ClockworkGolem\/index.html"
+    },
+    {
+      "hash": "sha256-OvVKW\/rPNMdD4Gd\/dzvFKK3zmG2m0DXBExTww\/31IlM=",
+      "url": "pets\/database\/pet\/ClockworkPaladin\/index.html"
+    },
+    {
+      "hash": "sha256-N+XCx4y1FDBuhdooCnwF+gu+ymqiUw04LBL7nTqfaO4=",
+      "url": "pets\/database\/pet\/CloudBeast\/index.html"
+    },
+    {
+      "hash": "sha256-jRP5k3mZBLycnEbQK3Ktzi5v0LCQ74Vj4pMXhxGV2IM=",
+      "url": "pets\/database\/pet\/CloudColossus\/index.html"
+    },
+    {
+      "hash": "sha256-f4X7ofxi9oSIvYRYn\/Jaun3uZ2vJE4GZl8Sg5tBKteM=",
+      "url": "pets\/database\/pet\/CloudDemon\/index.html"
+    },
+    {
+      "hash": "sha256-9ya0jby7Wuhr0q5CV633WC1MWp9LHNOTXUJmhJfFVgY=",
+      "url": "pets\/database\/pet\/CloudburstSprite\/index.html"
+    },
+    {
+      "hash": "sha256-kCMA4ogl+zoxbtLnEUzje983ERWf2HJtpwInh0qpaDg=",
+      "url": "pets\/database\/pet\/CoalColossus\/index.html"
+    },
+    {
+      "hash": "sha256-F4o+9cIbcczNpPXX0zEee2OzhNrEXO\/ikAQLeTrRPoI=",
+      "url": "pets\/database\/pet\/CoalTrain\/index.html"
+    },
+    {
+      "hash": "sha256-35sJ4Wl6j\/FAN7c9+vntoFCAPWcUo7ubOZfJQkvO9kM=",
+      "url": "pets\/database\/pet\/ColdfireDragon\/index.html"
+    },
+    {
+      "hash": "sha256-eS53s4GE4uGqZE7lTxbJS7O7eETlHrvS\/\/vVV0B3r+w=",
+      "url": "pets\/database\/pet\/CoocoonutBear\/index.html"
+    },
+    {
+      "hash": "sha256-9nDLnRRS5VHmab+IUy+UPDS9n9ZSzBHfn6Swc7khMdc=",
+      "url": "pets\/database\/pet\/CoolCorgi\/index.html"
+    },
+    {
+      "hash": "sha256-nhLUOZPAxZMljQflTREtkTMIN2r7CizmIrI2hzi9gDI=",
+      "url": "pets\/database\/pet\/CoolKrok\/index.html"
+    },
+    {
+      "hash": "sha256-u9mlIO8kl33B3nvmLuAsvbVra2UwZH7VVUvgQ8F5PdY=",
+      "url": "pets\/database\/pet\/CopperColossus\/index.html"
+    },
+    {
+      "hash": "sha256-a0ODDtFytzjw4pQbib3pVtqY+OwqPU5tYInlRh7MwUk=",
+      "url": "pets\/database\/pet\/CopyCake\/index.html"
+    },
+    {
+      "hash": "sha256-aCM4EYHjCjF+uRdzX0cZEqlUnUGINLuMvp+cOdRwF4k=",
+      "url": "pets\/database\/pet\/CosmographersRat\/index.html"
+    },
+    {
+      "hash": "sha256-9020mggx\/3w9mFmnxR6c4J2oq+nbNRrxuSiZubzURDQ=",
+      "url": "pets\/database\/pet\/CourageousBull\/index.html"
+    },
+    {
+      "hash": "sha256-9ielnMWEjXIbGyvKQ6WnpWbfYzwwPX8U56Rt5nORyBE=",
+      "url": "pets\/database\/pet\/Cowmera\/index.html"
+    },
+    {
+      "hash": "sha256-CVZUIUSjSnWYg+i5874Zt995DNWsOUVW2r7kvnUZfBg=",
+      "url": "pets\/database\/pet\/Crabling\/index.html"
+    },
+    {
+      "hash": "sha256-PZiJ\/Cndd8IeDiSFSSc\/pDf5MiHEgXVhfNbw66jXQWg=",
+      "url": "pets\/database\/pet\/Creeper\/index.html"
+    },
+    {
+      "hash": "sha256-yfPVjzg3X3VbCcYC6EReLtU1B0zpfeJfPJcq5iG9am4=",
+      "url": "pets\/database\/pet\/CrimsonSpectre\/index.html"
+    },
+    {
+      "hash": "sha256-xsjBcXLG7+pD6BSGkVHBcYFI28Fx9JLUv2ayfuGFwOU=",
+      "url": "pets\/database\/pet\/Crimsonzilla\/index.html"
+    },
+    {
+      "hash": "sha256-YZVkC4VesAxpMmORVlAv2XUApxtaOhCNXvK4E8fPxRU=",
+      "url": "pets\/database\/pet\/CrispyNinjaPig\/index.html"
+    },
+    {
+      "hash": "sha256-drEdQ6D4Z3D8sbVbBfyUCPdQWc2jMz3ki6iz6zY+4W4=",
+      "url": "pets\/database\/pet\/CropWatcher\/index.html"
+    },
+    {
+      "hash": "sha256-ic4n\/iB4WPeAIUalf1VOWeE3b1Jnrtz+GpmEtK4oCO4=",
+      "url": "pets\/database\/pet\/CryoElf\/index.html"
+    },
+    {
+      "hash": "sha256-OZp5glVrJMRQJjkCaW0\/TqR\/m+zYa0+gnvdlfDiwCo4=",
+      "url": "pets\/database\/pet\/Cryptclops\/index.html"
+    },
+    {
+      "hash": "sha256-S3xw1FLb\/62j1qCPhM2KlEVCDpo3mqY5gZHlQ44Cm8k=",
+      "url": "pets\/database\/pet\/CrystalButterfly\/index.html"
+    },
+    {
+      "hash": "sha256-7H+ySKdCSEZKahPpxn2nymOnuankQo2Q3Px1VK2fd30=",
+      "url": "pets\/database\/pet\/CrystalDragon\/index.html"
+    },
+    {
+      "hash": "sha256-rciv8UCx8tVzMm2drf6JXvcMUgnRMtpOygLQldSHS\/U=",
+      "url": "pets\/database\/pet\/CrystalSpider\/index.html"
+    },
+    {
+      "hash": "sha256-YjSZ8bxT7HEKsrKTPUhR5L8lf4mdoM4ueszV+SO3uRo=",
+      "url": "pets\/database\/pet\/CrystallineFossil\/index.html"
+    },
+    {
+      "hash": "sha256-Uy8ho\/Ad7YCWm6CH8kjkZX5NFRXaHEYYdqG8lnjYq4k=",
+      "url": "pets\/database\/pet\/CuddlyCapybara\/index.html"
+    },
+    {
+      "hash": "sha256-zvIc3WbXfk3y7UIJSUfWLJXtigp83WAKCM7yaddPEvg=",
+      "url": "pets\/database\/pet\/CunningSealPup\/index.html"
+    },
+    {
+      "hash": "sha256-KFE61CaMgwy2J2yWnX+bXzXtbTBvDV5cdoQ2JXymLKw=",
+      "url": "pets\/database\/pet\/Cupig\/index.html"
+    },
+    {
+      "hash": "sha256-c3T2E7dR+CuWfjI+\/8ueVaOYBESYFfEnzLEIWcVajQo=",
+      "url": "pets\/database\/pet\/CutesyStarry\/index.html"
+    },
+    {
+      "hash": "sha256-\/qcRbvVnz4rKrvidIDcJcL3CEK+QE+OKVaAtrUROTVY=",
+      "url": "pets\/database\/pet\/CycloneBasilisk\/index.html"
+    },
+    {
+      "hash": "sha256-nIKoOhWTfKoRrALtSC\/w2pAZmPB7GX\/kGEuLiEMB9T8=",
+      "url": "pets\/database\/pet\/Cyclops\/index.html"
+    },
+    {
+      "hash": "sha256-ZqzvNGsgsasq2fnyqpufwnp4gsVBQ4lkoWyuTop61LE=",
+      "url": "pets\/database\/pet\/DaisyLumi(Ice)\/index.html"
+    },
+    {
+      "hash": "sha256-lx9ZTTqfwxm8rEIAInxWnBYghUfvdgLv9JrjEahzqhg=",
+      "url": "pets\/database\/pet\/DaisyLumi(Myth)\/index.html"
+    },
+    {
+      "hash": "sha256-bO0O0i85hgqHfgvKubt\/YhkCp+TLK5aCA3OYZqQbo+M=",
+      "url": "pets\/database\/pet\/DampDemon\/index.html"
+    },
+    {
+      "hash": "sha256-vUduv8fxxgXfnbNr9MrcSV6RzHhzUZ5whKSRho+lPuc=",
+      "url": "pets\/database\/pet\/DangerHound\/index.html"
+    },
+    {
+      "hash": "sha256-Qmu5\/IYWPAvcTfw+g3s6G3SWaQ3AdpFraDMcrsKjQaY=",
+      "url": "pets\/database\/pet\/DapperCorgi\/index.html"
+    },
+    {
+      "hash": "sha256-8auXh1IEbPtGl3892rg5mWAoz7SOPF1Che\/mHyXT7ro=",
+      "url": "pets\/database\/pet\/DaringDragon\/index.html"
+    },
+    {
+      "hash": "sha256-JsQfW5eQNg0C1zFM\/\/xp4AxpuoXjVWj\/+TL\/9VvBwk8=",
+      "url": "pets\/database\/pet\/DarkCrow\/index.html"
+    },
+    {
+      "hash": "sha256-sXO0ei8TQMs1r7QdPNcAYcI2rqRWKmFeFZv7BPY2zOY=",
+      "url": "pets\/database\/pet\/DarkHound\/index.html"
+    },
+    {
+      "hash": "sha256-EbfWt+9uzBTH6VyqizA\/uAvhwMVRh2TmKqafy5oOSVY=",
+      "url": "pets\/database\/pet\/DarkImp\/index.html"
+    },
+    {
+      "hash": "sha256-Xqj9+OOKvNI0Lz1NNmP\/Toyqg5blijURixHbal4p0L0=",
+      "url": "pets\/database\/pet\/DarkScaryonette\/index.html"
+    },
+    {
+      "hash": "sha256-KAORiDIujFecMfXQIi0QK6NdNCVddETLFZKYworV\/Js=",
+      "url": "pets\/database\/pet\/DarkSprite\/index.html"
+    },
+    {
+      "hash": "sha256-kXY4xj8b6x+O7OXrbEHESvnEo4T0g8WPZQJUCawMiys=",
+      "url": "pets\/database\/pet\/DarkWormLarva\/index.html"
+    },
+    {
+      "hash": "sha256-EqCD6DsFpjGYL44Yr5ftYScTkYVeXqvfvuO1enGhshE=",
+      "url": "pets\/database\/pet\/Darkreaver\/index.html"
+    },
+    {
+      "hash": "sha256-ibTcD6ZEvmw1lri+Yo4NvYe6ciXSP36K1Z11dBXDLUY=",
+      "url": "pets\/database\/pet\/Darkwalker\/index.html"
+    },
+    {
+      "hash": "sha256-Go5GQICCn7bEsef4P7NyMhN55x+sYwqQLT5XPFx0Xl0=",
+      "url": "pets\/database\/pet\/DastardlyMagician\/index.html"
+    },
+    {
+      "hash": "sha256-yR68i9vUdGcLwHGRlSk5I0FZ\/ch8khi6BI4dASDqx4w=",
+      "url": "pets\/database\/pet\/Dazzlefeather\/index.html"
+    },
+    {
+      "hash": "sha256-OA1MlhE6nvuMHLVcUGfyt4vRHNxQgJghHQcmdo3u2zM=",
+      "url": "pets\/database\/pet\/DeadlyNightwalker\/index.html"
+    },
+    {
+      "hash": "sha256-McpYljTGbwV++CAr0yii88n5KLWSaMjHo8Ft4a\/RQm8=",
+      "url": "pets\/database\/pet\/DeadlyNullDragon\/index.html"
+    },
+    {
+      "hash": "sha256-wZ0HuMzCEHQj6tysnu63TofhHvoiUwk6KA0FS3x3Yjg=",
+      "url": "pets\/database\/pet\/DeadrootTreant\/index.html"
+    },
+    {
+      "hash": "sha256-TZfEIrkCy9Q64u6dKymXGgS1tjUTjgd2Asuyzd8EYV4=",
+      "url": "pets\/database\/pet\/DeathArmaments\/index.html"
+    },
+    {
+      "hash": "sha256-O\/egxFD2tuTZOUD5qby3S573DzT7zxwtq+9+V4yLaXs=",
+      "url": "pets\/database\/pet\/DeathClassPet72\/index.html"
+    },
+    {
+      "hash": "sha256-HyTdSkcgq9GyHvrumf69wZNjuV4qFp6C\/N2Oey0OKAg=",
+      "url": "pets\/database\/pet\/DeathClassPet73\/index.html"
+    },
+    {
+      "hash": "sha256-+yR+6W8YH9WseB+J6yqnLgOFH1qBirO7sOVF307sY5E=",
+      "url": "pets\/database\/pet\/DeathCyclops\/index.html"
+    },
+    {
+      "hash": "sha256-6tM2AqxP9B9VfIybxS45Qfjn+2Z+JU1DdRX+cjyMkkA=",
+      "url": "pets\/database\/pet\/DeathGazer\/index.html"
+    },
+    {
+      "hash": "sha256-H6dKpZJ9cGSrJJ\/VM1Eh0C+S0OYS9je0oKRfdLz\/muQ=",
+      "url": "pets\/database\/pet\/DeathLeprechaun\/index.html"
+    },
+    {
+      "hash": "sha256-HwZRN\/\/VXUtHXt5SjyvtpexBI5wYYiW7Ye2JzJCMpWU=",
+      "url": "pets\/database\/pet\/DeathNinja\/index.html"
+    },
+    {
+      "hash": "sha256-0e7LKpcWWzpo+WBSV4emLNyQw3pslV6BNihksJyNrLc=",
+      "url": "pets\/database\/pet\/DeathOni\/index.html"
+    },
+    {
+      "hash": "sha256-1r2qHvVh5MKJqygq1rwzswVh52wp6jKqudP3oAjKVQA=",
+      "url": "pets\/database\/pet\/DeathScarab\/index.html"
+    },
+    {
+      "hash": "sha256-rETLg0171RIKXtHdlzX28bAfJP7RADv5ymeDahApTDg=",
+      "url": "pets\/database\/pet\/DeathTreant\/index.html"
+    },
+    {
+      "hash": "sha256-E52DPmHZ4eFgYYFHOudgsycsiH\/BFd+xMxMP\/A\/P\/QE=",
+      "url": "pets\/database\/pet\/DeathTroll\/index.html"
+    },
+    {
+      "hash": "sha256-3rdfFg4qYSGO5dl3a0JxWTPrbYRzI\/7oxM9GaAfMin8=",
+      "url": "pets\/database\/pet\/DeathWartle\/index.html"
+    },
+    {
+      "hash": "sha256-jD0+CLGzCQuJ6lKPqSZtPc7NNmttIDRxtRtpVU\/BLhc=",
+      "url": "pets\/database\/pet\/DeathishFrog\/index.html"
+    },
+    {
+      "hash": "sha256-phNafqQlNGMclPmHEnSuW08X46B02j5QnIszsOP0TcY=",
+      "url": "pets\/database\/pet\/Deathbat\/index.html"
+    },
+    {
+      "hash": "sha256-YRKy6BQhsOOakjkFuCIUbyQc778YPLyVccMe8zSH8Iw=",
+      "url": "pets\/database\/pet\/Deathdactyl\/index.html"
+    },
+    {
+      "hash": "sha256-iuyxfFqytehP\/EsecUU8PbwXN7dRvdXHUqwDw0k\/\/vs=",
+      "url": "pets\/database\/pet\/DeathlyGlowbug\/index.html"
+    },
+    {
+      "hash": "sha256-va7PhqiQOXILJKKnfG8Xy6TUlQagx5RJeEXu\/ExxvMM=",
+      "url": "pets\/database\/pet\/DecadeDragon\/index.html"
+    },
+    {
+      "hash": "sha256-gOaIBuT6e2lr3jQUl+fmI8Sm+zcfWZRg5TBCJO37wSA=",
+      "url": "pets\/database\/pet\/DecadeFirecat\/index.html"
+    },
+    {
+      "hash": "sha256-rnKYgbYa2+v76yWQbJT\/1ZBmxhiHCuDOBNkm7VygnV4=",
+      "url": "pets\/database\/pet\/DecadeGargoyle\/index.html"
+    },
+    {
+      "hash": "sha256-0R4JnHcEdA+03cHifZByrIVj1FlWoBc+0IKRarTvpaA=",
+      "url": "pets\/database\/pet\/DecadePiggle\/index.html"
+    },
+    {
+      "hash": "sha256-qmOqXJqJITc0uICFWSOBYhOTjz3Jp7OcIKhKVr33EyU=",
+      "url": "pets\/database\/pet\/DecennialDragon\/index.html"
+    },
+    {
+      "hash": "sha256-KnFrxb1xaswa0M3y0MN2U8X9sYRGYlNXTn8pc2RQyCY=",
+      "url": "pets\/database\/pet\/DeepLeviathan\/index.html"
+    },
+    {
+      "hash": "sha256-EEd+w+gmpibufD1x4ibKgJOBFJqHU+BPrk1RRWHunPc=",
+      "url": "pets\/database\/pet\/DeerKnight\/index.html"
+    },
+    {
+      "hash": "sha256-sBcW4k613r5DtuB0mtbGKmYwB4iYlbodRAHqSumb3Uo=",
+      "url": "pets\/database\/pet\/DefenderDragon\/index.html"
+    },
+    {
+      "hash": "sha256-9qKuvdXAO4Zu7+nZWTVrrS04za5+vSmgjKzw7O4XnUA=",
+      "url": "pets\/database\/pet\/DefenderPig\/index.html"
+    },
+    {
+      "hash": "sha256-C+OLa2UmkKtiUPJQCj+fodp5KL21SrwAunhJYMfMrYo=",
+      "url": "pets\/database\/pet\/DesertBasilisk\/index.html"
+    },
+    {
+      "hash": "sha256-xOamTRFqsQypl4xFbbLDX8ipWqVxQ4bxQdoTt6Bua\/k=",
+      "url": "pets\/database\/pet\/DesertBeast\/index.html"
+    },
+    {
+      "hash": "sha256-imJJQtbWbylqCf0fIkdvD9qtAnEzzn0ywgWYbQczRCs=",
+      "url": "pets\/database\/pet\/DesertFairy\/index.html"
+    },
+    {
+      "hash": "sha256-Zw7KFDH2S5BEOPnXMHcCd87f9HoH3piSTCpHo8EOIYw=",
+      "url": "pets\/database\/pet\/DesertGnome\/index.html"
+    },
+    {
+      "hash": "sha256-mUTdUYPpAHu+a1GQRlYtqbcGiJxYT1rFXpASIZ6ppFg=",
+      "url": "pets\/database\/pet\/DesertHawk\/index.html"
+    },
+    {
+      "hash": "sha256-YB0mBqPaT3JWBGQ5K1InnStg+jv+HukS3lNLuKt4zug=",
+      "url": "pets\/database\/pet\/DesertMammoth\/index.html"
+    },
+    {
+      "hash": "sha256-unt3kgKedbBw2JCx4Z2HGk0QZ8HgzZBll75HkXEghOU=",
+      "url": "pets\/database\/pet\/DetollisDragon\/index.html"
+    },
+    {
+      "hash": "sha256-JTaj4kLcX3ONKa8jDYW5BgeiWr57d7em\/9qr50JCfcI=",
+      "url": "pets\/database\/pet\/Diecanthrope\/index.html"
+    },
+    {
+      "hash": "sha256-U2zOau7cgflqvZjRAIOKcharh8IMVLvLrRPbcckO\/5E=",
+      "url": "pets\/database\/pet\/DignifiedCrabling\/index.html"
+    },
+    {
+      "hash": "sha256-umo64bBJ9NYbKkuohl84E6WI2yk0ZVX+jjuW8zxwySM=",
+      "url": "pets\/database\/pet\/DillPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-rUyFr8feKD\/hgLx1cjAgOuWVVSuHXCgMY1Jnho8STEw=",
+      "url": "pets\/database\/pet\/DireGhoul\/index.html"
+    },
+    {
+      "hash": "sha256-UBPRsPinpBBKg403c1ZAneSYUkO7XmhDuFF1CLrgu0k=",
+      "url": "pets\/database\/pet\/DiscoBuffaloon\/index.html"
+    },
+    {
+      "hash": "sha256-LoReK\/v5A9tJmuYenWKouaYjpR5Nv0X8vjQn4G4KIw4=",
+      "url": "pets\/database\/pet\/DiseasedWildclaw\/index.html"
+    },
+    {
+      "hash": "sha256-vlraYjmUAuRuKHb9+BP7e7iaKuEEB8jm2bDL9Bz7uEk=",
+      "url": "pets\/database\/pet\/DraconisMortalis\/index.html"
+    },
+    {
+      "hash": "sha256-nI1Ng9eXKzoTEU6wIW71ouF5kf+OqVENK08EcSmsa9E=",
+      "url": "pets\/database\/pet\/Dragon\/index.html"
+    },
+    {
+      "hash": "sha256-vB0nZ6GRgBdz5RSh81TfoSoQv4KnN2WJ5+kgY2XB+q0=",
+      "url": "pets\/database\/pet\/Dragonfly\/index.html"
+    },
+    {
+      "hash": "sha256-MOhWYxzv3rDJHWPJe81\/EC\/ZcZYgYG+5\/3S9LsK2uVQ=",
+      "url": "pets\/database\/pet\/DramaLlama\/index.html"
+    },
+    {
+      "hash": "sha256-ZTkaaVxKtdZsXV+6yYBju8TJZzLps5NZAzUCXyrXqok=",
+      "url": "pets\/database\/pet\/DreadGrimoire\/index.html"
+    },
+    {
+      "hash": "sha256-4paivkIRnyp0N8JOqr3gaxjYXZBztKNgszA\/KrORu30=",
+      "url": "pets\/database\/pet\/DreadQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-x9Rbk9YZGU53ZENIF\/ac1EtBMt\/dlyG3nQrCoBrrcns=",
+      "url": "pets\/database\/pet\/Dreadfang\/index.html"
+    },
+    {
+      "hash": "sha256-V80TJdfyzBb\/wWOTOP5HI3nIXvP8h\/fYlculD808gL0=",
+      "url": "pets\/database\/pet\/DreamGhoul\/index.html"
+    },
+    {
+      "hash": "sha256-LMS8KGx9oz3Tq7jzzKHBhtnmam4RFpMKvon5LVpa+Ws=",
+      "url": "pets\/database\/pet\/DreamingLeviathan\/index.html"
+    },
+    {
+      "hash": "sha256-bSmRVRfgFduaj8QlL5sX2vjBwG6g31glmxW70m46Cyw=",
+      "url": "pets\/database\/pet\/DreamsongSeraph\/index.html"
+    },
+    {
+      "hash": "sha256-g45qb8HfPIF6aN72IJgJrOws7lg1t+iSzSDb+S4VO0c=",
+      "url": "pets\/database\/pet\/DreamyBaaterfly\/index.html"
+    },
+    {
+      "hash": "sha256-bjEEElh\/uJtRAa8LLT9Ki0\/CvufqCgrBuJfZCTlSybU=",
+      "url": "pets\/database\/pet\/DrownedGrimhorn\/index.html"
+    },
+    {
+      "hash": "sha256-cLJqUSr1Htgbmd9pWfdhy3PccC3A8cWUIFs9SzU2Z+I=",
+      "url": "pets\/database\/pet\/Dryad\/index.html"
+    },
+    {
+      "hash": "sha256-c9WNe+uDJeqrah++VqPjUurVcJjxIpLrpuKzYr\/j2M8=",
+      "url": "pets\/database\/pet\/DustyGrimoire\/index.html"
+    },
+    {
+      "hash": "sha256-PhV+ykEV\/MnUp61jNr0s7P4fDvgdgsc6+Nx6BgbWrJw=",
+      "url": "pets\/database\/pet\/DutifulBloodbat\/index.html"
+    },
+    {
+      "hash": "sha256-Q6wfCf4TPpfs2ejZg8lATYqLd7PXagBhT1UzJX2E+sc=",
+      "url": "pets\/database\/pet\/DutifulTerrier\/index.html"
+    },
+    {
+      "hash": "sha256-Dw2qfwBKNpNI3790dJVn58+8uyoaDHZqZo+beMU4mJM=",
+      "url": "pets\/database\/pet\/EarthElemental\/index.html"
+    },
+    {
+      "hash": "sha256-VatnJTDYIlTmySxLSy4yvyowsNa3QOk0eDnIvOMpde0=",
+      "url": "pets\/database\/pet\/EarthWalker\/index.html"
+    },
+    {
+      "hash": "sha256-5SQbhYd\/tpIf2fDS6QtVKcXkGeEJriI0XHvZnrGKviA=",
+      "url": "pets\/database\/pet\/Echidna\/index.html"
+    },
+    {
+      "hash": "sha256-R8TKAeCgQUCDFpTfQSQ+YMe0oy2RAj6Wx5w3l1ik\/p4=",
+      "url": "pets\/database\/pet\/Efreet\/index.html"
+    },
+    {
+      "hash": "sha256-\/CKdJT4JkcWEEPs5ckPjqFjAiA8TMR9QlthaZdG0p4I=",
+      "url": "pets\/database\/pet\/EggChick\/index.html"
+    },
+    {
+      "hash": "sha256-MxwqBcormPWcWJXPDa\/XK1dTHnQuwjSEKe89OBTeyGg=",
+      "url": "pets\/database\/pet\/ElectricElf\/index.html"
+    },
+    {
+      "hash": "sha256-pgg9RhUVAz8xx4ycwf+2gisf6oWFntsI+hTdocGepL8=",
+      "url": "pets\/database\/pet\/ElementalFooDog\/index.html"
+    },
+    {
+      "hash": "sha256-0rBNLHGiJs+1zc7xGEjFeYMKbAiDIg2KVJDi9PRIzzI=",
+      "url": "pets\/database\/pet\/ElfofEndings\/index.html"
+    },
+    {
+      "hash": "sha256-Wm0d\/tbpHRCKnKIZCqCfY1tQN7wn\/OEEcxHARq\/5aF8=",
+      "url": "pets\/database\/pet\/Elfvis\/index.html"
+    },
+    {
+      "hash": "sha256-9G3YyA3Lgb54EGKNwJzySArmGf+CdeFkf\/Ansfcd3nA=",
+      "url": "pets\/database\/pet\/EmberGolem\/index.html"
+    },
+    {
+      "hash": "sha256-VGhv9PoDwFGKGuWF6IQzauFmBz1A8P3tFpHvdN7Yh8c=",
+      "url": "pets\/database\/pet\/EmberstoneTiger\/index.html"
+    },
+    {
+      "hash": "sha256-jdLaFuAQOT1rJGIBAQq5RsJMl6mhcksnpFEpE0fZQQ8=",
+      "url": "pets\/database\/pet\/Emberwing\/index.html"
+    },
+    {
+      "hash": "sha256-LERn8hhVsz4arcxuHRL4AKmdMxVvlf9dDGxnvVQ4iLI=",
+      "url": "pets\/database\/pet\/EmeraldBeetle\/index.html"
+    },
+    {
+      "hash": "sha256-CP5RyAgjAq8mLqhXTr21+SQk6xuPYtwIu9Ce2mfacLk=",
+      "url": "pets\/database\/pet\/EmeraldCyclops\/index.html"
+    },
+    {
+      "hash": "sha256-ayr6CEe4TED38wXmh7yoMlynAvRGisobas1zBeo18mM=",
+      "url": "pets\/database\/pet\/EnchantedArmament\/index.html"
+    },
+    {
+      "hash": "sha256-QMYRrHPpa+r9Y2+embJ\/l0AseeXSDhqSoQfU\/UaRsSY=",
+      "url": "pets\/database\/pet\/EnergeticBaaterfly\/index.html"
+    },
+    {
+      "hash": "sha256-bAbftnjz9NSauwhCKRz5V0164i7j8GVF+9LfspVB\/JM=",
+      "url": "pets\/database\/pet\/EnigmaticGhulture\/index.html"
+    },
+    {
+      "hash": "sha256-dBc0twRBfRbeCgzBTi65l98WeBNlCMjnhPcSZveR+FE=",
+      "url": "pets\/database\/pet\/EternalLeviathan\/index.html"
+    },
+    {
+      "hash": "sha256-9PnFjQ++WtL53m4X+H2dKzs9toFx9i3jsFirrv7m2Qo=",
+      "url": "pets\/database\/pet\/EtherealKnight\/index.html"
+    },
+    {
+      "hash": "sha256-g3ZQ1JQ60\/BSzWlNRY3d7DgXQqRJScvbydWhHcawCAo=",
+      "url": "pets\/database\/pet\/EverlastingElf\/index.html"
+    },
+    {
+      "hash": "sha256-OWDToXXCaKsEZKkKOAN8JOTzd+CpzvL2EXmqgKc4Bwg=",
+      "url": "pets\/database\/pet\/EvilSandman\/index.html"
+    },
+    {
+      "hash": "sha256-E8oIgulvUqj0kCBs9zAPTeGV8XjZg++CMmWFn8Ctxqc=",
+      "url": "pets\/database\/pet\/EvilSnowman\/index.html"
+    },
+    {
+      "hash": "sha256-QvsDBMN\/grWUpjxImH+OC\/RSRcEXD1aXE7xUzUThlt8=",
+      "url": "pets\/database\/pet\/EyePal\/index.html"
+    },
+    {
+      "hash": "sha256-HQfH1ReN484QXXkPD8MZoYQpmNRihvqAtHArbatspNg=",
+      "url": "pets\/database\/pet\/Eyebendito\/index.html"
+    },
+    {
+      "hash": "sha256-kyCN4RL3Mk7u1Xb\/IqTmP3qf3EsuNSC9rvzs1eyMyho=",
+      "url": "pets\/database\/pet\/Eyecaramba\/index.html"
+    },
+    {
+      "hash": "sha256-\/khKiN4rzvPiwF\/hrVGBGykHJ\/FkXwWDfk+Oibo0KpM=",
+      "url": "pets\/database\/pet\/Eyediache\/index.html"
+    },
+    {
+      "hash": "sha256-KRHcJZjBDc4JGwqTFV80kAUqkiv\/uOGW5JiK7kGNW3o=",
+      "url": "pets\/database\/pet\/Eyequilibriops\/index.html"
+    },
+    {
+      "hash": "sha256-ND6fDciu+eLogDBoAI7rBwPPMAUG8YBHsiUb\/cSIcjU=",
+      "url": "pets\/database\/pet\/FabledDraconian\/index.html"
+    },
+    {
+      "hash": "sha256-Uyv6X5anniOPsHPETDP3u0dp9C1tso2vU4P88hC0AWs=",
+      "url": "pets\/database\/pet\/FabledFairy\/index.html"
+    },
+    {
+      "hash": "sha256-U2VyN\/OjJXGRbM2OnhQEsswvmePnBjCZ2fu1QabXc24=",
+      "url": "pets\/database\/pet\/FabledGrimoire\/index.html"
+    },
+    {
+      "hash": "sha256-Z6pCD5OvV37tpTPyDHWAAE2UdT\/KZgthmZtNeAd8yv8=",
+      "url": "pets\/database\/pet\/FabledHowler\/index.html"
+    },
+    {
+      "hash": "sha256-PfwiOKTez7nMg7VPxSRfPpkMBBlJKCKMD0yGtoolMCw=",
+      "url": "pets\/database\/pet\/FabledNinjaPig\/index.html"
+    },
+    {
+      "hash": "sha256-gvjlv7h8sU+9dN9+MnII7ybPpaSj925kyYgL3WhccIU=",
+      "url": "pets\/database\/pet\/FabledOctopus\/index.html"
+    },
+    {
+      "hash": "sha256-krhL6qGEM+RVvYHjapk8ayhC25JQuw+N\/RURi4oRZuI=",
+      "url": "pets\/database\/pet\/FabledQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-oTfkXb+nnNxaHjSLYcsvlaDYssrDFOjM1DQiWlXugIQ=",
+      "url": "pets\/database\/pet\/FabledSerpent\/index.html"
+    },
+    {
+      "hash": "sha256-\/ez3YAxcSyPPtmOlyfEax7+eVZpqF51Xp\/fF7JUETr0=",
+      "url": "pets\/database\/pet\/Fablewing\/index.html"
+    },
+    {
+      "hash": "sha256-5JLR7SILgYXCEVBfm\/ID4D7POZlO9x8VQV82FwSHDbQ=",
+      "url": "pets\/database\/pet\/FaeVivae\/index.html"
+    },
+    {
+      "hash": "sha256-6J5ztS+vhe3WUynGyzHGinfPUQUuTDFKVLck+Mlxx1g=",
+      "url": "pets\/database\/pet\/FairE\/index.html"
+    },
+    {
+      "hash": "sha256-DxRMfmzpcw\/knUyNArJbd+3ndklZPITcOdapDVSbJl0=",
+      "url": "pets\/database\/pet\/Fairyfly\/index.html"
+    },
+    {
+      "hash": "sha256-USp4ZoXEOx+tuKDG753WNGrufEFSOc1dKAHTBuIvrQE=",
+      "url": "pets\/database\/pet\/FallSproutling\/index.html"
+    },
+    {
+      "hash": "sha256-W+X7oveCyTiGc2wp2Z8jH+S1HGxngBqZO7IKdTUqwX8=",
+      "url": "pets\/database\/pet\/FamishedFlytrap\/index.html"
+    },
+    {
+      "hash": "sha256-7VdLOGbuOJxuk\/Ww7zlyK1zangND3+sChlHs7uuyM0o=",
+      "url": "pets\/database\/pet\/FancyStarry\/index.html"
+    },
+    {
+      "hash": "sha256-ZXdwM87p0814+S2EkeearMKhq\/UmQ2jmlnyAz892qws=",
+      "url": "pets\/database\/pet\/FancyWaterDog\/index.html"
+    },
+    {
+      "hash": "sha256-e7G\/yTzuGytb9VbRFhYt70igG9BbV5KuRjUxb2bGgRM=",
+      "url": "pets\/database\/pet\/FangBat\/index.html"
+    },
+    {
+      "hash": "sha256-0bkRgt40sBtA\/kwDJs8THrmQCLIo\/wCgo+Z8GcuY4hM=",
+      "url": "pets\/database\/pet\/FantasticPlushie\/index.html"
+    },
+    {
+      "hash": "sha256-joe6Eu5XD41yjIcd7jsPUH5Wa5Hj3TFhuE+wtFycn+s=",
+      "url": "pets\/database\/pet\/Fatesealer\/index.html"
+    },
+    {
+      "hash": "sha256-oDKFmmMq0DvzO88lzd2o38TQSKDUi07\/RKOnEZbYNwA=",
+      "url": "pets\/database\/pet\/Fatezilla\/index.html"
+    },
+    {
+      "hash": "sha256-9e0lJen+vulns\/DoVKmKBtYKKpKkAyow\/qD6vb6aBlU=",
+      "url": "pets\/database\/pet\/FearlessLionCubs\/index.html"
+    },
+    {
+      "hash": "sha256-+DocsXJ3KqpllXZjlcyIMs08x2MYPjKNCOdFwLE0w4s=",
+      "url": "pets\/database\/pet\/FeatheredTabby\/index.html"
+    },
+    {
+      "hash": "sha256-G74JRTpIHk9JIbeIT0TO9mMqRo+K6wmQmwISLGitOFs=",
+      "url": "pets\/database\/pet\/FeistyFireElf\/index.html"
+    },
+    {
+      "hash": "sha256-rX2qRm9FFhzddSB0vmnwMHaQzgNDIoqbYwBK70jjA5Y=",
+      "url": "pets\/database\/pet\/FeistyFireKitten\/index.html"
+    },
+    {
+      "hash": "sha256-d+FPvoknW1qCyvwg1oBQGmI1ojEU8rucBlil3l6QAVc=",
+      "url": "pets\/database\/pet\/FeistyGingerbreadman\/index.html"
+    },
+    {
+      "hash": "sha256-KOGVx3C8taLHDgSmIns26BQ3wvgrdyT7ufLqJ5vjRyk=",
+      "url": "pets\/database\/pet\/FeistyLionCubs\/index.html"
+    },
+    {
+      "hash": "sha256-TzGXKJwccOAEK1eR2oAcDCy5DIg5MGaXMsEr0PPeW08=",
+      "url": "pets\/database\/pet\/Fellhound\/index.html"
+    },
+    {
+      "hash": "sha256-+0Is8+e\/PyEOGUf8OE4tFoVtxSWj1MrgzkqeA4c2B5M=",
+      "url": "pets\/database\/pet\/FennecFox\/index.html"
+    },
+    {
+      "hash": "sha256-YiYDOGnoEkd0Ut5YbYlplw6vdFjslmkJ4b1N2sd4RlI=",
+      "url": "pets\/database\/pet\/Fenric\/index.html"
+    },
+    {
+      "hash": "sha256-JnEpGo0WIcukOu0sGgPN9AIFgginECxgA+tC8wqrc40=",
+      "url": "pets\/database\/pet\/Fenrir\/index.html"
+    },
+    {
+      "hash": "sha256-cqzdHClWBSmt7rs\/piaAuVPhH84phPv9Bjb4MdBEPOo=",
+      "url": "pets\/database\/pet\/Fenris\/index.html"
+    },
+    {
+      "hash": "sha256-+deZwxL+hLb9IJiJApCavHutN71xUOwSjreyLOHmNd0=",
+      "url": "pets\/database\/pet\/FeralZorphie\/index.html"
+    },
+    {
+      "hash": "sha256-3ZsPeFznjx3dRcn47JQ82ddZqlopuTsYiDAPZyMmMT0=",
+      "url": "pets\/database\/pet\/FernLumi\/index.html"
+    },
+    {
+      "hash": "sha256-txObRr+rLjFwU\/nfMt44CpT85+Pl1xb7R\/K\/aFeiFkM=",
+      "url": "pets\/database\/pet\/FervidCrabling\/index.html"
+    },
+    {
+      "hash": "sha256-P0qfDkTC6ivHRDBk1eASwu+nJoFu5UeI6SilTPjLCKM=",
+      "url": "pets\/database\/pet\/FestivePrrresent\/index.html"
+    },
+    {
+      "hash": "sha256-wJtBTFlxe0tI1gZlWYVe2lez2+\/Y8kObNGyHv1XEuQc=",
+      "url": "pets\/database\/pet\/FetchingPetPeeve\/index.html"
+    },
+    {
+      "hash": "sha256-gsIOcqnRj4fbRbmG9RF3eny3KvaI5oZNPcWxVxmTROs=",
+      "url": "pets\/database\/pet\/FiendishFooDog\/index.html"
+    },
+    {
+      "hash": "sha256-JAhzHpL5c+iwAE7oUh9CNnMZoMT84iSAtMNcRz8jHwY=",
+      "url": "pets\/database\/pet\/FierceHound\/index.html"
+    },
+    {
+      "hash": "sha256-mu\/OnJHfcxQH+mq3E\/2Xk4QbZVEMDc0DjIBEq2lt0Ho=",
+      "url": "pets\/database\/pet\/FieryGlowbug\/index.html"
+    },
+    {
+      "hash": "sha256-YE4mzUfTaXH4J1pAs3IEzoNFketJq50xPOKFiVbR7tw=",
+      "url": "pets\/database\/pet\/FieryJudge\/index.html"
+    },
+    {
+      "hash": "sha256-fDnxOuKR0vBR+2CWkoymS\/6rINsIyRtcD1ZtrQRf4bs=",
+      "url": "pets\/database\/pet\/FieryNullDragon\/index.html"
+    },
+    {
+      "hash": "sha256-g61SA73B9vTVxL2CzmC0XKHTQgh4hmHbI4DAYqVUlqs=",
+      "url": "pets\/database\/pet\/FineWoodGolem\/index.html"
+    },
+    {
+      "hash": "sha256-iZBMh+1kbFxFudG+CFcbdzbM+b5cly+A5K1vIYrbB3g=",
+      "url": "pets\/database\/pet\/FinnedAssassin\/index.html"
+    },
+    {
+      "hash": "sha256-X1gQq+m7a3423Cp7GgPdl1ckDOm7yP0fc7ONxA0hiIc=",
+      "url": "pets\/database\/pet\/FireArmaments\/index.html"
+    },
+    {
+      "hash": "sha256-6VsI5sEwmyEGZ1fD4bem8gCsbSb0eL4wUHU4TLzXOmA=",
+      "url": "pets\/database\/pet\/FireBeetle\/index.html"
+    },
+    {
+      "hash": "sha256-+6zOKLz9DJewO05wncGdqDwC9nQQRrtSdcYuo5yFu8k=",
+      "url": "pets\/database\/pet\/FireClassPet72\/index.html"
+    },
+    {
+      "hash": "sha256-IoMxKBZUPvuBuTuHBwdYm2OpW8lvDN4Am\/1ICwFrZWc=",
+      "url": "pets\/database\/pet\/FireClassPet73\/index.html"
+    },
+    {
+      "hash": "sha256-l9VmzLzMdx+kqZ2UjP2d6yMn2p\/mFMMm04a996mzC3w=",
+      "url": "pets\/database\/pet\/FireElf\/index.html"
+    },
+    {
+      "hash": "sha256-qoc4u1e1SML86NzG7HR7bC6w3uj+Kg\/SRRSs3PdFL8c=",
+      "url": "pets\/database\/pet\/FireGnome\/index.html"
+    },
+    {
+      "hash": "sha256-pPQkRApF7Z5MFZNgHpeiE0jz41OA9zHG+VrmCJXkokc=",
+      "url": "pets\/database\/pet\/FireSalamander\/index.html"
+    },
+    {
+      "hash": "sha256-KPW1oa7ngNdS8KYOVAltiCjXTrxIGgLFLM0tzd0AuzE=",
+      "url": "pets\/database\/pet\/FireSerpent\/index.html"
+    },
+    {
+      "hash": "sha256-fXB68s1cIcenCrhIFpRwL38AmeBAFz6nTnlGUjzTLB4=",
+      "url": "pets\/database\/pet\/FireSnowman\/index.html"
+    },
+    {
+      "hash": "sha256-iGY12YoaH+5lflaETMQBqKjAUGxs9mQHlOOXs9ryAjo=",
+      "url": "pets\/database\/pet\/FireWartle\/index.html"
+    },
+    {
+      "hash": "sha256-\/mIHsXz9W51ppNw0SDj\/AuNK8N4eGPWq0jjL1hCM2Co=",
+      "url": "pets\/database\/pet\/FireWyvern\/index.html"
+    },
+    {
+      "hash": "sha256-cBxdTxhzONKifQo8f3xt6QNkwWReh+QvsgdHMiOZbm8=",
+      "url": "pets\/database\/pet\/FireEyeCyclops\/index.html"
+    },
+    {
+      "hash": "sha256-rgvtKOuQ+vQm1UzZyFJtBd+TAHEuomswBlK2S46kvGE=",
+      "url": "pets\/database\/pet\/FireishFrog\/index.html"
+    },
+    {
+      "hash": "sha256-1TkFzp0cuqsW7\/msXrbDMOfamdZbWl4x+SEwDGm7mNA=",
+      "url": "pets\/database\/pet\/Firebat\/index.html"
+    },
+    {
+      "hash": "sha256-OWz8mcJgpDlvwyKJXsV9UtJhpf3Zp4y7\/62iofbFX0M=",
+      "url": "pets\/database\/pet\/Firecat\/index.html"
+    },
+    {
+      "hash": "sha256-KA8QJ9bf+vuNQDTxVEwm5HKUYonRvEotTm\/71ZwKoes=",
+      "url": "pets\/database\/pet\/FirestormQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-pq6AQ+F0sjVvHg3RTQ8io8uI2TN7ANUi\/WagFJtRprs=",
+      "url": "pets\/database\/pet\/Firewalker\/index.html"
+    },
+    {
+      "hash": "sha256-sGyLLpKD1pyS5+8vYP8pWDVxbottn+H3uNPMcQOt9RM=",
+      "url": "pets\/database\/pet\/Firewing\/index.html"
+    },
+    {
+      "hash": "sha256-\/P5mDdy+0H0QZoQynF9i2OTwC5Kn0WoZcsN1GAJkqDs=",
+      "url": "pets\/database\/pet\/Firezilla\/index.html"
+    },
+    {
+      "hash": "sha256-ti1wKlH90MlgOLGO7h8r\/c+P0evcI78nu6Fm7BbEuy0=",
+      "url": "pets\/database\/pet\/FirstMateOtter\/index.html"
+    },
+    {
+      "hash": "sha256-GP9UEEjjO8k+0xcgbMIwDyhwxBP0r0GMJLE8IHCnNyw=",
+      "url": "pets\/database\/pet\/FlameToad\/index.html"
+    },
+    {
+      "hash": "sha256-Kzq9L9XT9YOtrtS96bCplBqm+XT+AMbUsudSqO6EYjA=",
+      "url": "pets\/database\/pet\/FlamedanceSeraph\/index.html"
+    },
+    {
+      "hash": "sha256-jOXPhU96t60pxgckE7rrjKbq4mvZS8Z2O2drLMKvNLs=",
+      "url": "pets\/database\/pet\/FlamencoBailador\/index.html"
+    },
+    {
+      "hash": "sha256-dbQ4TUTuDS1V6+kvTNklTGttGNuIPeJfSKz64oVR3XY=",
+      "url": "pets\/database\/pet\/FlamencoCantador\/index.html"
+    },
+    {
+      "hash": "sha256-tZv7OLL5nOaWLO2wvGAX5KDF8oK9TDkTK97v03pSJJc=",
+      "url": "pets\/database\/pet\/FlamencoTocador\/index.html"
+    },
+    {
+      "hash": "sha256-z0pV9K\/UwaTRjHUSrHBMiufT6CxTM4j47i3npoU+yzA=",
+      "url": "pets\/database\/pet\/FlamencodelMuerto\/index.html"
+    },
+    {
+      "hash": "sha256-SZEjLX5QybQKp5\/1Ktdrjo6xWGzSuvABPNhdjWV8U2w=",
+      "url": "pets\/database\/pet\/Flamezilla\/index.html"
+    },
+    {
+      "hash": "sha256-aqOxfNG7dIIHEUqytLAvd\/7FibExLq0TdS07d7BVAY0=",
+      "url": "pets\/database\/pet\/Flarewolf\/index.html"
+    },
+    {
+      "hash": "sha256-ZnAiokd\/4YncfSh9pljFyDkzFicViY4Y2RxWgkK\/1uE=",
+      "url": "pets\/database\/pet\/Florossus\/index.html"
+    },
+    {
+      "hash": "sha256-ardyNrijuAb45lwXlXoc3DC9jCHsvLfsI7QoxxTS8CU=",
+      "url": "pets\/database\/pet\/FlurryFairy\/index.html"
+    },
+    {
+      "hash": "sha256-oN6bp+cpCiG1ABB0eeD+mamLt0Ta87I0IwJvVNgjO\/s=",
+      "url": "pets\/database\/pet\/FlyingSquirrel\/index.html"
+    },
+    {
+      "hash": "sha256-65K8r2bAQb11Wpo57j9bar5THzUA0qt3eTcbPXCS\/2A=",
+      "url": "pets\/database\/pet\/FogUnicorn\/index.html"
+    },
+    {
+      "hash": "sha256-aaLGYG4657AXTmIrRgwBcqKvlxjSyha0qwOhgRBN24M=",
+      "url": "pets\/database\/pet\/ForestBasilisk\/index.html"
+    },
+    {
+      "hash": "sha256-pw3sIWmQU64aEhYc2zWSGdmmo4+u8p5Bz1YTwtt9ddU=",
+      "url": "pets\/database\/pet\/ForestBeast\/index.html"
+    },
+    {
+      "hash": "sha256-ph0UQMrxZUif9RIq7r6OpaTabI18qJDc312sDlv6LZc=",
+      "url": "pets\/database\/pet\/ForestCrawler\/index.html"
+    },
+    {
+      "hash": "sha256-Fr29ZT0lQckYL4nQ1pl8gNa3kXX9RElOUsAJ5CXtHjc=",
+      "url": "pets\/database\/pet\/ForestCyclops\/index.html"
+    },
+    {
+      "hash": "sha256-+iunVflbX65\/bV1yVwcHoIV0HajARwGP\/jnNLTSXT8c=",
+      "url": "pets\/database\/pet\/ForestLord\/index.html"
+    },
+    {
+      "hash": "sha256-zFSmKxGZI5ynESQ\/9COBQVijKAw8VEr2qf84ayrdC9s=",
+      "url": "pets\/database\/pet\/ForestOni\/index.html"
+    },
+    {
+      "hash": "sha256-xuFMVlwfKQgN+IrpDxfl4NVF+A1PhAATDp82BPfXCBg=",
+      "url": "pets\/database\/pet\/ForgeGoblin\/index.html"
+    },
+    {
+      "hash": "sha256-jKXNR21f9iz+HFNWXcWQ+uRtxP9m2WKMpDVeoxcotow=",
+      "url": "pets\/database\/pet\/ForgottenGrimoire\/index.html"
+    },
+    {
+      "hash": "sha256-qBQ56we5nPRJjf2xGHEaha+y9RhTjF0DJoyI8zZe\/NY=",
+      "url": "pets\/database\/pet\/ForlornSabertooth\/index.html"
+    },
+    {
+      "hash": "sha256-ya2Bng6jKNHktmhdxvRM0bLiVKt+0xZt6VRwSniM5Q0=",
+      "url": "pets\/database\/pet\/Fossa\/index.html"
+    },
+    {
+      "hash": "sha256-5p\/lFaRvqKZbf83sWrN71bx+5yP+Hm4tzBj\/F8IjWAg=",
+      "url": "pets\/database\/pet\/FoxyDragon\/index.html"
+    },
+    {
+      "hash": "sha256-PLLMlxZefuYbIJfrHBv5BjE4W\/rC90H4WA4EUmMqO88=",
+      "url": "pets\/database\/pet\/FragmentedDragon\/index.html"
+    },
+    {
+      "hash": "sha256-cl0fbcxWt5uyKBj\/xP0mu9KLrQOi+1RIrotig8L0+6s=",
+      "url": "pets\/database\/pet\/Frankenbara\/index.html"
+    },
+    {
+      "hash": "sha256-WQ1Sg0FwIiqMBf1hlBI+1iT8S5Oe23\/coKYgz+6\/Gg0=",
+      "url": "pets\/database\/pet\/Frankenbunny\/index.html"
+    },
+    {
+      "hash": "sha256-NKwuy2V5xSP+cO2cIoXDCf5D7mLOiqk91jBEpdul0bQ=",
+      "url": "pets\/database\/pet\/FrankenbunnyBride\/index.html"
+    },
+    {
+      "hash": "sha256-oO6oo73RjCvnJOanAUuK9b3ErCFWG6O2aupfVHyYU3A=",
+      "url": "pets\/database\/pet\/FrankieForearms\/index.html"
+    },
+    {
+      "hash": "sha256-t\/mtRWnEcHrwayvbXBpL00pPGNQnR0yA7W5zApRtQDc=",
+      "url": "pets\/database\/pet\/FreckledPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-\/TX95G2rio\/cwtt1qbw\/GLrdPZCE\/Tjgk+12RlLBkkY=",
+      "url": "pets\/database\/pet\/FreezingRainCore\/index.html"
+    },
+    {
+      "hash": "sha256-dWJaJkvahaat9W4lk4sZ6SsIl\/ro4DmyQuBirTCG5hk=",
+      "url": "pets\/database\/pet\/FrenziedShark\/index.html"
+    },
+    {
+      "hash": "sha256-RA7VleiwijX+aPGPuiVhJ7lWFcZZCiR5+9G\/Q\/cl4eU=",
+      "url": "pets\/database\/pet\/FriendlyDragon\/index.html"
+    },
+    {
+      "hash": "sha256-dXTO2nZ1HLlfZA2fQ0gHWnyBZ6M4ulUnJ6C5dtsflLg=",
+      "url": "pets\/database\/pet\/FriendlyFalcon\/index.html"
+    },
+    {
+      "hash": "sha256-qTYgECwPIaKBUxfDScAFLZSTBwACoaT9YV21sFMOcQI=",
+      "url": "pets\/database\/pet\/FriendshipFluffle\/index.html"
+    },
+    {
+      "hash": "sha256-H9HrzJBBNMG4hbLi\/k8PoFYkoRyLH4SpJhZVEt1iHgw=",
+      "url": "pets\/database\/pet\/FriendshipOni\/index.html"
+    },
+    {
+      "hash": "sha256-hvP2n4mexfvtCpdrW2VKCj2P18u0Sp1NfUvH3rLRkHo=",
+      "url": "pets\/database\/pet\/FrigidElf\/index.html"
+    },
+    {
+      "hash": "sha256-njQNV9HvEjFGkRmGvGIpiLq9gcptbp6s2KEQnluynSE=",
+      "url": "pets\/database\/pet\/FrigidFiend\/index.html"
+    },
+    {
+      "hash": "sha256-Ipar\/PFZDL5ckeBPL\/UznRYbF5cXmeso\/vPdpTAsklE=",
+      "url": "pets\/database\/pet\/FrigidKrokomummy\/index.html"
+    },
+    {
+      "hash": "sha256-8izY28lI1bZJO4EwGjn3G37amIi7OzKYGq1jTQki7pA=",
+      "url": "pets\/database\/pet\/FrigidNullDragon\/index.html"
+    },
+    {
+      "hash": "sha256-rxsu4W7r7f5aGGW27OVQTJ0wQZ3P+wL3y78Mia4SK7M=",
+      "url": "pets\/database\/pet\/FrigorificColossus\/index.html"
+    },
+    {
+      "hash": "sha256-k7TCvdjjkgyM2p9O3+qINzeOHefGO0sE8MtnJIb7MPg=",
+      "url": "pets\/database\/pet\/FrilledLizard\/index.html"
+    },
+    {
+      "hash": "sha256-o9JX4qLCPRkBIbs+HetfSLB9n8sClPWT2O3OxOucVbQ=",
+      "url": "pets\/database\/pet\/Frog\/index.html"
+    },
+    {
+      "hash": "sha256-1KKN3pwdS7lv20IkmRCEDdSGOGlhKc0WUX0ivG3ZIHI=",
+      "url": "pets\/database\/pet\/FrontierDragon\/index.html"
+    },
+    {
+      "hash": "sha256-dMTES0F6aOvdiP9EYIWOW52hRV\/xsGtgYh\/uQicGXEQ=",
+      "url": "pets\/database\/pet\/FrostBeetle\/index.html"
+    },
+    {
+      "hash": "sha256-eiEsdEwWAdMyPBXYCri4JJ2WLd18aB4fLdVKqPJwzX0=",
+      "url": "pets\/database\/pet\/FrostCat\/index.html"
+    },
+    {
+      "hash": "sha256-E4bdOhQZ7lVA5WedCtpybvdIjUAbAEktQiJSjJipIEk=",
+      "url": "pets\/database\/pet\/FrostHound\/index.html"
+    },
+    {
+      "hash": "sha256-MP0c4RQarLafSC6hgcAjv6bqTYDjPbZnoI1CCD2B6hw=",
+      "url": "pets\/database\/pet\/FrostboundGrimhorn\/index.html"
+    },
+    {
+      "hash": "sha256-Ninnf\/id\/uutcDPBtobH6W8uZbf9zBKempvgJoVejpg=",
+      "url": "pets\/database\/pet\/Frostcaller\/index.html"
+    },
+    {
+      "hash": "sha256-SbQPEAbRb8rW2Xib3MCRo6xrvj77cHSYfSuVbWKcQ3E=",
+      "url": "pets\/database\/pet\/Frostfang\/index.html"
+    },
+    {
+      "hash": "sha256-0\/53HNV632vAn3agi0pcOP3MBUCIx2eqlg4DsHBBXLc=",
+      "url": "pets\/database\/pet\/Frosthopper\/index.html"
+    },
+    {
+      "hash": "sha256-kP+hufWI7czZBKz463VrSAvZOo9uieQG9Y5aKr4NUoE=",
+      "url": "pets\/database\/pet\/Frostlord\/index.html"
+    },
+    {
+      "hash": "sha256-\/RH6FhctoltcLdtEoN6xFtsvsuu90Vlf7VIlyPnNcpU=",
+      "url": "pets\/database\/pet\/Frostman\/index.html"
+    },
+    {
+      "hash": "sha256-1o067dofb5vmWvQ9SFmt32ys\/LuCsne7+iSmVUcrYJ0=",
+      "url": "pets\/database\/pet\/FrostyEye\/index.html"
+    },
+    {
+      "hash": "sha256-30t3n73c8Vhv0mAcr2qfTNKcIDm\/BuygliRJ9seT1SU=",
+      "url": "pets\/database\/pet\/FrostyFish\/index.html"
+    },
+    {
+      "hash": "sha256-Df4Fa9fbSr6pHuWZsZGsceE24mosC9pSJmsqgP19WDg=",
+      "url": "pets\/database\/pet\/FrostyKrokomummy\/index.html"
+    },
+    {
+      "hash": "sha256-XtE+ehBrVt+82Tv9PRPIdEtvhoNhnpzgMs\/nGC6wusM=",
+      "url": "pets\/database\/pet\/Frostzilla\/index.html"
+    },
+    {
+      "hash": "sha256-BXtAJnKQnlBK+FoYTmXAWN+dFz+Qz+kicGATF1acgjc=",
+      "url": "pets\/database\/pet\/Frostzilla(Retired)\/index.html"
+    },
+    {
+      "hash": "sha256-t6LbqRuUbtWyjdj5F1\/fFiywkzU5v2F+bvDCHjWTdXE=",
+      "url": "pets\/database\/pet\/FrozenCat\/index.html"
+    },
+    {
+      "hash": "sha256-e512NtXlz9AkMBm5jkmCKg5qw7ZrIlufagXmGd7ZOaY=",
+      "url": "pets\/database\/pet\/FrozenPetPeeve\/index.html"
+    },
+    {
+      "hash": "sha256-Tmszu+ZdsscOOGWQolkwbGDIE9kFVZiE140rl0Z4MQs=",
+      "url": "pets\/database\/pet\/FuchsiaPixie\/index.html"
+    },
+    {
+      "hash": "sha256-T2FEbDYf65n3mnI\/jT2Kw2vk1Oyfhv1UDZ5RfYbrJLs=",
+      "url": "pets\/database\/pet\/FulminatingMedusa\/index.html"
+    },
+    {
+      "hash": "sha256-0H92vQmdeINyVx\/12eadiU1FjS\/AtlRvHavkcHiSb6U=",
+      "url": "pets\/database\/pet\/FunDragon\/index.html"
+    },
+    {
+      "hash": "sha256-F3BQnRJ8qvjEnmEipJ1IbuSHVVSSkoO3\/y6R\/8wxKXk=",
+      "url": "pets\/database\/pet\/FunGuy\/index.html"
+    },
+    {
+      "hash": "sha256-wpGnDt5WVRXPwMvEz\/quWYDxrRUTC18J7QLjtOPRM3E=",
+      "url": "pets\/database\/pet\/FunkyPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-ajKRg\/eDbY3OD9A14IaSJDMCTucFo2HpW1TSZ0I5gmE=",
+      "url": "pets\/database\/pet\/FuriousKrokomummy\/index.html"
+    },
+    {
+      "hash": "sha256-67vWNp2LEYnU4KQ\/Ge\/6jgV2U4HoU5mrZA2DWUdJNks=",
+      "url": "pets\/database\/pet\/FurnaceGolem\/index.html"
+    },
+    {
+      "hash": "sha256-kqndoyqFlR88jGIqibxngpgLbtsEwEuyp90JacKCrMg=",
+      "url": "pets\/database\/pet\/GaleQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-r3C2bxtm6BzUMALSvGJtgRBbb8pa3veYuqWz9ccWRq0=",
+      "url": "pets\/database\/pet\/GallantBull\/index.html"
+    },
+    {
+      "hash": "sha256-JziyGCnsGMw8vLSMTwR1gbKJjXkqhgs7S21B2zYoREc=",
+      "url": "pets\/database\/pet\/GamerPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-7H8c+jPOCksPkJCqhz7729wz8eZAWfxhDXmv4Ia5irU=",
+      "url": "pets\/database\/pet\/Genie\/index.html"
+    },
+    {
+      "hash": "sha256-Sh6FrPv3C\/cMuGjH8BxpWhX2ZDU+O7feTALDe\/i6Clw=",
+      "url": "pets\/database\/pet\/Ghast\/index.html"
+    },
+    {
+      "hash": "sha256-CvdjYDN9wW7ESuG9GOQAyvqiSuxULjEGn3RWeA5k\/ng=",
+      "url": "pets\/database\/pet\/GhastlyOpossum\/index.html"
+    },
+    {
+      "hash": "sha256-G1JxgUTSB+n0JgsLZGHcSzU4ZaHPZYoluitQzxevPx4=",
+      "url": "pets\/database\/pet\/GhostDragon\/index.html"
+    },
+    {
+      "hash": "sha256-iYBuC88OIrIg2lgm+Zl+wQAdaxdneuNmndrDdGrCTVE=",
+      "url": "pets\/database\/pet\/GhostHound\/index.html"
+    },
+    {
+      "hash": "sha256-Cd6ZQ7zbAk77046i2Q9LFXTNbLxfkHIuwPwvKoFKrA0=",
+      "url": "pets\/database\/pet\/Ghoul\/index.html"
+    },
+    {
+      "hash": "sha256-QP3\/OGTYMl2bfmq5CTna\/FzQmBrLv2CM\/5MXMjZ7g+s=",
+      "url": "pets\/database\/pet\/GhoulishMacawbre\/index.html"
+    },
+    {
+      "hash": "sha256-3kq+Hd\/bJIZnup7uUtQ0\/h2gqprPuk9l5O2RNjjohZo=",
+      "url": "pets\/database\/pet\/Ghulture\/index.html"
+    },
+    {
+      "hash": "sha256-akV8yKQid9I\/5cH5MHPzE9I1nOpj18E1kd7crE4xzIc=",
+      "url": "pets\/database\/pet\/GildedSkeleton\/index.html"
+    },
+    {
+      "hash": "sha256-7D\/F6M5gg92PQieT\/yD7SAgadEwxXTa3g6wwlbMqIJU=",
+      "url": "pets\/database\/pet\/Giraffe\/index.html"
+    },
+    {
+      "hash": "sha256-JGV3Sr1QmM07NkzvOh1rF43tWVN2w6rOH2NxoNKia0k=",
+      "url": "pets\/database\/pet\/GlacialElf\/index.html"
+    },
+    {
+      "hash": "sha256-CAljXxkBvUpmkWcAaPsyMK6jSwHehyysNgPE82jVtNs=",
+      "url": "pets\/database\/pet\/GlacierCat\/index.html"
+    },
+    {
+      "hash": "sha256-1zGhZnZj0wmsPpHmwRtIDrHjUeWigiVvIU4vxPhgoGk=",
+      "url": "pets\/database\/pet\/GlacierDragon\/index.html"
+    },
+    {
+      "hash": "sha256-M5tsgdMKsT5IxVypwnGnnB4gBOjTocWhXw+vQtfhmXg=",
+      "url": "pets\/database\/pet\/GloomToad\/index.html"
+    },
+    {
+      "hash": "sha256-pinCC2jfUTRaJPQJBSfRkg+XfkmuAdwHZs0tNP9cFes=",
+      "url": "pets\/database\/pet\/GloomyEye\/index.html"
+    },
+    {
+      "hash": "sha256-pSGZyELyTRjziBeQhKuTVlLLAXZaz2vOmKpbZF0B6uA=",
+      "url": "pets\/database\/pet\/GloomyGoatling\/index.html"
+    },
+    {
+      "hash": "sha256-8NE3KCKI4MpfXQqGyCs4BsQm4yGczBCZuG5fm598DaI=",
+      "url": "pets\/database\/pet\/GloomyShark\/index.html"
+    },
+    {
+      "hash": "sha256-EVCrZMcdGs71jf7JP9UazEqrSVKtSBZFEQd6gCX28Oo=",
+      "url": "pets\/database\/pet\/GlumGoatling\/index.html"
+    },
+    {
+      "hash": "sha256-TKMaCxKHpP0RMK1f+ZO7UJD7G1eegMWpwTh\/c0HuIX8=",
+      "url": "pets\/database\/pet\/Gnome\/index.html"
+    },
+    {
+      "hash": "sha256-9v3Az\/2SnXo00r4\/JOJsasD3NR5VyC20It97LndHBXI=",
+      "url": "pets\/database\/pet\/GoatMonk\/index.html"
+    },
+    {
+      "hash": "sha256-oFI3TV9JHjljimVdOtXaiv7o2cGjdxfnJRO7jfzeW7k=",
+      "url": "pets\/database\/pet\/GobOLantern\/index.html"
+    },
+    {
+      "hash": "sha256-Yh2qX9GAV7YrgtKwcxKm6iSeJhjyT+Oe309hLyBx8p4=",
+      "url": "pets\/database\/pet\/GobblerBall\/index.html"
+    },
+    {
+      "hash": "sha256-jJuQW3EfimHVJD\/MkPldxEjA0Pnu4JBGBJCeiumhL8o=",
+      "url": "pets\/database\/pet\/GoldenAppleBrudel\/index.html"
+    },
+    {
+      "hash": "sha256-kuZh+nJFX5lYMLpW13A1r9iFK0VDKBIlsbbGj6TPLHo=",
+      "url": "pets\/database\/pet\/GoldenGoose\/index.html"
+    },
+    {
+      "hash": "sha256-dEbMwrhICCUCkiJ25Pb7EIFyT0HCmn\/zqCsWhBJtgJc=",
+      "url": "pets\/database\/pet\/GoldenPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-t0aHkJVmnZ8+V9VQ2tEyhEd0BTT\/KAxUCeLIzgjyjR8=",
+      "url": "pets\/database\/pet\/GoldenRam\/index.html"
+    },
+    {
+      "hash": "sha256-tlrTdMiDxTMqwzNakBqGpIYp8qde51HzPefX6Gtrrl4=",
+      "url": "pets\/database\/pet\/GoldenSun\/index.html"
+    },
+    {
+      "hash": "sha256-4cVxHjqCOd0LbX1TmG4v9StmUoXMChaQmuxG6v4UqcY=",
+      "url": "pets\/database\/pet\/GrandpaPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-l9crb4nTSR1vo0HOXDfXk\/gdj6i30Dz2\/McuPSy3yeI=",
+      "url": "pets\/database\/pet\/GraveCrabling\/index.html"
+    },
+    {
+      "hash": "sha256-2Ubb6Zf7XwueyhqLm1aEY+1+pZ2xLmS7oWpy+4kEHP4=",
+      "url": "pets\/database\/pet\/GraveQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-ObHiPfWmPLcAe\/rlDMXJ0eRN1sbDbTcUFvEIWJY6ip8=",
+      "url": "pets\/database\/pet\/GraveRat\/index.html"
+    },
+    {
+      "hash": "sha256-2hzIJgHZTlZfeVtzwzQaT2J\/2Ytj8Bo\/fNhgXFTUhBc=",
+      "url": "pets\/database\/pet\/GraveyardGnome\/index.html"
+    },
+    {
+      "hash": "sha256-E7Fw+odWFbPZ2WVHpM6LafiGnU8F+R3aZuvowCp4cXg=",
+      "url": "pets\/database\/pet\/GreaterImp\/index.html"
+    },
+    {
+      "hash": "sha256-y22kMZe1yZTX0Wd+HinvTt1UH\/A5gWFP5woT26m2pfU=",
+      "url": "pets\/database\/pet\/GreenAppleBrudel\/index.html"
+    },
+    {
+      "hash": "sha256-lkO6SgIqu6VYcsUrcLh1PsYfty3cKiocwQBYFIcGMVU=",
+      "url": "pets\/database\/pet\/GreenCatThug\/index.html"
+    },
+    {
+      "hash": "sha256-w0mLwZO3RDP81kp8Ay6WrjIG+RpfJe+RymNgQ0Avkzw=",
+      "url": "pets\/database\/pet\/GreenGhost\/index.html"
+    },
+    {
+      "hash": "sha256-npOuJ8k6ocAnLafGszEsLExYBU7\/LBiNl6+949OexsM=",
+      "url": "pets\/database\/pet\/GreenGlobulin\/index.html"
+    },
+    {
+      "hash": "sha256-WvZE+YQtV6evB1syFwzZM3jrBk5BhzsLh685pRO9qkM=",
+      "url": "pets\/database\/pet\/GreenSpider\/index.html"
+    },
+    {
+      "hash": "sha256-xYYjh7qHKPpxL4UbODDth4yfF76GGR\/J4jyl9j7p76I=",
+      "url": "pets\/database\/pet\/GreenmanSapling\/index.html"
+    },
+    {
+      "hash": "sha256-jysSbFvK+gL6HZITSVZHNR+Ka4kVHOV\/cIlxMYgzr7U=",
+      "url": "pets\/database\/pet\/GrimGoatling\/index.html"
+    },
+    {
+      "hash": "sha256-YJGUNTJKdWPMGEajZm5ROhAkSdkf0D+koKZIUjRtKaE=",
+      "url": "pets\/database\/pet\/GrimScarab\/index.html"
+    },
+    {
+      "hash": "sha256-JTUJZQ\/7VC5oLqFocUSh8dAIg\/3qEj29CtjhO63Bohc=",
+      "url": "pets\/database\/pet\/GrimSqueaker\/index.html"
+    },
+    {
+      "hash": "sha256-JvzbFGMt38yXiqtvZx6JDPrGIlm2wLufDBoEwea79Mg=",
+      "url": "pets\/database\/pet\/GrimdarkGolem\/index.html"
+    },
+    {
+      "hash": "sha256-WOBupsclEUwcRRpPYQsq0qt5HQ\/XQ3fpKHAHCE9nhj4=",
+      "url": "pets\/database\/pet\/Grimstare\/index.html"
+    },
+    {
+      "hash": "sha256-99K5\/hct8J4YsLkdLkk\/nSX9RBUrCgN8xyqZFO\/Qh1M=",
+      "url": "pets\/database\/pet\/Grimtooth\/index.html"
+    },
+    {
+      "hash": "sha256-H34BDW\/q38QI+bK7X+Ofy56XdB11rqFOqtG0yDlshlM=",
+      "url": "pets\/database\/pet\/Grimzilla\/index.html"
+    },
+    {
+      "hash": "sha256-k4bS120jMyw6kyvrxbkhUXq6nZToS901Ig\/2QtNRxso=",
+      "url": "pets\/database\/pet\/GrizzleyBoar\/index.html"
+    },
+    {
+      "hash": "sha256-UdtlA+0shF8aeEgWo2mKr6hL9bY0B7caiKTdq1aJdpo=",
+      "url": "pets\/database\/pet\/Groundhog\/index.html"
+    },
+    {
+      "hash": "sha256-lmH+vvHRDqQjNH4x0ok+xkDJnOF\/sR3g7UnBuspJKkU=",
+      "url": "pets\/database\/pet\/GroveUnicorn\/index.html"
+    },
+    {
+      "hash": "sha256-SrqYZU+IqK2Jfpzda8zGayTD\/nBxPyZWxWPz0sB2zUA=",
+      "url": "pets\/database\/pet\/GrumpyGingerman\/index.html"
+    },
+    {
+      "hash": "sha256-AFXBrTyQ7fNcilUfxXobzWP7N0S9aM9sJB7PFRWOWxY=",
+      "url": "pets\/database\/pet\/GrumpySnowman\/index.html"
+    },
+    {
+      "hash": "sha256-50vcSeudmKFgnoqcBNIoEyekKU9ygsOB+5dXluJeGt0=",
+      "url": "pets\/database\/pet\/GuardianDragon\/index.html"
+    },
+    {
+      "hash": "sha256-1hG6h5AeJvkrfULUqCflZtskisjcN2ZLXjfYtTW2Lw0=",
+      "url": "pets\/database\/pet\/GuardianFooDog\/index.html"
+    },
+    {
+      "hash": "sha256-K6XdXA4ebmlqbpqU0UBNuGsNElzgRrX0MKf+U8ulv8M=",
+      "url": "pets\/database\/pet\/HailQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-1Y07Td9w\/WDtp72DowGa7LgDRk2SVGXErb4H24kmOPo=",
+      "url": "pets\/database\/pet\/HaleHydra\/index.html"
+    },
+    {
+      "hash": "sha256-gXBLCMKpxfUG9gwMQRlzpOB8PizKNr2ERXpiMm5FKKc=",
+      "url": "pets\/database\/pet\/HallMinotaur\/index.html"
+    },
+    {
+      "hash": "sha256-dvVJ2mp5RSI\/RDV2Sg\/xf6i273mX\/NOW3caFaQLP1II=",
+      "url": "pets\/database\/pet\/HandsomePegasus\/index.html"
+    },
+    {
+      "hash": "sha256-lGoXNmp5efcmroEEFmaM1ok5H+9j92Zqm2w2YAKZAlY=",
+      "url": "pets\/database\/pet\/HappyJackal\/index.html"
+    },
+    {
+      "hash": "sha256-iH747+rhzsariBGunjNbtk\/Li0mnhL9yYPgUQaMDL3Y=",
+      "url": "pets\/database\/pet\/HappyPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-zp2ys30TbOQThsYixBw0j1Rt\/WmEo0G944IJmO9CtDk=",
+      "url": "pets\/database\/pet\/HarmonicCyclops\/index.html"
+    },
+    {
+      "hash": "sha256-ss0YSyuV+hfUC\/VjiMkLPUYHCML9xxqwHofXhhWWpTU=",
+      "url": "pets\/database\/pet\/HarmonicHowler\/index.html"
+    },
+    {
+      "hash": "sha256-3zn+3TInM6CUN4smDqJbQ2ry6CKrA\/Sj09KcqexMCJI=",
+      "url": "pets\/database\/pet\/HarmonicQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-Wta4UzbhCOk3TZn3D+aEIC0it8gkSb3FsPStI2yhPxw=",
+      "url": "pets\/database\/pet\/HarmoniousBaaterfly\/index.html"
+    },
+    {
+      "hash": "sha256-wG8EIRT+BhiJM4kWQzBn4BlCckfI2wy6h2EML9RNdH8=",
+      "url": "pets\/database\/pet\/HarmoniousSprite\/index.html"
+    },
+    {
+      "hash": "sha256-FiClqdJTYu6GH9KEQ6DkSmjdAmoCzry+Vm8BtCukA\/4=",
+      "url": "pets\/database\/pet\/Harpy\/index.html"
+    },
+    {
+      "hash": "sha256-OHwqHez3HtQWWrLesgxlE6CU\/CowDImwiTad6z1Odco=",
+      "url": "pets\/database\/pet\/HarrowedBones\/index.html"
+    },
+    {
+      "hash": "sha256-g6tIQtaHeaA8LAiMtaVyeIWpuCX9YJqmOJ1QFGgjbGs=",
+      "url": "pets\/database\/pet\/Haunttoman\/index.html"
+    },
+    {
+      "hash": "sha256-TL98GU7uqIteraSt82Hj6nDENf07+c6O92xF\/zmkBAo=",
+      "url": "pets\/database\/pet\/HeartyCrabling\/index.html"
+    },
+    {
+      "hash": "sha256-r7qRS9D5MX6J6jlsT3\/naO6G4QKm4EueRlPF+\/vhEwY=",
+      "url": "pets\/database\/pet\/HeartyPegasus\/index.html"
+    },
+    {
+      "hash": "sha256-8GpAQqWO+G5Bu2i+MYVeD098hH2XMQ3XviuXgyOW0ww=",
+      "url": "pets\/database\/pet\/Heckhound\/index.html"
+    },
+    {
+      "hash": "sha256-CoKxtBL55IRdlZIiO5iAaXnn0oXWDgQCqBn6ebsA70Y=",
+      "url": "pets\/database\/pet\/Helephant\/index.html"
+    },
+    {
+      "hash": "sha256-T2M3uSJnKKZv2HqEMIUi6Iy+zoy+lQ7ids5ZHw8milE=",
+      "url": "pets\/database\/pet\/Helion\/index.html"
+    },
+    {
+      "hash": "sha256-4JdxKJMcyua+lFpu5ioKiqX4O2zwUC5Sr99YhGD7H\/E=",
+      "url": "pets\/database\/pet\/HelpfulWildclaw\/index.html"
+    },
+    {
+      "hash": "sha256-BM6eF5HuqtvkjpaUH3b9wpg7eKWGEcjpD6SV0Iix5uA=",
+      "url": "pets\/database\/pet\/HeroPig\/index.html"
+    },
+    {
+      "hash": "sha256-iqZJl2cIAATgZJuNEc3LEVgw\/YvgeWMjZf9dltk8dpw=",
+      "url": "pets\/database\/pet\/HipCorgi\/index.html"
+    },
+    {
+      "hash": "sha256-QBVryirtFhorgIsEhLv6h7PvtYb+gqWh6Zr2RvgUWKA=",
+      "url": "pets\/database\/pet\/Hippo\/index.html"
+    },
+    {
+      "hash": "sha256-e+CLyTxyuv7NnJGsBTd\/R5cqzaSnyfVWEMp+MppX1eo=",
+      "url": "pets\/database\/pet\/HolidayHoppers\/index.html"
+    },
+    {
+      "hash": "sha256-ybm6Emduxb8pyQ4sIo3nb4ezDuwKNdYi6\/CQVJJOu9Q=",
+      "url": "pets\/database\/pet\/HollowKnight\/index.html"
+    },
+    {
+      "hash": "sha256-PhHCjkR4LuzxYVzvWijbHr9C4wjL61fnjayOueBoRHg=",
+      "url": "pets\/database\/pet\/HollyJollyPenguin\/index.html"
+    },
+    {
+      "hash": "sha256-uR7mvzyWwdB3gdShyaJ41RXquwN6Uxuq\/MjYWZclyKI=",
+      "url": "pets\/database\/pet\/HornedMonkeySpider\/index.html"
+    },
+    {
+      "hash": "sha256-6kGZMZQMh0AaJHqbQSq+BeaSo6\/YTem4Yw1RQmj0k9s=",
+      "url": "pets\/database\/pet\/Hotzilla\/index.html"
+    },
+    {
+      "hash": "sha256-EpCktHjxL7f9HNRUcU5v4v3CvVexzDzhjVRuR\/khRMI=",
+      "url": "pets\/database\/pet\/HulkingCyclops\/index.html"
+    },
+    {
+      "hash": "sha256-FQp\/gYEQpprkH\/JeXtQYR8x1eoDJ\/tEiKGZIUJ\/cF60=",
+      "url": "pets\/database\/pet\/Hummingbird\/index.html"
+    },
+    {
+      "hash": "sha256-Mf0stV99KfKATmHD73oTQnn7FMPZDBbLtAf7pr090rc=",
+      "url": "pets\/database\/pet\/Humongofrog\/index.html"
+    },
+    {
+      "hash": "sha256-e7mKHi999ncsRtRFyc6WkX1Y0KwxqZ+jhjIwhnSfqsU=",
+      "url": "pets\/database\/pet\/HungryFlytrap\/index.html"
+    },
+    {
+      "hash": "sha256-h+sAyOHtmYtUhRbYqXUsI6EcfRAeLNL0cJjZoZZN1qM=",
+      "url": "pets\/database\/pet\/HuntersHound\/index.html"
+    },
+    {
+      "hash": "sha256-VUXKA93PwdysmSkCiltcIk4V6G8VgQIRHzCskzy\/9a0=",
+      "url": "pets\/database\/pet\/Hurricanine\/index.html"
+    },
+    {
+      "hash": "sha256-n1CVQn\/BNdUMRb2iDofy6MK1XY0BbMo4mQsjUvOjFr8=",
+      "url": "pets\/database\/pet\/Hurricolossus\/index.html"
+    },
+    {
+      "hash": "sha256-tpbAd5u7ylWRu7di0YQXmiq5winMb6jqr0j5CjBpOLQ=",
+      "url": "pets\/database\/pet\/Hydra\/index.html"
+    },
+    {
+      "hash": "sha256-vCUyBczImDefXylh3MbKIUHgqGnpvzfvhFob5MtBOII=",
+      "url": "pets\/database\/pet\/IanthineHound\/index.html"
+    },
+    {
+      "hash": "sha256-HZSZ6S0248fMEi3tMlirny2p8cGO6Q4QECC7pB9O+Zw=",
+      "url": "pets\/database\/pet\/IanthineSpectre\/index.html"
+    },
+    {
+      "hash": "sha256-IMbqkU6NQWAfjcr\/gaVUez+xfY9WnlqV3gY+K\/Drm2M=",
+      "url": "pets\/database\/pet\/IceArmaments\/index.html"
+    },
+    {
+      "hash": "sha256-OiiaBxLlik0ZImOq0a+7JGXQFwHYb1Mt+uv68orVVZ0=",
+      "url": "pets\/database\/pet\/IceBird\/index.html"
+    },
+    {
+      "hash": "sha256-EfJo5WQDijti8WAhoI3vgOkUBIv+53IkQkYhuP0O6z4=",
+      "url": "pets\/database\/pet\/IceCat\/index.html"
+    },
+    {
+      "hash": "sha256-f5GzqAOTRlM4PgzwRYIW5AJm8bQDOLHUQTqcOpjHFcE=",
+      "url": "pets\/database\/pet\/IceClassPet72\/index.html"
+    },
+    {
+      "hash": "sha256-AmFjz5X4JhreJYo0pEksQL1dfOaH5IpGR2BnCA3Xzak=",
+      "url": "pets\/database\/pet\/IceClassPet73\/index.html"
+    },
+    {
+      "hash": "sha256-jinCHAdAlMXjLf7WgouaQg6zJxld7W7xab0zekTVOMo=",
+      "url": "pets\/database\/pet\/IceColossus\/index.html"
+    },
+    {
+      "hash": "sha256-98HijLCHUMyIdcFYFvzZ33+k3WYmOejVeSYpgheUeXg=",
+      "url": "pets\/database\/pet\/IceElf\/index.html"
+    },
+    {
+      "hash": "sha256-sHTcztX7EDoeySXBWX0tnj7gJ1Cz\/JBspv4jD+RUqLo=",
+      "url": "pets\/database\/pet\/IceFloeSiren\/index.html"
+    },
+    {
+      "hash": "sha256-oSPoZIdnLD9073mZ2bNnlG9o8PgV4\/Awy0uSCY5xopY=",
+      "url": "pets\/database\/pet\/IceHound\/index.html"
+    },
+    {
+      "hash": "sha256-vStgM\/IbwgDLe0r+mHAxhurv8zU9npqb2I5rXRur4a4=",
+      "url": "pets\/database\/pet\/IceKraken\/index.html"
+    },
+    {
+      "hash": "sha256-b0RtVob09TR5wiK2gcgzQyb8SAyaaHIoyR1ws2ObPR8=",
+      "url": "pets\/database\/pet\/IceOni\/index.html"
+    },
+    {
+      "hash": "sha256-2gXqSrPh3JF6Gm70vmX7oXcffk8NgIpE\/nc5fJ6arL0=",
+      "url": "pets\/database\/pet\/IceSalamander\/index.html"
+    },
+    {
+      "hash": "sha256-rijmgpz5ZiGi\/wKx9QOVz6WeyTtLpYKogKCreG5D6JU=",
+      "url": "pets\/database\/pet\/IceWartle\/index.html"
+    },
+    {
+      "hash": "sha256-\/+QRsZjPMEL5WV\/8GRuXZuwrjqTt39KwXtD6vyCwl4E=",
+      "url": "pets\/database\/pet\/IceWyvern\/index.html"
+    },
+    {
+      "hash": "sha256-hd6QpX4JBt23gczmbV3Lpvm2bSG+r17hK+xtP\/1ESgU=",
+      "url": "pets\/database\/pet\/IceishFrog\/index.html"
+    },
+    {
+      "hash": "sha256-YXfhiASEUTwxXbyQFCGSFqQnVgcb3LUvNj9pKI9v22Q=",
+      "url": "pets\/database\/pet\/IceblockColossus\/index.html"
+    },
+    {
+      "hash": "sha256-p2f+0X8ekfyFnFthOxA6fI+kLhBweuj+x5S0b2SE7CE=",
+      "url": "pets\/database\/pet\/Icedactyl\/index.html"
+    },
+    {
+      "hash": "sha256-d3ZJdvjdRTDrTPKrh3Mjt5GrFRzKqRHsozs0\/ZKVirY=",
+      "url": "pets\/database\/pet\/IcestormQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-1N41a1pp3IRu2OGDljDPdL57Cy50Y\/uD37BIgDXDBK0=",
+      "url": "pets\/database\/pet\/IcyGlowbug\/index.html"
+    },
+    {
+      "hash": "sha256-ZKSmU+bMxuqOTH1JJH4dm+rsiYppyBwc9EcK5unhblo=",
+      "url": "pets\/database\/pet\/Imagitaur\/index.html"
+    },
+    {
+      "hash": "sha256-7fZAHjCXK2CZHfVZNUFhNWGnc+7Td6JpqjanmbkV6BI=",
+      "url": "pets\/database\/pet\/Imp\/index.html"
+    },
+    {
+      "hash": "sha256-fc20hwrHoBjDDo77UpCt9xbbs1rhhllFlkKlR1Pxg44=",
+      "url": "pets\/database\/pet\/ImperialFooDog\/index.html"
+    },
+    {
+      "hash": "sha256-TRcwpb1V1+RzcBB3D\/lpsL3UBctqNetD1aCHJWg46+s=",
+      "url": "pets\/database\/pet\/IncendiaryGrimoire\/index.html"
+    },
+    {
+      "hash": "sha256-P9rGH1X9h1WH9CePAjDCVkhEvjkbtNhDuRcQuUXDUxk=",
+      "url": "pets\/database\/pet\/IndigoDragon\/index.html"
+    },
+    {
+      "hash": "sha256-p1DK\/Jnkml6ALOBoegEG7cjI3RqKofiHrLfiqPZfax4=",
+      "url": "pets\/database\/pet\/InfernalChimera\/index.html"
+    },
+    {
+      "hash": "sha256-BS+SWeOqqtTeFb4ZRZLbzVbbuoOE8cJJ77nyn2o7BM8=",
+      "url": "pets\/database\/pet\/InfernalNinjaPig\/index.html"
+    },
+    {
+      "hash": "sha256-GLAlOm3tD+osKjI4uoWwTn0Kco5mSuptqAKCWZkBJF8=",
+      "url": "pets\/database\/pet\/InfernoBeast\/index.html"
+    },
+    {
+      "hash": "sha256-bvahA1i5C4MykMLXyrfXS1\/8DlgBUq\/iYLFSv5pUGk4=",
+      "url": "pets\/database\/pet\/InfernoCat\/index.html"
+    },
+    {
+      "hash": "sha256-Iq\/4NADshpg0AljaapoAwqInplU1rqnMdmc8Q9CSa7Y=",
+      "url": "pets\/database\/pet\/InfernoColossus\/index.html"
+    },
+    {
+      "hash": "sha256-u4QPJVuSRHI9kVGXg02FN3O3xlN3ug20faHxXGLAFx8=",
+      "url": "pets\/database\/pet\/InfernoHound\/index.html"
+    },
+    {
+      "hash": "sha256-qgWyzrFvNBMGOYIWeyRxT+OvDJDP9jnKVtXVaVL3qdE=",
+      "url": "pets\/database\/pet\/InfernoQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-gR7OXBMS7eZ3674JCGTfR3o\/FOxWxUFDobXvVRc4IhQ=",
+      "url": "pets\/database\/pet\/InfernoSalamander\/index.html"
+    },
+    {
+      "hash": "sha256-LryVyohTSGup66Ev1v1hdDuMIYoKM1bIXfuIwhazpTE=",
+      "url": "pets\/database\/pet\/Infernozilla\/index.html"
+    },
+    {
+      "hash": "sha256-8J1P+x96oRTfdVeTO99zRR3eczbxHXgH1+X81ZvnHD4=",
+      "url": "pets\/database\/pet\/IntrepidRacoon\/index.html"
+    },
+    {
+      "hash": "sha256-mL928Js57xmF5JxCH8u5X\/\/sEyOJCXNp7NUtM\/YBPWg=",
+      "url": "pets\/database\/pet\/IntrepidSealPup\/index.html"
+    },
+    {
+      "hash": "sha256-6LsLNzZm398LJ0MqHVT40JESKMWsOTr427GCF0B7DQI=",
+      "url": "pets\/database\/pet\/IronRam\/index.html"
+    },
+    {
+      "hash": "sha256-+AT6yz46XAYJVXIRxXSYtKr5g76t1J1ly91+z71Pf4k=",
+      "url": "pets\/database\/pet\/IronicKrokomummy\/index.html"
+    },
+    {
+      "hash": "sha256-ki2EgZm3mL8dLjtsSi+uuPL2OkEfDhl9iFtTdCvC\/Iw=",
+      "url": "pets\/database\/pet\/IvanenkosTiger\/index.html"
+    },
+    {
+      "hash": "sha256-\/4Rfqw4lKczw0K0i1\/Tz2y7B7sJAscc7ZO+mxplc2m0=",
+      "url": "pets\/database\/pet\/IvoryShenlongDragon\/index.html"
+    },
+    {
+      "hash": "sha256-aKFVEVT14BJOsNNZcoxaNK8Q1Q8V2OBxcqB0Efw2pAA=",
+      "url": "pets\/database\/pet\/JackOLantern\/index.html"
+    },
+    {
+      "hash": "sha256-Fc5iWOJy3JFu18iYjCClm\/ZF3KiaE5dYgc0uNwSQX0Y=",
+      "url": "pets\/database\/pet\/JadeHound\/index.html"
+    },
+    {
+      "hash": "sha256-K4rKGJMfmNNg3CJIVMdY7bqwsJHMSRWmjIGrlsSwmD4=",
+      "url": "pets\/database\/pet\/JadeOni\/index.html"
+    },
+    {
+      "hash": "sha256-6KLy1sH1ooRGuHqIs+8\/RToEt5OBuW53+5AgYrTFIJw=",
+      "url": "pets\/database\/pet\/JadeShenlongDragon\/index.html"
+    },
+    {
+      "hash": "sha256-PWe2ulaXFeflj9J5LHkrFAsg1jvLN3oK8H3\/v\/Uyit0=",
+      "url": "pets\/database\/pet\/Jellyfish\/index.html"
+    },
+    {
+      "hash": "sha256-Fzl5zoXOHoZ40BNo0r2SiL1\/k7myW2QBRE2lZ1mxiwk=",
+      "url": "pets\/database\/pet\/JingleBellRock\/index.html"
+    },
+    {
+      "hash": "sha256-nmjAkTbYsHoJ3GvKqnwtOJNXkwyKzcTgj3NkIhuyjS0=",
+      "url": "pets\/database\/pet\/Jinn\/index.html"
+    },
+    {
+      "hash": "sha256-OZHcimxFxKRxbpsJJvtynlKfcxQrKBhLnKvXV0y7\/8o=",
+      "url": "pets\/database\/pet\/JollyPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-DNF5NTcoZ\/qOFl4Sn\/sH3FgE63sppWoyw7px9jcUNYg=",
+      "url": "pets\/database\/pet\/JovialPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-JrYquxIwrK4ZVU2UdCKehjlDfQY+c2rWsI6VWT\/1LZc=",
+      "url": "pets\/database\/pet\/Judgement\/index.html"
+    },
+    {
+      "hash": "sha256-jDvqxz9SEZLCXw88c5BRmnEyWrg9bJkUx+imDoy1EY4=",
+      "url": "pets\/database\/pet\/KeyQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-ulNFjwbiBHBP0Dq2Xsjq5Xzb4lZeuzwJbjt1V2Uw7AU=",
+      "url": "pets\/database\/pet\/KingofThieves\/index.html"
+    },
+    {
+      "hash": "sha256-8\/fTQrncMeEt94lM\/5q1uOF\/X1pAJFgo7+yiA7pKrNg=",
+      "url": "pets\/database\/pet\/Kit10\/index.html"
+    },
+    {
+      "hash": "sha256-ofeXWJ09oSek1SRhIXpJh0KcBPlxOvLKuUQZblJSbFc=",
+      "url": "pets\/database\/pet\/Kookaburra\/index.html"
+    },
+    {
+      "hash": "sha256-J7AGSU3MT6OzH1jbQZ+8JpWMSB\/PBJMOp44sY1+YQ54=",
+      "url": "pets\/database\/pet\/Kraken\/index.html"
+    },
+    {
+      "hash": "sha256-bw7aro4kDabMFKoKXaTaXZX5b+xGpx2b7vYLLPxTP7w=",
+      "url": "pets\/database\/pet\/Krok\/index.html"
+    },
+    {
+      "hash": "sha256-8bqmQGe8eCBIIRFUhPEkM2hui5jpsFzWIlzgi9rD5tc=",
+      "url": "pets\/database\/pet\/KrokPal\/index.html"
+    },
+    {
+      "hash": "sha256-V5CCn91P7F7cUI897AtrjZ3yZGH8\/SF6NLq97QuisYg=",
+      "url": "pets\/database\/pet\/KrokofAges\/index.html"
+    },
+    {
+      "hash": "sha256-GIjywVNiERWwkz94y0IUvLtRLT4qPj0BUjH2zDkGvgw=",
+      "url": "pets\/database\/pet\/Krokomummy\/index.html"
+    },
+    {
+      "hash": "sha256-JGLx1T2l\/FaX2TfRa4BN9CowhsWoN8SPJCzyzH3Q2ys=",
+      "url": "pets\/database\/pet\/KrokopatrasTroll\/index.html"
+    },
+    {
+      "hash": "sha256-\/ZHYUSUkG8c0ZTKQqgQ+THVJYJ3gskXWfj69zwbltXU=",
+      "url": "pets\/database\/pet\/Krokotillian\/index.html"
+    },
+    {
+      "hash": "sha256-HGwsrY9p8L1H3cVmoSnorzqEP+2foMyBRL7DFtmqtxw=",
+      "url": "pets\/database\/pet\/LabyrinthGuardian\/index.html"
+    },
+    {
+      "hash": "sha256-BLq9fQgBcmXYYLdc5bN1ZjVevZrjr3E6TP0RlC13rtw=",
+      "url": "pets\/database\/pet\/Ladybug\/index.html"
+    },
+    {
+      "hash": "sha256-DTG592tqgUWjCd1EzN8w6qI5k6wpO4chIx1JSb+5CdA=",
+      "url": "pets\/database\/pet\/LandShark\/index.html"
+    },
+    {
+      "hash": "sha256-T9fRYMHDSVrFirn84jwEKhwPvukrfVvwpchZc30ByWE=",
+      "url": "pets\/database\/pet\/LavaSpider\/index.html"
+    },
+    {
+      "hash": "sha256-l8vD7513fv3mWDaBnrT2hWkW3Elwsuu+tMh0PWDmGHk=",
+      "url": "pets\/database\/pet\/LeafFoot\/index.html"
+    },
+    {
+      "hash": "sha256-\/4P\/56nIcJIBebb99lZwfnE5Rbd7ZqEU1jSIYeX93dw=",
+      "url": "pets\/database\/pet\/Leafwing\/index.html"
+    },
+    {
+      "hash": "sha256-jQUbHIaV2wBUshhOJ1qMl2rdTZJXVUeWNdVYB4jjsKA=",
+      "url": "pets\/database\/pet\/LeapingLeprechaun\/index.html"
+    },
+    {
+      "hash": "sha256-\/REVkFHLdgx7XqUXELBmTjkGBGhysOgrbjMjWvX0YVA=",
+      "url": "pets\/database\/pet\/LegendaryShark\/index.html"
+    },
+    {
+      "hash": "sha256-vSdUmODvkXRI+FLYIX+kDP+aEyhcm4dALEtUxy0wemQ=",
+      "url": "pets\/database\/pet\/Leopard\/index.html"
+    },
+    {
+      "hash": "sha256-kOgGIOAk+wE0O+mo6tOR7tlAiLPtlzOy16GmP1rpUF0=",
+      "url": "pets\/database\/pet\/Leprechaun\/index.html"
+    },
+    {
+      "hash": "sha256-sWs24fJhzFL9Ry6t9ssqN8r6AgmRrBTME2c7QTJXiXQ=",
+      "url": "pets\/database\/pet\/Leviathan\/index.html"
+    },
+    {
+      "hash": "sha256-9BEmtyXVSfMO9HcFe2D1r+j+er683itKao8PMAQUDcU=",
+      "url": "pets\/database\/pet\/LilDevil\/index.html"
+    },
+    {
+      "hash": "sha256-anzUppUO74z5nNL6rCF1vQrh\/N2NUbkWpnMyZSEKAnw=",
+      "url": "pets\/database\/pet\/LilLemur\/index.html"
+    },
+    {
+      "hash": "sha256-nR+6\/O78X9KddnXaHb+AOex4IUgBIzJNqmhKEX17I0Q=",
+      "url": "pets\/database\/pet\/LilMedusa\/index.html"
+    },
+    {
+      "hash": "sha256-okDq41mMa3UDMt1hdyFgQbOkwxJcHEUvAxnAqziOQEI=",
+      "url": "pets\/database\/pet\/LilSiren\/index.html"
+    },
+    {
+      "hash": "sha256-+nKvmaNkgl7mB1nNdtK53Vvt3WNCdTw8dUNUVX\/zhr0=",
+      "url": "pets\/database\/pet\/LicoriceBear\/index.html"
+    },
+    {
+      "hash": "sha256-S7Z0TIP\/JaHG0McCXV\/UBQdMpYpCCBodCdatfFlH37E=",
+      "url": "pets\/database\/pet\/LifeArmaments\/index.html"
+    },
+    {
+      "hash": "sha256-Cj2XuUGiILOcYl5faO4k+YIVXKhJaAH8nqygZ18NqCw=",
+      "url": "pets\/database\/pet\/LifeBanshee\/index.html"
+    },
+    {
+      "hash": "sha256-Mo8lWPa\/7XLbiCgN509e7vl6tK86YLzkHMXgZKtpHtM=",
+      "url": "pets\/database\/pet\/LifeClassPet\/index.html"
+    },
+    {
+      "hash": "sha256-VHPSt1ds5zXbJjG2HuYmoXW7W\/jgXrm9SFCGhp6pzYk=",
+      "url": "pets\/database\/pet\/LifeCyclops\/index.html"
+    },
+    {
+      "hash": "sha256-8JPDAFj31fe+bKXi7xRbYlBZvuEJqU6nDapgerq4sDs=",
+      "url": "pets\/database\/pet\/LifeGhoul\/index.html"
+    },
+    {
+      "hash": "sha256-DyzMPdSP1hWFHV+1RMZvuH+aKMWNmlV1splicLQmDWA=",
+      "url": "pets\/database\/pet\/LifeHamster\/index.html"
+    },
+    {
+      "hash": "sha256-bSVnjek4iiCCf619+o6R9n0Fb4RZAkiv8+xgalWdxVQ=",
+      "url": "pets\/database\/pet\/LifeMinotaur\/index.html"
+    },
+    {
+      "hash": "sha256-xbIccWmMiw575Ar6UNUbNrxKtlecRtEaAQoJXCVfb0g=",
+      "url": "pets\/database\/pet\/LifeScarab\/index.html"
+    },
+    {
+      "hash": "sha256-FkS0JR\/XZDp\/8ZTI\/lALqQupPoR3dyzfpHKrxc+B8ZY=",
+      "url": "pets\/database\/pet\/LifeTroll\/index.html"
+    },
+    {
+      "hash": "sha256-uQY4O8qhp0u1AYZzaFeXYuJIf12h1S6mGIcGS4cYI6Q=",
+      "url": "pets\/database\/pet\/LifeWartle\/index.html"
+    },
+    {
+      "hash": "sha256-53IbWGJX+sfFm7EQwJEwqFCSTkx\/UYTIfAYjUbwZl5M=",
+      "url": "pets\/database\/pet\/LifeishFrog\/index.html"
+    },
+    {
+      "hash": "sha256-xhFcPv0koH2UaFLbOIObonyAgNzGPL04yWcNZqRY9ic=",
+      "url": "pets\/database\/pet\/Lifebat\/index.html"
+    },
+    {
+      "hash": "sha256-62YB5xhQsHGY+N\/zEJSioSSO0BOFViywJetznF6R1YI=",
+      "url": "pets\/database\/pet\/Lifedactyl\/index.html"
+    },
+    {
+      "hash": "sha256-GmC1jeoV\/dkz+dBv0pI+VRw\/QUnTArvDRNDg6K0J1FY=",
+      "url": "pets\/database\/pet\/Lifezilla\/index.html"
+    },
+    {
+      "hash": "sha256-916jFPV94Czh\/E7YuEP1d6X1dSwM30kMkz4eiU75JTQ=",
+      "url": "pets\/database\/pet\/LightMerryonette\/index.html"
+    },
+    {
+      "hash": "sha256-o43UzAn2sVR6MlpEsM8xtO6UCl2TVBhfDBbvHo0avEY=",
+      "url": "pets\/database\/pet\/LightkeepersFlame\/index.html"
+    },
+    {
+      "hash": "sha256-xwzkp3TqAZN8+E3nh\/4WHXD2BkaM3gEByfWxpEXWa58=",
+      "url": "pets\/database\/pet\/LightningLycan\/index.html"
+    },
+    {
+      "hash": "sha256-KgjcTU0b\/CoL96xjMi+fMRQiOzqjd76gKuIc5Mi6HWg=",
+      "url": "pets\/database\/pet\/Lightningbat\/index.html"
+    },
+    {
+      "hash": "sha256-VcoSTOFOpJoVkYnb49algmm0spOKLAxRYRBZVqQyjTk=",
+      "url": "pets\/database\/pet\/Lion\/index.html"
+    },
+    {
+      "hash": "sha256-wWsU3b+felNcleXUCXHl6zX3lydofMKbnM4wzJXSXjs=",
+      "url": "pets\/database\/pet\/LitterCritter\/index.html"
+    },
+    {
+      "hash": "sha256-v7TsadgGCo4Ns1sUvzOIwWrlnSSTLAhVkFDgJpPGWq8=",
+      "url": "pets\/database\/pet\/LittleRatatoskr\/index.html"
+    },
+    {
+      "hash": "sha256-tZDT2BJ7rvttU0ozIUGSaMuHNrTxOgH0eCmPpby0+TQ=",
+      "url": "pets\/database\/pet\/LivelyColossus\/index.html"
+    },
+    {
+      "hash": "sha256-ffgKuhLDfy64JrcdHZiwAXbuHix+EZCN6\/aQVRBmHfI=",
+      "url": "pets\/database\/pet\/LivelyGlowbug\/index.html"
+    },
+    {
+      "hash": "sha256-\/NpzlAH3EL0GDBJfHmmLTX9PrtduK8LQKw9K6PeePHM=",
+      "url": "pets\/database\/pet\/LivelyNullDragon\/index.html"
+    },
+    {
+      "hash": "sha256-3piYmUR+LSfcK1INjtI9AJJYE9NPL\/2Rw5VUqrmss58=",
+      "url": "pets\/database\/pet\/LivelyOpossum\/index.html"
+    },
+    {
+      "hash": "sha256-AmcZ9cYFyB9iRNY3yc7f1CSU\/MN2KSokNLbQH3MsVp4=",
+      "url": "pets\/database\/pet\/LivelyShark\/index.html"
+    },
+    {
+      "hash": "sha256-\/\/2r9Uq6q2DLmHT1zCrEW9jUb91wvM4ik3nT\/e9Pfks=",
+      "url": "pets\/database\/pet\/LordofAutumn\/index.html"
+    },
+    {
+      "hash": "sha256-SzKanUKSszKM9j33jLmGMoI6duPemWf0isTwo7z\/CsI=",
+      "url": "pets\/database\/pet\/LordofSpring\/index.html"
+    },
+    {
+      "hash": "sha256-Mu94v8BDjl7gSBU1JhDlm89qFdKEJGwc9d89M4Sdn0Q=",
+      "url": "pets\/database\/pet\/LordofSummer\/index.html"
+    },
+    {
+      "hash": "sha256-2ZjvzPQUb46d2XMPpblpK\/Vkf\/68QKc4ZalrjK0ynzo=",
+      "url": "pets\/database\/pet\/LordofWinter\/index.html"
+    },
+    {
+      "hash": "sha256-Xos7r7qUkXYtBT6g7tHAy0w2VwcPICJLWasy3GJAk4Q=",
+      "url": "pets\/database\/pet\/LovelyLadybug\/index.html"
+    },
+    {
+      "hash": "sha256-H0fPPYwuFlh3qCfzK+afKJPu+l5hDkSIXkpOk1N4gsk=",
+      "url": "pets\/database\/pet\/LovelyLeopard\/index.html"
+    },
+    {
+      "hash": "sha256-zTPIz83FeB+B1wKRYZqLWFiDP5ZPl\/EkncvjBTRHFfI=",
+      "url": "pets\/database\/pet\/LoyalTerrier\/index.html"
+    },
+    {
+      "hash": "sha256-a9o2J1XaK6MZo\/\/DhwyEaz18Qxq3v7jiCym3cwYenA4=",
+      "url": "pets\/database\/pet\/LuckyCat\/index.html"
+    },
+    {
+      "hash": "sha256-y+5OMvsZVMV5ur4Kq6u\/VV7008MuQg9OlAGwVaGmIEM=",
+      "url": "pets\/database\/pet\/LuckyLeprechaun\/index.html"
+    },
+    {
+      "hash": "sha256-MnkQRiYhNsx0Q92KVcY+xGFy4X7UwDcHtvU8Te0tgr8=",
+      "url": "pets\/database\/pet\/LumpofCoal\/index.html"
+    },
+    {
+      "hash": "sha256-tUTtu8sKt8xjxxQLDFzQuEcRPmCLnuUkUR1zTovjtPA=",
+      "url": "pets\/database\/pet\/LushQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-nLeklnMDa3oMgWbp5MUXVCERVCWBJdHQ1mTcndmWni0=",
+      "url": "pets\/database\/pet\/LynxKit10\/index.html"
+    },
+    {
+      "hash": "sha256-0syRgLbSjUJqwntMDbR3j9pHS\/RUm7a+I356Kd4IKvA=",
+      "url": "pets\/database\/pet\/MaCaw\/index.html"
+    },
+    {
+      "hash": "sha256-FDcO14QFZH5Xb5zqtCNTKuhsyQ7WDOvbSYAvGIPo4kk=",
+      "url": "pets\/database\/pet\/MaelstromElf\/index.html"
+    },
+    {
+      "hash": "sha256-py6J+cdkb+QL0LJ5QftACmBwePc4fR\/lVRZGL75x5S8=",
+      "url": "pets\/database\/pet\/MaelstromOni\/index.html"
+    },
+    {
+      "hash": "sha256-BRyXXBbEHXnLs4+goFoR5fFy9bDKgk1yCiCoMeVMDxo=",
+      "url": "pets\/database\/pet\/MagentaHound\/index.html"
+    },
+    {
+      "hash": "sha256-ysCgRHWC\/51\/Q7C6dVbhH6uNtVQUI6DQkScsrPJDPB4=",
+      "url": "pets\/database\/pet\/MagicalDragon\/index.html"
+    },
+    {
+      "hash": "sha256-jN82B5VW3rkC3e6PLVndyVGI\/IX9KB\/oJ1lhe9OklIY=",
+      "url": "pets\/database\/pet\/MagmaColossus\/index.html"
+    },
+    {
+      "hash": "sha256-OZqYs2hHNSg0ipJMD5SJapXZKUDONDxYRaNLKbl+ZLw=",
+      "url": "pets\/database\/pet\/MagmaDragon\/index.html"
+    },
+    {
+      "hash": "sha256-JWn0EeF7YN1UOMHYCWOwqRivrTmOVkIVZR\/KgSe7arU=",
+      "url": "pets\/database\/pet\/MagmaSpider\/index.html"
+    },
+    {
+      "hash": "sha256-\/Ed1Iog5qsSIuaR5iDQAWT0vwiOkqhE8SULsb1Z2i5o=",
+      "url": "pets\/database\/pet\/MajesticPlushie\/index.html"
+    },
+    {
+      "hash": "sha256-sdeF6PTIgx+\/zpkuju1rImQGJs5qMyYyY\/Rj2FimC2I=",
+      "url": "pets\/database\/pet\/MaleficStrix\/index.html"
+    },
+    {
+      "hash": "sha256-TAEDChJlc25qR+9zUSAOeRovCBPzbTIfo0GzKmRB\/Uo=",
+      "url": "pets\/database\/pet\/MamaCheesiwitz\/index.html"
+    },
+    {
+      "hash": "sha256-LNMh1heOj8p7HObpmY3RleLAs2nTbV97IlSSvZLtZ+s=",
+      "url": "pets\/database\/pet\/Mammoth\/index.html"
+    },
+    {
+      "hash": "sha256-+\/zKmpdIEfLCCdgQkNzTmin5nuSkt1VKNkZ2NLxPmcQ=",
+      "url": "pets\/database\/pet\/Mander\/index.html"
+    },
+    {
+      "hash": "sha256-Ee3kuR+Cqc1q3JCzhvdk05sFj+8uegzVrqAPymrbgHE=",
+      "url": "pets\/database\/pet\/MapleMoose\/index.html"
+    },
+    {
+      "hash": "sha256-JL4rj0LL9IDuFMCo7GjkS9x\/\/JHvITTBM724ehTt72U=",
+      "url": "pets\/database\/pet\/MarchHares\/index.html"
+    },
+    {
+      "hash": "sha256-lHJ67B\/Y2x8lRBFzX5xB1wEqz4rI1ms2MH2CmR5JVyo=",
+      "url": "pets\/database\/pet\/Marid\/index.html"
+    },
+    {
+      "hash": "sha256-aUbEtAcCTWPkZpxjPA43JGJUQhmHFJfQDyJsQ2IqUoM=",
+      "url": "pets\/database\/pet\/Marshfellow\/index.html"
+    },
+    {
+      "hash": "sha256-4nLfVRPOsP2\/wA8Axma\/g8DvlUmGQbQOczPQzh4ibVU=",
+      "url": "pets\/database\/pet\/MechanicalOwl\/index.html"
+    },
+    {
+      "hash": "sha256-958Z8gekb7PI0oMPeVG3jPMogwaTbtaYAeysoa2kIJE=",
+      "url": "pets\/database\/pet\/MeltedKnight\/index.html"
+    },
+    {
+      "hash": "sha256-sukp2SVrAA041ar\/CJwBBY9ywfa8\/0R9QTmOL\/o5oOI=",
+      "url": "pets\/database\/pet\/MeowWing\/index.html"
+    },
+    {
+      "hash": "sha256-lUpt5HHpv9Vs5x49sAe2icnFm\/hNcoodsafQV17O0uU=",
+      "url": "pets\/database\/pet\/MeowiartysGhoul\/index.html"
+    },
+    {
+      "hash": "sha256-jJFtm4HuCP1tX2zDKavmgz7Jws8qaPWatKA9uXdFX8c=",
+      "url": "pets\/database\/pet\/MeowiartysKrok\/index.html"
+    },
+    {
+      "hash": "sha256-9tHOXUOEJgpLq5Y92yABlMLW+1JHXH\/EdTZLREB8yAo=",
+      "url": "pets\/database\/pet\/MerryFairy\/index.html"
+    },
+    {
+      "hash": "sha256-F+8Ns7gNun8cOv2JSBYUqrylax+vYSt0hMar2LXTyVc=",
+      "url": "pets\/database\/pet\/MerryPrrresent\/index.html"
+    },
+    {
+      "hash": "sha256-WHDdD7MMweP5Sl5u5I\/Z1+axEBpVznmTT7+Zy2sl06w=",
+      "url": "pets\/database\/pet\/Metalmaton\/index.html"
+    },
+    {
+      "hash": "sha256-s1XQfsvlPqN\/iX+22kZjx7QVKCINc18MOq3U3iuhsA8=",
+      "url": "pets\/database\/pet\/MidnightCat\/index.html"
+    },
+    {
+      "hash": "sha256-nx5AGqJm+2cWIQDMbl3B\/sZ0vusjFM51hxNK8gjhM2g=",
+      "url": "pets\/database\/pet\/MidnightSprite\/index.html"
+    },
+    {
+      "hash": "sha256-v0aDoCtz6CYlKcToSbgwWzt4S0WjvouVLIDbiH4gwuI=",
+      "url": "pets\/database\/pet\/MiniBalanceShark\/index.html"
+    },
+    {
+      "hash": "sha256-\/TGZOYgniC4djxtQ8oYsLv9o50m3G+NpKXG7fZvZOOA=",
+      "url": "pets\/database\/pet\/MiniDeathShark\/index.html"
+    },
+    {
+      "hash": "sha256-aYPFxpnGRMfce5Uk7FbyjVXJkDRJALL4y4mNtrcftkU=",
+      "url": "pets\/database\/pet\/MiniFireShark\/index.html"
+    },
+    {
+      "hash": "sha256-R+S8tNXdmZsKEWFr5zBciZrIZCTQucfmUalFzlBsB+8=",
+      "url": "pets\/database\/pet\/MiniIceShark\/index.html"
+    },
+    {
+      "hash": "sha256-+gisyAAGmnevAfnnq+Q3XJQKjDx9J\/zmfdA1bAftdiM=",
+      "url": "pets\/database\/pet\/MiniLifeShark\/index.html"
+    },
+    {
+      "hash": "sha256-jn+81uNijRaXb8pc1xgvbMgvkShACPOd+erWgSVtLws=",
+      "url": "pets\/database\/pet\/MiniMimic\/index.html"
+    },
+    {
+      "hash": "sha256-+vCB0BoiZKG\/YUXt+NgkCkCPe27OFn\/qIaCV2zHQtq0=",
+      "url": "pets\/database\/pet\/MiniMythShark\/index.html"
+    },
+    {
+      "hash": "sha256-RqXfFjmSdc7vaFs3IwFOkFm52EBy3YecK+z42Yz0S74=",
+      "url": "pets\/database\/pet\/MiniSaniBot\/index.html"
+    },
+    {
+      "hash": "sha256-uYI4RF8pOnXn42Q9Y5E5lukL9j8dv7AREaj0kOhrnv4=",
+      "url": "pets\/database\/pet\/MiniStormShark\/index.html"
+    },
+    {
+      "hash": "sha256-z2w8fvffLSdIRVPiMTi1lKxNWF4A1tIljWCdu4m0bfI=",
+      "url": "pets\/database\/pet\/Minitaur\/index.html"
+    },
+    {
+      "hash": "sha256-ew5KxGB5IU3rpcs14s6qLghoZ\/8TvEuVEpQC31Hkz0I=",
+      "url": "pets\/database\/pet\/Minotaur\/index.html"
+    },
+    {
+      "hash": "sha256-c\/cQgYKUe1r0ii5P9w63pGyeTTPiMTFOSBiljJve6XQ=",
+      "url": "pets\/database\/pet\/MirthSpider\/index.html"
+    },
+    {
+      "hash": "sha256-SaUXZNMWzb8jqjXdgJXichICkaHdAQYxHiBUyWV9xXY=",
+      "url": "pets\/database\/pet\/MischievousDevil\/index.html"
+    },
+    {
+      "hash": "sha256-sgnq+rhqfSjsHL6XKKKvUyX48W1KSEOH9mhRus6l0Hk=",
+      "url": "pets\/database\/pet\/MischievousMinstrel\/index.html"
+    },
+    {
+      "hash": "sha256-FD8QT9wF9BCWlMuEumiin1zlJnZOpD+wV5sD\/i0auts=",
+      "url": "pets\/database\/pet\/MistTriton\/index.html"
+    },
+    {
+      "hash": "sha256-QArgdZUIkXkqHC+bxBazJc7u4eik6NP1tlCht0GnpXc=",
+      "url": "pets\/database\/pet\/MisterIncinerator\/index.html"
+    },
+    {
+      "hash": "sha256-3QhBz8P0C2J\/wqeasP8tfTxybAVyvXRSpzFsTLCq3fE=",
+      "url": "pets\/database\/pet\/Moltentaur\/index.html"
+    },
+    {
+      "hash": "sha256-kNy1lJDPdtD30dKNMCsWMYpAV4IEVCyHQrIIoLF9I2Q=",
+      "url": "pets\/database\/pet\/MorbidMacawbre\/index.html"
+    },
+    {
+      "hash": "sha256-kwkayiJ3MwYyI7GJUKa11EoMLUPBhQyrESrru+kUvmg=",
+      "url": "pets\/database\/pet\/Morbitaur\/index.html"
+    },
+    {
+      "hash": "sha256-e5MPlH8GSbwgiVM3+wF6\/GiI9\/ZlzKQ9PzLsPp\/FEAA=",
+      "url": "pets\/database\/pet\/MosseatenTreant\/index.html"
+    },
+    {
+      "hash": "sha256-zxmJ0srnsQfrnRlaHnCzP\/UqDJfuoWzCF+psetT60LM=",
+      "url": "pets\/database\/pet\/MotleyPegasus\/index.html"
+    },
+    {
+      "hash": "sha256-45WZ631FeuVB+FVUm4vTzcw4YlNKQykRdPFLEvf9vvo=",
+      "url": "pets\/database\/pet\/MottledPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-Tdl+XB2qtnvWwQxu1gDJtWe1YZs7KEDaL6F+qu4Nh30=",
+      "url": "pets\/database\/pet\/MountainYeti\/index.html"
+    },
+    {
+      "hash": "sha256-\/EhV1eLyoyUgXI4BpWpnJPfI2ot30Xc\/vqBfvumzE\/Y=",
+      "url": "pets\/database\/pet\/MulberryHound\/index.html"
+    },
+    {
+      "hash": "sha256-nu+PjcS42EgK0j3frizs4zJ+bGo6COLqLY4OQxmYUEI=",
+      "url": "pets\/database\/pet\/MummyCat\/index.html"
+    },
+    {
+      "hash": "sha256-zmy+pib9nMkgWeCYeUIjUib+3QYdX4ymlcqxCyCa0uw=",
+      "url": "pets\/database\/pet\/MuscledCat\/index.html"
+    },
+    {
+      "hash": "sha256-sCoGODtakwRbkeTfYXyCJVuNHR17ucY9qNWTt5NdUJc=",
+      "url": "pets\/database\/pet\/MustardTroll\/index.html"
+    },
+    {
+      "hash": "sha256-Df79ExgmoJuPLLKCuSSdhKAUNch6SkIBO6xTP45ExWI=",
+      "url": "pets\/database\/pet\/MysticPlushie\/index.html"
+    },
+    {
+      "hash": "sha256-7ysqzlh6IXxVagCOzvuu25EBfY3p7vUsoWtLw2O5EP4=",
+      "url": "pets\/database\/pet\/MysticSabertooth\/index.html"
+    },
+    {
+      "hash": "sha256-oKqsUkK+PxXvTQW4puigO6XuMp5SBTRJdM3Id8jbxqU=",
+      "url": "pets\/database\/pet\/MythArmaments\/index.html"
+    },
+    {
+      "hash": "sha256-gLvfuwZzIT9\/pY4KRkyOWw6Xl0GlVZTz9HNtCtJ5k8Q=",
+      "url": "pets\/database\/pet\/MythBanshee\/index.html"
+    },
+    {
+      "hash": "sha256-W9o92GqNPDkK92pns\/SNpLzw4V56Utf0NLVmi\/DZ5G0=",
+      "url": "pets\/database\/pet\/MythClassPet71\/index.html"
+    },
+    {
+      "hash": "sha256-JcwFLts6s2Cy6bJ8a1HvG9W6ealsdzfdnLUUKI3GzCY=",
+      "url": "pets\/database\/pet\/MythClassPet73\/index.html"
+    },
+    {
+      "hash": "sha256-p+O+RHcpWilWGjRijV0kChWXkArzLQrnayB50jo9lVU=",
+      "url": "pets\/database\/pet\/MythGhoul\/index.html"
+    },
+    {
+      "hash": "sha256-GSAQIayo0UKIddKjfwpZcZHwYZTbJWmG4MpusVGuLJg=",
+      "url": "pets\/database\/pet\/MythImp\/index.html"
+    },
+    {
+      "hash": "sha256-BM2fBjI+Zfa0pgjW3aftIKhDf8In+wj8DWOupq+MKbA=",
+      "url": "pets\/database\/pet\/MythLeprechaun\/index.html"
+    },
+    {
+      "hash": "sha256-gSLh5C1kjKIGN7PdLD+IEWAEd3rXqmjdFnSjkmiH43E=",
+      "url": "pets\/database\/pet\/MythSprite\/index.html"
+    },
+    {
+      "hash": "sha256-NgjIKJN18peANNqUR5QmvNsKWEP5vOzit3lGW1ZQEjI=",
+      "url": "pets\/database\/pet\/MythTreant\/index.html"
+    },
+    {
+      "hash": "sha256-o01PILpkZ+VoDSAHCjKssMAHN\/XRQqng42MwKvAOiPQ=",
+      "url": "pets\/database\/pet\/MythWartle\/index.html"
+    },
+    {
+      "hash": "sha256-FGACc+1A6rnnWto451ZrpWYBnfgkz29SMiu6fhy24N4=",
+      "url": "pets\/database\/pet\/MythishFrog\/index.html"
+    },
+    {
+      "hash": "sha256-0hZ\/yuA92\/p2if2fh\/\/auV0D34XJ56jpBv\/6Q2EfQ3w=",
+      "url": "pets\/database\/pet\/Mythdactyl\/index.html"
+    },
+    {
+      "hash": "sha256-Aq7qlKXqTLQB+sFfdWOZTCHKAtW69BD0fApBUoKxfaU=",
+      "url": "pets\/database\/pet\/MythicBeast\/index.html"
+    },
+    {
+      "hash": "sha256-eykkUunY4WFQB5q2qbCkzAyIcaSZ9xYCpDqqW0P9X8U=",
+      "url": "pets\/database\/pet\/MythicGlowbug\/index.html"
+    },
+    {
+      "hash": "sha256-6kZmcH8FcvRVJHZ5cZK\/BIO8PKHQXUojQNSp+prM7xY=",
+      "url": "pets\/database\/pet\/MythicNullDragon\/index.html"
+    },
+    {
+      "hash": "sha256-gUokejt7Z1Ue4rVZLL8c5EAR7Y2InhqHWv1JjWLEKg0=",
+      "url": "pets\/database\/pet\/MythicalBasilisk\/index.html"
+    },
+    {
+      "hash": "sha256-iuIQSFTxsfnGUQA\/\/10ToknkyEFyHwu8nKI0pQEQcFI=",
+      "url": "pets\/database\/pet\/Mythotaur\/index.html"
+    },
+    {
+      "hash": "sha256-7cQE5+eML\/7pkl1tD4vFJ2QF8\/NDJBTb6X9oJ5Lt9yA=",
+      "url": "pets\/database\/pet\/Mythzilla\/index.html"
+    },
+    {
+      "hash": "sha256-S1Dg6ii4Hff11YZspyQwXQC\/NvL9GYfMWMfjDsKEtQI=",
+      "url": "pets\/database\/pet\/Necroninja\/index.html"
+    },
+    {
+      "hash": "sha256-aY\/lt\/jluwzmwtZCIIdUNfTZ20zXwAr4TMdG\/bgTBMQ=",
+      "url": "pets\/database\/pet\/NecroticNinjaPig\/index.html"
+    },
+    {
+      "hash": "sha256-IaHqcrnAtsBVDgCMYJSpmgF9vDtB+38WIdUoPEvYLNM=",
+      "url": "pets\/database\/pet\/NewYearsTreant\/index.html"
+    },
+    {
+      "hash": "sha256-nula4\/mVF6na1WRqy2b4vbkwy7BwEuFQxUbIw9hNSZE=",
+      "url": "pets\/database\/pet\/Newt\/index.html"
+    },
+    {
+      "hash": "sha256-RXumhARZ50wMjVOOjmKDTBmrXfJiHY5syIgMWeTAiMg=",
+      "url": "pets\/database\/pet\/NiceDragon\/index.html"
+    },
+    {
+      "hash": "sha256-hg3xyAPS4ClXm3je2ZE1ZLzVuKFE2AQBOKrFM6+i4fc=",
+      "url": "pets\/database\/pet\/NightHawk\/index.html"
+    },
+    {
+      "hash": "sha256-kcWVY8bg3oMQIkA3cuiGoWb+xRTmJN7SHooBIWHxKLA=",
+      "url": "pets\/database\/pet\/Nightmare\/index.html"
+    },
+    {
+      "hash": "sha256-TPP61cvNwHADGr+SBw3IWrHzHQStbfVLVNz8ysVhf2I=",
+      "url": "pets\/database\/pet\/Nightwalker\/index.html"
+    },
+    {
+      "hash": "sha256-xDwweUxpILQSiskpDokATnKupceY8pNsnkmS3bGsmGE=",
+      "url": "pets\/database\/pet\/NimblePiggle\/index.html"
+    },
+    {
+      "hash": "sha256-0OEvIgPiOf90Fn+ugvdPGTf4ujequP5atfyzLEvlTy8=",
+      "url": "pets\/database\/pet\/NimbusElf\/index.html"
+    },
+    {
+      "hash": "sha256-OrLEGTEwnf2u8qCLpLUsVxtJF6iKmrZGEjLW93RQv1o=",
+      "url": "pets\/database\/pet\/NinjaPig\/index.html"
+    },
+    {
+      "hash": "sha256-30i3QyoNrOlqBMKHkHyeIHwBTUEVLpznZzMpNhqZEeY=",
+      "url": "pets\/database\/pet\/NinjaPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-dFjFzgpCdUx8l+z7JSUYedrMkxJX\/qe5ffSn\/uPduTE=",
+      "url": "pets\/database\/pet\/NobleKookaburra\/index.html"
+    },
+    {
+      "hash": "sha256-9\/JBMpNTA7uPD3r9D\/VZUg4Qrva0iZ+xe+ay1DEUpCk=",
+      "url": "pets\/database\/pet\/NobleToad\/index.html"
+    },
+    {
+      "hash": "sha256-ncoGueCOn6fF4TPIRJA4qKWeNY8c24fiCU5nkbbme1I=",
+      "url": "pets\/database\/pet\/NodoriWingedRam\/index.html"
+    },
+    {
+      "hash": "sha256-RwCAvGaUhcAEBA3HAXJjpm2zRmQ9bH8tWaJ3zbz2BQw=",
+      "url": "pets\/database\/pet\/NotoriousMoon\/index.html"
+    },
+    {
+      "hash": "sha256-zC\/Dl6iLKz+8RwRGIgI3JvlGgx0hiE6\/sRGekIB3ZWM=",
+      "url": "pets\/database\/pet\/Nutcracker\/index.html"
+    },
+    {
+      "hash": "sha256-Z8fzvHQomWohB+aR62m\/D9encg2R7kPZh9PHjbR0+VE=",
+      "url": "pets\/database\/pet\/OblivionChimera\/index.html"
+    },
+    {
+      "hash": "sha256-gRGqpJpCYLZHI4NmsqZ\/kZX7wmDfRIRzZPx\/ml+CUS8=",
+      "url": "pets\/database\/pet\/ObsidianMimic\/index.html"
+    },
+    {
+      "hash": "sha256-omNpPb9MwM3UzMc7MDieDqb0NFUSFtU18JQcIXiPDBg=",
+      "url": "pets\/database\/pet\/OldSparky\/index.html"
+    },
+    {
+      "hash": "sha256-05S+xpJRMnGSPaP3EB9p6XKdgf2hI0qLZ+w9PRv0Hlw=",
+      "url": "pets\/database\/pet\/OminousOctopus\/index.html"
+    },
+    {
+      "hash": "sha256-Osh2SG9avdgwY7BtuDX8kj8W\/Od2qR5i6013r6Egft0=",
+      "url": "pets\/database\/pet\/OminousStrix\/index.html"
+    },
+    {
+      "hash": "sha256-kTZNDPpJd3P83lQRa4bSvnoLyVrL76\/CQEiXBB8duMc=",
+      "url": "pets\/database\/pet\/OnyxShenlongDragon\/index.html"
+    },
+    {
+      "hash": "sha256-9NiJeW6jJX+\/gl6MLR+9Kqp6xcoSmH\/MWsrMyv\/bAhQ=",
+      "url": "pets\/database\/pet\/Opossum\/index.html"
+    },
+    {
+      "hash": "sha256-X6k95mmxoGgyPH4Ir5gKZfGra0pFbIua7dXjf3R20gs=",
+      "url": "pets\/database\/pet\/OrigamiCardinal\/index.html"
+    },
+    {
+      "hash": "sha256-9gldtXaQljoxvJ\/TYfAfeoblUAH52z4C9Mj\/iTyo1io=",
+      "url": "pets\/database\/pet\/OrigamiCrane\/index.html"
+    },
+    {
+      "hash": "sha256-oVyDpQuiAzRdAOa+BektAtXDq9ZLTixDJH9Z3s+ydY0=",
+      "url": "pets\/database\/pet\/OrigamiPartyCrane\/index.html"
+    },
+    {
+      "hash": "sha256-mXEp1Jnc0s5DccnlNFhzQKMVg3GVIDrmGkGVMA0ua6o=",
+      "url": "pets\/database\/pet\/OrneryKookaburra\/index.html"
+    },
+    {
+      "hash": "sha256-mCTxTjdw\/EvFo0xg7ru45aLEO+MP5rfJtgFhWndo0Bk=",
+      "url": "pets\/database\/pet\/Orthrus\/index.html"
+    },
+    {
+      "hash": "sha256-wTzCxLRUKbfoEctzAbp5ihH3o5yKj7cjN2pxLx+8MHw=",
+      "url": "pets\/database\/pet\/OwlProtege\/index.html"
+    },
+    {
+      "hash": "sha256-KiJZZhwtsp+rsmga+TtMcfvrfShMzuEpf3F1ynGDkko=",
+      "url": "pets\/database\/pet\/PairityFairy\/index.html"
+    },
+    {
+      "hash": "sha256-gP6+5hojnpXInjqJ0py241yTIVUy0GIsJq83nqfycyw=",
+      "url": "pets\/database\/pet\/PaleMaiden\/index.html"
+    },
+    {
+      "hash": "sha256-f0nkrmC3euMi7n3i\/kwVNb+PmmjZ664g7UwIfGvzWcI=",
+      "url": "pets\/database\/pet\/PaleoPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-tIssKiNK6+9sJdF6sOBW04vX0JHq3LbdDQbPiuvL\/QI=",
+      "url": "pets\/database\/pet\/PandaSproutlings\/index.html"
+    },
+    {
+      "hash": "sha256-8JM9EYvTUl8jxSUl9aPmbdJBHtgtJ1PjDiKXPsn+ZrU=",
+      "url": "pets\/database\/pet\/Panther\/index.html"
+    },
+    {
+      "hash": "sha256-cmP0PJ7TdW+Yf9B4H2qV7XjjPzBoeeqNGygZHach6sk=",
+      "url": "pets\/database\/pet\/PapaCheesiwitz\/index.html"
+    },
+    {
+      "hash": "sha256-leQMNk9uxCyjDO01FR24+y\/CxlePHDj47+XnEwVSOYE=",
+      "url": "pets\/database\/pet\/Parabull\/index.html"
+    },
+    {
+      "hash": "sha256-utDA\/mOaOPQj0EplBnO8E2EnVnpI36Ya1dtimUPOvXg=",
+      "url": "pets\/database\/pet\/PartyCorgi\/index.html"
+    },
+    {
+      "hash": "sha256-FfrbC2mKLWUsiE2ifQdxVeNDhVvG9BipDquTDp+IV4Q=",
+      "url": "pets\/database\/pet\/PatrioticLeprechaun\/index.html"
+    },
+    {
+      "hash": "sha256-owXcvojJtWLzu9owtN3HelwHDfdgDDeLcKBCcKGW9WI=",
+      "url": "pets\/database\/pet\/PeaceDove\/index.html"
+    },
+    {
+      "hash": "sha256-zKZK7Fpi1OaXF5sBp2afq3BCOP+PMc8xblK74TOqxQ8=",
+      "url": "pets\/database\/pet\/PeckishFlytrap\/index.html"
+    },
+    {
+      "hash": "sha256-mvVZBf68IhrDBEc1HkGsHPxAa1fZLRKD9Ml8o\/5GO4o=",
+      "url": "pets\/database\/pet\/PegasusPony\/index.html"
+    },
+    {
+      "hash": "sha256-6yU6SxJ4Ufud7VUc1qX2DtYXN9APf4xjUZ7SN1yAJQE=",
+      "url": "pets\/database\/pet\/PenumbraDrake\/index.html"
+    },
+    {
+      "hash": "sha256-Zfwo6FmjCdNJlrqiHcokK3Ai3E2oUBs0TU9vvf3syxk=",
+      "url": "pets\/database\/pet\/PeppyPorpoise\/index.html"
+    },
+    {
+      "hash": "sha256-GYEqhFBnwLW1YRdaDDEKmbmHaoAUBNC2l\/hGWKKME+8=",
+      "url": "pets\/database\/pet\/PerfectPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-34ByCKbZjck2nhFFdGglcQ+4xpon9Av8PYCHYFXaFP4=",
+      "url": "pets\/database\/pet\/PeriwinkleHound\/index.html"
+    },
+    {
+      "hash": "sha256-B8lsoDQ2rnRo8yj778JH0yGdjE\/1QFCNQZ2n1a22JCo=",
+      "url": "pets\/database\/pet\/PeskyBeetle\/index.html"
+    },
+    {
+      "hash": "sha256-un9zrcaiDhgBirxQMoY8NSrSYp6oURvB72UzuvPd7ws=",
+      "url": "pets\/database\/pet\/PetCoconut\/index.html"
+    },
+    {
+      "hash": "sha256-9zxGapL83Uscrcz7jceYFnsdN2h3i8T\/NIsizfkPU70=",
+      "url": "pets\/database\/pet\/PetEgg\/index.html"
+    },
+    {
+      "hash": "sha256-nDsHFTcVcSp1tkm5WLDlz3rain8XV5sKH86srRILfSM=",
+      "url": "pets\/database\/pet\/PetPeeve\/index.html"
+    },
+    {
+      "hash": "sha256-YXVfeyF4SW\/mWUjYkH69gGTH3QI0SzmP\/EiP3mEh7qk=",
+      "url": "pets\/database\/pet\/PetRock\/index.html"
+    },
+    {
+      "hash": "sha256-zg85eSfG\/EsTnnXvhjgnte60oNn65maMsQcNnWD2lw4=",
+      "url": "pets\/database\/pet\/PetRocker\/index.html"
+    },
+    {
+      "hash": "sha256-utodZYqc8FzRQwwBkSecjnUd2VIoWu8eQ1KN7Nvd3FY=",
+      "url": "pets\/database\/pet\/Phantasm\/index.html"
+    },
+    {
+      "hash": "sha256-PyBpube2BfypVYY8poCXRb5TZgjBcBI2TXIBfKJ+hDk=",
+      "url": "pets\/database\/pet\/PhantasmanianImp\/index.html"
+    },
+    {
+      "hash": "sha256-mjdplH+MiCfAqciwq+IdXK9tRaWCYc\/aZFeb61Wb5Ys=",
+      "url": "pets\/database\/pet\/Phoenix\/index.html"
+    },
+    {
+      "hash": "sha256-4q8nPS8OWCBqx1723jrHLpnUKOqZp4BOoeIO4OtukGE=",
+      "url": "pets\/database\/pet\/Piggle\/index.html"
+    },
+    {
+      "hash": "sha256-wXXQzUDeI2odlfNBPhFnMjJS0iwiEHAeFuSRJ2R\/wbc=",
+      "url": "pets\/database\/pet\/PineapplePal\/index.html"
+    },
+    {
+      "hash": "sha256-uv5EchAL+vjJ0Sn+5pwLRzCigY3PempICoVwd5xRPus=",
+      "url": "pets\/database\/pet\/PinkCactusHopper\/index.html"
+    },
+    {
+      "hash": "sha256-9e0ekCEJU+BUevqDqI3jFdZHZUiEsxz8zc4xfhIJuVs=",
+      "url": "pets\/database\/pet\/PinkJellyfish\/index.html"
+    },
+    {
+      "hash": "sha256-Dx3uUn2wh+wAxxBMuunPDoByPNUHcxM+cFOYsDE6BfI=",
+      "url": "pets\/database\/pet\/PinkPixie\/index.html"
+    },
+    {
+      "hash": "sha256-RqXpbV0GhN+FJBiNJwH+BCWnVD5vlibRUQumELmKnII=",
+      "url": "pets\/database\/pet\/PioneerDragon\/index.html"
+    },
+    {
+      "hash": "sha256-dy6rhhoEaAV70oGjQ83UO+TRZIWU2BEJbLkMG7MCxTo=",
+      "url": "pets\/database\/pet\/PiranhaHunter\/index.html"
+    },
+    {
+      "hash": "sha256-XrH1aWqxxj2q+ehThUFuOSLLGPRX\/bUkPpDpekTi2KY=",
+      "url": "pets\/database\/pet\/PixieQueen29(NoCard)\/index.html"
+    },
+    {
+      "hash": "sha256-YXg0Ti+mtJHyDw66wDJWgojbUkjjvAd+WhUVx8SkIpc=",
+      "url": "pets\/database\/pet\/PixieQueen57(Card)\/index.html"
+    },
+    {
+      "hash": "sha256-RYZA4EUs0rHtPtBPY5Gm3YOhD1AXMjK\/TSRAbj5a9ao=",
+      "url": "pets\/database\/pet\/PlagueNinja\/index.html"
+    },
+    {
+      "hash": "sha256-yKnvqabB9R4oZsJ1MBwCi3KhR63j2A5OCg1PJ2JlBe0=",
+      "url": "pets\/database\/pet\/PlagueOni\/index.html"
+    },
+    {
+      "hash": "sha256-lvLzSy5iXCLN3KKRDl\/l7GUEpz5rExFaGVYhfweJ9Vo=",
+      "url": "pets\/database\/pet\/PlainsMammoth\/index.html"
+    },
+    {
+      "hash": "sha256-Prem\/aUWxlJ4dBOkNyZo\/M0Ep9RU36pWCAv44p3xeZc=",
+      "url": "pets\/database\/pet\/PlantainSpider\/index.html"
+    },
+    {
+      "hash": "sha256-THf5hjhy\/KoZcAWE4yY98rBuQipjf19oTXBh9QFH7IA=",
+      "url": "pets\/database\/pet\/PlayfulPandaCubs\/index.html"
+    },
+    {
+      "hash": "sha256-tPSGmcCQAkT1YrDnlwprAhN7yKFCLCU+Xxvh3br9TqU=",
+      "url": "pets\/database\/pet\/PlayfulSealPup\/index.html"
+    },
+    {
+      "hash": "sha256-MR6HKVYFMZI\/LDIQGKV5a1nJyld8Y7Oq7T54Arx\/xrc=",
+      "url": "pets\/database\/pet\/PluckyClover\/index.html"
+    },
+    {
+      "hash": "sha256-oPmZ0\/ahFR\/eXqVFxLw0ZT9HHJaiyd6doANl+iszhQA=",
+      "url": "pets\/database\/pet\/PluckyGryphon\/index.html"
+    },
+    {
+      "hash": "sha256-\/Z+8HWbnbtCbSRCac1aQ4vd87TX\/BxdmwwmcUYveC5Y=",
+      "url": "pets\/database\/pet\/PoisedMedusa\/index.html"
+    },
+    {
+      "hash": "sha256-pLO7RQSZL8Axj5\/VLglgPzLc2pXEafOSvAz5CSyjIMc=",
+      "url": "pets\/database\/pet\/PoisedPixie\/index.html"
+    },
+    {
+      "hash": "sha256-HJ0ml4q8zOisQVgC11H0D7IPDc4cAoQTWE3yGlFLB9c=",
+      "url": "pets\/database\/pet\/PolarBearCub\/index.html"
+    },
+    {
+      "hash": "sha256-k2cCrGI6aw0qgfxV0aSdtZFtL3A9Raa2LHA7nMtC\/6w=",
+      "url": "pets\/database\/pet\/PolarCat\/index.html"
+    },
+    {
+      "hash": "sha256-TPL+snhzqP6708nTjG6qlNTcYsvbpi637WcSyYRbNZI=",
+      "url": "pets\/database\/pet\/PolarElf\/index.html"
+    },
+    {
+      "hash": "sha256-BdTimZs0eJDj0uqua09kOsjGo\/UHs9AU9dlF9DztELw=",
+      "url": "pets\/database\/pet\/PolarFox\/index.html"
+    },
+    {
+      "hash": "sha256-PyJ3TgMkJljHy9G5wfSWbcO+8u8nvndZyqFYKECrUCs=",
+      "url": "pets\/database\/pet\/Polterpooch\/index.html"
+    },
+    {
+      "hash": "sha256-3zAJfE2t4u\/xUcQUVD7yp195RmYaIOQlW3VYRHhlIRA=",
+      "url": "pets\/database\/pet\/PorkRanger\/index.html"
+    },
+    {
+      "hash": "sha256-opp9bLDVlkEvCap0diH2dierdFfg9UA1+mlf0jT963Y=",
+      "url": "pets\/database\/pet\/PowerDragon\/index.html"
+    },
+    {
+      "hash": "sha256-2+n82LuJWqKdFoYC6PkG6SaVSbSK6rJVFDkm4SD2L50=",
+      "url": "pets\/database\/pet\/PowerPig\/index.html"
+    },
+    {
+      "hash": "sha256-WLxd1y7otVtTY7DpRCpdZ8jLSCwbya+J6gdcnwryvQc=",
+      "url": "pets\/database\/pet\/PowerPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-iiCJTREWff4Rqrk5E2IOmqqozm4OoR15puxWHdfDw2Q=",
+      "url": "pets\/database\/pet\/PreciousPandaCubs\/index.html"
+    },
+    {
+      "hash": "sha256-6TBVjmhaxzvFa41gCwYwGP+YLMDy3RncWJLvKTrTtas=",
+      "url": "pets\/database\/pet\/PrecociousPandaCubs\/index.html"
+    },
+    {
+      "hash": "sha256-Y3VB7o1XQIrbLtFYaHukEgGLe6TK6mdt64rDqvEF3pE=",
+      "url": "pets\/database\/pet\/PremierPorker\/index.html"
+    },
+    {
+      "hash": "sha256-f1QsH9qB+LtvoAc3xfITggOS7UOMayvLxAhrspeI2B4=",
+      "url": "pets\/database\/pet\/PrettyPegasus\/index.html"
+    },
+    {
+      "hash": "sha256-j17gxdHltAse+I9xZ1k1JNMlIXlIRYsIct4Vx7WHD70=",
+      "url": "pets\/database\/pet\/PridePiggle\/index.html"
+    },
+    {
+      "hash": "sha256-txSh+glR3sA6wzzW8Me703rKFU84TxBkqH2euhTGQ7M=",
+      "url": "pets\/database\/pet\/PrimalWildclaw\/index.html"
+    },
+    {
+      "hash": "sha256-JcQDlVSQQangGeJeOv1OZ5LADhYgAJwuEICvCzOsw0U=",
+      "url": "pets\/database\/pet\/PrimePiggle\/index.html"
+    },
+    {
+      "hash": "sha256-N+muKY6\/qro1DDJf9wPIsfTSzLt1wSYntZmrmwjuo9Y=",
+      "url": "pets\/database\/pet\/PrismaticPegasus\/index.html"
+    },
+    {
+      "hash": "sha256-44kr5364aYMfNo4B4EDd11JOupyCWTx4mEakByg\/Kdc=",
+      "url": "pets\/database\/pet\/PropellerCat\/index.html"
+    },
+    {
+      "hash": "sha256-na\/o3r+kMnj4ooCjWCuv5x2krFOaOLIEpfqpt6cpMu0=",
+      "url": "pets\/database\/pet\/ProperPenguin\/index.html"
+    },
+    {
+      "hash": "sha256-oQ\/Zj8EMpa4Tj6ur5y3N6eoNjNIUtBntTPd68LhlTxM=",
+      "url": "pets\/database\/pet\/PrudentHound\/index.html"
+    },
+    {
+      "hash": "sha256-AYR9pT9\/po4Lg3rDLtdxxVJ1LRxlxvAZr8jxi0huwGk=",
+      "url": "pets\/database\/pet\/PryusDraconis\/index.html"
+    },
+    {
+      "hash": "sha256-\/lrYXaZe+2fEwyBDKSxckuFszo67wkCAup1xFsLDZ6U=",
+      "url": "pets\/database\/pet\/PuffyPackfish\/index.html"
+    },
+    {
+      "hash": "sha256-JgqEc3Fzm867o+Z2hvALIjlMdcdwSZwtVSrvdVXpguA=",
+      "url": "pets\/database\/pet\/PugilistPig\/index.html"
+    },
+    {
+      "hash": "sha256-zQbJX3uov4boptV+csB5BYMGGuybOy\/Ia+1d8ChWlV4=",
+      "url": "pets\/database\/pet\/PumaKit10\/index.html"
+    },
+    {
+      "hash": "sha256-HlFc58pao01p\/XFkWFvocFfavtAN1PnFm+xt0soEgrY=",
+      "url": "pets\/database\/pet\/PupProdigy\/index.html"
+    },
+    {
+      "hash": "sha256-hJuUIfhZh0hQJmFworahv9fo+3uCx2gTPhnl7UIJd30=",
+      "url": "pets\/database\/pet\/PurpleGlobulin\/index.html"
+    },
+    {
+      "hash": "sha256-O\/6mXYP1dDrRXlXLr\/G7NLF6sysCE\/pP3Rbz7HZpdZ0=",
+      "url": "pets\/database\/pet\/PurpleSpider\/index.html"
+    },
+    {
+      "hash": "sha256-Z7g5aRIbOZ56h4\/tvNuidzI4PVbVYou5lDLS0Ek\/3L0=",
+      "url": "pets\/database\/pet\/PyreElf\/index.html"
+    },
+    {
+      "hash": "sha256-LojuH0nDDB52NO93397EbHtcKiY6aZBePcuclQ9aU3Y=",
+      "url": "pets\/database\/pet\/PyroPest\/index.html"
+    },
+    {
+      "hash": "sha256-uE95mMUOK33E2gS2XMwv8vzS808oA+BHP\/PlT4uQeQ0=",
+      "url": "pets\/database\/pet\/PyroculusMaximus\/index.html"
+    },
+    {
+      "hash": "sha256-FMHJzdBaDAGGgU1+d+hESX0m70vz2LwgO5U+S3RyUqM=",
+      "url": "pets\/database\/pet\/QueenBee\/index.html"
+    },
+    {
+      "hash": "sha256-S\/uXuxscxWXoD7r8RznrFd6my4Keuc5nqz8hLDeJfNE=",
+      "url": "pets\/database\/pet\/QueenSpider\/index.html"
+    },
+    {
+      "hash": "sha256-9MaOAWls8ZCski\/kmYVmzFivI1\/i+7OkdxMb7chB2+U=",
+      "url": "pets\/database\/pet\/QuickPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-D9UUHxSUi\/F4m\/o\/yZ5q+rlT94JAJqGsgEOCYYjbp3I=",
+      "url": "pets\/database\/pet\/QuirkyPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-Wb4JpGKsLtZ5y1tExehw4xAyYtJiQGPy\/aF2TONZ+kw=",
+      "url": "pets\/database\/pet\/RagingBull\/index.html"
+    },
+    {
+      "hash": "sha256-4VGMlb\/9quDpW6endPYXavVO3DwTNnO1E89mCrdCy38=",
+      "url": "pets\/database\/pet\/RagingShark\/index.html"
+    },
+    {
+      "hash": "sha256-wqLjtqjX\/4bQZ70CxrQmQsGmt5iwsECSRYt3OK2fl2o=",
+      "url": "pets\/database\/pet\/RainBeetle\/index.html"
+    },
+    {
+      "hash": "sha256-ATLdHBq\/fK5A7PmmmxlBvaMjKxc4j7pXKHLqd3frIz8=",
+      "url": "pets\/database\/pet\/RainColossus\/index.html"
+    },
+    {
+      "hash": "sha256-mcvBfwoJbZNNxJuZdfdXHBmG4FdCkwCqJgQ+UYObUm8=",
+      "url": "pets\/database\/pet\/RainCore\/index.html"
+    },
+    {
+      "hash": "sha256-LXBRjtXsn0jMuMgMWmzMSHXOPgJvPUOKgUPnHFUj3DM=",
+      "url": "pets\/database\/pet\/RainDemon\/index.html"
+    },
+    {
+      "hash": "sha256-oUguhKaVNbt6pWhYaw6OupGiprPjg8VZCRzP6EGieRk=",
+      "url": "pets\/database\/pet\/RainGnome\/index.html"
+    },
+    {
+      "hash": "sha256-zGemlL\/1+TEP0dtKL3k+iO+nVVOQ8+v\/5hqtBGa7yRw=",
+      "url": "pets\/database\/pet\/RainyPoly\/index.html"
+    },
+    {
+      "hash": "sha256-Ja2PZ\/7Hvh09\/OXg97TXKlZaxnIAqhyfGw4k6s3P4Tw=",
+      "url": "pets\/database\/pet\/RamWarrior\/index.html"
+    },
+    {
+      "hash": "sha256-HqtZYBujZWrxvqEDVmcPL71MnUZnSTLV2vjHWIifhrc=",
+      "url": "pets\/database\/pet\/RamblersRunner\/index.html"
+    },
+    {
+      "hash": "sha256-Rardt2nrrZj6\/kFngCKuGg+s57x8rk1epzdmT6HU5ck=",
+      "url": "pets\/database\/pet\/RanchersRunner\/index.html"
+    },
+    {
+      "hash": "sha256-tKT69HR6e9vSZjr7jxSNYj4+I0Q+tJqQvFJzymR8Uw8=",
+      "url": "pets\/database\/pet\/RancidNinjaPig\/index.html"
+    },
+    {
+      "hash": "sha256-8vEhSZS2+Zp+YyH9W47Ymcn7BPu6Xf1BRIZuOfKSNdo=",
+      "url": "pets\/database\/pet\/RatJusticar\/index.html"
+    },
+    {
+      "hash": "sha256-i3XMYfUCAA7Z86yPc7ddtqxG6TFFsFO9vTyJueDDsAo=",
+      "url": "pets\/database\/pet\/RatMagician\/index.html"
+    },
+    {
+      "hash": "sha256-vdgXfqYYhtZvm2jV0Yb0Am+hBUP42SG3m1DQFQ86Efk=",
+      "url": "pets\/database\/pet\/RatPickpocket\/index.html"
+    },
+    {
+      "hash": "sha256-f081KnNJpbsRbg7YnYacTsfRbjY4nJAFdZ0s8K2U7yI=",
+      "url": "pets\/database\/pet\/Ratscallion\/index.html"
+    },
+    {
+      "hash": "sha256-hVtelzw0RVJobWA0W0U866X3IVuQu1LbqVJ856G+h48=",
+      "url": "pets\/database\/pet\/RattlebonessSprite\/index.html"
+    },
+    {
+      "hash": "sha256-9sequRNrecDPqPGdEmhht\/FzKLfJfwQT99iFJNBvxps=",
+      "url": "pets\/database\/pet\/Raven\/index.html"
+    },
+    {
+      "hash": "sha256-2Tkkuit5cQlAbC3dF78PraqheGJlRvnN5lNiOVTZDsc=",
+      "url": "pets\/database\/pet\/RavenousFlytrap\/index.html"
+    },
+    {
+      "hash": "sha256-jkdnrK7D6JN+ZhsIUXtdUbVJuY9v\/dIkJ6pH5ZSTqWU=",
+      "url": "pets\/database\/pet\/RavenousZorphie\/index.html"
+    },
+    {
+      "hash": "sha256-RDb373C5DTPHag4hyNDm7jzYJHyWlTt0j6SyldeI7L0=",
+      "url": "pets\/database\/pet\/RavenwoodClassPet\/index.html"
+    },
+    {
+      "hash": "sha256-9reSnKYlrOClcnK2WR9A023pqAYWTPkbpx7FJAXiVXM=",
+      "url": "pets\/database\/pet\/RavenwoodPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-EPvsysSUBjeE4zxcyl2EiZpTH6lo9UU2FaFAEfIRxQU=",
+      "url": "pets\/database\/pet\/ReanimatedFossil\/index.html"
+    },
+    {
+      "hash": "sha256-GXDgZG6E2VGAXaSleNcaj8hPuLBOqd8YonWiPqZ4+NI=",
+      "url": "pets\/database\/pet\/Reaper\/index.html"
+    },
+    {
+      "hash": "sha256-BmPWTVNavz8+AS4HfwaBdVR+6OH4Oaa8UStPVYCaPqI=",
+      "url": "pets\/database\/pet\/Reaver\/index.html"
+    },
+    {
+      "hash": "sha256-Gxaf5ygObhtrl+B8pkuX2UCvN4XEG9GPHhyReLtqSIw=",
+      "url": "pets\/database\/pet\/RedAppleBrudel\/index.html"
+    },
+    {
+      "hash": "sha256-KYdUAwUVonDskDamR4I+45PGT82TMktmXJyYv\/927QQ=",
+      "url": "pets\/database\/pet\/RedBanshee\/index.html"
+    },
+    {
+      "hash": "sha256-AywPqorms5ksjwzZuCvbzOKWI0y0+VKjBWYOjWinmd8=",
+      "url": "pets\/database\/pet\/RedCactusHopper\/index.html"
+    },
+    {
+      "hash": "sha256-UCd+c\/tWsasSGEZwEw\/FifV7uCEJ60mgzOniRZZo+eM=",
+      "url": "pets\/database\/pet\/RedCap\/index.html"
+    },
+    {
+      "hash": "sha256-aLG657UtWhbP\/EjCObMxNxwqrymYTzs+DLIRPRAd4Xk=",
+      "url": "pets\/database\/pet\/RedGhost\/index.html"
+    },
+    {
+      "hash": "sha256-\/ZvPC05C\/DF+65Lipc5che8IIcbs3szLOAaKh\/JCeYk=",
+      "url": "pets\/database\/pet\/RedGobbler\/index.html"
+    },
+    {
+      "hash": "sha256-oXLJsAfQS+srj1eFOwjzoiKNM6cyr4VUPmG4GxktEuc=",
+      "url": "pets\/database\/pet\/RedHotSun\/index.html"
+    },
+    {
+      "hash": "sha256-lTbKCCvXvMKHIZP7+O\/9IQRZRNmsHhCAR5e4r3YigYg=",
+      "url": "pets\/database\/pet\/RedPanda\/index.html"
+    },
+    {
+      "hash": "sha256-B8VaePTkKSPxoYf2itjDxTWVCZnKNWxqkEFaRB3jYBU=",
+      "url": "pets\/database\/pet\/RegalSkeleton\/index.html"
+    },
+    {
+      "hash": "sha256-TtOVqqDSiOt77p+O9CI0kg3igYe5tDbbRN8CmHoDs34=",
+      "url": "pets\/database\/pet\/RescueRover\/index.html"
+    },
+    {
+      "hash": "sha256-qjOEyywoLSq\/tHG\/8bCqWEIG2G17tmRZSDQFHkZNJpw=",
+      "url": "pets\/database\/pet\/ResoluteBloodbat\/index.html"
+    },
+    {
+      "hash": "sha256-DS8vqSsrdqEbe6v4h9esYiI88rf1KTkFYr2xOqmS8ck=",
+      "url": "pets\/database\/pet\/ReveredDragon\/index.html"
+    },
+    {
+      "hash": "sha256-U7S0QBMCfWQusTbnCNCX1pH6VxFqKps5N\/a\/mBBKwfE=",
+      "url": "pets\/database\/pet\/RimewingFey\/index.html"
+    },
+    {
+      "hash": "sha256-WqjKNsPhc6225mnijiXmVr5u28HbHqyOU2Dq303kbio=",
+      "url": "pets\/database\/pet\/RimyPoly\/index.html"
+    },
+    {
+      "hash": "sha256-soUJySocYZVj7h+fc4xi07g4q9EKvwdYeQWEfmlxgzo=",
+      "url": "pets\/database\/pet\/RoadHog\/index.html"
+    },
+    {
+      "hash": "sha256-Zvnm0HStwecB3fkM057f+i3mMvuRf3UiK5NP+xEoH5M=",
+      "url": "pets\/database\/pet\/Roccaneer\/index.html"
+    },
+    {
+      "hash": "sha256-jThMEd8KzXpp0l8g7ALZLyxqYZ+EgcrK1iWzZm1GjDo=",
+      "url": "pets\/database\/pet\/RockSkipper\/index.html"
+    },
+    {
+      "hash": "sha256-VEEmJWkgRo+\/VR7L1yDxMFhoZnvA+7n+AxzEU0A90NA=",
+      "url": "pets\/database\/pet\/RockinRoller\/index.html"
+    },
+    {
+      "hash": "sha256-e5sSyWtNgSeGmQTr7hGVh\/zdVoZAgnnYoYhjxm0C\/qE=",
+      "url": "pets\/database\/pet\/Rodetheus\/index.html"
+    },
+    {
+      "hash": "sha256-brNVBiD6Yi0b69HqAYtZ8kkR5ShVpupfXR9Wr2g3b6Q=",
+      "url": "pets\/database\/pet\/RoilyPoly\/index.html"
+    },
+    {
+      "hash": "sha256-mW4FTXWNZzKSrI2tUfQzw6+JG+7+q0uH\/0c37ScnB6M=",
+      "url": "pets\/database\/pet\/RollyScrolly\/index.html"
+    },
+    {
+      "hash": "sha256-TWhIub4kwQnphoHWJlFaUrSRJP157M3XtGLZnNIY1yo=",
+      "url": "pets\/database\/pet\/RootedGrimoire\/index.html"
+    },
+    {
+      "hash": "sha256-FWiLeKoVJSRwyEuXqqLiFrSwgz0\/c3Rj6iT6D\/l9LXs=",
+      "url": "pets\/database\/pet\/RosePixie\/index.html"
+    },
+    {
+      "hash": "sha256-kB3AMhssXGALoho0\/okqleDXvg1\/YGjOogoBnYPjn+g=",
+      "url": "pets\/database\/pet\/RoseatePixie\/index.html"
+    },
+    {
+      "hash": "sha256-Dk6MJtFLrJk+7HSQ5wEDVGsU6RFZLhhuwn7O9mtClbQ=",
+      "url": "pets\/database\/pet\/RottedTreant\/index.html"
+    },
+    {
+      "hash": "sha256-FFXSa5ccTem7li7QDxKz2PiEUtzbrkEWesG9MKZaUt0=",
+      "url": "pets\/database\/pet\/RottenCandy\/index.html"
+    },
+    {
+      "hash": "sha256-DJKqFUCe+k3SZk8Bfs0xNnq1ARDLuXfXFy9yrWA2qpw=",
+      "url": "pets\/database\/pet\/RottingDryad\/index.html"
+    },
+    {
+      "hash": "sha256-VzlgKoHhnGbMw9\/9\/n2eH0ss0m04eAIDlkSq\/jclzhs=",
+      "url": "pets\/database\/pet\/RowdyWildclaw\/index.html"
+    },
+    {
+      "hash": "sha256-QxVPGzvNkphJrGt8si3TCM1tKuCOFoLqT9M1BJ5acmc=",
+      "url": "pets\/database\/pet\/RoyalArmoredSkeleton\/index.html"
+    },
+    {
+      "hash": "sha256-XRlZfLw1+Mb9+3PLile2JT8p8wqVmPpFj4E3EFz2Ehk=",
+      "url": "pets\/database\/pet\/RoyalDragon\/index.html"
+    },
+    {
+      "hash": "sha256-KcBxLPOylOHhdggFIFNCEKSKoBodqHAwkpsHDzAAzl8=",
+      "url": "pets\/database\/pet\/RoyalIbis\/index.html"
+    },
+    {
+      "hash": "sha256-MOjbFCHrwXLUx1Qn7jxiHwb0RF7UP1OWYIdETfVzvbc=",
+      "url": "pets\/database\/pet\/RubyShenlongDragon\/index.html"
+    },
+    {
+      "hash": "sha256-2OUzxxP0AdKQsXLMG4AcvS4GWYd39JI1VpuxXvJWFyE=",
+      "url": "pets\/database\/pet\/RudeGoblin\/index.html"
+    },
+    {
+      "hash": "sha256-0q6AWy\/ub+qWKoqaLk1x6dhD5uXm7jQqk+1\/mkq1UCI=",
+      "url": "pets\/database\/pet\/Sabertooth\/index.html"
+    },
+    {
+      "hash": "sha256-pFezj2eGIlfADDeUgbhFG+lAjE1me4PAdbciQhFjIzQ=",
+      "url": "pets\/database\/pet\/SafetyHound\/index.html"
+    },
+    {
+      "hash": "sha256-1NoudH+T3Vruagq3JKn2X0q+5rUi98XVU2V44glX94k=",
+      "url": "pets\/database\/pet\/SailbackSkink\/index.html"
+    },
+    {
+      "hash": "sha256-pAvB3NiZrODKTBy59PBBodHwnNIc0OBWZ6f3TixMPxQ=",
+      "url": "pets\/database\/pet\/SaltyGingerbreadman\/index.html"
+    },
+    {
+      "hash": "sha256-JPI7LLQ1ZxvJbs0i5tjK\/4GvAxBJ4kPPNO\/6M4Sh+kI=",
+      "url": "pets\/database\/pet\/Samoorai\/index.html"
+    },
+    {
+      "hash": "sha256-I4eoxJ\/+55Q3fyilALuJa24eKWlHAUMVjem6YlXHy4A=",
+      "url": "pets\/database\/pet\/SandQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-qYGQyMfB4FP22SFZoI7Wf0H04\/OZlSHTiYTsK0fpujY=",
+      "url": "pets\/database\/pet\/SandWormLarva\/index.html"
+    },
+    {
+      "hash": "sha256-Ic+s1S2hdSyPpdIbk7HNMpxi9uoKWdKsLpWYfAwq5vM=",
+      "url": "pets\/database\/pet\/Sandman\/index.html"
+    },
+    {
+      "hash": "sha256-tMtdM8ne3wAiyl6FlukLVvdwAa8ZB+lN31NXdRp+IPc=",
+      "url": "pets\/database\/pet\/Satyr\/index.html"
+    },
+    {
+      "hash": "sha256-sv+QVpdejXWk767Q4e9BaN9KmeAyoe1+ylItxFCmJfI=",
+      "url": "pets\/database\/pet\/SavageWildclaw\/index.html"
+    },
+    {
+      "hash": "sha256-pihRTtjMnwN13MvScDrS2IJp8j+VWYWe4OGbzgq\/K7g=",
+      "url": "pets\/database\/pet\/ScaledKrok\/index.html"
+    },
+    {
+      "hash": "sha256-hrbcbBXIrKlC2CJwRsV97uz4IkywyHC7G9WoYFdlk0Y=",
+      "url": "pets\/database\/pet\/ScalyFrillasaur\/index.html"
+    },
+    {
+      "hash": "sha256-g8uISfksfkyDpUUNGfdXhZi61Rh7bx8bSjgTNwqlbLM=",
+      "url": "pets\/database\/pet\/ScalyMortician\/index.html"
+    },
+    {
+      "hash": "sha256-MCZpEFYrhLKSd\/JYbM8MAit0Cg6Yc904TqqM4OLCcCg=",
+      "url": "pets\/database\/pet\/Scarab\/index.html"
+    },
+    {
+      "hash": "sha256-3U7mVPm5Am7sfk1O1oB1MNvZmWYzkVMBqm22Qd7CgmI=",
+      "url": "pets\/database\/pet\/ScareBear\/index.html"
+    },
+    {
+      "hash": "sha256-NVcTETCRDA8WxqHvFcXWC+fxfr1IqEliGrlSy32z\/84=",
+      "url": "pets\/database\/pet\/Scarecrow\/index.html"
+    },
+    {
+      "hash": "sha256-fRGYHK7AcCeuB25dxCviAp0fZ5vL\/H\/yJ7XtyZNkbyA=",
+      "url": "pets\/database\/pet\/ScaryFairy\/index.html"
+    },
+    {
+      "hash": "sha256-H93N9uDCnTCTLhtVvv4RlV81qMLU9A0yEo8uVJV\/PVE=",
+      "url": "pets\/database\/pet\/Scorchzilla\/index.html"
+    },
+    {
+      "hash": "sha256-ZdK6UEOTbhjYsAEUJbM8+i08BBB+q70P6aS5lVhZ3oE=",
+      "url": "pets\/database\/pet\/Scorpion\/index.html"
+    },
+    {
+      "hash": "sha256-vEcsaaVzcSwucDsgivNyEDWuk1V5W2fC\/qFpopXye9A=",
+      "url": "pets\/database\/pet\/ScourgeTreant\/index.html"
+    },
+    {
+      "hash": "sha256-B+D8pug8oLvayQRpDAEXGxy5Oa+dTsJzQEipWJVdVM4=",
+      "url": "pets\/database\/pet\/ScoutPig\/index.html"
+    },
+    {
+      "hash": "sha256-FKJX1oXFgupq3\/JNCvh+nFUkYiyPwX+NC59rUFimhwM=",
+      "url": "pets\/database\/pet\/ScrappyGryphon\/index.html"
+    },
+    {
+      "hash": "sha256-RiAe5QVxuPbo9BMjS+oxiP203X1ClJb19nkdnB8DC\/s=",
+      "url": "pets\/database\/pet\/ScratchyFrillasaur\/index.html"
+    },
+    {
+      "hash": "sha256-yy5QkEwjcBWJXmV3wZjLmLl3EWmkqNj0rPtwgQr8N3w=",
+      "url": "pets\/database\/pet\/SeaCharger\/index.html"
+    },
+    {
+      "hash": "sha256-rS6GoxZQNBrMBSLogwvlX4rI8YDkJPLAXjEIQfpHbs0=",
+      "url": "pets\/database\/pet\/SeaCourser\/index.html"
+    },
+    {
+      "hash": "sha256-NF1vTdeYfx\/uusBpHSxt3FhC47KuRe8M3hCkYTb3gr0=",
+      "url": "pets\/database\/pet\/SeaDestrier\/index.html"
+    },
+    {
+      "hash": "sha256-5sQybJabXJUe8BJSNtXpQ4m0PpsolBTwaeld3ZZtKB0=",
+      "url": "pets\/database\/pet\/SeaDragon\/index.html"
+    },
+    {
+      "hash": "sha256-eipR4T9zjyR6Nq82yinmasQEJ+Hw8g5rVvXSBTrATxE=",
+      "url": "pets\/database\/pet\/SeaTurtle\/index.html"
+    },
+    {
+      "hash": "sha256-haQnGS4Zf2Ua\/O+oyAwqqTjGeLsoIAiVoBKmm5C\/QQ8=",
+      "url": "pets\/database\/pet\/Seraph\/index.html"
+    },
+    {
+      "hash": "sha256-RAk2UEEmxErRt+1eBl63NN8Mkv5Pks9kAUfUvi84MiU=",
+      "url": "pets\/database\/pet\/SeteshsScarab\/index.html"
+    },
+    {
+      "hash": "sha256-CkbVDRXO8jPXYxw3mLrbpO0YQNw3B790nw1fq5rYmi8=",
+      "url": "pets\/database\/pet\/ShadowBeast\/index.html"
+    },
+    {
+      "hash": "sha256-SoL7IjbiC4R1g21x319xNznWMwUaeQqAZKH2oJ+OpyM=",
+      "url": "pets\/database\/pet\/ShadowPhoenix\/index.html"
+    },
+    {
+      "hash": "sha256-wtXW1GufiI0NPUm6CVFzjn4TfFjEm7g5zEWamW+O6qs=",
+      "url": "pets\/database\/pet\/ShadowWebling\/index.html"
+    },
+    {
+      "hash": "sha256-+J9ZeRan24dUIa1YiNh8DGSNKtmTuBW7iA7s8cyICtI=",
+      "url": "pets\/database\/pet\/ShaolinMonkey\/index.html"
+    },
+    {
+      "hash": "sha256-tpCIgJxEcwlisv4DcEGEYIAwdL0wwwxL8mIVFuFoD34=",
+      "url": "pets\/database\/pet\/ShardtailDragon\/index.html"
+    },
+    {
+      "hash": "sha256-kNm1kkJiFiifcgJ1XEd9w6a8FiLuK0VHz0eTWhuCJyE=",
+      "url": "pets\/database\/pet\/Sheep\/index.html"
+    },
+    {
+      "hash": "sha256-lNksxBwRrZr9g38Lpg\/qCaK9pi+KuRpmtHkjfke6XkA=",
+      "url": "pets\/database\/pet\/ShellnobiWarrior\/index.html"
+    },
+    {
+      "hash": "sha256-6UeLWGLN54r3Q8gh+giUjhMcgsQQeap4uYVtPtmAeC4=",
+      "url": "pets\/database\/pet\/ShiveringMedusa\/index.html"
+    },
+    {
+      "hash": "sha256-bo169FwKu5Bl0NzqyJCA1rl7CVZKREcFgKgKz4v\/y0U=",
+      "url": "pets\/database\/pet\/ShiverousKnight\/index.html"
+    },
+    {
+      "hash": "sha256-qbtjnT1dCJNROiRiNhscwhW6C+6UYlbFy39DKehdZPA=",
+      "url": "pets\/database\/pet\/ShockColossus\/index.html"
+    },
+    {
+      "hash": "sha256-ah+11LOs0HQWMcEo9zjKeG4PClosv\/RfdFZ3VC+QD8Q=",
+      "url": "pets\/database\/pet\/ShockDemon\/index.html"
+    },
+    {
+      "hash": "sha256-CQFuFhjk11tGg3kUA74\/I308lodv5VVaSBi9553usnI=",
+      "url": "pets\/database\/pet\/Shockodile\/index.html"
+    },
+    {
+      "hash": "sha256-8CG1vIc6CfNqlUvldbML\/nH+Vzzvdg77hqN3wFI7XH4=",
+      "url": "pets\/database\/pet\/ShriveledSavant\/index.html"
+    },
+    {
+      "hash": "sha256-riL6XnQ7O0AyqEZCJNyzmi0d15eD\/uIpoHkrtohSH14=",
+      "url": "pets\/database\/pet\/SilverColossus\/index.html"
+    },
+    {
+      "hash": "sha256-ok53+813vVRYOmtiSUg4vOERkSF4zH2IDnQhE50a7nY=",
+      "url": "pets\/database\/pet\/SilverbackWildclaw\/index.html"
+    },
+    {
+      "hash": "sha256-7occ7rl\/nZY956pcrUxo+563Zs0akO4xJMJrzIliFmo=",
+      "url": "pets\/database\/pet\/SinisterStrix\/index.html"
+    },
+    {
+      "hash": "sha256-wh863Y5N7oSD1C7cvgHisE981VIKN4xsPojB01veuf8=",
+      "url": "pets\/database\/pet\/SisterCheesiwitz\/index.html"
+    },
+    {
+      "hash": "sha256-XtwM3zPUYdgKTc2Zqa06afqwGGT+4j4SIsdRdt+bj2c=",
+      "url": "pets\/database\/pet\/SkeletalBrigand\/index.html"
+    },
+    {
+      "hash": "sha256-WK4nXeDm2o2msIheqCp2WyM6ZLbr5AnmoIvpTCfjr3o=",
+      "url": "pets\/database\/pet\/SkeletalChampion\/index.html"
+    },
+    {
+      "hash": "sha256-eX8Y3ZO1pzGdQBG01+7NVttIdAWsaate3AcgvOJr\/sI=",
+      "url": "pets\/database\/pet\/SkeletalGladiator\/index.html"
+    },
+    {
+      "hash": "sha256-YQa5ShnQa\/kV7ZYpp8Xj4Qm4nJvOjkJ2wgY4nNIGha4=",
+      "url": "pets\/database\/pet\/SkeletalHonorGuard\/index.html"
+    },
+    {
+      "hash": "sha256-4ANLqVX5nw3SBPu97eLRlQmCyLBgQX\/6DGERl3xJELM=",
+      "url": "pets\/database\/pet\/SkeletalLegionnaire\/index.html"
+    },
+    {
+      "hash": "sha256-79LfM6VlWJknBn+c7qPaNoY7klh\/XBwIwt0FkjcBtrA=",
+      "url": "pets\/database\/pet\/SkeletalMarauder\/index.html"
+    },
+    {
+      "hash": "sha256-VGxlMd69eZ+elQcn+S1ZNRbGYG+ZThqkoiDErYfHMNU=",
+      "url": "pets\/database\/pet\/SkeletalRogue\/index.html"
+    },
+    {
+      "hash": "sha256-2F76CjBCSurPzurWAP28v4VMqH74yV4uSDtXrH0Hexs=",
+      "url": "pets\/database\/pet\/SkeletalScoundrel\/index.html"
+    },
+    {
+      "hash": "sha256-bWh0ItoAkWFiH7uci8Oq3\/jKDanrlauMqEhnFeQDSdc=",
+      "url": "pets\/database\/pet\/SkeletalSkulk\/index.html"
+    },
+    {
+      "hash": "sha256-jOuX6i9EAb9\/n9dnbN30grMXGFSCSKOro3pMW73nwSM=",
+      "url": "pets\/database\/pet\/SkeletalSneak\/index.html"
+    },
+    {
+      "hash": "sha256-SHhYI\/eedRn5HGnKqBlRiK9lYONl8p0N9ld28ZpOwMI=",
+      "url": "pets\/database\/pet\/SkeletalWarrior\/index.html"
+    },
+    {
+      "hash": "sha256-KkRiq1gokgsg0vwWVWlZmx0q+cdrLkQuirB8mV5Aa6Q=",
+      "url": "pets\/database\/pet\/Skink\/index.html"
+    },
+    {
+      "hash": "sha256-0KnX\/Pu356oO9yRV6y0LvnEMxv2GGbfyHs0da1MZPNY=",
+      "url": "pets\/database\/pet\/SkyscreamDemon\/index.html"
+    },
+    {
+      "hash": "sha256-STD8kovMurf0RBKWAo1xqBvqDC+NjJYt8BCV48W6DsI=",
+      "url": "pets\/database\/pet\/SkyslashDemon\/index.html"
+    },
+    {
+      "hash": "sha256-LZvVG3lGgB25VL7OVCfkUB\/zie2o7dI+xNJ8Tvti4Ag=",
+      "url": "pets\/database\/pet\/SleetBat\/index.html"
+    },
+    {
+      "hash": "sha256-hViTCuBNgpzfUl7fh\/lIgCB7qx+aZprA8Bw22aNORyg=",
+      "url": "pets\/database\/pet\/SleetElf\/index.html"
+    },
+    {
+      "hash": "sha256-8Vx3UMmr3K5dbXtqYsR\/pg5T5omdRqoP9XY93+tmhCw=",
+      "url": "pets\/database\/pet\/SlyPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-G3z8Bxm42Jn0wIqZR\/OnTks26CJXkzug8bG454rKSbQ=",
+      "url": "pets\/database\/pet\/SmartyPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-t3NSQfEXbQ+MklHl8XCWRvygPo\/s\/PAuNTr0FBofkgQ=",
+      "url": "pets\/database\/pet\/Smith\/index.html"
+    },
+    {
+      "hash": "sha256-9NthnH5m6P33nlWw4JUSHD1OSQzG6FrPcm5\/s4Pavro=",
+      "url": "pets\/database\/pet\/SnakeinaBasket\/index.html"
+    },
+    {
+      "hash": "sha256-nEiK+DpSKWkib7bw1Dh2khLTbII0NNEiE8B2p\/tIKjU=",
+      "url": "pets\/database\/pet\/Snallygaster\/index.html"
+    },
+    {
+      "hash": "sha256-uZl3IF2wcldCfQ6TeavHvarvNFqTXAI8LOwWCQucqe4=",
+      "url": "pets\/database\/pet\/SnappyFrillasaur\/index.html"
+    },
+    {
+      "hash": "sha256-QhEmOcyrJFs\/zaPFv8Uz6mZa8j3rdqGJdpsLtVW0GWE=",
+      "url": "pets\/database\/pet\/SnappyGryphon\/index.html"
+    },
+    {
+      "hash": "sha256-aSFe1ftk3tBHUnnPywGeKMa\/BOs8glE2n3Ue0m1\/huc=",
+      "url": "pets\/database\/pet\/SneakyPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-5TUcOL1JodWRIDmWbTer4\/BuXoAaBB\/p+V57iU92rwk=",
+      "url": "pets\/database\/pet\/Snoni\/index.html"
+    },
+    {
+      "hash": "sha256-gSrwaXqodlId9nLQKsHgZYWUd3p2+fCQOwKSia57VwU=",
+      "url": "pets\/database\/pet\/SnowBeast\/index.html"
+    },
+    {
+      "hash": "sha256-RP3Xxm8F7Ptl9YA5Dkr6dwX0cfAcPciKjAd9\/zt5sBg=",
+      "url": "pets\/database\/pet\/SnowSerpent\/index.html"
+    },
+    {
+      "hash": "sha256-P3Q6CHl\/oSfAqTWmEh0asEdH711mIQXli3Qv5F6i6tE=",
+      "url": "pets\/database\/pet\/SnowCoveredElf\/index.html"
+    },
+    {
+      "hash": "sha256-W8Cnaakpj7Yyjrv5rojsyY+Xmw+k\/4gGVW6qvidIgXs=",
+      "url": "pets\/database\/pet\/Snowball\/index.html"
+    },
+    {
+      "hash": "sha256-eUjiRdvy+T1pRcS5Y+yCIKOmyANsCk3J3TFoyKhJ7TU=",
+      "url": "pets\/database\/pet\/SnowblinofAges\/index.html"
+    },
+    {
+      "hash": "sha256-zm1nps0rsXL81lePPmvh+TAN2krPPK\/LlAJRvmTWC+Y=",
+      "url": "pets\/database\/pet\/Snowflake\/index.html"
+    },
+    {
+      "hash": "sha256-sntWWj7odPaAFoDHSzyWXHKj2Dpe9PF30YdSih\/XJ+0=",
+      "url": "pets\/database\/pet\/Snowhoppers\/index.html"
+    },
+    {
+      "hash": "sha256-Cwrnk2kR024S1lGypbKOQptXt9zawKYpzUTAQgcMSCs=",
+      "url": "pets\/database\/pet\/SnowyCat\/index.html"
+    },
+    {
+      "hash": "sha256-7GbWVqTGTFMB2C17rgeJS+cM\/+ZBeu0G4MfXftS2\/zI=",
+      "url": "pets\/database\/pet\/SnuglyDuckling\/index.html"
+    },
+    {
+      "hash": "sha256-pOlY6xaoL6\/65usav0ilr4Ag\/WfYvHPY3Je98vhl5dU=",
+      "url": "pets\/database\/pet\/SokarsScarab\/index.html"
+    },
+    {
+      "hash": "sha256-gNRRDDBXl1ZdN8VwogTuakjxKar0fagzl8+eWBvsnFs=",
+      "url": "pets\/database\/pet\/SorcererHunter\/index.html"
+    },
+    {
+      "hash": "sha256-\/otW3tiELO8lEkexwHIQL6NyyWqdbcuDVLQMteSkcMA=",
+      "url": "pets\/database\/pet\/Soulclops\/index.html"
+    },
+    {
+      "hash": "sha256-TayhHQbOhKc0GhiWiSJP8R\/BABzoqP1t2b4pNL+Ed08=",
+      "url": "pets\/database\/pet\/SoulfulDraconian\/index.html"
+    },
+    {
+      "hash": "sha256-EdOEHitZpdhq5ZByipv4nhiUkdbxmxaIkHU5EKQHpTE=",
+      "url": "pets\/database\/pet\/SoulfulKnight\/index.html"
+    },
+    {
+      "hash": "sha256-v7NaMTwPywjnDGbdTDfqvSNzqgsqDOGmix+L3aDNKLs=",
+      "url": "pets\/database\/pet\/SparkBeast\/index.html"
+    },
+    {
+      "hash": "sha256-y+9vDaASEGotFoxMAEOOgaahpxH1s6m7di9bYYqF2uQ=",
+      "url": "pets\/database\/pet\/SparkColossus\/index.html"
+    },
+    {
+      "hash": "sha256-Ufg4b0W3GEsoVqI8KHzyhLIaqtEzBRkLFVejEzJoQIc=",
+      "url": "pets\/database\/pet\/SpeckledPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-pX4ibqX0mATv4C010wZT7TZ2tkDyMGY82gNDT7VY6Do=",
+      "url": "pets\/database\/pet\/SpectreLord\/index.html"
+    },
+    {
+      "hash": "sha256-HqyIbeZB8nynojuZIHWm4FblTPYvS+F5HlzlhUVynt4=",
+      "url": "pets\/database\/pet\/SpectreoftheBrocken\/index.html"
+    },
+    {
+      "hash": "sha256-AkA3hjp0cSRGN3OjADFGxlFtiKQxtXA7vpd\/yGRxk5U=",
+      "url": "pets\/database\/pet\/SpellwritRonin\/index.html"
+    },
+    {
+      "hash": "sha256-NG8now22U5iuz+ZgLJh+OLhQO6ftYn8yoeD5PtW+E+E=",
+      "url": "pets\/database\/pet\/SpellwritScreamer\/index.html"
+    },
+    {
+      "hash": "sha256-9olrBcgMzUahgzCcKT7y4QgxdaCVCuHtgUHHipRlkjQ=",
+      "url": "pets\/database\/pet\/SpellwritStalker\/index.html"
+    },
+    {
+      "hash": "sha256-0BcHQZRK5eCbOHp7fBT\/cPyL0gICoZJLmi\/d\/4M6Rvc=",
+      "url": "pets\/database\/pet\/SpellwritWildclaw\/index.html"
+    },
+    {
+      "hash": "sha256-W3cItxIXsw1m+mDl0HSTqgpLBXLQtan0Vs0zOeU9Nsk=",
+      "url": "pets\/database\/pet\/SpicyGingerbreadman\/index.html"
+    },
+    {
+      "hash": "sha256-06Cb7vaPSYzJERYtBRexhKHFErRi8hCbeo1x7I4uM+I=",
+      "url": "pets\/database\/pet\/SpiderGolem\/index.html"
+    },
+    {
+      "hash": "sha256-yKLDdjPAb6mD3VUfU9P9WFCl0vm6ba2tOYXWqWvYafY=",
+      "url": "pets\/database\/pet\/Spinyfish\/index.html"
+    },
+    {
+      "hash": "sha256-XVVoMbPPrpaZjvos0lAzRzdRHDtHuMFuocVfdru1hXU=",
+      "url": "pets\/database\/pet\/SpiritofNature\/index.html"
+    },
+    {
+      "hash": "sha256-ubRd2sq\/ASQLnNt3ELnOZGx1rzLE6cCnKIjHATFK6RY=",
+      "url": "pets\/database\/pet\/SpiritoftheForest\/index.html"
+    },
+    {
+      "hash": "sha256-xY4Fz4Kgzm80EjsXA6kBO+R++nHHpwxzGTitGos6Row=",
+      "url": "pets\/database\/pet\/SpiritedLionCubs\/index.html"
+    },
+    {
+      "hash": "sha256-dq3xnugRB\/N7LjesX+L4zg1Z+LYVAjRAL9PvC4DfkU0=",
+      "url": "pets\/database\/pet\/SpiritualDragon\/index.html"
+    },
+    {
+      "hash": "sha256-OkgTBJjQR8Zcdpd3ASm\/n9dEiXp8t1B22VYUi3BYKr8=",
+      "url": "pets\/database\/pet\/SplendidStarry\/index.html"
+    },
+    {
+      "hash": "sha256-0jHdAmoFytxilxeqI7wIJLTKyCse8itUeIzLZLVudiM=",
+      "url": "pets\/database\/pet\/SpookyMacawbre\/index.html"
+    },
+    {
+      "hash": "sha256-OlN7\/6SidgIktvbsAg52NhyGvPUxAMvlnVOTxfaPEw8=",
+      "url": "pets\/database\/pet\/SpookyPegasus\/index.html"
+    },
+    {
+      "hash": "sha256-+DBQr4p6uBEtzsZLn9yybn996BWPhzxtyy8Tte9Cfsk=",
+      "url": "pets\/database\/pet\/SportyDragon\/index.html"
+    },
+    {
+      "hash": "sha256-onjt3O\/2kD6I20JJo+\/iX50ZEDp4GeKrDXJyQJ6worE=",
+      "url": "pets\/database\/pet\/SpringChicken\/index.html"
+    },
+    {
+      "hash": "sha256-hDlbjs6gJirxYRGH8JNL2Ud8GC2LMfTNAXfNyRHD3fk=",
+      "url": "pets\/database\/pet\/SpringSproutling\/index.html"
+    },
+    {
+      "hash": "sha256-xCc56nRM75UwnmnqyY1pep8GQRyAcdmo810sqU8ipSs=",
+      "url": "pets\/database\/pet\/SpringingChicken\/index.html"
+    },
+    {
+      "hash": "sha256-0FUhtLDA\/gGagZRSPwqKCl3saTaDOWgduZ1ec4HIIoA=",
+      "url": "pets\/database\/pet\/SpringtimeCyclops\/index.html"
+    },
+    {
+      "hash": "sha256-HbMkz8oqKenDLVdwWBta7z\/l2rse0\/PwP2HHuWrEsmA=",
+      "url": "pets\/database\/pet\/Sprite\/index.html"
+    },
+    {
+      "hash": "sha256-H5MWwLyW0yRvEBcPOYTjHtSp8npCbVT0N+WfMCnurlY=",
+      "url": "pets\/database\/pet\/SpriteofLife\/index.html"
+    },
+    {
+      "hash": "sha256-\/MM2TTTEzEldRPG\/x9elIApOt34eEA+1TzeObvkxSgo=",
+      "url": "pets\/database\/pet\/Squirerel\/index.html"
+    },
+    {
+      "hash": "sha256-ZI31Gagvo\/dcwq0qCaQWsOZtvR41yMpbO7v\/pn5xQcU=",
+      "url": "pets\/database\/pet\/Squirreligig\/index.html"
+    },
+    {
+      "hash": "sha256-PUVgLGwi68rQ2XdGfzdANj8y3Fx8TYQSiyJX0NbKUy8=",
+      "url": "pets\/database\/pet\/StableOctopus\/index.html"
+    },
+    {
+      "hash": "sha256-cICNhGA\/sEYdtWjtvfZlcGTr\/oowyJvH3BarKvsYYmo=",
+      "url": "pets\/database\/pet\/StainedGlassRoller\/index.html"
+    },
+    {
+      "hash": "sha256-LJxOWrdklOGD\/IfWo\/g15xXt714+Oc+sr7k93WmIfo0=",
+      "url": "pets\/database\/pet\/StarburstSpider\/index.html"
+    },
+    {
+      "hash": "sha256-BARQzQRG3GgRc0sejhEClnPqOzblx15zOmROd7zg1dw=",
+      "url": "pets\/database\/pet\/Starfish\/index.html"
+    },
+    {
+      "hash": "sha256-bPw519LicbI4IO8RgsRF9R0rr0c7YHrpMAf1r8TUxcw=",
+      "url": "pets\/database\/pet\/StargazersRat\/index.html"
+    },
+    {
+      "hash": "sha256-uAvsSYBOPWG0jACmjjMfb57+Zj\/Rb\/kRzKvWqYhQyuM=",
+      "url": "pets\/database\/pet\/StarvingFlytrap\/index.html"
+    },
+    {
+      "hash": "sha256-QpbsnfnMWmZev5v8EGu8AfJwnHbupijQn47555V0Rkc=",
+      "url": "pets\/database\/pet\/SteadyNullDragon\/index.html"
+    },
+    {
+      "hash": "sha256-4wYV37930SwZXEwb7l5+wdkdcCUJQvUY6ghWRsi7BdU=",
+      "url": "pets\/database\/pet\/StealthPig\/index.html"
+    },
+    {
+      "hash": "sha256-fKcDUgwbHaKQC2nLR4LvDp7pbBBZdtthIeXguFBbAmE=",
+      "url": "pets\/database\/pet\/SteelGolem\/index.html"
+    },
+    {
+      "hash": "sha256-xQvb2h8YYy2j2SmOyU\/O0GnuWuvoqUJy8FqbZA4+kHc=",
+      "url": "pets\/database\/pet\/Stegosaurus\/index.html"
+    },
+    {
+      "hash": "sha256-K4fqFkHYVy0yUoT6\/STCAW9GPRqHiJvcuMdtTQggyoY=",
+      "url": "pets\/database\/pet\/StoneColossus\/index.html"
+    },
+    {
+      "hash": "sha256-TDsc98icYOENG+kmmxv7W2d7+3rKCtslBbxODRdyoWU=",
+      "url": "pets\/database\/pet\/StormArmaments\/index.html"
+    },
+    {
+      "hash": "sha256-WJmLizEAWXNbuy88QXmre5sCcIGFxdKvRZqn9Q5Sfak=",
+      "url": "pets\/database\/pet\/StormBeetle\/index.html"
+    },
+    {
+      "hash": "sha256-OHX+hDjujkj\/e3NbzYljLTNetcdg76vWrdqphWGG4bE=",
+      "url": "pets\/database\/pet\/StormBird\/index.html"
+    },
+    {
+      "hash": "sha256-I2pzR1r8mQPMIabm6iPS2YMnXnIuJmMteVxTpofUoZk=",
+      "url": "pets\/database\/pet\/StormCat\/index.html"
+    },
+    {
+      "hash": "sha256-Z+Rr2fUANS75C1sTgbaNqfXjfUOevO5\/+as5mGOQjrM=",
+      "url": "pets\/database\/pet\/StormClassPet\/index.html"
+    },
+    {
+      "hash": "sha256-\/5YLJTVkLEoSChAd15NQvy5a0Ns9bUVwX9AWxStpCaY=",
+      "url": "pets\/database\/pet\/StormColossus\/index.html"
+    },
+    {
+      "hash": "sha256-+AU\/5QTE7bY0GjP\/5hu5l94e8rZhqzoqS7FwZY9Y2Ck=",
+      "url": "pets\/database\/pet\/StormDemon\/index.html"
+    },
+    {
+      "hash": "sha256-q5COEGkqBBhgfgT0Z3sWPDHLYol5d0gTlc\/sDNyOMM4=",
+      "url": "pets\/database\/pet\/StormElf\/index.html"
+    },
+    {
+      "hash": "sha256-Mm0S5r9DXAvIKC\/NQRmT+83sSbjclnk7ZOTer4UwsU0=",
+      "url": "pets\/database\/pet\/StormHamster\/index.html"
+    },
+    {
+      "hash": "sha256-qumLcBDG0rvrDKbPhnxeEpGs0sLzioGAloFBV+NVQrI=",
+      "url": "pets\/database\/pet\/StormHound\/index.html"
+    },
+    {
+      "hash": "sha256-qaFZScYT42zrlFE98MUwbNIUyAOFspfF6QzF3E5H6js=",
+      "url": "pets\/database\/pet\/StormSalamander\/index.html"
+    },
+    {
+      "hash": "sha256-Cvn\/S1a6Ejhi6Aa7skhtHnfXDOejAo1vZI0e9X\/Pkto=",
+      "url": "pets\/database\/pet\/StormSerpent\/index.html"
+    },
+    {
+      "hash": "sha256-Avjl8jOWvBO1M73Iu2ELWi6A4SypVRb9GMMz4K5EhiY=",
+      "url": "pets\/database\/pet\/StormSnowman\/index.html"
+    },
+    {
+      "hash": "sha256-ie70upsO\/+tPydYIyUFpIdqrGARMusJICxyFU8aB3HE=",
+      "url": "pets\/database\/pet\/StormWartle\/index.html"
+    },
+    {
+      "hash": "sha256-lyLZqLNVkjMLwot5i67JNvG7By7LQofWe2cmHnCcXVU=",
+      "url": "pets\/database\/pet\/StormishFrog\/index.html"
+    },
+    {
+      "hash": "sha256-8HBQJ7Vn1j6NDO5lsytf88YWf7o8KlZx\/\/m\/cTmkgFw=",
+      "url": "pets\/database\/pet\/Stormbat\/index.html"
+    },
+    {
+      "hash": "sha256-CHqqEV9TTb0SL3zcr\/iqO6ofpEfqrUymkvYvYC\/QwWk=",
+      "url": "pets\/database\/pet\/Stormcaller\/index.html"
+    },
+    {
+      "hash": "sha256-EIzIKCzp8TNEkAzVrMQAIx7cqqyxIiul0yIVigREyaA=",
+      "url": "pets\/database\/pet\/Stormdancer\/index.html"
+    },
+    {
+      "hash": "sha256-9Oy6OKW8yMO\/IfYGTl2JtyzEpg\/dY3WpnE+mLNcKvyc=",
+      "url": "pets\/database\/pet\/Stormotaur\/index.html"
+    },
+    {
+      "hash": "sha256-jEn36N6YXWxk47LIWCHWz8UzihFFiYCF0tl0Ue5\/RfA=",
+      "url": "pets\/database\/pet\/Stormwarden\/index.html"
+    },
+    {
+      "hash": "sha256-REdf6xOTnvXceCgDo5uvANPjJyqSCQONW93XjiJhsEo=",
+      "url": "pets\/database\/pet\/StormyNullDragon\/index.html"
+    },
+    {
+      "hash": "sha256-BkzRqGDTOejVBbHupVPwXYgZGvidga4hfhxQD12BNVg=",
+      "url": "pets\/database\/pet\/StormyRingtail\/index.html"
+    },
+    {
+      "hash": "sha256-Nz1XlqupuqhULOVMBi49cDjJXvcHr0Xz9P\/Vopotv0M=",
+      "url": "pets\/database\/pet\/Stormzilla\/index.html"
+    },
+    {
+      "hash": "sha256-\/xAk+xD02s3eaveSw0BKuCREqPeIXndjrBz4LtGH4DQ=",
+      "url": "pets\/database\/pet\/StorytellingGolem\/index.html"
+    },
+    {
+      "hash": "sha256-meK4Lopt5yHGiUjMJ\/SnSTT7ltyuUSqfJuP0WeSchyE=",
+      "url": "pets\/database\/pet\/StrangeBeast\/index.html"
+    },
+    {
+      "hash": "sha256-1kirv4h7rpFJfLJR89BJcqT2Ywf\/gQfuKGECAQ1ICSc=",
+      "url": "pets\/database\/pet\/StratusColossus\/index.html"
+    },
+    {
+      "hash": "sha256-khi9fxsMSTqju\/81ebJkQlVvvZitdxu3bKejLHFJ1FE=",
+      "url": "pets\/database\/pet\/StrayPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-MHzWLMq0UsQOq932pFd9NI9geC+IqrL6BJoojXmviPs=",
+      "url": "pets\/database\/pet\/StripedBoar\/index.html"
+    },
+    {
+      "hash": "sha256-gHJgy0tqws+B2wQqqqWbh34mKCQbNCy02xZXWdAPJwY=",
+      "url": "pets\/database\/pet\/SturdyDragon\/index.html"
+    },
+    {
+      "hash": "sha256-UniH+Z7OhmP5fBp7iEuYDA9Dor1R9xFbZ25VLwNk7\/o=",
+      "url": "pets\/database\/pet\/SturdyWildclaw\/index.html"
+    },
+    {
+      "hash": "sha256-lUszTHiSrNqOrZbXl0YjBAsPhjZkQfzjBqkjI+0206Q=",
+      "url": "pets\/database\/pet\/StylinCorgi\/index.html"
+    },
+    {
+      "hash": "sha256-W7fkmKUrGrJwepGOJQLkvk9KcHp8A3HI3Ri0+MlNtP0=",
+      "url": "pets\/database\/pet\/SubzeroSnowblin\/index.html"
+    },
+    {
+      "hash": "sha256-F1OzvAGwY0SYPokd8ECU1uWK5t5L9bmlW1H8RdYwNe4=",
+      "url": "pets\/database\/pet\/SultansMonkey\/index.html"
+    },
+    {
+      "hash": "sha256-BOHEOHX6CdMhUFhnoEA3rjNgDirbKHhEhW4seTktsHw=",
+      "url": "pets\/database\/pet\/SummerDragon\/index.html"
+    },
+    {
+      "hash": "sha256-iJgIksX\/hZISDz20B+W7IbhycRsyZQ5EWZ2ldGeZDks=",
+      "url": "pets\/database\/pet\/SummerSproutling\/index.html"
+    },
+    {
+      "hash": "sha256-l+7uQW0uuW2WRipwLdLrCFKWMdUcecusyDyXSQwHhwY=",
+      "url": "pets\/database\/pet\/SunBird\/index.html"
+    },
+    {
+      "hash": "sha256-s5+JKO9CCaAHA8xo3JAkcf55gfRD7YkQBWQT\/w+MzC8=",
+      "url": "pets\/database\/pet\/SunBurntGobbler\/index.html"
+    },
+    {
+      "hash": "sha256-iVGEtw+vNZyKSy8P5zV0MBY3Xl6h2ioDFPWJRLECEa4=",
+      "url": "pets\/database\/pet\/SunSerpent\/index.html"
+    },
+    {
+      "hash": "sha256-\/Lesp+Eko8YHPG4rFwf6nR9rWrDacaXzSKDyPw+6glI=",
+      "url": "pets\/database\/pet\/SunfireFooDog\/index.html"
+    },
+    {
+      "hash": "sha256-XNiQ14487jhcid2Lc7ymbHgby8gw0xnmQJDngGEtv3I=",
+      "url": "pets\/database\/pet\/SunnyLumi\/index.html"
+    },
+    {
+      "hash": "sha256-e4QlOpw55lRc83wuYGFb\/mBdQW+V1Mw0DKNNbjvqob8=",
+      "url": "pets\/database\/pet\/SuperGoba\/index.html"
+    },
+    {
+      "hash": "sha256-\/JCoQkH2gEvHFhJO03EDXxZsBO0zWjEzpLQFdVVbRtA=",
+      "url": "pets\/database\/pet\/SuperstitiousScorpion\/index.html"
+    },
+    {
+      "hash": "sha256-fgkrQrvGPDVaaobiac\/hQfFutb\/6owooFu4B1EztQf4=",
+      "url": "pets\/database\/pet\/SupportiveWildclaw\/index.html"
+    },
+    {
+      "hash": "sha256-4wXRLa6anwgentKXiGTPZ0260EKFZJY\/9L2e9Tn+fQ8=",
+      "url": "pets\/database\/pet\/SweetCitrusBear\/index.html"
+    },
+    {
+      "hash": "sha256-TEM685UoMpp\/sD26WeJ07gcJsTPLlF+nMDkEnrFQU30=",
+      "url": "pets\/database\/pet\/SwiftPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-YlOeVYjU\/sgbpsCcl6m6nOJgXor7j0RvVXtDsVuahoY=",
+      "url": "pets\/database\/pet\/Swinobi\/index.html"
+    },
+    {
+      "hash": "sha256-2u+DdpZLxxEP\/odKg4DVr66rmrn+dmR9S60A0hu1EdY=",
+      "url": "pets\/database\/pet\/SylvanBeast\/index.html"
+    },
+    {
+      "hash": "sha256-BnzqRddNEKc2Gu738p4jld3+MfkMWluPhv31KOsVWXE=",
+      "url": "pets\/database\/pet\/SylvanSatyr\/index.html"
+    },
+    {
+      "hash": "sha256-exS+oBZ8so3+beLtq+GVdFv3fxZIedyJwDDZ5m\/skTA=",
+      "url": "pets\/database\/pet\/TailstormPantera\/index.html"
+    },
+    {
+      "hash": "sha256-OD7y2rLhRqC+F05bL0NepOTZ2GDrB1TTWjExdQWFaXU=",
+      "url": "pets\/database\/pet\/TalentedPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-fNibdaY7p9iIiDRgaTELJHXFNxdxvtRIMh9Zy41WiKs=",
+      "url": "pets\/database\/pet\/Tanuki\/index.html"
+    },
+    {
+      "hash": "sha256-bXJmvIfaKmgFi6VFIKl2SlE7FPgBSZiFq0bdBCbltNY=",
+      "url": "pets\/database\/pet\/TarantulaHawk\/index.html"
+    },
+    {
+      "hash": "sha256-AY0Ww8jmnMq5pO8f9SlX\/v\/jUA46E3YfAZv3+qdyd3k=",
+      "url": "pets\/database\/pet\/Tempest\/index.html"
+    },
+    {
+      "hash": "sha256-oh+2EZTmp689b5uQHBO0WKmgmPfYKiI4wbOWsDW909g=",
+      "url": "pets\/database\/pet\/TempestChimera\/index.html"
+    },
+    {
+      "hash": "sha256-rScddMF\/\/eZ48du1HX9EljiJjV\/5fD6upzbFRPzIFBo=",
+      "url": "pets\/database\/pet\/TempestHound\/index.html"
+    },
+    {
+      "hash": "sha256-vU6XexNIfdBzsUICP4FlZmVpMXb\/2a7TnDdNb9He4JA=",
+      "url": "pets\/database\/pet\/Tentacula\/index.html"
+    },
+    {
+      "hash": "sha256-CkvsAWbzWn+EePkvVvNkc41wOI+QgWs1+XIInq8DZ7A=",
+      "url": "pets\/database\/pet\/Therizinosaurus\/index.html"
+    },
+    {
+      "hash": "sha256-AQOm72SxDzKEjFZQqnEC8gYVicjy5b5YeTUrBTXGd8s=",
+      "url": "pets\/database\/pet\/ThrillingOctopus\/index.html"
+    },
+    {
+      "hash": "sha256-wRSk13My1OgV\/wIMmS3Q0by4szuHyasBtqjR7EUHEUc=",
+      "url": "pets\/database\/pet\/ThunderColossus\/index.html"
+    },
+    {
+      "hash": "sha256-BOuNzTnohyTOqu9JDSr1JOmCuzFGTuIYr5lP+zdIfdk=",
+      "url": "pets\/database\/pet\/ThunderHam\/index.html"
+    },
+    {
+      "hash": "sha256-k7xpXsPw7A7G\/pqwUtfr1vte14qYtD51DJrTE4qEC6Y=",
+      "url": "pets\/database\/pet\/ThunderKrok\/index.html"
+    },
+    {
+      "hash": "sha256-9ieFrou50orKhumbAv8S6qCVDzkCrDIoYNeHyO2TMdU=",
+      "url": "pets\/database\/pet\/Thunderbird\/index.html"
+    },
+    {
+      "hash": "sha256-kVvIIJXrYwBjxUBotwX1G3KVZzdjHJC4T\/4cjzr3kvc=",
+      "url": "pets\/database\/pet\/ThundersaurusRex\/index.html"
+    },
+    {
+      "hash": "sha256-xvAy2Qsb+lFWbpmlTpo+n0SJ+jNq69ZqH7pYRiWx\/go=",
+      "url": "pets\/database\/pet\/Tiger\/index.html"
+    },
+    {
+      "hash": "sha256-h4jIa6s1t2mRgIJ9ejHOGw+HYCT4wI33LE7Euxl1eVg=",
+      "url": "pets\/database\/pet\/TikiKahuna\/index.html"
+    },
+    {
+      "hash": "sha256-N5PCtom8FetiHOuRH526MaCFWru0O7AJq+5wcmwcICY=",
+      "url": "pets\/database\/pet\/TimberCyclops\/index.html"
+    },
+    {
+      "hash": "sha256-rslY2yfcIIyKBoeYLjUettfooPGrNgBQ3+Ls6V0HiOs=",
+      "url": "pets\/database\/pet\/TimberlandYeti\/index.html"
+    },
+    {
+      "hash": "sha256-uHP9VwcWCaQ3brYVQKa8OByVdOIprgFbV0EVUxRXtPI=",
+      "url": "pets\/database\/pet\/Toaddle\/index.html"
+    },
+    {
+      "hash": "sha256-5kKj2l9tkzzGY\/eWXTQGR57SKQ8qKrCpfk7bqLHrbek=",
+      "url": "pets\/database\/pet\/TopazKraken\/index.html"
+    },
+    {
+      "hash": "sha256-dbRudCe38akICWW0bRCvdT2lQARcZVKd19bvVGI9PFI=",
+      "url": "pets\/database\/pet\/Toucant\/index.html"
+    },
+    {
+      "hash": "sha256-0CBCyAElFq74rYO6mcmwOhmMyjrM6l8Tn7GTMvK6r9M=",
+      "url": "pets\/database\/pet\/ToughPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-tAJgRCSgtsaLPBQJdXm\/p3l\/LulpSJrciGzO0O\/iboQ=",
+      "url": "pets\/database\/pet\/ToughTroll\/index.html"
+    },
+    {
+      "hash": "sha256-cBeBvAKXmrg2Wt\/DetIwXUggy4TRsCrv4jL8K67kbEY=",
+      "url": "pets\/database\/pet\/ToweringInferno\/index.html"
+    },
+    {
+      "hash": "sha256-pMBI2aKjr5PJ6Gsk6+9qvS1fQxedv9QTIjbQafJ63CQ=",
+      "url": "pets\/database\/pet\/ToyDragon\/index.html"
+    },
+    {
+      "hash": "sha256-tuS9BX4Du7OkcffxApN684Yur7s3zEQgvjuF2mBTIRA=",
+      "url": "pets\/database\/pet\/ToyGolem\/index.html"
+    },
+    {
+      "hash": "sha256-XYqxlMjA9m03otryxii0QgCRpxk0CqkXfjGWQxaUJsk=",
+      "url": "pets\/database\/pet\/Traveller\/index.html"
+    },
+    {
+      "hash": "sha256-rf408QbBzlanGC9y7ty98TT1OeDzlP4HP9zXQHutYRo=",
+      "url": "pets\/database\/pet\/Treant\/index.html"
+    },
+    {
+      "hash": "sha256-+WyLC4rUT07c35CtVw0cZadTLflYTy1CR4adTCLv3Kg=",
+      "url": "pets\/database\/pet\/TreeSerpent\/index.html"
+    },
+    {
+      "hash": "sha256-H2NbXnXkTfG1a1GTaUv5OabEz2XCrxbI+3IIcuVHYfw=",
+      "url": "pets\/database\/pet\/TrendkillPantera\/index.html"
+    },
+    {
+      "hash": "sha256-RqFNkiVxZI8NRro3mJ92Sgq6Gl12A1FAFSdV9W6uV\/c=",
+      "url": "pets\/database\/pet\/TrickyDragon\/index.html"
+    },
+    {
+      "hash": "sha256-ib5hh3uNvFpNZKo1OtUR2e6PyoEzQRM39fCuCD0xenw=",
+      "url": "pets\/database\/pet\/TrickyWildclaw\/index.html"
+    },
+    {
+      "hash": "sha256-xKc61DuwZU2nNcZtiS6+pPxzbSQ06KHMSsRci1Tz804=",
+      "url": "pets\/database\/pet\/Triton\/index.html"
+    },
+    {
+      "hash": "sha256-MOmRp+gybxxibj5HYWxAe1nLqD\/VeO99AMDaFgTrs0o=",
+      "url": "pets\/database\/pet\/TrojanHorse\/index.html"
+    },
+    {
+      "hash": "sha256-aed8n01EYEHEFnhXK13HZW01dfJe5NuhkjebWnlbb08=",
+      "url": "pets\/database\/pet\/Troll\/index.html"
+    },
+    {
+      "hash": "sha256-6qQSURxmTTQqsE+L3XvOS3EjFa6yqaBiC5zpDKZ0rI4=",
+      "url": "pets\/database\/pet\/TrollingStone\/index.html"
+    },
+    {
+      "hash": "sha256-J41fCiwVCpcyIue+0QvJKICz0yN8dSXqymUyfoATbrI=",
+      "url": "pets\/database\/pet\/TrustyTerrier\/index.html"
+    },
+    {
+      "hash": "sha256-Jtjl4rQPm03zQy0xyZXv\/aPByD4QHchBgwoglQzivTI=",
+      "url": "pets\/database\/pet\/TulipLumi\/index.html"
+    },
+    {
+      "hash": "sha256-JiASkAeaXsW5XoC8O9AVPJhs+w3Bo5x\/bLi+WDcLrIs=",
+      "url": "pets\/database\/pet\/TundraBasilisk\/index.html"
+    },
+    {
+      "hash": "sha256-NIA6W84Rv4PEVbsbdGq7fFM\/GINDTfPTOim+xltWlwQ=",
+      "url": "pets\/database\/pet\/TundraHowler\/index.html"
+    },
+    {
+      "hash": "sha256-qo3s650oFeb0sW2FgphFkxZsENZ8J1KM+vESEyPFH20=",
+      "url": "pets\/database\/pet\/TundraWarden\/index.html"
+    },
+    {
+      "hash": "sha256-C+6SGKJSPzYz+jbe\/NXQGHQNw+zUGQSwQhri+0O1iuc=",
+      "url": "pets\/database\/pet\/TyphoonKahuna\/index.html"
+    },
+    {
+      "hash": "sha256-0fd4GwzBg6LFmLoR4HUFZT+wCwlTUqNq3it+vrGoJfo=",
+      "url": "pets\/database\/pet\/Unicorn\/index.html"
+    },
+    {
+      "hash": "sha256-QhV9NFJcndFl2BFrI0GQfM3Bf5wAnWnwOgN7Vtii9iI=",
+      "url": "pets\/database\/pet\/UtilityDragon\/index.html"
+    },
+    {
+      "hash": "sha256-ASlFZVeTQ5puP2AvoUHLkwsHEufUJLwo9cvKugBAvDI=",
+      "url": "pets\/database\/pet\/VacantKnight\/index.html"
+    },
+    {
+      "hash": "sha256-Dn7qv08bX3NJ9NIjkQYsLkgo6uGqjdL5UaxwROGa+XA=",
+      "url": "pets\/database\/pet\/ValentinePig\/index.html"
+    },
+    {
+      "hash": "sha256-XL6Cp9dSB4i11dGqlpeUBvaHaAsq8NimqymVTG760Wg=",
+      "url": "pets\/database\/pet\/Vampire\/index.html"
+    },
+    {
+      "hash": "sha256-aBU0dxfR4dPz3OjUxYkitDGz8eJR6pTDc7\/2rk3tuTw=",
+      "url": "pets\/database\/pet\/VampireSquirrel\/index.html"
+    },
+    {
+      "hash": "sha256-dGKAmc1rsX2RAZ8FYXR9OlmAGd3vvXIsAU6fj39tTw8=",
+      "url": "pets\/database\/pet\/VaporousKnight\/index.html"
+    },
+    {
+      "hash": "sha256-iyEtlWrQirAOSJyhRpmm3\/29\/Ze\/mVlmHDEy1WLZDZE=",
+      "url": "pets\/database\/pet\/Velociraptor\/index.html"
+    },
+    {
+      "hash": "sha256-6A4uIfPNNg26Y4Hxss15Wh0qs\/N5lk2qQrog4FEmlbY=",
+      "url": "pets\/database\/pet\/VerdantVermin\/index.html"
+    },
+    {
+      "hash": "sha256-UUAAQ0v1aH+o5\/7YlVL0dN8je2DPa4I4B\/LlRPZEeQY=",
+      "url": "pets\/database\/pet\/VerglasGrimoire\/index.html"
+    },
+    {
+      "hash": "sha256-\/7ySpOz1IBCk7al8tKCKSZaJYS1voozshioRPwltcfU=",
+      "url": "pets\/database\/pet\/VernalDraconian\/index.html"
+    },
+    {
+      "hash": "sha256-lj6lMmArYD9l2nRDzbsELkry12puFyqsJbIGaVQTXIw=",
+      "url": "pets\/database\/pet\/VexingImp\/index.html"
+    },
+    {
+      "hash": "sha256-dkqLoaZDS\/eE63fUSvdmUSA11ulmLmN+OtVxCO\/8eDg=",
+      "url": "pets\/database\/pet\/VexingPetPeeve\/index.html"
+    },
+    {
+      "hash": "sha256-JU99NTGADYG4J1SXifWORdlyBOp7c8lFnu6w80lq6jc=",
+      "url": "pets\/database\/pet\/VibrantPegasus\/index.html"
+    },
+    {
+      "hash": "sha256-\/spHMJtytIxICFQwZiSQ81VBgUFgy7WrmSC3+hVE+fg=",
+      "url": "pets\/database\/pet\/ViciousZorphie\/index.html"
+    },
+    {
+      "hash": "sha256-TEfRHUgsF4yUQR08CnDDarWmj1JxiJCI77cTBWikAPo=",
+      "url": "pets\/database\/pet\/VigilantDragon\/index.html"
+    },
+    {
+      "hash": "sha256-gxXV3pg162p+LvuGV4MUB7wuiccPFqk2O4TQEnA2gw4=",
+      "url": "pets\/database\/pet\/VioletHound\/index.html"
+    },
+    {
+      "hash": "sha256-q1ZUIMKfastr+Fg1j4x2ZNC2sR+b0cQPq5LD\/sRVD5o=",
+      "url": "pets\/database\/pet\/VioletLumi\/index.html"
+    },
+    {
+      "hash": "sha256-VCdcm+0wuEdEo1uybu4b10Q+55PZ\/EDKC2XHv7YoOdg=",
+      "url": "pets\/database\/pet\/ViperinaJar\/index.html"
+    },
+    {
+      "hash": "sha256-HzJBZUOKbns0mqA1zppW2m\/0WWlWBJLGD4NrC78MlBk=",
+      "url": "pets\/database\/pet\/ViridianCyclops\/index.html"
+    },
+    {
+      "hash": "sha256-J1pxRXQlFLnm+FPReIXGFI13XjKHEYrxbhH8xC1vDOs=",
+      "url": "pets\/database\/pet\/VitalQuetzal\/index.html"
+    },
+    {
+      "hash": "sha256-ASaG7r3DW7hYE7hnqXpuTLguH5qmgcwl6L4skkIWwwU=",
+      "url": "pets\/database\/pet\/VoidBasilisk\/index.html"
+    },
+    {
+      "hash": "sha256-dl9VqKV0f8DFcKXE1ncL1A00NHay0k7j289x+S5Kv4o=",
+      "url": "pets\/database\/pet\/VoraciousFlytrap\/index.html"
+    },
+    {
+      "hash": "sha256-64KYhqna+KGCGvC4OTaym8Q7eueGH3ylw2YnyV94dCg=",
+      "url": "pets\/database\/pet\/Wanderer\/index.html"
+    },
+    {
+      "hash": "sha256-AvJQS\/Agkdl7suUf\/1IMScEdg7hqjX++UP+wHa+kEkQ=",
+      "url": "pets\/database\/pet\/WanderingEye\/index.html"
+    },
+    {
+      "hash": "sha256-IMZPvZ+ABmcOzYXpSQYaa1OFCp+w49o26cmjk68t48Y=",
+      "url": "pets\/database\/pet\/WanderingSpider\/index.html"
+    },
+    {
+      "hash": "sha256-n3RteMpQVUqz27p+YzDTN3dz3ox\/Cr4GqmOu2EKqSgQ=",
+      "url": "pets\/database\/pet\/WarOni\/index.html"
+    },
+    {
+      "hash": "sha256-8NNC2Zc1PuwHutbmx9NYPQWMfUR2fAb1h6JPjP3pu8s=",
+      "url": "pets\/database\/pet\/WarPig\/index.html"
+    },
+    {
+      "hash": "sha256-+M61vRX3z9DbSWpgA\/1uLpk1T4PWOPeQ9gbzmt6rSEs=",
+      "url": "pets\/database\/pet\/WardensIcehound\/index.html"
+    },
+    {
+      "hash": "sha256-5jcNQcqugTY2EgwvA6HC+nRMU\/FGVuuR0whAkkYGyGY=",
+      "url": "pets\/database\/pet\/Wargoyle\/index.html"
+    },
+    {
+      "hash": "sha256-GO0n6bwX5eS8i5M6MKshAElXWxcnY25DVbv1YbNKYs4=",
+      "url": "pets\/database\/pet\/WatchfulHound\/index.html"
+    },
+    {
+      "hash": "sha256-ulanDE3xDPX9hcEsPVf4kbTZzPPQf1Q5fu7\/YurSDuA=",
+      "url": "pets\/database\/pet\/WaywardMinstrel\/index.html"
+    },
+    {
+      "hash": "sha256-vUjBtieIW8J3hKZKVPpb29LGGgXIRlVuYPFgohiMvZM=",
+      "url": "pets\/database\/pet\/WeaselMinstrel\/index.html"
+    },
+    {
+      "hash": "sha256-i64qg8gRHwqljmJxuhI85pWVxK9Htnka25eDYmQIrRs=",
+      "url": "pets\/database\/pet\/WebMaster\/index.html"
+    },
+    {
+      "hash": "sha256-zJDTrGmKn6lioPdvT3k2GctEY5eNujLK4JwBuXj0PD0=",
+      "url": "pets\/database\/pet\/Wendigo\/index.html"
+    },
+    {
+      "hash": "sha256-gRonbJiftSamLLmi8D+HFO8IdNuiE7ThBPcnIg75SOs=",
+      "url": "pets\/database\/pet\/WetlandHunter\/index.html"
+    },
+    {
+      "hash": "sha256-tnqF\/KEpJWuaGmwsXXeTAP7gfRjOrScFae2ejq5sORA=",
+      "url": "pets\/database\/pet\/WhirlwindGrimoire\/index.html"
+    },
+    {
+      "hash": "sha256-UsdilCJrs9a\/CXLUOKu8bISZbZwj5dGKlG2X8hXtFF4=",
+      "url": "pets\/database\/pet\/WhiteRatMagician\/index.html"
+    },
+    {
+      "hash": "sha256-2ywjcSEJu1iUL4qBpJhpVzd0lpZasoZEZNDRqOgfgmc=",
+      "url": "pets\/database\/pet\/WhiteTiger\/index.html"
+    },
+    {
+      "hash": "sha256-9ekaYPiIGegSDiYf501y4gXm++Sch\/qDn4\/sCRWbDWg=",
+      "url": "pets\/database\/pet\/WhiteWinterOwl\/index.html"
+    },
+    {
+      "hash": "sha256-G2nS1RhNnSeFFPEIg4aItydhIoNIa\/pw59nOiKe44uo=",
+      "url": "pets\/database\/pet\/WildOctopus\/index.html"
+    },
+    {
+      "hash": "sha256-JSzZmIOgSs9kc\/t23teQw6sUQUbttdkXJcVMz2JHXmE=",
+      "url": "pets\/database\/pet\/WildSabertooth\/index.html"
+    },
+    {
+      "hash": "sha256-vVme9fvx6CoNB1nhKR15WdrfIsb48tNWT8RhAmLFwwE=",
+      "url": "pets\/database\/pet\/WildfireTreant\/index.html"
+    },
+    {
+      "hash": "sha256-LYl8aiKpzLwwAKlnuQbTR7UobBGEhtylgpANl1hVroo=",
+      "url": "pets\/database\/pet\/WildlandsWolf\/index.html"
+    },
+    {
+      "hash": "sha256-ZvGFiKwo5i2\/vjZBGgIK4IPVtj7V14DekIbMSPQkO8A=",
+      "url": "pets\/database\/pet\/WildwoodCyclops\/index.html"
+    },
+    {
+      "hash": "sha256-G2iv+\/TiKnk\/a2qGQ14dTCO4K\/A8FimYGJsdwPJU+Jc=",
+      "url": "pets\/database\/pet\/WildwoodYeti\/index.html"
+    },
+    {
+      "hash": "sha256-CCSfu1XCw2v5HU1ji3S6Y4b1B36ffR5rkiZkqvhU6to=",
+      "url": "pets\/database\/pet\/WindsweptDryad\/index.html"
+    },
+    {
+      "hash": "sha256-KZlMmnE9mTPBW\/gP8tHw5ChCl+ktPKylUFyr+375Hws=",
+      "url": "pets\/database\/pet\/WingedCatastrophe\/index.html"
+    },
+    {
+      "hash": "sha256-+kqQRCnGkq2+VsdgQ8Cde\/TXz9whG7GgO262w1yK7Ug=",
+      "url": "pets\/database\/pet\/WinterPrrresent\/index.html"
+    },
+    {
+      "hash": "sha256-JnaNckwIgRhc0vGYSYPfR+h7KC9ioUImnFtwyQa5EGU=",
+      "url": "pets\/database\/pet\/WinterSproutling\/index.html"
+    },
+    {
+      "hash": "sha256-W7HvRItKBXQ3gf8vyIyOCTkiOn5AXChIjwY6pVz8hwo=",
+      "url": "pets\/database\/pet\/WinterWalker\/index.html"
+    },
+    {
+      "hash": "sha256-xBHZAIgBjpHi0Z2EM3uxHlLEdfG2TeUe2u88T5G1oWQ=",
+      "url": "pets\/database\/pet\/WintersAxe\/index.html"
+    },
+    {
+      "hash": "sha256-P0MSlR9WHQ07YNMdY19jA\/VLWcHmx36MeGURk+faF4M=",
+      "url": "pets\/database\/pet\/WinterfreezeBear\/index.html"
+    },
+    {
+      "hash": "sha256-g02MND\/C9kTHG7an3sOQim3acbI658j3RsvCRW23Zac=",
+      "url": "pets\/database\/pet\/WintryElf\/index.html"
+    },
+    {
+      "hash": "sha256-qtHH2+Xb4OXcNSaxsZeYhevKXSey1QX+L6MAYtvPfvk=",
+      "url": "pets\/database\/pet\/WitheredTreant\/index.html"
+    },
+    {
+      "hash": "sha256-66+hZvrrOMKeAQnHCeRyKV\/qiadMFdcDo6C12X+sg7Y=",
+      "url": "pets\/database\/pet\/WittyWildclaw\/index.html"
+    },
+    {
+      "hash": "sha256-nMRFr8NHvWUQ5VkqBT3XeFau3k3Wmp1LJm7Oaq+6E+0=",
+      "url": "pets\/database\/pet\/WoebegoneDraconian\/index.html"
+    },
+    {
+      "hash": "sha256-d3cp\/P0IE96f2g7vo\/9v6fBkI+tDoVH\/mFAPX5IZnXg=",
+      "url": "pets\/database\/pet\/Wolfhound\/index.html"
+    },
+    {
+      "hash": "sha256-hrgCSOmCtl\/fQ1QkgXuJJEeRZz2lihWnvhPwgiIBaO4=",
+      "url": "pets\/database\/pet\/WoodGolem\/index.html"
+    },
+    {
+      "hash": "sha256-\/lMRtWVggmuH1E2fJLwwu9Uxy4\/FcdrYrfNTx1qnTV4=",
+      "url": "pets\/database\/pet\/WoodenDuck\/index.html"
+    },
+    {
+      "hash": "sha256-nxeaN297QlH4qi\/Yx\/6uVRzyYm+b3ehoeVxkTW301vQ=",
+      "url": "pets\/database\/pet\/WoodenEider\/index.html"
+    },
+    {
+      "hash": "sha256-Q1qEuaJh8MMY5kUrZ8DDdHZ4ECXrwzSnMdf8zTJFAgY=",
+      "url": "pets\/database\/pet\/WoodenLoon\/index.html"
+    },
+    {
+      "hash": "sha256-e2oZtGwU3ALH2AqaW2wxQqnwwSpEhCassV5rFEvizag=",
+      "url": "pets\/database\/pet\/WoodenMallard\/index.html"
+    },
+    {
+      "hash": "sha256-869zDIfoviMX8kg29LUtlRA6C0l1yKsp\/UTSr4KI9Hg=",
+      "url": "pets\/database\/pet\/WoodenQuacker\/index.html"
+    },
+    {
+      "hash": "sha256-6gUtf4yBUqmFMhKn85QcgJ2D3fkW3s0F9Q0I5NI2vjQ=",
+      "url": "pets\/database\/pet\/WoodenScaup\/index.html"
+    },
+    {
+      "hash": "sha256-tHn3LgqZDv\/62wT\/mvgZzu6Zd7Jsj3+tz1IWAO0kdGQ=",
+      "url": "pets\/database\/pet\/WoodenScoter\/index.html"
+    },
+    {
+      "hash": "sha256-lWwmhw2hxXq8fgDi+azgPhQkEAxVX3rmj2CAYYFIG\/k=",
+      "url": "pets\/database\/pet\/WoodlandHaunter\/index.html"
+    },
+    {
+      "hash": "sha256-7U8aVBAv2s5U1cA\/3fAYcPoBIsZ1UZvcolbkHcCq8KU=",
+      "url": "pets\/database\/pet\/Wraith\/index.html"
+    },
+    {
+      "hash": "sha256-6Uxiz6Adt7E5AiQgToBJGNa4jhcteJagFuNOJyNq4PU=",
+      "url": "pets\/database\/pet\/WranglersRunner\/index.html"
+    },
+    {
+      "hash": "sha256-j0VMz77gSgNb+8pW8X54olxQsQvYk+PTA6YJHcE4zkw=",
+      "url": "pets\/database\/pet\/XtremeLimeBear\/index.html"
+    },
+    {
+      "hash": "sha256-5TSp3lmUcB0GR\/KYm+hVgC\/D1S4X3IblWFe\/qiRPkSE=",
+      "url": "pets\/database\/pet\/YellowCactusHopper\/index.html"
+    },
+    {
+      "hash": "sha256-AZoPaLysxMjHnvG7zjblznbgZOeYBU\/nm4BDgkVyhrg=",
+      "url": "pets\/database\/pet\/YellowElf\/index.html"
+    },
+    {
+      "hash": "sha256-cOXujBoOU4bFpwcEYzmw4Fl0Qw9kgXx1QOjbszjSKmM=",
+      "url": "pets\/database\/pet\/YellowGhost\/index.html"
+    },
+    {
+      "hash": "sha256-1lWP6JZcwUPzK2brwfesZv2lM88k6KB2xH6MmBnvJzw=",
+      "url": "pets\/database\/pet\/YgorsGrimoire\/index.html"
+    },
+    {
+      "hash": "sha256-HlBBe0j7Reh8czX1n+QNKryyXJUJ9rxfDy3ALDeLMDw=",
+      "url": "pets\/database\/pet\/Yokai\/index.html"
+    },
+    {
+      "hash": "sha256-eWw91h04A7xmO1PaHjLKLVVPZJgzRbIgUHPy0v\/t6+k=",
+      "url": "pets\/database\/pet\/YuletideSpirit\/index.html"
+    },
+    {
+      "hash": "sha256-1aX8FZG5TDo7biApYKJmlc4O3PoFC1uobsM+vVWO9to=",
+      "url": "pets\/database\/pet\/Zapclops\/index.html"
+    },
+    {
+      "hash": "sha256-eOUItstoKmFtd8eUMVOAyWY\/bBUCH7dN9CEB\/JvMmas=",
+      "url": "pets\/database\/pet\/ZappyGlowbug\/index.html"
+    },
+    {
+      "hash": "sha256-96pzu4T5mDRqH4pqrZ4O9\/hjjTtoXN\/a3TtAechh0wE=",
+      "url": "pets\/database\/pet\/Zaptooth\/index.html"
+    },
+    {
+      "hash": "sha256-c\/darz4vJuv1doOZBNv+74WDjlU\/0MWYLgNMikZ0k5c=",
+      "url": "pets\/database\/pet\/ZazzleberryBear\/index.html"
+    },
+    {
+      "hash": "sha256-BbSnKdapeVAk8Zxt+TlHJSPMaTdb90mz+wY6zlNqcvQ=",
+      "url": "pets\/database\/pet\/ZebraPiggle\/index.html"
+    },
+    {
+      "hash": "sha256-uVeIbizXlC4kU9M\/5zStzf4f7gC+x3NLQhwjeEbcUow=",
+      "url": "pets\/database\/pet\/ZeussHarpy\/index.html"
+    },
+    {
+      "hash": "sha256-ChtHml3Zn6PtYvPTLr\/HKqAXiBLvOv24SUVZVdT3S+o=",
+      "url": "pets\/database\/pet\/Zombee\/index.html"
+    },
+    {
+      "hash": "sha256-4ALdMQulNPqC\/eNeb46YSuG19UHggsH3vhugb2gJumc=",
+      "url": "pets\/database\/pet\/Zombie\/index.html"
+    },
+    {
+      "hash": "sha256-QA2orrskkElC2IOs\/BBjBjxiTOLiLjXFhgKxNP1oRxE=",
+      "url": "pets\/database\/pet\/ZombiePiggle\/index.html"
     },
     {
       "hash": "sha256-RqpZG\/UZJDW4iJ28hmfpN4ACp9kpfYNNxTmmZjmwbn0=",
@@ -5389,5 +10085,5 @@
       "url": "monstrology\/index.html"
     }
   ],
-  "version": "t\/FTK2YI"
+  "version": "ndgsaqZH"
 };
