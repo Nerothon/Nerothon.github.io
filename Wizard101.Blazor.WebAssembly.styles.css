@@ -69,7 +69,7 @@
 
 .pet[b-369s3bhnz1]
 {
-    /*margin: 8px;*/
+    margin: 8px;
     padding: 10px;
     border: 1px solid var(--color-accent-normal);
     flex: 1 1 0px;
@@ -88,7 +88,7 @@
 
 .pet + .pet[b-369s3bhnz1]
 {
-    margin-top: 15px;
+    
 }
 
 .pet-info[b-369s3bhnz1]
@@ -106,7 +106,14 @@ img[b-369s3bhnz1]
     width: auto;
     height: 100%;
 }
+/* /Pages/Categories/Pets/Tools/PetReturnChanceCalculator.razor.rz.scp.css */
+.dropdown[b-ygwchsk32w]
+{
+    display: grid;
+}
 
-h4[b-369s3bhnz1]{
-    margin: 0 10px 0 0;
+select[b-ygwchsk32w], input[b-ygwchsk32w]
+{
+    grid-column: 1;
+    grid-row: 1;
 }

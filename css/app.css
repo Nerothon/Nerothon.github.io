@@ -39,7 +39,7 @@ body
     font-size: var(--font-size-scale);
 }
 
-h1, h2, h3, h4, h5, h6
+h1, h2, h3, h4, h5, h6, label
 {
     font-family: var(--font-family-header);
     color: var(--color-accent-normal);
@@ -62,6 +62,11 @@ section:has(h3:target)
 
 h1 > img
 {
+}
+
+label
+{
+    margin: 0 10px 0 0;
 }
 
 section{
@@ -125,10 +130,6 @@ code{
     flex-direction: column;
 }
 
-    .flex-column + .flex-column
-    {
-        margin-left: 15px;
-    }
 
 /* Tooltip container */
 .tooltip
