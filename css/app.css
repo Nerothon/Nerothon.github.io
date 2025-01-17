@@ -22,7 +22,7 @@
 
     --font-family-normal: 'Comic Sans MS';
     --font-family-header: 'Wizard Fancy';
-    --font-size-scale: 80%;
+    --font-size-scale: 90%;
 }
 
 html
@@ -35,7 +35,6 @@ body
     background-color: var(--color-background-normal);
     color: var(--color-text-normal);
     font-family: var(--font-family-normal);
-    padding: 0px 10px;
     font-size: var(--font-size-scale);
 }
 
@@ -128,6 +127,11 @@ code{
 {
     display: flex;
     flex-direction: column;
+}
+
+.align-items-center
+{
+    align-items: center;
 }
 
 

@@ -116,4 +116,52 @@ select[b-ygwchsk32w], input[b-ygwchsk32w]
 {
     grid-column: 1;
     grid-row: 1;
+    max-width: 150px;
 }
+.flex-columb[b-ygwchsk32w]
+{
+    /*height: 220px;*/
+}
+
+
+#calculators[b-ygwchsk32w]
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.calculator[b-ygwchsk32w]
+{
+    min-width: 340px;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid var(--color-accent-normal);
+}
+
+input[type=checkbox][b-ygwchsk32w]
+{
+    width: 20px;
+    height: 20px;
+}
+
+.wow[b-ygwchsk32w]
+{
+    text-align: center;
+}
+
+h3[b-ygwchsk32w]{
+    align-self: center;
+}
+
+.column[b-ygwchsk32w]
+{
+/*    width: 50%;*/
+}
+
+    .column + .column[b-ygwchsk32w]
+    {
+        margin-left: 10px;
+    }

@@ -1,11 +1,11 @@
 {
   "mainAssemblyName": "Wizard101.Blazor.WebAssembly",
   "resources": {
-    "hash": "sha256-J7LeSHoZgAuZ/5fZjjPIeBBRm7Kal+5RBka7wVtObCY=",
+    "hash": "sha256-k0zBnBJrcZE90wHL67yOaaKqT1sflVGiUcm9Pq/kNak=",
     "fingerprinting": {
       "Dapper.hj0ug1b3le.wasm": "Dapper.wasm",
       "DynamicData.8r53t9xgm4.wasm": "DynamicData.wasm",
-      "Microsoft.AspNetCore.Components.rnxab09spk.wasm": "Microsoft.AspNetCore.Components.wasm",
+      "Microsoft.AspNetCore.Components.r9d0adnpye.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.g92tul72wl.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.mhi741p0i5.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "Microsoft.CSharp.d026rzmgbe.wasm": "Microsoft.CSharp.wasm",
@@ -45,7 +45,7 @@
       "System.IO.Pipelines.g5ih8ovpg3.wasm": "System.IO.Pipelines.wasm",
       "System.Linq.Expressions.nmjx3f58uf.wasm": "System.Linq.Expressions.wasm",
       "System.Linq.Parallel.bp77t0yo1e.wasm": "System.Linq.Parallel.wasm",
-      "System.Linq.nfsusfksuj.wasm": "System.Linq.wasm",
+      "System.Linq.m2mustwi2n.wasm": "System.Linq.wasm",
       "System.Memory.d8bwii2l0b.wasm": "System.Memory.wasm",
       "System.Net.Http.Json.a7bd8euxna.wasm": "System.Net.Http.Json.wasm",
       "System.Net.Http.b75jfrkfi9.wasm": "System.Net.Http.wasm",
@@ -76,7 +76,7 @@
       "System.Xml.Linq.bbx5kr3gw0.wasm": "System.Xml.Linq.wasm",
       "System.Xml.ReaderWriter.n8jgpxrj3l.wasm": "System.Xml.ReaderWriter.wasm",
       "System.Xml.XDocument.q32h0u5hry.wasm": "System.Xml.XDocument.wasm",
-      "Wizard101.Blazor.WebAssembly.n1r708e6e7.wasm": "Wizard101.Blazor.WebAssembly.wasm",
+      "Wizard101.Blazor.WebAssembly.6mro2oprym.wasm": "Wizard101.Blazor.WebAssembly.wasm",
       "Wizard101.Library.oo2xvpbt5g.wasm": "Wizard101.Library.wasm",
       "dotnet.native.o444s4q30d.js": "dotnet.native.js",
       "dotnet.native.hz4fea4id3.wasm": "dotnet.native.wasm",
@@ -107,7 +107,7 @@
     "assembly": {
       "Dapper.hj0ug1b3le.wasm": "sha256-PYJ3IBSIJu8xy0XOmNAcukivZln/Q+yOSviCaIMTUCg=",
       "DynamicData.8r53t9xgm4.wasm": "sha256-HK/bv9+Y0YTsrvQOSHsJnQXj3Qr8ma+OnPlZhlcWMrA=",
-      "Microsoft.AspNetCore.Components.rnxab09spk.wasm": "sha256-50MBliikIw90kpdvSdq1DuJqgokKF9p72DTnGLHRvjg=",
+      "Microsoft.AspNetCore.Components.r9d0adnpye.wasm": "sha256-L5HTWpzbSW8fQBcAPiSte6cKr2DrCYFlWl8yw8JpCRw=",
       "Microsoft.AspNetCore.Components.Web.g92tul72wl.wasm": "sha256-tPIOFMZjBzAkwM4VRfWPT3s7Y9lOnm+oO0JMCSy9p4A=",
       "Microsoft.AspNetCore.Components.WebAssembly.mhi741p0i5.wasm": "sha256-pu76rHZnWXnD8OJbsfHeWNtvNYwvUMrsao8y79n+GXY=",
       "Microsoft.CSharp.d026rzmgbe.wasm": "sha256-U+kQxfHDDP2QB94GRi+tVF5W1YqYQ/gu3DoqSJJAQgQ=",
@@ -147,7 +147,7 @@
       "System.IO.Pipelines.g5ih8ovpg3.wasm": "sha256-JA6sPl6GA5NH8pNdn7k4E0ophulug+EchR9kvweDkS0=",
       "System.Linq.Expressions.nmjx3f58uf.wasm": "sha256-n7AbJPccP+BuYq/eiyEw/iImS6Ifiqntq5KJefgINzg=",
       "System.Linq.Parallel.bp77t0yo1e.wasm": "sha256-v3/bdAtj/BUfKFDaq8px7cBIvvlNR8L9nBHf2vEUPsQ=",
-      "System.Linq.nfsusfksuj.wasm": "sha256-c2OZVaYX5skluRpG3Wu8vsjNZHhmt1BV2mMCwQmJ9zc=",
+      "System.Linq.m2mustwi2n.wasm": "sha256-woTXJTZ8AB210JQxLsJYUJbloPB4n5AHZe4moLG1SkQ=",
       "System.Memory.d8bwii2l0b.wasm": "sha256-I8VWyuQW6vuwxP1LYANSKzKmP5n224wuKHyNCrx5cn8=",
       "System.Net.Http.Json.a7bd8euxna.wasm": "sha256-9pmE0086MdwRaJMg3JZgg8m31zPg6J6MRmn39gNkoLs=",
       "System.Net.Http.b75jfrkfi9.wasm": "sha256-F1wmvnxsh6AgMpkB5QMPdbVrrjumzxwMvzCJH2AEEHg=",
@@ -176,7 +176,7 @@
       "System.Xml.Linq.bbx5kr3gw0.wasm": "sha256-50dVChh2QJYCLLia2vmYR8/Cyxw2D7Y5dFwnnzVUiZ0=",
       "System.Xml.ReaderWriter.n8jgpxrj3l.wasm": "sha256-ZxI4q0f4gYcuEEdE53XEjuInY0fZhEwGLFz6tDLfkWI=",
       "System.Xml.XDocument.q32h0u5hry.wasm": "sha256-5uzroEB10mAZCZ0VTgdXoiF0kOCNX27xMjgMkPlWa/w=",
-      "Wizard101.Blazor.WebAssembly.n1r708e6e7.wasm": "sha256-VftC5Qb8gQP6oWT8U0MVZ+F8DEIuR+I94GLXJ7H0Nm4=",
+      "Wizard101.Blazor.WebAssembly.6mro2oprym.wasm": "sha256-MmxY1SqLxBfzOuirfXYwyUmBz9VUS5q9i8VQA01mQE8=",
       "Wizard101.Library.oo2xvpbt5g.wasm": "sha256-2P4DxZcQW3AfJOyUT+51aa0iD627nz4DoxG3hrmbFCQ="
     },
     "libraryInitializers": {
