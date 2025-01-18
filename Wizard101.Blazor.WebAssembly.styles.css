@@ -1,4 +1,9 @@
 /* /ArticleLayout.razor.rz.scp.css */
+/* /Components/MaterialSymbol.razor.rz.scp.css */
+.material-symbols-sharp[b-e4j66vqyph]
+{
+    color: var(--color-accent-normal);
+}
 /* /Pages/Categories/Pets/Catalogue/Catalogue.razor.rz.scp.css */
 .pet[b-8kuan99scd]
 {
@@ -107,16 +112,11 @@ img[b-369s3bhnz1]
     height: 100%;
 }
 /* /Pages/Categories/Pets/Tools/PetReturnChanceCalculator.razor.rz.scp.css */
-.dropdown[b-ygwchsk32w]
-{
-    display: grid;
-}
-
 select[b-ygwchsk32w], input[b-ygwchsk32w]
 {
     grid-column: 1;
     grid-row: 1;
-    max-width: 150px;
+    max-width: 140px;
 }
 .flex-columb[b-ygwchsk32w]
 {
@@ -137,15 +137,11 @@ select[b-ygwchsk32w], input[b-ygwchsk32w]
     min-width: 340px;
     justify-content: space-around;
     margin-bottom: 20px;
-    padding: 10px;
+    padding: 8px;
     border: 1px solid var(--color-accent-normal);
 }
 
-input[type=checkbox][b-ygwchsk32w]
-{
-    width: 20px;
-    height: 20px;
-}
+
 
 .wow[b-ygwchsk32w]
 {
@@ -165,3 +161,24 @@ h3[b-ygwchsk32w]{
     {
         margin-left: 10px;
     }
+
+
+.dropdown[b-ygwchsk32w]
+{
+    height: 200px;
+    overflow-y: scroll;
+    position: absolute;
+    margin-top: 40px;
+    width: 155px;
+    background-color: darkblue;
+}
+
+.closed[b-ygwchsk32w]
+{
+    display: none;
+}
+
+.open[b-ygwchsk32w]
+{
+
+}

@@ -8,9 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta charset="utf-8"/>
     <meta name="language" content="EN"/>
-    <meta name="theme-color" content="#ffff00"/>
     <meta name="author" content="Nerothon"/>
+    
     <meta name="google-site-verification" content="KSWdcnkNSNYdjqEMelbOxJt-aZEbfPY4Sc0eAmICeuM"/>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp" rel="stylesheet"/>
 
     <link href="css/app.css" rel="stylesheet"/>
     <link href="manifest.json" rel="manifest"/>
@@ -18,15 +19,17 @@
     <!-- If you add any scoped CSS files, uncomment the following to load them -->
     <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
 
+
 <!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
 <title>Crystalline Fossil - Database - Pets - Wizard&#x27;s Companion</title><meta property="og:title" content="Crystalline Fossil - Database - Pets - Wizard&#x27;s Companion" />
     <meta property="og:url" content="" />
     <meta property="og:type" content="article" />
 
     <meta name="date" content="" />
+    <meta name="theme-color" content="#60d5db" />
 
-    <meta name="description" content="Type: Crystalline Fossil&#xD;&#xA;School: Ice&#xD;&#xA;Is School Only: False&#xD;&#xA;Egg: Winterborn Egg&#xD;&#xA;Body: Stegosaurus&#xA;Cards: Plague, Steal Ward, Avenging Fossil&#xA;&#xA;Wow factor: 8&#xD;&#xA;Is Exclusive: False&#xD;&#xA;Is Unhatchable: False&#xD;&#xA;&#xD;&#xA;Is Kioskable: True&#xD;&#xA;Is Transferable: True&#xD;&#xA;&#xD;&#xA;Is Hybrid: True&#xA;Parents: &#xA;Avenging Fossil &#x2B; Lord of Winter" />
-    <meta property="og:description" content="Type: Crystalline Fossil&#xD;&#xA;School: Ice&#xD;&#xA;Is School Only: False&#xD;&#xA;Egg: Winterborn Egg&#xD;&#xA;Body: Stegosaurus&#xA;Cards: Plague, Steal Ward, Avenging Fossil&#xA;&#xA;Wow factor: 8&#xD;&#xA;Is Exclusive: False&#xD;&#xA;Is Unhatchable: False&#xD;&#xA;&#xD;&#xA;Is Kioskable: True&#xD;&#xA;Is Transferable: True&#xD;&#xA;&#xD;&#xA;Is Hybrid: True&#xA;Parents: &#xA;Avenging Fossil &#x2B; Lord of Winter" />
+    <meta name="description" content="Type: Crystalline Fossil&#xD;&#xA;Body: Stegosaurus&#xD;&#xA;Egg: Winterborn Egg&#xD;&#xA;School: &#x2744;&#xFE0F;Ice&#xD;&#xA;Is School Only: &#x274C;&#xA;Cards: Plague, Steal Ward, Avenging Fossil&#xA;&#xA;Wow factor: 8&#xD;&#xA;Is Exclusive: &#x274C;&#xD;&#xA;Is Unhatchable: &#x274C;&#xD;&#xA;&#xD;&#xA;Is Kioskable: &#x2714;&#xFE0F;&#xD;&#xA;Is Transferable: &#x2714;&#xFE0F;&#xD;&#xA;&#xD;&#xA;Is Hybrid: &#x2714;&#xFE0F;&#xA;Parents:&#xA;  &#x2022; Avenging Fossil &#x2B; Lord of Winter" />
+    <meta property="og:description" content="Type: Crystalline Fossil&#xD;&#xA;Body: Stegosaurus&#xD;&#xA;Egg: Winterborn Egg&#xD;&#xA;School: &#x2744;&#xFE0F;Ice&#xD;&#xA;Is School Only: &#x274C;&#xA;Cards: Plague, Steal Ward, Avenging Fossil&#xA;&#xA;Wow factor: 8&#xD;&#xA;Is Exclusive: &#x274C;&#xD;&#xA;Is Unhatchable: &#x274C;&#xD;&#xA;&#xD;&#xA;Is Kioskable: &#x2714;&#xFE0F;&#xD;&#xA;Is Transferable: &#x2714;&#xFE0F;&#xD;&#xA;&#xD;&#xA;Is Hybrid: &#x2714;&#xFE0F;&#xA;Parents:&#xA;  &#x2022; Avenging Fossil &#x2B; Lord of Winter" />
 
     <meta name="keywords" content="wizard101, pets, guides, Crystalline Fossil" />
     <meta property="article:tag" content="wizard101, pets, guides, Crystalline Fossil" />
@@ -39,7 +42,17 @@
 
 <body>
     <div id="app">
-        <h1 id="LoadingText">Loading...</h1>
+        <div id="app">
+            <div id="loading-container">
+                <!--<svg class="loading-progress">
+                    <circle r="40%" cx="50%" cy="50%" />
+                    <circle r="40%" cx="50%" cy="50%" />
+                </svg>-->
+                <h1 id="loading-text">Loading... </h1>
+                <div class="loading-progress-text"></div>
+                <div class="linear-progress"></div>
+            </div>
+        </div>
     
 <!-- %%-PRERENDERING-BEGIN-%% -->
 <div style="opacity: 0; position: fixed; z-index: -1; top: 0; left: 0; bottom: 0; right: 0;">
@@ -62,9 +75,9 @@
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>
-    <environment names="Development">
+    <!--<environment names="Development">
         <script src="_framework/aspnetcore-browser-refresh.js"></script>
-    </environment>
+    </environment>-->
 
 
 

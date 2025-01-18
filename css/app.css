@@ -117,6 +117,11 @@ code{
     background-color: rgba(255, 255, 0, 0.20);
 }
 
+button
+{
+    background: var(--color-accent-normal);
+}
+
 .flex-row
 {
     display: flex;
@@ -175,6 +180,12 @@ h1:focus
     outline: none;
 }
 
+input[type=checkbox], .checkbox
+{
+    width: 20px;
+    height: 20px;
+}
+
 .Balance
 {
     --color-accent-normal: var(--color-accent-balance);
@@ -210,14 +221,6 @@ h1:focus
     --color-accent-normal: var(--color-accent-storm);
 }
 
-#LoadingText
-{
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
 #blazor-error-ui {
     background: lightyellow;
     bottom: 0;
@@ -245,4 +248,78 @@ h1:focus
 
     .blazor-error-boundary::after {
         content: "An error has occurred."
+    }
+
+#loading-container
+{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#loading-text
+{
+    margin: 0;
+    padding: 0;
+}
+
+.linear-progress
+{
+    background: #535353;
+    width: 50vw;
+    margin: 20px 0;
+    height: 1rem;
+    border-radius: 10rem;
+    overflow: hidden;
+    position: relative;
+}
+
+    .linear-progress:after
+    {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background: var(--color-accent-normal);
+        scale: var(--blazor-load-percentage, 0%) 100%;
+        transform-origin: left top;
+        transition: scale ease-out 0.5s;
+    }
+
+/*.loading-progress
+{
+    position: relative;
+    display: block;
+    width: 8rem;
+    height: 8rem;
+    margin: 20vh auto 1rem auto;
+}
+
+    .loading-progress circle
+    {
+        fill: none;
+        stroke: #e0e0e0;
+        stroke-width: 0.6rem;
+        transform-origin: 50% 50%;
+        transform: rotate(-90deg);
+    }
+
+        .loading-progress circle:last-child
+        {
+            stroke: #1b6ec2;
+            stroke-dasharray: calc(3.142 * var(--blazor-load-percentage, 0%) * 0.8), 500%;
+            transition: stroke-dasharray 0.05s ease-in-out;
+        }*/
+
+.loading-progress-text
+{
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    top: -90px;
+}
+
+    #loading-text:after
+    {
+        color: var(--color-accent-normal);
+        content: var(--blazor-load-percentage-text, "Loading");
     }
