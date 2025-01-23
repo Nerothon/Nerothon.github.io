@@ -317,15 +317,15 @@
       "url": "_framework\/System.pndwwxah3a.wasm"
     },
     {
-      "hash": "sha256-yVBTJq1WhNTrVo4fyqHwPjPrlAP5buV72twoFpY6SRU=",
-      "url": "_framework\/Wizard101.Blazor.WebAssembly.rzbenl945s.wasm"
+      "hash": "sha256-x9+5WDGXCOg1dxfq3bMf\/cywqECH+MUlaE7SlNUZyqU=",
+      "url": "_framework\/Wizard101.Blazor.WebAssembly.3hm45g7v5p.wasm"
     },
     {
       "hash": "sha256-fGCbiM9AdgZ40eRs560lnKxVLCRinns+X08cG6Fh6Yg=",
       "url": "_framework\/Wizard101.Library.0fi19thw74.wasm"
     },
     {
-      "hash": "sha256-MN8lHCw+pR1UawYMmjxvNH0LqWOyoION9YGH+QjaJn0=",
+      "hash": "sha256-cBpyIXmAjhUsotK4NSFgo\/A6V9qSWqS7E7oXN+zZH\/4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -5149,59 +5149,59 @@
       "url": "pets\/database\/snacks\/index.html"
     },
     {
-      "hash": "sha256-XXDmJq\/lnbsboG3lVoGd13sqFqw+iH2m7SubCcxp\/8Y=",
+      "hash": "sha256-Rvv\/aJiXQnS4rXg0UoiIi7mZrVLyIXc9U75IRyn949A=",
       "url": "pets\/catalogue\/index.html"
     },
     {
-      "hash": "sha256-pPmJStdfLAGnEqE\/+0rx6PeA5j\/9Lh9xa4qa6KiU4GI=",
+      "hash": "sha256-Ka8k9DzdCzhQ45Gg+hpFassQo8uu5tYGbOOMJnLjg4k=",
       "url": "pets\/catalogue\/1\/index.html"
     },
     {
-      "hash": "sha256-VgDukJLkFwlj2tYfNNGgnE3JHB6j1h3EWf3kGSCJlX8=",
+      "hash": "sha256-ffduJn1p1JOqHwadcMirrHoqjC2mT2VKXACQXv2ypOo=",
       "url": "pets\/catalogue\/2\/index.html"
     },
     {
-      "hash": "sha256-b4hVjeO0nrJ5M0N54fBXizDFC0elir887DPiLIkQAas=",
+      "hash": "sha256-8+YwxIBYRd+4zm4eqYp1Vr8s+itpjOwRXvBOdcgUPGQ=",
       "url": "pets\/catalogue\/3\/index.html"
     },
     {
-      "hash": "sha256-bcOhCNoxXoS\/haFejlU+zhCfJHkrbjcA7PCE4hUPoYs=",
+      "hash": "sha256-LJY84ANrDeYL9dNgmAvkg\/z2rltWuJP+VD3vG8r+DxA=",
       "url": "pets\/catalogue\/4\/index.html"
     },
     {
-      "hash": "sha256-MqO6AQSa5VpjSU6CKMsNpA9EfQEGeVV6sonjAwWuyOU=",
+      "hash": "sha256-ldmD160iX30LIiJ9BVJQJ+XLGtavHWBCrRBGeC7P8k8=",
       "url": "pets\/catalogue\/5\/index.html"
     },
     {
-      "hash": "sha256-nlPJcTMzLDHqPbOxNEnMfCnnyP8gYSwI+hT80VmJvZo=",
+      "hash": "sha256-snB02WtjxswE4xps2jNdem+iMMkGGi+rwenph\/4jT2E=",
       "url": "pets\/catalogue\/6\/index.html"
     },
     {
-      "hash": "sha256-SOaINf3v84Pqf+jMrwJiTxQqGTMJeooSVGa+rSo4bWc=",
+      "hash": "sha256-ZK3GhItwX\/1umeiTRBG97UDswbSRp\/Q9xhgb0FxZW38=",
       "url": "pets\/catalogue\/7\/index.html"
     },
     {
-      "hash": "sha256-L0GdVZBaZvJIFBq2oAlv9XELbib+rv8lkjZXaRHoFIU=",
+      "hash": "sha256-9TkLvYssuYJ3HIFCwNlI0Th7U0FGgesvwXM0QS1YzJg=",
       "url": "pets\/catalogue\/8\/index.html"
     },
     {
-      "hash": "sha256-k4Oiq7jTQxqLxRnLoX9\/OowlBfbyn6SqHUjvJWKGnaI=",
+      "hash": "sha256-3Qqlz2LDvQdwEJyTCPGgwqxNZDk8dcTCiNP82zTi0ds=",
       "url": "pets\/catalogue\/9\/index.html"
     },
     {
-      "hash": "sha256-W59SrcFuSsm7qI4+7syWkUNtejG\/Z7jZDMIDkTq5Mac=",
+      "hash": "sha256-urwpI+3d7nuwcfRr+j5S3phXtwsM4m3u9uHkpjxikTo=",
       "url": "pets\/catalogue\/10\/index.html"
     },
     {
-      "hash": "sha256-k8pUjFl\/VQv2xrEPcECCsQo7VZvtG75jwLvLDNGu0Qk=",
+      "hash": "sha256-1pB0CzsLJACtc7Dp6On9X9urqSlYkIONpq44QOIqLFE=",
       "url": "pets\/catalogue\/11\/index.html"
     },
     {
-      "hash": "sha256-7rB1egJNbCoci8qtABctbRJs8f\/D6KnwmvYG+K7T5sQ=",
+      "hash": "sha256-cZPKVo7gNLsZJ5yB6ScJghSXzxh7f\/VjJDTJSmKiDwg=",
       "url": "pets\/catalogue\/12\/index.html"
     },
     {
-      "hash": "sha256-WK1pVP8nnlvceEtdbVqdAvWOb0YsMrGqjLEOQGp+SVY=",
+      "hash": "sha256-R4RGqicKOxwLujxyn5+dn3Vcm1zv9nrM+HkRA5S5cCc=",
       "url": "pets\/catalogue\/13\/index.html"
     },
     {
@@ -5217,5 +5217,5 @@
       "url": "monstrology\/index.html"
     }
   ],
-  "version": "jlq9teAl"
+  "version": "18YWE8UQ"
 };
