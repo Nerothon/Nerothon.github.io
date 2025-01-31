@@ -3,6 +3,37 @@
 .material-symbols-sharp[b-e4j66vqyph]
 {
     color: var(--color-accent-normal);
+    font-size: 1.5em;
+}
+/* /Components/TalentCalculatorResult.razor.rz.scp.css */
+.header[b-5kfoitmmnu]
+{
+    display: flex;
+    margin: 10px 25px 10px 0;
+}
+
+.talent-category[b-5kfoitmmnu]
+{
+    max-width: 650px;
+}
+
+.talents[b-5kfoitmmnu]
+{
+    display: grid;
+    grid-template-columns: repeat(8, max-content);
+    grid-column-gap: 10px;
+}
+
+.equals[b-5kfoitmmnu]
+{
+}
+/* /Components/UpdateNotice.razor.rz.scp.css */
+.floating-update-button[b-h4bvm1qj1n]
+{
+    position: relative;
+    top: 0;
+    padding: 1rem 1.5rem;
+    width: 100%;
 }
 /* /Pages/Categories/Pets/Catalogue/Catalogue.razor.rz.scp.css */
 .pet[b-8kuan99scd]
@@ -56,7 +87,7 @@
 #searchTextBox[b-369s3bhnz1]
 {
     width: 100%;
-    font-size: 1.5em;
+    font-size: 1.2em;
     margin: 0 0 20px 0;
 }
 
@@ -82,13 +113,13 @@
 
 .info[b-369s3bhnz1]
 {
-    width: 180px
+    /*width: auto;*/
 }
 
 .flags[b-369s3bhnz1]
 {
-    width: 180px;
-    margin: 0 0 0 20px
+    /*width: 180px;*/
+    margin: 0 20px;
 }
 
 .pet + .pet[b-369s3bhnz1]
@@ -102,7 +133,7 @@
     flex-direction: row;
 }
 
-img[b-369s3bhnz1]
+.pet-image[b-369s3bhnz1]
 {
     margin: 0 20px 0 0;
     display: block;
@@ -181,4 +212,57 @@ h3[b-ygwchsk32w]{
 .open[b-ygwchsk32w]
 {
 
+}
+/* /Pages/Categories/Pets/Tools/PetStatCalculator.razor.rz.scp.css */
+span[b-pslwor97yi]
+{
+    display: flex;
+}
+
+.statistics[b-pslwor97yi]
+{
+    display: grid;
+    grid-template-rows: auto;
+    grid-row-gap: 5px;
+/*    position: sticky;
+    top: 40px;
+    left: 40px;*/
+}
+
+.statistic[b-pslwor97yi]
+{
+    display: grid;
+    grid-template-columns: 110px 30px 60px 30px 30px 50px 50px;
+}
+
+input[b-pslwor97yi]
+{
+    width: 50px;
+}
+
+h3[b-pslwor97yi]
+{
+    margin: 0 0 0 5px;
+}
+
+.header[b-pslwor97yi]
+{
+    display: flex;
+    margin: 30px 0 10px 0;
+}
+
+.talent-category[b-pslwor97yi]
+{
+    max-width: 650px;
+}
+
+.talents[b-pslwor97yi]
+{
+    display: grid;
+    grid-template-columns: repeat(8, max-content);
+    grid-column-gap: 7px;
+}
+
+.equals[b-pslwor97yi]
+{
 }

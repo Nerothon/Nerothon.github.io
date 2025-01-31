@@ -7,6 +7,9 @@
 :root
 {
     --color-accent-normal: #ffff00;
+    --color-success: #00ff00;
+    --color-error: #f00;
+
     --color-accent-balance: #b18c26;
     --color-accent-death: #919191;
     --color-accent-fire: #e64e4e;
@@ -14,6 +17,7 @@
     --color-accent-life: #60db71;
     --color-accent-myth: #e2e961;
     --color-accent-storm: #c160db;
+    --color-accent-moon: #4c7885;
 
     --color-background-normal: #161616;
 
@@ -22,7 +26,15 @@
 
     --font-family-normal: 'Comic Sans MS';
     --font-family-header: 'Wizard Fancy';
-    --font-size-scale: 90%;
+    --font-size-scale: 80%;
+}
+
+@media only screen and (max-width: 600px)
+{
+    :root
+    {
+        --font-size-scale: 60%;
+    }
 }
 
 html
@@ -65,7 +77,9 @@ h1 > img
 
 label
 {
+    display: flex;
     margin: 0 10px 0 0;
+    white-space: nowrap;
 }
 
 section{
@@ -82,6 +96,12 @@ section + section
     padding: 20px;
     border: 2px solid var(--color-accent-normal);
 }
+
+a, button
+{
+    cursor: pointer;
+}
+
 /* unvisited link */
 a:link
 {
@@ -152,9 +172,9 @@ button
     .tooltip .tooltip-content
     {
         visibility: hidden;
-        width: 120px;
+/*        width: auto;*/
         height: auto;
-        background-color: black;
+        background-color: #393939;
         color: #fff;
         text-align: center;
         padding: 10px;
@@ -162,6 +182,11 @@ button
         /* Position the tooltip content - see examples below! */
         position: absolute;
         z-index: 1;
+
+        top: 100%;
+        left: 50%;
+        width: 120px;
+        margin-left: -60px;
     }
 
     /* Show the tooltip content when you mouse over the tooltip container */
@@ -170,6 +195,18 @@ button
         visibility: visible;
     }
 
+    /* Tooltip arrow */
+    .tooltip .tooltip-content::after
+    {
+        content: "";
+        position: absolute;
+        bottom: 100%;
+        left: 50%;
+        margin-left: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: transparent transparent white transparent;
+    }
 .wrap
 {
     white-space: pre-line;
@@ -184,6 +221,21 @@ input[type=checkbox], .checkbox
 {
     width: 20px;
     height: 20px;
+}
+
+.Accent
+{
+    --color-accent-normal: var(--color-accent-normal);
+}
+
+.Success
+{
+    --color-accent-normal: var(--color-success);
+}
+
+.Error
+{
+    --color-accent-normal: var(--color-error);
 }
 
 .Balance
@@ -221,8 +273,18 @@ input[type=checkbox], .checkbox
     --color-accent-normal: var(--color-accent-storm);
 }
 
+.Moon
+{
+    --color-accent-normal: var(--color-accent-moon);
+}
+
+.icon
+{
+    height: 1.5em;
+}
+
 #blazor-error-ui {
-    background: lightyellow;
+    background: #232323;
     bottom: 0;
     box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
     display: none;
