@@ -12,7 +12,7 @@ const cacheName = `${cacheNamePrefix}${self.assetsManifest.version}`;
 //const offlineAssetsInclude = [ /\.dll$/, /\.pdb$/, /\.wasm/, /\.html/, /\.js$/, /\.json$/, /\.css$/, /\.woff$/, /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
 //const offlineAssetsExclude = [ /^service-worker\.js$/ ];
 //https://github.com/jsakamoto/BlazorWasmPreRendering.Build/issues/45
-const offlineAssetsInclude = [/\.dll$/, /\.pdb$/, /\.wasm/, /^index\.html$/, /\.js$/, /\.json$/, /\.css$/, /\.woff$/, /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
+const offlineAssetsInclude = [/\.dll$/, /\.pdb$/, /\.wasm/, /^index\.html$/, /\.js$/, /\.json$/, /\.css$/, /\.woff$/, /\.ttf$/ , /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
 const offlineAssetsExclude = [/^service-worker\.js$/];
 
 async function onInstall(event) {
@@ -25,7 +25,7 @@ async function onInstall(event) {
         .filter(asset => offlineAssetsInclude.some(pattern => pattern.test(asset.url)))
         .filter(asset => !offlineAssetsExclude.some(pattern => pattern.test(asset.url)))
         .map(asset => new Request(asset.url, { integrity: asset.hash, cache: 'no-cache' }));
-    await caches.open(cacheName).then(cache => cache.addAll(assetsRequests));
+    await caches.open(cacheName).then(cache => cache.addAll(assetsRequests)).then(cache => cache.addAll(["/Data/Images"]));
 }
 
 async function onActivate(event) {
