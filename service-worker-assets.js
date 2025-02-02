@@ -2453,15 +2453,15 @@
       "url": "_framework\/System.pndwwxah3a.wasm"
     },
     {
-      "hash": "sha256-7As0meilOAa5lZPfYkCygCm\/MavYYb6TLElYqPGdVBE=",
-      "url": "_framework\/Wizard101.Blazor.WebAssembly.cisb33ccz1.wasm"
+      "hash": "sha256-uqdRIfM8kHB7RsS4WaXbJVGrMUr\/DFWFNR+QUwBhF7M=",
+      "url": "_framework\/Wizard101.Blazor.WebAssembly.65kvou2v5e.wasm"
     },
     {
       "hash": "sha256-Du+H+8p1a+Vi3C5LY65TJZW8WkKsaZP4e2izGVQ1YGc=",
       "url": "_framework\/Wizard101.Library.usgwqizzxp.wasm"
     },
     {
-      "hash": "sha256-g3qI24P3\/en4frLtNZ2i+sSC1RbsxdyYzvTl8RK9Jpw=",
+      "hash": "sha256-O6\/z83q4jpg8yl1aT8ks3ZaCMPRKX9KhO2F9KxodUQQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -2561,7 +2561,7 @@
       "url": "pets\/tools\/index.html"
     },
     {
-      "hash": "sha256-1SW8YaLQ5RhQ2PBUGAIu4Q7yWqkstrjbZo6OvLnk56I=",
+      "hash": "sha256-hjo46ch+fHXC6n8+k8n9JY1SxxL0fy5g7u3218m0q34=",
       "url": "pets\/tools\/return-chance-calculator\/index.html"
     },
     {
@@ -7357,5 +7357,5 @@
       "url": "monstrology\/index.html"
     }
   ],
-  "version": "sE8ZcNi+"
+  "version": "iP84o0KK"
 };
