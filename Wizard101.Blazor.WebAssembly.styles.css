@@ -222,17 +222,19 @@ span[b-pslwor97yi]
 .statistics[b-pslwor97yi]
 {
     display: grid;
-    grid-template-rows: auto;
-    grid-row-gap: 5px;
-/*    position: sticky;
-    top: 40px;
-    left: 40px;*/
+    grid-template-columns: repeat(7, max-content);
+    grid-row-gap: 7px;
+    position: sticky;
+    top: 0px;
+    background-color: #282828;
+    border-radius: 5px;
+    padding: 10px;
 }
 
 .statistic[b-pslwor97yi]
 {
     display: grid;
-    grid-template-columns: 110px 30px 60px 30px 30px 50px 50px;
+    grid-template-columns: 75px 30px 60px 30px 30px 50px 50px;
 }
 
 input[b-pslwor97yi]

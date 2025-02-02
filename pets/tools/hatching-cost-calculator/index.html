@@ -44,12 +44,14 @@
         <div id="app">
             <div id="loading-container">
                 <!--<svg class="loading-progress">
-                    <circle r="40%" cx="50%" cy="50%" />
-                    <circle r="40%" cx="50%" cy="50%" />
-                </svg>-->
+        <circle r="40%" cx="50%" cy="50%" />
+        <circle r="40%" cx="50%" cy="50%" />
+    </svg>-->
                 <h1 id="loading-text">Loading... </h1>
                 <div class="loading-progress-text"></div>
                 <div class="linear-progress"></div>
+                <h2>First load might take a while.</h2>
+                <h2>All future loads should be much faster as most resources will get cached on your device.</h2>
             </div>
         </div>
     
@@ -79,6 +81,16 @@
     <!--<environment names="Development">
         <script src="_framework/aspnetcore-browser-refresh.js"></script>
     </environment>-->
+
+    <script> /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
+        const origScrollTo = window.scrollTo;
+        window.scrollTo = (x, y) => {
+            const shouldSkip = true; // TODO: Insert your own logic here
+            if (x === 0 && y === 0 && shouldSkip)
+                return;
+            return origScrollTo.apply(this, arguments);
+        };
+    </script>
 
 
 

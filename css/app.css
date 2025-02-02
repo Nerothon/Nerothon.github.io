@@ -137,9 +137,18 @@ code{
     background-color: rgba(255, 255, 0, 0.20);
 }
 
+input
+{
+    font-family: 'Comic Sans MS';
+    font-size: 0.9em;
+}
+
 button
 {
+    font-family: 'Wizard Fancy';
+    font-size: 0.9em;
     background: var(--color-accent-normal);
+    padding: 1px 7px;
 }
 
 .flex-row
@@ -319,6 +328,14 @@ input[type=checkbox], .checkbox
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+
+#loading-container h2
+{
+    color:var(--color-text-normal);
+    letter-spacing: 1px;
+}
+
 #loading-text
 {
     margin: 0;

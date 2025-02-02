@@ -1,12 +1,12 @@
 {
   "mainAssemblyName": "Wizard101.Blazor.WebAssembly",
   "resources": {
-    "hash": "sha256-2K/sHsYey3jmzFL6iombQdVQAUUzhqvJ0X2xwrPQw1M=",
+    "hash": "sha256-kqSVzNVIHur2Ivrso6f45+nnugDDa8TdM685k6jLRfU=",
     "fingerprinting": {
       "Dapper.hj0ug1b3le.wasm": "Dapper.wasm",
       "DynamicData.8r53t9xgm4.wasm": "DynamicData.wasm",
       "Microsoft.AspNetCore.Components.Forms.3fgbtp8v0v.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
-      "Microsoft.AspNetCore.Components.j0t8rslalz.wasm": "Microsoft.AspNetCore.Components.wasm",
+      "Microsoft.AspNetCore.Components.pqwl9fhywj.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.rnazpfwotd.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.z581my2xiy.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "Microsoft.CSharp.l4nhbw5tnj.wasm": "Microsoft.CSharp.wasm",
@@ -77,7 +77,7 @@
       "System.Xml.Linq.no17d80mwx.wasm": "System.Xml.Linq.wasm",
       "System.Xml.ReaderWriter.byflpsteka.wasm": "System.Xml.ReaderWriter.wasm",
       "System.Xml.XDocument.ier3sxb28o.wasm": "System.Xml.XDocument.wasm",
-      "Wizard101.Blazor.WebAssembly.pwx2g3iglm.wasm": "Wizard101.Blazor.WebAssembly.wasm",
+      "Wizard101.Blazor.WebAssembly.cisb33ccz1.wasm": "Wizard101.Blazor.WebAssembly.wasm",
       "Wizard101.Library.usgwqizzxp.wasm": "Wizard101.Library.wasm",
       "dotnet.native.gug7ty1rht.js": "dotnet.native.js",
       "dotnet.native.l5mm9zqtxs.wasm": "dotnet.native.wasm",
@@ -109,7 +109,7 @@
       "Dapper.hj0ug1b3le.wasm": "sha256-PYJ3IBSIJu8xy0XOmNAcukivZln/Q+yOSviCaIMTUCg=",
       "DynamicData.8r53t9xgm4.wasm": "sha256-HK/bv9+Y0YTsrvQOSHsJnQXj3Qr8ma+OnPlZhlcWMrA=",
       "Microsoft.AspNetCore.Components.Forms.3fgbtp8v0v.wasm": "sha256-36hHDTibskZWJe1Hq2n48ALccRhTYjhdgYIkEBdFYlo=",
-      "Microsoft.AspNetCore.Components.j0t8rslalz.wasm": "sha256-HQDw3YKMkP3EPNLGmF9XT70uio8x4IeVRj8L+yFWaQ0=",
+      "Microsoft.AspNetCore.Components.pqwl9fhywj.wasm": "sha256-/5F5Vbbc776QCn8c4zahpM8NNTludc6TzVFHZkUWuQ8=",
       "Microsoft.AspNetCore.Components.Web.rnazpfwotd.wasm": "sha256-t3VSeRLSoX9ADJF7SC5389g96IcrRzAAjZ6zuSfGJmA=",
       "Microsoft.AspNetCore.Components.WebAssembly.z581my2xiy.wasm": "sha256-aSLzjUG9SRyTc6qmnRkw0fCu/QiARR+wEaE+AiYbioU=",
       "Microsoft.CSharp.l4nhbw5tnj.wasm": "sha256-VYpmh/++8od0fmV5tHGxBiKtWRdnssiL2UXqK+EsEc8=",
@@ -178,7 +178,7 @@
       "System.Xml.Linq.no17d80mwx.wasm": "sha256-R9FktnaduRAvMaZfcRZAXAs4UUQFRWQ+IzNgO/1vj8I=",
       "System.Xml.ReaderWriter.byflpsteka.wasm": "sha256-/cIdoCxloVimsMPxWanjHxNEtxyIx1/ShbBpwnTVHUs=",
       "System.Xml.XDocument.ier3sxb28o.wasm": "sha256-hmJG3URfrJa13okNkDgzAwFZN17rrWqw+vAQ5VJoRZ0=",
-      "Wizard101.Blazor.WebAssembly.pwx2g3iglm.wasm": "sha256-18tTDijg55aI+S9yG+VY/3RSCa6eUcxFx99kJx931Z0=",
+      "Wizard101.Blazor.WebAssembly.cisb33ccz1.wasm": "sha256-7As0meilOAa5lZPfYkCygCm/MavYYb6TLElYqPGdVBE=",
       "Wizard101.Library.usgwqizzxp.wasm": "sha256-Du+H+8p1a+Vi3C5LY65TJZW8WkKsaZP4e2izGVQ1YGc="
     },
     "libraryInitializers": {
