@@ -2453,15 +2453,15 @@
       "url": "_framework\/System.pndwwxah3a.wasm"
     },
     {
-      "hash": "sha256-cSOQPUEd2TiwEyiYK4rg82n1LL3OVAbtXfZwWwHrwlM=",
-      "url": "_framework\/Wizard101.Blazor.WebAssembly.zb2715gw3s.wasm"
+      "hash": "sha256-nlhsMo0vNVV9h0a4KCRKg0rvFX649fqJWWmavDLVzng=",
+      "url": "_framework\/Wizard101.Blazor.WebAssembly.u0k1dwhi51.wasm"
     },
     {
       "hash": "sha256-Du+H+8p1a+Vi3C5LY65TJZW8WkKsaZP4e2izGVQ1YGc=",
       "url": "_framework\/Wizard101.Library.usgwqizzxp.wasm"
     },
     {
-      "hash": "sha256-GH4vkl\/EgO\/JUUtoOo7LgK9rYz3OO4ttRprOktX2k+s=",
+      "hash": "sha256-Z8fX1eECzyUW7rUo1zx1o3W85CPs4OCs6ykK0wZuvFE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -7357,5 +7357,5 @@
       "url": "monstrology\/index.html"
     }
   ],
-  "version": "nlpCy9lZ"
+  "version": "zRtKKW0W"
 };
