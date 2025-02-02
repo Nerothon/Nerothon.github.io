@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "2ZXTpGps",
+  "version": "VwMjTKRa",
   "assets": [
     {
       "hash": "sha256-Cgdy8Dsy/IR9lZ35uGWZmPZOza2l8CjvZP75EYpIejg=",
@@ -2354,8 +2354,8 @@ self.assetsManifest = {
       "url": "_framework/System.ObjectModel.of17k5hfvd.wasm"
     },
     {
-      "hash": "sha256-CZmL0cxNpUjz1Y8D5tgoqyg3pLLThdvaNQWAFS2YM8g=",
-      "url": "_framework/System.Private.CoreLib.z5i4mbxpnb.wasm"
+      "hash": "sha256-sODMhI3aeqZGlRJCS7P5dsnjd97cEfRtocWzRwENJw0=",
+      "url": "_framework/System.Private.CoreLib.4jg8rwa3tc.wasm"
     },
     {
       "hash": "sha256-gTwhUwtbtgoG/GnMdxjXqmPaKHXWlKo4ZguR/PAU9bM=",
@@ -2454,15 +2454,15 @@ self.assetsManifest = {
       "url": "_framework/System.pndwwxah3a.wasm"
     },
     {
-      "hash": "sha256-Y5WMtzBH6xQzKyt/Smd4kqTAwZcBNx9uiRtUKOrXVzo=",
-      "url": "_framework/Wizard101.Blazor.WebAssembly.ftofm91zo5.wasm"
+      "hash": "sha256-7KEbpQSJVJQYNcom0Lbso4Xp4yVrU73wiqID6yZo/Ys=",
+      "url": "_framework/Wizard101.Blazor.WebAssembly.karzp93e5q.wasm"
     },
     {
-      "hash": "sha256-Du+H+8p1a+Vi3C5LY65TJZW8WkKsaZP4e2izGVQ1YGc=",
-      "url": "_framework/Wizard101.Library.usgwqizzxp.wasm"
+      "hash": "sha256-lvfLwvcNmhk4xVJBau1A5NNBPZgIEDc6l91pDbRnxdY=",
+      "url": "_framework/Wizard101.Library.emf20r7i9e.wasm"
     },
     {
-      "hash": "sha256-VQc2nkB/SuZogIul4V4LNnZ9Z90KGE27eEfbvJC/hNM=",
+      "hash": "sha256-HfM6tiovlwR4zheEibR7NQakfVa2KpXMOwW+JSnL82M=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -2474,12 +2474,12 @@ self.assetsManifest = {
       "url": "_framework/dotnet.js"
     },
     {
-      "hash": "sha256-CCYb9Ckhwa9SRJ+HsZ3pMQ34L7cSaEjGlOfDaxD1LgU=",
-      "url": "_framework/dotnet.native.gug7ty1rht.js"
+      "hash": "sha256-T/z9D5AyYnwUGbRFuGeht2KRfn2XoOfYSk04y9YL3Kc=",
+      "url": "_framework/dotnet.native.fwc4ulpkp7.wasm"
     },
     {
-      "hash": "sha256-qQ7Bf1vdiS9FNN0B4EejGx1MjB/UjNO3qyAL8Yppjo0=",
-      "url": "_framework/dotnet.native.l5mm9zqtxs.wasm"
+      "hash": "sha256-CCYb9Ckhwa9SRJ+HsZ3pMQ34L7cSaEjGlOfDaxD1LgU=",
+      "url": "_framework/dotnet.native.gug7ty1rht.js"
     },
     {
       "hash": "sha256-gypqZnsxxUh4y4EJmawvOCaX4hoTaesVGwIgWXwZcNw=",
