@@ -223,7 +223,7 @@ span[b-pslwor97yi]
 {
     display: grid;
     grid-template-columns: repeat(7, max-content);
-    grid-row-gap: 7px;
+    grid-row-gap: 5px;
     position: sticky;
     top: 0px;
     background-color: #282828;

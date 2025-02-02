@@ -102,6 +102,11 @@ a, button
     cursor: pointer;
 }
 
+header a
+{
+    text-decoration: none;
+}
+
 /* unvisited link */
 a:link
 {

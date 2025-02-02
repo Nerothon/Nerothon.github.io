@@ -1,4 +1,4 @@
-/* Manifest version: iP84o0KK */
+/* Manifest version: nlpCy9lZ */
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
@@ -11,8 +11,9 @@ const cacheNamePrefix = 'offline-cache-';
 const cacheName = `${cacheNamePrefix}${self.assetsManifest.version}`;
 //const offlineAssetsInclude = [ /\.dll$/, /\.pdb$/, /\.wasm/, /\.html/, /\.js$/, /\.json$/, /\.css$/, /\.woff$/, /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
 //const offlineAssetsExclude = [ /^service-worker\.js$/ ];
+//https://github.com/jsakamoto/BlazorWasmPreRendering.Build/issues/45
 const offlineAssetsInclude = [/\.dll$/, /\.pdb$/, /\.wasm/, /^index\.html$/, /\.js$/, /\.json$/, /\.css$/, /\.woff$/, /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
-const offlineAssetsExclude = [/^service-worker\.js$/, /\(Icon\) .*\.png$/];
+const offlineAssetsExclude = [/^service-worker\.js$/];
 
 async function onInstall(event) {
     console.info('Service worker: Install');

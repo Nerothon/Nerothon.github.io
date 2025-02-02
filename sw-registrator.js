@@ -1,4 +1,6 @@
-﻿window.updateAvailable = new Promise((resolve, reject) => {
+﻿//https://techcommunity.microsoft.com/discussions/web-dev/blazor-wasm-pwa-–-applications-updates-cache-busting-with-notification-or-force-/3920976
+
+window.updateAvailable = new Promise((resolve, reject) => {
     if (!('serviceWorker' in navigator)) {
         const errorMessage = `This browser doesn't support service workers`;
         console.error(errorMessage);
