@@ -19,6 +19,7 @@
     <!-- If you add any scoped CSS files, uncomment the following to load them -->
     <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
 
+
 <!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
 <title>Statistics Calculator - Tools - Pets - Wizard&#x27;s Companion</title><meta property="og:title" content="Statistics Calculator - Tools - Pets - Wizard&#x27;s Companion" />
     <meta property="og:url" content="" />
@@ -27,8 +28,8 @@
     <meta name="date" content="" />
     <meta name="theme-color" content="#ffff00" />
 
-    <meta name="description" content="Complete calculator for all wizard statistic boosting talents." />
-    <meta property="og:description" content="Complete calculator for all wizard statistic boosting talents." />
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
 
     <meta name="keywords" content="wizard101, pets, tools, calculator, statistics" />
     <meta property="article:tag" content="wizard101, pets, tools, calculator, statistics" />
@@ -44,14 +45,12 @@
         <div id="app">
             <div id="loading-container">
                 <!--<svg class="loading-progress">
-        <circle r="40%" cx="50%" cy="50%" />
-        <circle r="40%" cx="50%" cy="50%" />
-    </svg>-->
+                    <circle r="40%" cx="50%" cy="50%" />
+                    <circle r="40%" cx="50%" cy="50%" />
+                </svg>-->
                 <h1 id="loading-text">Loading... </h1>
                 <div class="loading-progress-text"></div>
                 <div class="linear-progress"></div>
-                <h2>First load might take a while.</h2>
-                <h2>All future loads should be much faster as most resources will get cached on your device.</h2>
             </div>
         </div>
     
@@ -60,415 +59,9 @@
     
 
 
-
-<header><a href="/"><h1>Wizard's Companion</h1></a></header>
+<header><h1>Wizard's Companion</h1></header>
 <main><h2 b-qrrbmox22x>Statistics Calculator</h2>
-<div class="flex-row" b-pslwor97yi><label b-pslwor97yi>Statistics</label>
-    <button b-pslwor97yi>1</button>
-    <button b-pslwor97yi>MIN</button>
-    <button b-pslwor97yi>MAX</button></div>
-
-<div class="statistics" b-pslwor97yi><label b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> Strength:</label>
-    <button b-pslwor97yi>-</button>
-    <input type="number" min="1" onclick="this.select();" value="255" b-pslwor97yi />
-    <button b-pslwor97yi>&#x2B;</button>
-    <button b-pslwor97yi>1</button>
-    <button b-pslwor97yi>MIN</button>
-    <button b-pslwor97yi>MAX</button>
-
-    <label b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> Intellect:</label>
-    <button b-pslwor97yi>-</button>
-    <input type="number" min="1" onclick="this.select();" value="250" b-pslwor97yi />
-    <button b-pslwor97yi>&#x2B;</button>
-    <button b-pslwor97yi>1</button>
-    <button b-pslwor97yi>MIN</button>
-    <button b-pslwor97yi>MAX</button>
-
-    <label b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> Agility:</label>
-    <button b-pslwor97yi>-</button>
-    <input type="number" min="1" onclick="this.select();" value="260" b-pslwor97yi />
-    <button b-pslwor97yi>&#x2B;</button>
-    <button b-pslwor97yi>1</button>
-    <button b-pslwor97yi>MIN</button>
-    <button b-pslwor97yi>MAX</button>
-
-    <label b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> Will:</label>
-    <button b-pslwor97yi>-</button>
-    <input type="number" min="1" onclick="this.select();" value="260" b-pslwor97yi />
-    <button b-pslwor97yi>&#x2B;</button>
-    <button b-pslwor97yi>1</button>
-    <button b-pslwor97yi>MIN</button>
-    <button b-pslwor97yi>MAX</button>
-
-    <label b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" /> Power:</label>
-    <button b-pslwor97yi>-</button>
-    <input type="number" min="1" onclick="this.select();" value="250" b-pslwor97yi />
-    <button b-pslwor97yi>&#x2B;</button>
-    <button b-pslwor97yi>1</button>
-    <button b-pslwor97yi>MIN</button>
-    <button b-pslwor97yi>MAX</button></div>
-
-<div class="flex-row" b-pslwor97yi><label b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Pet Happiness.png" /> Happiness:</label>
-    <span b-pslwor97yi>1275 = 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" /></span></div>
-
-<div class="flex-column" b-pslwor97yi><div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Damage.png" /><h3 b-pslwor97yi>Damage</h3></div>
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Damage-Dealer:</label>
-            <span b-pslwor97yi>&#x2B; 10% <img class="icon" src="Data/Images/Icon/(Icon) Damage.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 9.600</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.0075 * 1280</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(3 / 400) * (2 * 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Damage-Giver:</label>
-            <span b-pslwor97yi>&#x2B; 6% <img class="icon" src="Data/Images/Icon/(Icon) Damage.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 6.400</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.005 * 1280</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(2 / 400) * (2 * 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Damage-Boon:</label>
-            <span b-pslwor97yi>&#x2B; 3% <img class="icon" src="Data/Images/Icon/(Icon) Damage.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 3.200</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.0025 * 1280</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(1 / 400) * (2 * 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div>
-
-    <div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Armor Piercing.png" /><h3 b-pslwor97yi>Armor Piercing</h3></div>
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Armor Breaker:</label>
-            <span b-pslwor97yi>&#x2B; 3% <img class="icon" src="Data/Images/Icon/(Icon) Armor Piercing.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 3.200</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.0025 * 1280</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(5 / 2000) * (2 * 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Armor Piercer:</label>
-            <span b-pslwor97yi>&#x2B; 2% <img class="icon" src="Data/Images/Icon/(Icon) Armor Piercing.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 1.920</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.0015 * 1280</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(3 / 2000) * (2 * 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div>
-
-    <div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Resistance.png" /><h3 b-pslwor97yi>Resistance</h3></div>
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Resistance-Ward:</label>
-            <span b-pslwor97yi>&#x2B; 15% <img class="icon" src="Data/Images/Icon/(Icon) Resistance.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 15.360</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.012 * 1280</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(3 / 250) * (2 * 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Resistance-Proof:</label>
-            <span b-pslwor97yi>&#x2B; 10% <img class="icon" src="Data/Images/Icon/(Icon) Resistance.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 10.240</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.008 * 1280</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(2 / 250) * (2 * 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Resistance-Away:</label>
-            <span b-pslwor97yi>&#x2B; 5% <img class="icon" src="Data/Images/Icon/(Icon) Resistance.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 5.120</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.004 * 1280</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(1 / 250) * (2 * 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div>
-
-    <div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Accuracy.png" /><h3 b-pslwor97yi>Accuracy</h3></div>
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Accuracy-Sniper:</label>
-            <span b-pslwor97yi>&#x2B; 10% <img class="icon" src="Data/Images/Icon/(Icon) Accuracy.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 9.525</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.0075 * 1270</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(3 / 400) * (2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Accuracy-Shot:</label>
-            <span b-pslwor97yi>&#x2B; 6% <img class="icon" src="Data/Images/Icon/(Icon) Accuracy.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 6.350</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.005 * 1270</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(2 / 400) * (2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Accuracy-Eye:</label>
-            <span b-pslwor97yi>&#x2B; 3% <img class="icon" src="Data/Images/Icon/(Icon) Accuracy.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 3.175</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.0025 * 1270</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(1 / 400) * (2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div>
-
-    <div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Critical.png" />
-            <h3 b-pslwor97yi>Critical Rating</h3></div>
-
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Critical Assailant:</label>
-            <span b-pslwor97yi>&#x2B; 32 <img class="icon" src="Data/Images/Icon/(Icon) Critical.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 32.250</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.025 * 1290</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(25 / 1000) * (2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>School Striker:</label>
-            <span b-pslwor97yi>&#x2B; 26 <img class="icon" src="Data/Images/Icon/(Icon) Critical.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 25.800</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.02 * 1290</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(20 / 1000) * (2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Critical Striker:</label>
-            <span b-pslwor97yi>&#x2B; 31 <img class="icon" src="Data/Images/Icon/(Icon) Critical.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 30.960</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.024 * 1290</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(24 / 1000) * (2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Critical Hitter:</label>
-            <span b-pslwor97yi>&#x2B; 23 <img class="icon" src="Data/Images/Icon/(Icon) Critical.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 23.220</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.018 * 1290</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(18 / 1000) * (2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div>
-
-    <div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Critical Block.png" />
-            <h3 b-pslwor97yi>Critical Block</h3></div>
-
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Defender:</label>
-            <span b-pslwor97yi>&#x2B; 30 <img class="icon" src="Data/Images/Icon/(Icon) Critical Block.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 30.480</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.024 * 1270</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(24 / 1000) * (2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" />  &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Blocker:</label>
-            <span b-pslwor97yi>&#x2B; 23 <img class="icon" src="Data/Images/Icon/(Icon) Critical Block.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 22.860</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.018 * 1270</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(18 / 1000) * (2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" />  &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div>
-
-    <div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Health.png" />
-            <h3 b-pslwor97yi>Health</h3></div>
-
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Health Bounty:</label>
-            <span b-pslwor97yi>&#x2B; 155 <img class="icon" src="Data/Images/Icon/(Icon) Health.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 154.800</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.12 * 1290</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(12 / 100) * (2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Health Gift:</label>
-            <span b-pslwor97yi>&#x2B; 129 <img class="icon" src="Data/Images/Icon/(Icon) Health.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 129.000</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.1 * 1290</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(10 / 100) * (2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Health Boost:</label>
-            <span b-pslwor97yi>&#x2B; 103 <img class="icon" src="Data/Images/Icon/(Icon) Health.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 103.200</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.08 * 1290</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(8 / 100) * (2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Add Health:</label>
-            <span b-pslwor97yi>&#x2B; 77 <img class="icon" src="Data/Images/Icon/(Icon) Health.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 77.400</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.06 * 1290</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(6 / 100) * (2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div>
-    <div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Mana.png" />
-            <h3 b-pslwor97yi>Mana</h3></div>
-
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Mana Bounty:</label>
-            <span b-pslwor97yi>&#x2B; 127 <img class="icon" src="Data/Images/Icon/(Icon) Mana.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 127.000</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.1 * 1270</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(10 / 100) * (2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Mana Gift:</label>
-            <span b-pslwor97yi>&#x2B; 102 <img class="icon" src="Data/Images/Icon/(Icon) Mana.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 101.600</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.08 * 1270</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(8 / 100) * (2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Mana Boost:</label>
-            <span b-pslwor97yi>&#x2B; 76 <img class="icon" src="Data/Images/Icon/(Icon) Mana.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 76.200</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.06 * 1270</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(6 / 100) * (2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Extra Mana:</label>
-            <span b-pslwor97yi>&#x2B; 51 <img class="icon" src="Data/Images/Icon/(Icon) Mana.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 50.800</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.04 * 1270</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(4 / 100) * (2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div>
-
-    <div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Outgoing.png" />
-            <img class="icon" src="Data/Images/Icon/(Icon) Healing.png" />
-            <h3 b-pslwor97yi>Outgoing Healing</h3></div>
-
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Medic:</label>
-            <span b-pslwor97yi>&#x2B; 8% <img class="icon" src="Data/Images/Icon/(Icon) Outgoing.png" /><img class="icon" src="Data/Images/Icon/(Icon) Healing.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 8.320</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.0065 * 1280</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(13 / 2000) * (2 * 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Healer:</label>
-            <span b-pslwor97yi>&#x2B; 4% <img class="icon" src="Data/Images/Icon/(Icon) Outgoing.png" /><img class="icon" src="Data/Images/Icon/(Icon) Healing.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 3.840</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.003 * 1280</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(6 / 2000) * (2 * 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div>
-
-    <div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Incoming.png" />
-            <img class="icon" src="Data/Images/Icon/(Icon) Healing.png" />
-            <h3 b-pslwor97yi>Incoming Healing</h3></div>
-
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Lively:</label>
-            <span b-pslwor97yi>&#x2B; 8% <img class="icon" src="Data/Images/Icon/(Icon) Incoming.png" /><img class="icon" src="Data/Images/Icon/(Icon) Healing.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 8.255</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.0065 * 1270</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(13 / 2000) * (2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Healthy:</label>
-            <span b-pslwor97yi>&#x2B; 4% <img class="icon" src="Data/Images/Icon/(Icon) Incoming.png" /><img class="icon" src="Data/Images/Icon/(Icon) Healing.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 3.810</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.003 * 1270</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(6 / 2000) * (2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div>
-
-    <div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Power Pip.png" />
-            <h3 b-pslwor97yi>Power Pip Chance</h3></div>
-
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Pip O'Plenty:</label>
-            <span b-pslwor97yi>&#x2B; 5% <img class="icon" src="Data/Images/Icon/(Icon) Power Pip.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 5.040</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.004 * 1260</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(1 / 250) * (2 * 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div>
-
-    <div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Pip Conversion.png" />
-            <h3 b-pslwor97yi>Pip Conversion Rating</h3></div>
-
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Pip Conserver:</label>
-            <span b-pslwor97yi>&#x2B; 31 <img class="icon" src="Data/Images/Icon/(Icon) Pip Conversion.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 30.960</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.024 * 1290</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(24 / 1000) * (2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Pip Saver:</label>
-            <span b-pslwor97yi>&#x2B; 23 <img class="icon" src="Data/Images/Icon/(Icon) Pip Conversion.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 23.220</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.018 * 1290</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(18 / 1000) * (2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div>
-
-    <div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Stun Resistance.png" />
-            <h3 b-pslwor97yi>Stun Resistance</h3></div>
-
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Stun Recalcitrant:</label>
-            <span b-pslwor97yi>&#x2B; 10% <img class="icon" src="Data/Images/Icon/(Icon) Stun Resistance.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 10.080</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.008 * 1260</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(8 / 1000) * (2 * 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Stun Resistant:</label>
-            <span b-pslwor97yi>&#x2B; 5% <img class="icon" src="Data/Images/Icon/(Icon) Stun Resistance.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 5.040</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.004 * 1260</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(4 / 1000) * (2 * 255 <img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> &#x2B; 2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div>
-
-    <div class="talent-category" b-pslwor97yi><div class="header" b-pslwor97yi><img class="icon" src="Data/Images/Icon/(Icon) Fishing Luck.png" />
-            <h3 b-pslwor97yi>Fishing Luck</h3></div>
-
-        <div class="talents" b-pslwor97yi><label b-pslwor97yi>Epic Fishing Luck:</label>
-            <span b-pslwor97yi>&#x2B; 3% <img class="icon" src="Data/Images/Icon/(Icon) Fishing Luck.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 3.175</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.0025 * 1270</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(1 / 400) * (2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span>
-
-            <label b-pslwor97yi>Fishing Luck:</label>
-            <span b-pslwor97yi>&#x2B; 3% <img class="icon" src="Data/Images/Icon/(Icon) Fishing Luck.png" /></span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi> 3.175</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>0.0025 * 1270</span>
-            <span class="equals" b-pslwor97yi>=</span>
-            <span b-pslwor97yi>(1 / 400) * (2 * 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> &#x2B; 2 * 260 <img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> &#x2B; 250 <img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" />)</span></div></div></div></main>
+<iframe src="https://wiki.wizard101central.com/wiki/Special:RunQuery/Pet_Stat_Calculator" frameborder="0" allowfullscreen></iframe></main>
         <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
 
 </div>
@@ -481,21 +74,10 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
-    <script src="sw-registrator.js"></script>
-    <!--<script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>-->
-    <!--<environment names="Development">
+    <script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>
+    <environment names="Development">
         <script src="_framework/aspnetcore-browser-refresh.js"></script>
-    </environment>-->
-
-    <script> /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
-        const origScrollTo = window.scrollTo;
-        window.scrollTo = (x, y) => {
-            const shouldSkip = true; // TODO: Insert your own logic here
-            if (x === 0 && y === 0 && shouldSkip)
-                return;
-            return origScrollTo.apply(this, arguments);
-        };
-    </script>
+    </environment>
 
 
 

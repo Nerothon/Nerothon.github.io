@@ -19,6 +19,7 @@
     <!-- If you add any scoped CSS files, uncomment the following to load them -->
     <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
 
+
 <!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
 <title>Tools - Pets - Wizard&#x27;s Companion</title><meta property="og:title" content="Tools - Pets - Wizard&#x27;s Companion" />
     <meta property="og:url" content="" />
@@ -44,14 +45,12 @@
         <div id="app">
             <div id="loading-container">
                 <!--<svg class="loading-progress">
-        <circle r="40%" cx="50%" cy="50%" />
-        <circle r="40%" cx="50%" cy="50%" />
-    </svg>-->
+                    <circle r="40%" cx="50%" cy="50%" />
+                    <circle r="40%" cx="50%" cy="50%" />
+                </svg>-->
                 <h1 id="loading-text">Loading... </h1>
                 <div class="loading-progress-text"></div>
                 <div class="linear-progress"></div>
-                <h2>First load might take a while.</h2>
-                <h2>All future loads should be much faster as most resources will get cached on your device.</h2>
             </div>
         </div>
     
@@ -60,8 +59,7 @@
     
 
 
-
-<header><a href="/"><h1>Wizard's Companion</h1></a></header>
+<header><h1>Wizard's Companion</h1></header>
 <main><h2 b-qrrbmox22x>Tools</h2>
 <ul><li><a href="/pets/tools/return-chance-calculator">Return Chance Calculator</a></li>
     <li><a href="/pets/tools/statistics-calculator">Statistics Calculator</a></li>
@@ -79,21 +77,10 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
-    <script src="sw-registrator.js"></script>
-    <!--<script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>-->
-    <!--<environment names="Development">
+    <script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>
+    <environment names="Development">
         <script src="_framework/aspnetcore-browser-refresh.js"></script>
-    </environment>-->
-
-    <script> /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
-        const origScrollTo = window.scrollTo;
-        window.scrollTo = (x, y) => {
-            const shouldSkip = true; // TODO: Insert your own logic here
-            if (x === 0 && y === 0 && shouldSkip)
-                return;
-            return origScrollTo.apply(this, arguments);
-        };
-    </script>
+    </environment>
 
 
 
