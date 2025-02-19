@@ -19,7 +19,6 @@
     <!-- If you add any scoped CSS files, uncomment the following to load them -->
     <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
 
-
 <!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
 <title>Ability Prioritizer - Tools - Pets - Wizard&#x27;s Companion</title><meta property="og:title" content="Ability Prioritizer - Tools - Pets - Wizard&#x27;s Companion" />
     <meta property="og:url" content="" />
@@ -45,12 +44,14 @@
         <div id="app">
             <div id="loading-container">
                 <!--<svg class="loading-progress">
-                    <circle r="40%" cx="50%" cy="50%" />
-                    <circle r="40%" cx="50%" cy="50%" />
-                </svg>-->
+        <circle r="40%" cx="50%" cy="50%" />
+        <circle r="40%" cx="50%" cy="50%" />
+    </svg>-->
                 <h1 id="loading-text">Loading... </h1>
                 <div class="loading-progress-text"></div>
                 <div class="linear-progress"></div>
+                <h2>First load might take a while.</h2>
+                <h2>All future loads should be much faster as most resources will get cached on your device.</h2>
             </div>
         </div>
     
@@ -59,9 +60,39 @@
     
 
 
-<header><h1>Wizard's Companion</h1></header>
+
+<header><h1><a href="/">Wizard's Companion</a></h1></header>
 <main><h2 b-qrrbmox22x>Ability Prioritizer</h2>
-<iframe src="https://docs.google.com/spreadsheets/d/1HCsK1epStDDfW8I0Ain7oFtBkBXFo4drUedxeH9o9Lg/edit?gid=1017232992#gid=1017232992" frameborder="0" allowfullscreen></iframe></main>
+<div class="flex-row" b-ffuxpxgbgn><div b-ffuxpxgbgn><label b-ffuxpxgbgn>Name:</label>
+            <input type="text" placeholder="Filter by ability name..." onclick="this.select();" b-ffuxpxgbgn /></div>
+
+        <div b-ffuxpxgbgn><label b-ffuxpxgbgn>Pool type:</label>
+            <select b-ffuxpxgbgn><option selected="selected" value="All" b-ffuxpxgbgn>All</option>
+                <option value="Talents" b-ffuxpxgbgn>Talents</option>
+                <option value="Derby Powers" b-ffuxpxgbgn>Derby Powers</option></select></div>
+
+        <div b-ffuxpxgbgn><label b-ffuxpxgbgn>Rarity:</label>
+            <select b-ffuxpxgbgn><option selected="selected" value="All" b-ffuxpxgbgn>All</option>
+                <option value="Common" b-ffuxpxgbgn>Common</option>
+                <option value="Uncommon" b-ffuxpxgbgn>Uncommon</option>
+                <option value="Rare" b-ffuxpxgbgn>Rare</option>
+                <option value="Ultra-Rare" b-ffuxpxgbgn>Ultra-Rare</option>
+                <option value="Epic" b-ffuxpxgbgn>Epic</option></select></div>
+
+        <div b-ffuxpxgbgn><label b-ffuxpxgbgn>Order by:</label>
+            <select b-ffuxpxgbgn><option selected="selected" value="Name" b-ffuxpxgbgn>Name</option>
+                <option value="AbilityRarity.Name" b-ffuxpxgbgn>Rarity</option>
+                <option value="Index" b-ffuxpxgbgn>Index</option></select></div>
+
+        <div b-ffuxpxgbgn><label b-ffuxpxgbgn>Order direction:</label>
+            <select b-ffuxpxgbgn><option selected="selected" value="Ascending" b-ffuxpxgbgn>Ascending</option>
+                <option value="Descending" b-ffuxpxgbgn>Descending</option></select></div></div><div class="container" b-ffuxpxgbgn><div b-ffuxpxgbgn><h3 b-ffuxpxgbgn>Abilities</h3>
+            <div class="abilities" b-ffuxpxgbgn><div style="height: 0px; flex-shrink: 0;"></div><div style="height: 32400px; flex-shrink: 0;"></div></div></div>
+
+        <div b-ffuxpxgbgn><h3 b-ffuxpxgbgn>Talents</h3></div>
+
+
+        <div b-ffuxpxgbgn><h3 b-ffuxpxgbgn>Derby Powers</h3></div></div></main>
         <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
 
 </div>
@@ -74,10 +105,21 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
-    <script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>
-    <environment names="Development">
+    <script src="sw-registrator.js"></script>
+    <!--<script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>-->
+    <!--<environment names="Development">
         <script src="_framework/aspnetcore-browser-refresh.js"></script>
-    </environment>
+    </environment>-->
+
+    <script> /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
+        const origScrollTo = window.scrollTo;
+        window.scrollTo = (x, y) => {
+            const shouldSkip = true; // TODO: Insert your own logic here
+            if (x === 0 && y === 0 && shouldSkip)
+                return;
+            return origScrollTo.apply(this, arguments);
+        };
+    </script>
 
 
 

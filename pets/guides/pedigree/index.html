@@ -19,7 +19,6 @@
     <!-- If you add any scoped CSS files, uncomment the following to load them -->
     <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
 
-
 <!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
 <title>Pedigree - Guides - Pets - Wizard&#x27;s Companion</title><meta property="og:title" content="Pedigree - Guides - Pets - Wizard&#x27;s Companion" />
     <meta property="og:url" content="" />
@@ -28,8 +27,8 @@
     <meta name="date" content="" />
     <meta name="theme-color" content="#ffff00" />
 
-    <meta name="description" content="" />
-    <meta property="og:description" content="" />
+    <meta name="description" content="In the simplest sense, pet&#x27;s pedigree is a number that represents the sum of rarities of pet&#x27;s abilities.&#xD;&#xA;There are two types of pedigrees:&#xD;&#xA;&#x2022; Manifested Pedigree - sum of rarities of all pet&#x27;s MANIFESTED abilities&#xD;&#xA;&#x2022; Total Pedigree - sum of rarities of ALL pet&#x27;s abilities&#xD;&#xA;&#xD;&#xA;There are 5 Ability Rarities, each worth:&#xD;&#xA;&#x2022; Common &#x2192; &#x2B;1 Pedigree&#xD;&#xA;&#x2022; Uncommon &#x2192; &#x2B;2 Pedigree&#xD;&#xA;&#x2022; Rare &#x2192; &#x2B;3 Pedigree&#xD;&#xA;&#x2022; Ultra-Rare &#x2192; &#x2B;4 Pedigree&#xD;&#xA;&#x2022; Epic &#x2192; &#x2B;5 Pedigree&#xD;&#xA;&#xD;&#xA;Example: 4 (20)&#xD;&#xA;&#x2022; 4 - Manifested Pedigree - 2 Common Talents and 2 Common Derby Powers&#xD;&#xA;&#x2022; 20 - Total Pedigree - 10 Common Talents and 10 Common Derby Powers" />
+    <meta property="og:description" content="In the simplest sense, pet&#x27;s pedigree is a number that represents the sum of rarities of pet&#x27;s abilities.&#xD;&#xA;There are two types of pedigrees:&#xD;&#xA;&#x2022; Manifested Pedigree - sum of rarities of all pet&#x27;s MANIFESTED abilities&#xD;&#xA;&#x2022; Total Pedigree - sum of rarities of ALL pet&#x27;s abilities&#xD;&#xA;&#xD;&#xA;There are 5 Ability Rarities, each worth:&#xD;&#xA;&#x2022; Common &#x2192; &#x2B;1 Pedigree&#xD;&#xA;&#x2022; Uncommon &#x2192; &#x2B;2 Pedigree&#xD;&#xA;&#x2022; Rare &#x2192; &#x2B;3 Pedigree&#xD;&#xA;&#x2022; Ultra-Rare &#x2192; &#x2B;4 Pedigree&#xD;&#xA;&#x2022; Epic &#x2192; &#x2B;5 Pedigree&#xD;&#xA;&#xD;&#xA;Example: 4 (20)&#xD;&#xA;&#x2022; 4 - Manifested Pedigree - 2 Common Talents and 2 Common Derby Powers&#xD;&#xA;&#x2022; 20 - Total Pedigree - 10 Common Talents and 10 Common Derby Powers" />
 
     <meta name="keywords" content="wizard101, pets, guides, pedigree" />
     <meta property="article:tag" content="wizard101, pets, guides, pedigree" />
@@ -45,12 +44,14 @@
         <div id="app">
             <div id="loading-container">
                 <!--<svg class="loading-progress">
-                    <circle r="40%" cx="50%" cy="50%" />
-                    <circle r="40%" cx="50%" cy="50%" />
-                </svg>-->
+        <circle r="40%" cx="50%" cy="50%" />
+        <circle r="40%" cx="50%" cy="50%" />
+    </svg>-->
                 <h1 id="loading-text">Loading... </h1>
                 <div class="loading-progress-text"></div>
                 <div class="linear-progress"></div>
+                <h2>First load might take a while.</h2>
+                <h2>All future loads should be much faster as most resources will get cached on your device.</h2>
             </div>
         </div>
     
@@ -59,12 +60,46 @@
     
 
 
-<header><h1>Wizard's Companion</h1></header>
+
+<header><h1><a href="/">Wizard's Companion</a></h1></header>
 <main><h2 b-qrrbmox22x>Pedigree</h2>
-<h3 id="what">What is pedigree</h3>
-In the simplest sense, pet's pedigree is a number that represents the sum of pet's Talents and Derby Powers rarities. There are two types of pedigrees:
-<ul><li>Manifested pedigree</li>
-    <li>Total pedigree</li></ul></main>
+<section><h3 id="what">What is pedigree</h3>
+    <div class="section-content">
+        In the simplest sense, pet's pedigree is a number that represents the sum of rarities of pet's abilities. There are two types of pedigrees:
+        <ul><li>Manifested Pedigree</li>
+            <li>Total Pedigree</li></ul>
+        <p>
+            Pedigree is represented as: <code>MANIFESTED PEDIGREE (TOTAL PEDIGREE)</code>
+            Example: 4 (20)
+        </p>
+        <ul><li>4 - Manifested Pedigree - 2 Common Talents and 2 Common Derby Powers</li>
+            <li>20 - Total Pedigree - 10 Common Talents and 10 Common Derby Powers</li></ul></div></section>
+
+<section><h3 id="ability-rarities">Ability Rarities</h3>
+    <div class="section-content">
+        There are 5 Ability Rarities, each worth:
+        <ul><li>Common → +1 Pedigree</li>
+            <li>Uncommon → +2 Pedigree</li>
+            <li>Rare → +3 Pedigree</li>
+            <li>Ultra-Rare → +4 Pedigree</li>
+            <li>Epic → +5 Pedigree</li></ul></div></section>
+
+<section><h3 id="manifested-pedigree">Manifested Pedigree</h3>
+    <div class="section-content"><p>
+            Manifested Pedigree is a number that represents sum of rarities of all pet's <b>MANIFESTED</b> abilities. So sum of all rarities of Talents and Derby Powers your pet gains upon level up.
+            
+            Minimum (Baby pet): 0 * 0 + 0 * 0 = 0 + 0 = 0 (0 Common Talents and 0 Common Derby Powers)
+            Minimum (Mega pet): 5 * 1 + 5 * 1 = 5 + 5 = 10 (5 Common Talents and 5 Common Derby Powers)
+            Maximum: 5 * 5 + 5 * 5 = 25 + 25 = 50 (5 Epic Talents and 5 Epic Derby Powers)
+        </p></div></section>
+
+<section><h3 id="manifested-pedigree">Total/Potential Pedigree</h3>
+    <div class="section-content"><p>
+            Total Pedigree is a number that represents sum of rarities of <b>ALL</b> pet's abilities. So sum of all rarities of Talents that are in the pet's Talents pool and Derby Powers that are in the pet's Derby pool.
+            
+            Minimum: 10 * 1 + 10 * 1 = 10 + 10 = 20 (10 Common Talents and 10 Common Derby Powers)
+            Maximum: 10 * 5 + 10 * 5 = 50 + 50 = 100 (10 Epic Talents and 10 Epic Derby Powers)
+        </p></div></section></main>
         <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
 
 </div>
@@ -77,10 +112,21 @@ In the simplest sense, pet's pedigree is a number that represents the sum of pet
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
-    <script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>
-    <environment names="Development">
+    <script src="sw-registrator.js"></script>
+    <!--<script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>-->
+    <!--<environment names="Development">
         <script src="_framework/aspnetcore-browser-refresh.js"></script>
-    </environment>
+    </environment>-->
+
+    <script> /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
+        const origScrollTo = window.scrollTo;
+        window.scrollTo = (x, y) => {
+            const shouldSkip = true; // TODO: Insert your own logic here
+            if (x === 0 && y === 0 && shouldSkip)
+                return;
+            return origScrollTo.apply(this, arguments);
+        };
+    </script>
 
 
 

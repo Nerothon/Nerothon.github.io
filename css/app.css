@@ -26,14 +26,14 @@
 
     --font-family-normal: 'Comic Sans MS';
     --font-family-header: 'Wizard Fancy';
-    --font-size-scale: 80%;
+    --font-size-scale: 100%;
 }
 
 @media only screen and (max-width: 600px)
 {
     :root
     {
-        --font-size-scale: 60%;
+        --font-size-scale: 80%;
     }
 }
 
@@ -83,18 +83,31 @@ label
 }
 
 section{
-    padding: 10px;
+    padding: 0px 5px;
 }
 
 section + section
 {
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 .section-content
 {
-    padding: 20px;
+    padding: 10px;
     border: 2px solid var(--color-accent-normal);
+
+}
+
+    .section-content p
+    {
+        display: block;
+        white-space: pre-line;
+        margin: 0;
+    }
+
+.section-content p::first-line
+{
+    font-size: 0;
 }
 
 a, button
@@ -221,6 +234,17 @@ button
         border-style: solid;
         border-color: transparent transparent white transparent;
     }
+
+[tooltip]:hover::after
+{
+    display: block;
+    position: absolute;
+    content: attr(tooltip);
+    border: 1px solid black;
+    background: #eee;
+    padding: .25em;
+}
+
 .wrap
 {
     white-space: pre-line;

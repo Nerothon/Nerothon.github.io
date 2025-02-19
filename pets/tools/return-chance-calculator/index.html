@@ -19,7 +19,6 @@
     <!-- If you add any scoped CSS files, uncomment the following to load them -->
     <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
 
-
 <!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
 <title>Return Chance Calculator - Tools - Pets - Wizard&#x27;s Companion</title><meta property="og:title" content="Return Chance Calculator - Tools - Pets - Wizard&#x27;s Companion" />
     <meta property="og:url" content="" />
@@ -28,8 +27,8 @@
     <meta name="date" content="" />
     <meta name="theme-color" content="#ffff00" />
 
-    <meta name="description" content="&#x2022; You can&#x27;t hatch for Exclusive and Unhatchable pets. You have to get them from the original source.&#xD;&#xA;&#x2022; If pet on the right side of hatching screen is Exclusive or Unhatchable, you will get back the pet on the left side (or hybrid if Unhatchable).&#xD;&#xA;&#x2022; Otherwise, wow factor calculation determines the return chance.&#xD;&#xA;  Higher wow = harder to get." />
-    <meta property="og:description" content="&#x2022; You can&#x27;t hatch for Exclusive and Unhatchable pets. You have to get them from the original source.&#xD;&#xA;&#x2022; If pet on the right side of hatching screen is Exclusive or Unhatchable, you will get back the pet on the left side (or hybrid if Unhatchable).&#xD;&#xA;&#x2022; Otherwise, wow factor calculation determines the return chance.&#xD;&#xA;  Higher wow = harder to get." />
+    <meta name="description" content="&#x2022; You can&#x27;t hatch for Exclusive and Unhatchable pets. You have to get them from the original source.&#xD;&#xA;&#x2022; If pet on the right side of hatching screen is Exclusive or Unhatchable, you will get back the pet on the left side (or hybrid if Unhatchable).&#xD;&#xA;&#x2022; Otherwise, wow factor calculation determines the return chance.&#xD;&#xA;&#x2022; Every pet type has different wow factor you can&#x27;t change in any way.&#xD;&#xA;&#x2022; Wow factor ranges from 0 to 10 (11 values total). Higher wow = harder to get." />
+    <meta property="og:description" content="&#x2022; You can&#x27;t hatch for Exclusive and Unhatchable pets. You have to get them from the original source.&#xD;&#xA;&#x2022; If pet on the right side of hatching screen is Exclusive or Unhatchable, you will get back the pet on the left side (or hybrid if Unhatchable).&#xD;&#xA;&#x2022; Otherwise, wow factor calculation determines the return chance.&#xD;&#xA;&#x2022; Every pet type has different wow factor you can&#x27;t change in any way.&#xD;&#xA;&#x2022; Wow factor ranges from 0 to 10 (11 values total). Higher wow = harder to get." />
 
     <meta name="keywords" content="wizard101, pets, tools, return chance, wow factor, exclusive" />
     <meta property="article:tag" content="wizard101, pets, tools, return chance, wow factor, exclusive" />
@@ -45,12 +44,14 @@
         <div id="app">
             <div id="loading-container">
                 <!--<svg class="loading-progress">
-                    <circle r="40%" cx="50%" cy="50%" />
-                    <circle r="40%" cx="50%" cy="50%" />
-                </svg>-->
+        <circle r="40%" cx="50%" cy="50%" />
+        <circle r="40%" cx="50%" cy="50%" />
+    </svg>-->
                 <h1 id="loading-text">Loading... </h1>
                 <div class="loading-progress-text"></div>
                 <div class="linear-progress"></div>
+                <h2>First load might take a while.</h2>
+                <h2>All future loads should be much faster as most resources will get cached on your device.</h2>
             </div>
         </div>
     
@@ -59,14 +60,15 @@
     
 
 
-<header><h1>Wizard's Companion</h1></header>
+
+<header><h1><a href="/">Wizard's Companion</a></h1></header>
 <main><h2 b-qrrbmox22x>Return Chance Calculator</h2>
 <div id="calculators" b-ygwchsk32w><div class="flex-column" b-ygwchsk32w><h3 b-ygwchsk32w>By Wow factor</h3>
                 <div class="flex-row calculator" b-ygwchsk32w><div class="flex-column column" b-ygwchsk32w><h3 b-ygwchsk32w>Left Parent</h3>
                         <div class="flex-column align-items-center" b-ygwchsk32w><label b-ygwchsk32w>Wow factor:</label>
                             <input class="wow" type="number" min="0" max="10" onclick="this.select();" value="0" b-ygwchsk32w /></div>
 
-                        <div class="flex-column align-items-center" b-ygwchsk32w><label b-ygwchsk32w>Is Exlusive?:</label>
+                        <div class="flex-column align-items-center" b-ygwchsk32w><label b-ygwchsk32w>Is Exlusive?</label>
                             <input type="checkbox" name="parentA.IsExclusive" class="checkbox" value="True" /></div>
 
                         <div class="flex-column align-items-center" b-ygwchsk32w><label b-ygwchsk32w>Return Chance:</label>
@@ -96,7 +98,7 @@
                         <div class="flex-column align-items-center" b-ygwchsk32w><label b-ygwchsk32w>Wow factor:</label>
                             0</div>
 
-                        <div class="flex-column align-items-center" b-ygwchsk32w><label b-ygwchsk32w>Is Exlusive?:</label><span class="material-symbols-sharp" style="color: red;" b-e4j66vqyph>close</span></div>
+                        <div class="flex-column align-items-center" b-ygwchsk32w><label b-ygwchsk32w>Is Exlusive?:</label><span class="material-symbols-sharp Error" b-e4j66vqyph>close</span></div>
 
                         <div class="flex-column align-items-center" b-ygwchsk32w><label b-ygwchsk32w>Return Chance:</label>
                             <span b-ygwchsk32w> 50.00%</span></div></div>
@@ -114,7 +116,7 @@
                         <div class="flex-column align-items-center" b-ygwchsk32w><label b-ygwchsk32w>Wow factor:</label>
                             0</div>
 
-                        <div class="flex-column align-items-center" b-ygwchsk32w><label b-ygwchsk32w>Is Exlusive?:</label><span class="material-symbols-sharp" style="color: red;" b-e4j66vqyph>close</span></div>
+                        <div class="flex-column align-items-center" b-ygwchsk32w><label b-ygwchsk32w>Is Exlusive?:</label><span class="material-symbols-sharp Error" b-e4j66vqyph>close</span></div>
 
                         <div class="flex-column align-items-center" b-ygwchsk32w><label b-ygwchsk32w>Return Chance:</label>
                             <span b-ygwchsk32w> 50.00%</span></div></div></div></div></div></main>
@@ -130,10 +132,21 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
-    <script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>
-    <environment names="Development">
+    <script src="sw-registrator.js"></script>
+    <!--<script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>-->
+    <!--<environment names="Development">
         <script src="_framework/aspnetcore-browser-refresh.js"></script>
-    </environment>
+    </environment>-->
+
+    <script> /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
+        const origScrollTo = window.scrollTo;
+        window.scrollTo = (x, y) => {
+            const shouldSkip = true; // TODO: Insert your own logic here
+            if (x === 0 && y === 0 && shouldSkip)
+                return;
+            return origScrollTo.apply(this, arguments);
+        };
+    </script>
 
 
 

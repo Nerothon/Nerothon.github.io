@@ -142,6 +142,45 @@
     width: auto;
     height: 100%;
 }
+/* /Pages/Categories/Pets/Tools/AbilityPrioritizer.razor.rz.scp.css */
+h3[b-ffuxpxgbgn]
+{
+    text-align: center;
+    margin: 0;
+}
+
+.container[b-ffuxpxgbgn]
+{
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    margin: 15px 0 0 0;
+}
+
+.abilities[b-ffuxpxgbgn]
+{
+    /*display: grid;
+    grid-template-columns: 50px auto;*/
+    height: 600px;
+    overflow-y: scroll;
+}
+
+.ability[b-ffuxpxgbgn]
+{
+    display: grid;
+    grid-template-columns: 50px auto;
+
+}
+
+    .ability > span[b-ffuxpxgbgn]
+    {
+        justify-self: center;
+    }
+
+    .ability > button[b-ffuxpxgbgn]
+    {
+        display: grid;
+        justify-items: center;
+    }
 /* /Pages/Categories/Pets/Tools/PetReturnChanceCalculator.razor.rz.scp.css */
 select[b-ygwchsk32w], input[b-ygwchsk32w]
 {

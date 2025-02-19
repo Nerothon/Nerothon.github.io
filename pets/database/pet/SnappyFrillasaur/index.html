@@ -19,7 +19,6 @@
     <!-- If you add any scoped CSS files, uncomment the following to load them -->
     <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
 
-
 <!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
 <title>Snappy Frillasaur - Database - Pets - Wizard&#x27;s Companion</title><meta property="og:title" content="Snappy Frillasaur - Database - Pets - Wizard&#x27;s Companion" />
     <meta property="og:url" content="" />
@@ -28,8 +27,8 @@
     <meta name="date" content="" />
     <meta name="theme-color" content="#c160db" />
 
-    <meta name="description" content="Type: Snappy Frillasaur&#xD;&#xA;Body: Frillasaur&#xD;&#xA;Egg: Evanescent Egg&#xD;&#xA;School: &#x1F329;&#xFE0F;Storm&#xD;&#xA;Is School Only: &#x274C;&#xA;Cards: Storm Shark&#xA;&#xA;Wow factor: 8&#xD;&#xA;Is Exclusive: &#x274C;&#xD;&#xA;Is Unhatchable: &#x274C;&#xD;&#xA;&#xD;&#xA;Is Kioskable: &#x274C;&#xD;&#xA;Is Transferable: &#x2714;&#xFE0F;&#xD;&#xA;&#xD;&#xA;Is Hybrid: &#x274C;" />
-    <meta property="og:description" content="Type: Snappy Frillasaur&#xD;&#xA;Body: Frillasaur&#xD;&#xA;Egg: Evanescent Egg&#xD;&#xA;School: &#x1F329;&#xFE0F;Storm&#xD;&#xA;Is School Only: &#x274C;&#xA;Cards: Storm Shark&#xA;&#xA;Wow factor: 8&#xD;&#xA;Is Exclusive: &#x274C;&#xD;&#xA;Is Unhatchable: &#x274C;&#xD;&#xA;&#xD;&#xA;Is Kioskable: &#x274C;&#xD;&#xA;Is Transferable: &#x2714;&#xFE0F;&#xD;&#xA;&#xD;&#xA;Is Hybrid: &#x274C;" />
+    <meta name="description" content="Type: Snappy Frillasaur&#xD;&#xA;Body: Frillasaur&#xD;&#xA;Egg: Evanescent Egg&#xD;&#xA;School: &#x1F329;&#xFE0F; Storm&#xD;&#xA;Is School Only: &#x274C;&#xD;&#xA;Cards: Storm Shark&#xA;&#xD;&#xA;Wow factor: 8&#xD;&#xA;Is Exclusive: &#x274C;&#xD;&#xA;Is Unhatchable: &#x274C;&#xD;&#xA;&#xD;&#xA;Is Kioskable: &#x274C;&#xD;&#xA;Is Transferable: &#x2714;&#xFE0F;&#xD;&#xA;&#xD;&#xA;Is Hybrid: &#x274C;" />
+    <meta property="og:description" content="Type: Snappy Frillasaur&#xD;&#xA;Body: Frillasaur&#xD;&#xA;Egg: Evanescent Egg&#xD;&#xA;School: &#x1F329;&#xFE0F; Storm&#xD;&#xA;Is School Only: &#x274C;&#xD;&#xA;Cards: Storm Shark&#xA;&#xD;&#xA;Wow factor: 8&#xD;&#xA;Is Exclusive: &#x274C;&#xD;&#xA;Is Unhatchable: &#x274C;&#xD;&#xA;&#xD;&#xA;Is Kioskable: &#x274C;&#xD;&#xA;Is Transferable: &#x2714;&#xFE0F;&#xD;&#xA;&#xD;&#xA;Is Hybrid: &#x274C;" />
 
     <meta name="keywords" content="wizard101, pets, guides, Snappy Frillasaur" />
     <meta property="article:tag" content="wizard101, pets, guides, Snappy Frillasaur" />
@@ -45,12 +44,14 @@
         <div id="app">
             <div id="loading-container">
                 <!--<svg class="loading-progress">
-                    <circle r="40%" cx="50%" cy="50%" />
-                    <circle r="40%" cx="50%" cy="50%" />
-                </svg>-->
+        <circle r="40%" cx="50%" cy="50%" />
+        <circle r="40%" cx="50%" cy="50%" />
+    </svg>-->
                 <h1 id="loading-text">Loading... </h1>
                 <div class="loading-progress-text"></div>
                 <div class="linear-progress"></div>
+                <h2>First load might take a while.</h2>
+                <h2>All future loads should be much faster as most resources will get cached on your device.</h2>
             </div>
         </div>
     
@@ -59,9 +60,29 @@
     
 
 
-<header><h1>Wizard's Companion</h1></header>
+
+<header><h1><a href="/">Wizard's Companion</a></h1></header>
 <main><h2 b-qrrbmox22x>Snappy Frillasaur</h2>
-</main>
+<div class="flex-row wrap"><div class="flex-column"><h3>Info</h3>
+            <div class="flex-row"><label>School:</label>
+                <img class="icon" src="Data/Images/Icon/(Icon) Storm.png" /> Storm</div>
+            <div class="flex-row"><label>Is School Only?</label>
+                <span class="material-symbols-sharp Error" b-e4j66vqyph>close</span> No</div>
+            <div class="flex-row"><label>Egg: </label> Evanescent Egg</div>
+            <div class="flex-row"><label>Body: </label> Frillasaur</div>
+            <div class="flex-row"><label>Wow Factor: </label> 8</div>
+            <div class="flex-row"><label>Is Kioskable? </label> <span class="material-symbols-sharp Error" b-e4j66vqyph>close</span> No</div>
+            <div class="flex-row"><label>Is Transferable? </label> <span class="material-symbols-sharp Success" b-e4j66vqyph>check</span> Yes</div>
+            <div class="flex-row"><label>Is Exclusive? </label> <span class="material-symbols-sharp Error" b-e4j66vqyph>close</span> No</div>
+            <div class="flex-row"><label>Is Unhatchable? </label> <span class="material-symbols-sharp Error" b-e4j66vqyph>close</span> No</div>
+            <div class="flex-row"><label>Is Hybrid? </label> <span class="material-symbols-sharp Error" b-e4j66vqyph>close</span> No</div></div>
+
+        <div class="flex-column"><h3>Statistics</h3>
+            <div class="flex-row"><label><img class="icon" src="Data/Images/Icon/(Icon) Pet Strength.png" /> Strength:</label> 225</div>
+            <div class="flex-row"><label><img class="icon" src="Data/Images/Icon/(Icon) Pet Intellect.png" /> Intellect:</label> 185</div>
+            <div class="flex-row"><label><img class="icon" src="Data/Images/Icon/(Icon) Pet Agility.png" /> Agility:</label> 250</div>
+            <div class="flex-row"><label><img class="icon" src="Data/Images/Icon/(Icon) Pet Will.png" /> Will:</label> 200</div>
+            <div class="flex-row"><label><img class="icon" src="Data/Images/Icon/(Icon) Pet Power.png" /> Power:</label> 190</div></div><div class="flex-column"><label>Cards: </label><a href="https://wiki.wizard101central.com/wiki/ItemCard:Storm%20Shark"><img loading="lazy" src="Data/Images/Item/Card/ItemCard/(Item Card) Storm Shark Variation2.png" title="Storm Shark" /></a></div></div></main>
         <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
 
 </div>
@@ -74,10 +95,21 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
-    <script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>
-    <environment names="Development">
+    <script src="sw-registrator.js"></script>
+    <!--<script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>-->
+    <!--<environment names="Development">
         <script src="_framework/aspnetcore-browser-refresh.js"></script>
-    </environment>
+    </environment>-->
+
+    <script> /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
+        const origScrollTo = window.scrollTo;
+        window.scrollTo = (x, y) => {
+            const shouldSkip = true; // TODO: Insert your own logic here
+            if (x === 0 && y === 0 && shouldSkip)
+                return;
+            return origScrollTo.apply(this, arguments);
+        };
+    </script>
 
 
 
