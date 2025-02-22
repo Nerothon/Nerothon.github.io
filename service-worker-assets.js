@@ -2742,7 +2742,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-jQE0ASU9EgvJBzzJE5vL3hwz76X+LaVS2C/tLC4I0Y0=",
+      "hash": "sha256-HzxEq7hPYq4aQptpBv7uxjIxogNtSkfjlWBXDSvwQbE=",
       "url": "index.html"
     },
     {
