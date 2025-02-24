@@ -7585,7 +7585,7 @@
       "url": "deckathlon\/index.html"
     },
     {
-      "hash": "sha256-3fDIVeyYLa6QbwFgIkRL2Y+EcAUhnQLsh0EGr9OePd8=",
+      "hash": "sha256-AXvLxlTZ4tZEponB1+J4uuq7bf0CKIwzH+Guk6bKr5Y=",
       "url": "deckathlon\/schedule\/index.html"
     },
     {
