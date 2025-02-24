@@ -2685,15 +2685,15 @@
       "url": "_framework\/System.pndwwxah3a.wasm"
     },
     {
-      "hash": "sha256-L+k0J84XZKHPvEd6VsvGPxq2ZU91YCo1rh5F11iko\/M=",
-      "url": "_framework\/Wizard101.Blazor.WebAssembly.dpozrl4s7b.wasm"
+      "hash": "sha256-upcpVbi1+h0DGmoX0bXiXYPIvpQ4nMIYnas1NnPa7sE=",
+      "url": "_framework\/Wizard101.Blazor.WebAssembly.65oydbntn0.wasm"
     },
     {
       "hash": "sha256-ezCO0liKu5HOyTGUkUKeWzzyscoNSYJv71xhv+bxJkE=",
       "url": "_framework\/Wizard101.Library.dibhbwhc0b.wasm"
     },
     {
-      "hash": "sha256-bmqWFyDb0gvJ+t2CBak6MnOujCnI6DSd0\/T+dX9ERag=",
+      "hash": "sha256-qRX4IRROm82JDxf+14g8I57Sn389vgF3SCEOGABHYsU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -7585,7 +7585,7 @@
       "url": "deckathlon\/index.html"
     },
     {
-      "hash": "sha256-AXvLxlTZ4tZEponB1+J4uuq7bf0CKIwzH+Guk6bKr5Y=",
+      "hash": "sha256-\/Dc6i\/z2YexIASS\/Wa47mTUTt3WJzIEFVMaMtoCa+nY=",
       "url": "deckathlon\/schedule\/index.html"
     },
     {
@@ -7597,5 +7597,5 @@
       "url": "accounts\/index.html"
     }
   ],
-  "version": "1JmbmkBu"
+  "version": "f40jlGJ1"
 };
