@@ -26,7 +26,7 @@
 
     --font-family-normal: 'Comic Sans MS';
     --font-family-header: 'Wizard Fancy';
-    --font-size-scale: 100%;
+    --font-size-scale: 95%;
 }
 
 @media only screen and (max-width: 600px)
