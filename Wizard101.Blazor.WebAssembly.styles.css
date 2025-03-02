@@ -5,6 +5,39 @@ img[b-aae35bj40l]
     width: 100%;
     height: 100%;
 }
+
+.abilityItem[b-aae35bj40l]
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.mb-5[b-aae35bj40l]
+{
+    margin-bottom: 5px;
+}
+
+.cardName[b-aae35bj40l]
+{
+    color: aqua;
+}
+
+.m-05[b-aae35bj40l]
+{
+    margin: 0 5px;
+}
+
+.list[b-aae35bj40l]
+{
+    margin: 0;
+/*    padding: 0;*/
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
 /* /Components/ItemDetails.razor.rz.scp.css */
 img[b-dfyquw6to6]
 {
@@ -187,8 +220,8 @@ div span[b-4bhjtnqlhp]
 .tooltip[b-uncmwlhkc4]
 {
     position: relative;
-    width: 100%;
-    height: 100%;
+    /*width: 100%;
+    height: 100%;*/
     display: grid;
     border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
 }
@@ -210,9 +243,9 @@ div span[b-4bhjtnqlhp]
         z-index: 999;
         top: 100%;
         left: 50%;
-        width: 200px;
+        width: 270px;
 /*        margin: 10px;*/
-        margin-left: -100px;
+        margin-left: -135px;
     }
 
     /* Show the tooltip content when you mouse over the tooltip container */
@@ -367,10 +400,12 @@ h3[b-ffuxpxgbgn]
 
 .container[b-ffuxpxgbgn]
 {
-    display: grid;
+    /*display: grid;
     grid-template-columns: repeat(3, minmax(0, max-content));
     margin: 15px 0 0 0;
-    justify-content: space-between;
+    justify-content: space-between;*/
+
+    margin: 15px 0 0 0;
 }
 
 .abilities[b-ffuxpxgbgn]
@@ -386,8 +421,8 @@ h3[b-ffuxpxgbgn]
     display: grid;
     grid-template-columns: 40px auto;
     align-items: center;
-    width: 330px;
-    height: 40px;
+    /*width: 330px;
+    height: 40px;*/
 }
 
     .ability > span[b-ffuxpxgbgn]
@@ -399,8 +434,8 @@ h3[b-ffuxpxgbgn]
     {
         /*display: grid;*/
         /* grid-template-columns: max-content; */
-        width: 290px;
-        height: 40px;
+        width: 300px;
+        height: 3em;
         padding: 0;
         /*justify-items: stretch;
         align-items: center;
