@@ -21,6 +21,9 @@
 
     --color-background-normal: #161616;
 
+    --color-slider-background: #656565;
+    --color-slider-foreground: var(--color-accent-normal);
+
     --color-text-normal: white;
     --color-text-header: var(--color-accent-normal);
 

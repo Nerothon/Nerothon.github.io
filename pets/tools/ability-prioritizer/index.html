@@ -20,15 +20,15 @@
     <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
 
 <!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
-<title>Ability Prioritizer - Tools - Pets - Wizard&#x27;s Companion</title><meta property="og:title" content="Ability Prioritizer - Tools - Pets - Wizard&#x27;s Companion" />
+<title>Ability Prioritizer - Wizard&#x27;s Companion</title><meta property="og:title" content="Ability Prioritizer - Wizard&#x27;s Companion" />
     <meta property="og:url" content="" />
     <meta property="og:type" content="article" />
 
     <meta name="date" content="" />
     <meta name="theme-color" content="#ffff00" />
 
-    <meta name="description" content="" />
-    <meta property="og:description" content="" />
+    <meta name="description" content="Every pet ability has set hidden index.&#xD;&#xA;    Ability pools are ordered from lowest to highest index.&#xD;&#xA;    That means an ability A with lower index than ability B can never appear under B.&#xD;&#xA;Thanks to that if you know two abilities, you can find which possible abilities could be between them based on their indexes and rarities or even identify other." />
+    <meta property="og:description" content="Every pet ability has set hidden index.&#xD;&#xA;    Ability pools are ordered from lowest to highest index.&#xD;&#xA;    That means an ability A with lower index than ability B can never appear under B.&#xD;&#xA;Thanks to that if you know two abilities, you can find which possible abilities could be between them based on their indexes and rarities or even identify other." />
 
     <meta name="keywords" content="wizard101, pets, tools, abilities, index" />
     <meta property="article:tag" content="wizard101, pets, tools, abilities, index" />
@@ -44,9 +44,9 @@
         <div id="app">
             <div id="loading-container">
                 <!--<svg class="loading-progress">
-        <circle r="40%" cx="50%" cy="50%" />
-        <circle r="40%" cx="50%" cy="50%" />
-    </svg>-->
+                    <circle r="40%" cx="50%" cy="50%" />
+                    <circle r="40%" cx="50%" cy="50%" />
+                </svg>-->
                 <h1 id="loading-text">Loading... </h1>
                 <div class="loading-progress-text"></div>
                 <div class="linear-progress"></div>
@@ -63,36 +63,36 @@
 
 <header><h1><a href="/">Wizard's Companion</a></h1></header>
 <main><h2 b-qrrbmox22x>Ability Prioritizer</h2>
-<div class="flex-row" b-ffuxpxgbgn><div b-ffuxpxgbgn><label b-ffuxpxgbgn>Name:</label>
-            <input type="text" placeholder="Filter by ability name..." onclick="this.select();" b-ffuxpxgbgn /></div>
+<div style="margin: 15px;" b-kg0x9e45a9><div class="flex-row flex-wrap" b-kg0x9e45a9><div b-kg0x9e45a9><label b-kg0x9e45a9>Name:</label>
+                <input type="text" placeholder="Filter by ability name..." onfocus="this.select();" b-kg0x9e45a9 /></div>
 
-        <div b-ffuxpxgbgn><label b-ffuxpxgbgn>Pool type:</label>
-            <select b-ffuxpxgbgn><option selected="selected" value="All" b-ffuxpxgbgn>All</option>
-                <option value="Talents" b-ffuxpxgbgn>Talents</option>
-                <option value="Derby Powers" b-ffuxpxgbgn>Derby Powers</option></select></div>
+            <div b-kg0x9e45a9><label b-kg0x9e45a9>Type:</label>
+                <select b-kg0x9e45a9><option selected="selected" value="All" b-kg0x9e45a9>All</option>
+                    <option value="Talent" b-kg0x9e45a9>Talents</option>
+                    <option value="Derby Power" b-kg0x9e45a9>Derby Powers</option></select></div>
 
-        <div b-ffuxpxgbgn><label b-ffuxpxgbgn>Rarity:</label>
-            <select b-ffuxpxgbgn><option selected="selected" value="All" b-ffuxpxgbgn>All</option>
-                <option value="Common" b-ffuxpxgbgn>Common</option>
-                <option value="Uncommon" b-ffuxpxgbgn>Uncommon</option>
-                <option value="Rare" b-ffuxpxgbgn>Rare</option>
-                <option value="Ultra-Rare" b-ffuxpxgbgn>Ultra-Rare</option>
-                <option value="Epic" b-ffuxpxgbgn>Epic</option></select></div>
+            <div b-kg0x9e45a9><label b-kg0x9e45a9>Rarity:</label>
+                <select b-kg0x9e45a9><option selected="selected" value="All" b-kg0x9e45a9>All</option>
+                    <option value="Common" b-kg0x9e45a9>Common</option>
+                    <option value="Uncommon" b-kg0x9e45a9>Uncommon</option>
+                    <option value="Rare" b-kg0x9e45a9>Rare</option>
+                    <option value="Ultra-Rare" b-kg0x9e45a9>Ultra-Rare</option>
+                    <option value="Epic" b-kg0x9e45a9>Epic</option></select></div>
 
-        <div b-ffuxpxgbgn><label b-ffuxpxgbgn>Order by:</label>
-            <select b-ffuxpxgbgn><option selected="selected" value="Name" b-ffuxpxgbgn>Name</option>
-                <option value="AbilityRarity.Name" b-ffuxpxgbgn>Rarity</option>
-                <option value="Index" b-ffuxpxgbgn>Index</option></select></div>
+            <div b-kg0x9e45a9><label b-kg0x9e45a9>Order by:</label>
+                <select b-kg0x9e45a9><option selected="selected" value="Name" b-kg0x9e45a9>Name</option>
+                    <option value="AbilityRarity" b-kg0x9e45a9>Rarity</option>
+                    <option value="Index" b-kg0x9e45a9>Index</option></select></div>
 
-        <div b-ffuxpxgbgn><label b-ffuxpxgbgn>Order direction:</label>
-            <select b-ffuxpxgbgn><option selected="selected" value="Ascending" b-ffuxpxgbgn>Ascending</option>
-                <option value="Descending" b-ffuxpxgbgn>Descending</option></select></div></div><div class="container" b-ffuxpxgbgn><div b-ffuxpxgbgn><h3 b-ffuxpxgbgn>Abilities</h3>
-            <div class="abilities" b-ffuxpxgbgn><div style="height: 0px; flex-shrink: 0;"></div><div style="height: 32400px; flex-shrink: 0;"></div></div></div>
+            <div b-kg0x9e45a9><label b-kg0x9e45a9>Order direction:</label>
+                <select b-kg0x9e45a9><option selected="selected" value="Ascending" b-kg0x9e45a9>Ascending</option>
+                    <option value="Descending" b-kg0x9e45a9>Descending</option></select></div></div><div class="container flex-row flex-wrap" b-kg0x9e45a9><div b-kg0x9e45a9><h3 b-kg0x9e45a9>Abilities</h3>
+                <div class="abilities" b-kg0x9e45a9><div style="height: 0px; flex-shrink: 0;"></div><div style="height: 29750px; flex-shrink: 0;"></div></div></div>
 
-        <div b-ffuxpxgbgn><h3 b-ffuxpxgbgn>Talents</h3></div>
+            <div b-kg0x9e45a9><h3 b-kg0x9e45a9>Talents</h3></div>
 
 
-        <div b-ffuxpxgbgn><h3 b-ffuxpxgbgn>Derby Powers</h3></div></div></main>
+            <div b-kg0x9e45a9><h3 b-kg0x9e45a9>Derby Powers</h3></div></div></div></main>
         <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
 
 </div>
