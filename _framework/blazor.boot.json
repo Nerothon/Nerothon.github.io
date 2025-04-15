@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Wizard101.Blazor.WebAssembly",
   "resources": {
-    "hash": "sha256-vxwZO5qpKKlyrOiZeT1GrnGCu9E4FcxHPXpWQyLZRL8=",
+    "hash": "sha256-BBj9YLIBsFtMGlj0pRiegZiIfxDDys6s6DXzCbcLkNs=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "Dapper.hj0ug1b3le.wasm": "Dapper.wasm",
@@ -102,8 +102,8 @@
       "System.Xml.XDocument.wuscq0843f.wasm": "System.Xml.XDocument.wasm",
       "System.Xml.XmlSerializer.1q7bxbqdq6.wasm": "System.Xml.XmlSerializer.wasm",
       "System.Xml.XPath.0hx73kghur.wasm": "System.Xml.XPath.wasm",
-      "Wizard101.Blazor.WebAssembly.ycj7oapeyp.wasm": "Wizard101.Blazor.WebAssembly.wasm",
-      "Wizard101.Library.6jvjysuwei.wasm": "Wizard101.Library.wasm",
+      "Wizard101.Blazor.WebAssembly.9jmncoiieo.wasm": "Wizard101.Blazor.WebAssembly.wasm",
+      "Wizard101.Library.3qedh4ijqa.wasm": "Wizard101.Library.wasm",
       "dotnet.native.5xsqxvj60h.js": "dotnet.native.js",
       "dotnet.native.jy06p458u7.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -228,8 +228,8 @@
       "System.Xml.XDocument.wuscq0843f.wasm": "sha256-GPeD3UBxKn4zjqfpQXbIVbPw8qkAZHhRuns+jqfIDKM=",
       "System.Xml.XmlSerializer.1q7bxbqdq6.wasm": "sha256-J1dyBs/k2EObwDpW6QoBgzpAEaVVzAPZgJ7LFcMhwg0=",
       "System.Xml.XPath.0hx73kghur.wasm": "sha256-zGfLCsj/QK7zcmWffK4yRUhLqlG5gY97nnLlhk5Z6dM=",
-      "Wizard101.Blazor.WebAssembly.ycj7oapeyp.wasm": "sha256-wu2MSUzb7vlXbqr2aiGpKywGVTGzsep5tdXI1XliQqk=",
-      "Wizard101.Library.6jvjysuwei.wasm": "sha256-YlhBljw4oAYu/s2ABUJmeflEa38mDu7xXlyt7HYBSrw="
+      "Wizard101.Blazor.WebAssembly.9jmncoiieo.wasm": "sha256-1V3Bs22X2eVHjHRj2hjdVZEnlbe+UXnjsZ7XyvOwOEg=",
+      "Wizard101.Library.3qedh4ijqa.wasm": "sha256-y6z35d7cN3F79avp1M7WAIpP2d3Xw+xYiGeVeu6LPGs="
     },
     "libraryInitializers": {
       "_content/BlazorWasmPreRendering.Build/BlazorWasmPreRendering.Build.lib.module.js": "sha256-Z094C6tvTOKvix221ZuSPsaaNvGOp0XKqThmB4vfuOA="
