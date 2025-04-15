@@ -1,0 +1,119 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta property="og:site_name" content="Wizard's Companion"/>
+
+    <link rel="icon" href="spellbook.png"/>
+    <base href="/"/>
+    <base target="_blank"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta charset="utf-8"/>
+    <meta name="language" content="EN"/>
+    <meta name="author" content="Nerothon"/>
+    
+    <meta name="google-site-verification" content="KSWdcnkNSNYdjqEMelbOxJt-aZEbfPY4Sc0eAmICeuM"/>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp" rel="stylesheet"/>
+
+    <link href="css/app.css" rel="stylesheet"/>
+    <link href="manifest.json" rel="manifest"/>
+
+    <!-- If you add any scoped CSS files, uncomment the following to load them -->
+    <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
+
+<!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
+<title>Credits - Wizard&#x27;s Companion</title><meta property="og:title" content="Credits - Wizard&#x27;s Companion" />
+    <meta property="og:url" content="" />
+    <meta property="og:type" content="article" />
+
+    <meta name="date" content="" />
+    <meta name="theme-color" content="#ffff00" />
+
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+
+    <meta name="keywords" content="" />
+    <meta property="article:tag" content="" />
+
+    <meta name="image" content="" />
+    <meta property="og:image" content="" />
+    <meta name="twitter:card" content="summary_large_image">
+<!-- %%-PRERENDERING-HEADOUTLET-END-%% -->
+</head>
+
+<body>
+    <div id="app">
+        <div id="app">
+            <div id="loading-container">
+                <!--<svg class="loading-progress">
+                    <circle r="40%" cx="50%" cy="50%" />
+                    <circle r="40%" cx="50%" cy="50%" />
+                </svg>-->
+                <h1 id="loading-text">Loading... </h1>
+                <div class="loading-progress-text"></div>
+                <div class="linear-progress"></div>
+                <h2>First load might take a while.</h2>
+                <h2>All future loads should be much faster as most resources will get cached on your device.</h2>
+            </div>
+        </div>
+    
+<!-- %%-PRERENDERING-BEGIN-%% -->
+<div style="opacity: 0; position: fixed; z-index: -1; top: 0; left: 0; bottom: 0; right: 0;">
+    
+
+
+
+<header><h1><a href="/">Wizard's Companion</a></h1></header>
+<main><h2>Credits</h2>
+<div class="flex-row"><label>General Icons:</label>
+    <a href="https://fonts.google.com/icons">Goodle Fonts - Material Symbols and Icons</a></div>
+
+<div class="flex-row"><label>Game Images and Icons:</label>
+    <a href="https://wiki.wizard101central.com/wiki/Category:Images">Wizard101 Central Wikipedia</a></div>
+
+<div class="flex-row"><label>Game Data:</label>
+    <a href="https://wiki.wizard101central.com/wiki">Wizard101 Central Wikipedia</a></div>
+
+<div class="flex-row"><label>Additional Pet Data:</label>
+    <a href="https://linktr.ee/101Resources">101Resources</a> - <a href="https://docs.google.com/spreadsheets/d/17GW9W7w-J_04HBu2WmhaGhQRHduIfkqkNEAwB-vb-k8/">Wizard101 Pet Tome</a></div>
+
+<div class="flex-row"><label>Framework:</label>
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor">Blazor</a></div>
+
+<div class="flex-row"><label>Hosting:</label>
+    <a href="https://pages.github.com/">GitHub Pages</a></div>
+
+<div class="flex-row"><label>Versioning:</label>
+    <a href="https://git-scm.com/">Git</a></div>
+
+<div class="flex-row"><label>IDE:</label>
+    <a href="https://visualstudio.microsoft.com/vs/">Microsoft Visual Studio 2022 Community Edition</a></div></main>
+        <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
+
+</div>
+<!-- %%-PRERENDERING-END-%% -->
+</div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="sw-registrator.js"></script>
+    <!--<script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>-->
+    <!--<environment names="Development">
+        <script src="_framework/aspnetcore-browser-refresh.js"></script>
+    </environment>-->
+
+    <script> /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
+        const origScrollTo = window.scrollTo;
+        window.scrollTo = (x, y) => {
+            const shouldSkip = true; // TODO: Insert your own logic here
+            if (x === 0 && y === 0 && shouldSkip)
+                return;
+            return origScrollTo.apply(this, arguments);
+        };
+    </script>
+
+
+
+</body></html>
