@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "r2hcrN/2",
+  "version": "94NJa1fc",
   "assets": [
     {
       "hash": "sha256-Cgdy8Dsy/IR9lZ35uGWZmPZOza2l8CjvZP75EYpIejg=",
@@ -2326,6 +2326,18 @@ self.assetsManifest = {
       "url": "Data/Images/Item/Equipment/PetAbility/(Derby) Uncommon.png"
     },
     {
+      "hash": "sha256-Hba3PHnaVKznzt6hXMVFjrf/LrzhgnK/yOk3SozvKFo=",
+      "url": "Data/Images/Item/Equipment/PetAbility/(Talent) Accurate.png"
+    },
+    {
+      "hash": "sha256-7ummjzQga6pIbxaFHO4e/okTIo0e6CNoDk3r7yC8DpQ=",
+      "url": "Data/Images/Item/Equipment/PetAbility/(Talent) Ace Avenger.png"
+    },
+    {
+      "hash": "sha256-mncNaAHeZDmhL4Q6HTX89lDvWXmpuJuS2AWFmkh3wb8=",
+      "url": "Data/Images/Item/Equipment/PetAbility/(Talent) Add Health.png"
+    },
+    {
       "hash": "sha256-6w+sRgQL8yn9orX/FA1BwPO07Mgalr+MUe4CY7DZUII=",
       "url": "Data/Images/Item/Equipment/PetAbility/(Talent) Common.png"
     },
@@ -2402,7 +2414,7 @@ self.assetsManifest = {
       "url": "Data/JSON/SnackClass.json"
     },
     {
-      "hash": "sha256-h8yjU5cJj3SGRexly1t2gu446kqdPwpl61BRDz2haNw=",
+      "hash": "sha256-//wbPiyueqpUU3Wvo48yIsJYAqld7Fk3kBqKaHSGFZY=",
       "url": "Wizard101.Blazor.WebAssembly.styles.css"
     },
     {
@@ -2626,8 +2638,8 @@ self.assetsManifest = {
       "url": "_framework/System.Linq.Parallel.qk8p0qghsl.wasm"
     },
     {
-      "hash": "sha256-aQkZlR/2MFnt9JHIdHWnUX4UG5hOfTBsbpFEzAHlGl4=",
-      "url": "_framework/System.Linq.jx2vaje2nk.wasm"
+      "hash": "sha256-IfdDqkOYgbkhvumyzrX/cXA8Naos+TPQDxJ8gp9rAOc=",
+      "url": "_framework/System.Linq.xkbywya03x.wasm"
     },
     {
       "hash": "sha256-9XPA2dRG/sVE0RKkSAsRilLVwLjmy6XQqg2wmvSl3hQ=",
@@ -2802,15 +2814,15 @@ self.assetsManifest = {
       "url": "_framework/System.icunsnzrqy.wasm"
     },
     {
-      "hash": "sha256-1V3Bs22X2eVHjHRj2hjdVZEnlbe+UXnjsZ7XyvOwOEg=",
-      "url": "_framework/Wizard101.Blazor.WebAssembly.9jmncoiieo.wasm"
+      "hash": "sha256-7dUqiaeOor0ofQ6vChdi0MCF7MopzS1ThF1PJA8K90w=",
+      "url": "_framework/Wizard101.Blazor.WebAssembly.xrwoa056o0.wasm"
     },
     {
-      "hash": "sha256-y6z35d7cN3F79avp1M7WAIpP2d3Xw+xYiGeVeu6LPGs=",
-      "url": "_framework/Wizard101.Library.3qedh4ijqa.wasm"
+      "hash": "sha256-N0OuejxFX9Yt9n0vD8bSNAR9m0/eE6OUgR64UnYRNi4=",
+      "url": "_framework/Wizard101.Library.7gfcmlux0i.wasm"
     },
     {
-      "hash": "sha256-5WXN7spvNfxAVAEuNDQoTpWo0Kl8DdL7o8L37uQMPfE=",
+      "hash": "sha256-n5R6lp2rTam6VZp0MxOUiJD7FwwCO793ZKJd1CdDOUE=",
       "url": "_framework/blazor.boot.json"
     },
     {
