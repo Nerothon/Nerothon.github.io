@@ -2,7 +2,7 @@
 img[b-aae35bj40l]
 {
     width: 100%;
-    height: 100%;
+    /*height: 100%;*/
 }
 
 .abilityItem[b-aae35bj40l]
@@ -37,6 +37,11 @@ img[b-aae35bj40l]
     flex-direction: column;
     align-items: flex-start;
 }
+
+    .list > li[b-aae35bj40l]
+    {
+        text-align: left;
+    }
 /* /Components/FromToSlider.razor.rz.scp.css */
 .range[b-dlhs2bxz04]
 {
@@ -348,7 +353,6 @@ div span[b-4bhjtnqlhp]
 {
 }
 /* /Components/Tooltip.razor.rz.scp.css */
-
 /* Tooltip container */
 .tooltip[b-uncmwlhkc4]
 {
@@ -555,8 +559,16 @@ h3[b-kg0x9e45a9]
     grid-template-columns: repeat(3, minmax(0, max-content));
     margin: 15px 0 0 0;
     justify-content: space-between;*/
-    justify-content: space-evenly;
+/*    justify-content: space-evenly;*/
     margin: 15px 0 0 0;
+}
+
+.column[b-kg0x9e45a9]
+{
+    display: flex;
+    flex-direction: column;
+    /*align-items: center;*/
+    width: 350px;
 }
 
 .abilities[b-kg0x9e45a9]
@@ -570,7 +582,8 @@ h3[b-kg0x9e45a9]
 .ability[b-kg0x9e45a9]
 {
     display: grid;
-    grid-template-columns: 40px auto;
+    grid-template-columns: 1fr 9fr;
+    /*grid-template-rows: 36px;*/
     align-items: center;
     /*width: 330px;
     height: 40px;*/
@@ -583,11 +596,14 @@ h3[b-kg0x9e45a9]
 
     .ability button[b-kg0x9e45a9]
     {
-        /*display: grid;*/
+        
+        display: grid;
         /* grid-template-columns: max-content; */
-        width: 300px;
-        height: 3em;
+        /*width: 270px;*/
+        min-height: 30px;
         padding: 0;
+        margin: 0;
+        border-width: 1px;
         /*justify-items: stretch;
         align-items: center;
         justify-content: center;
@@ -596,7 +612,7 @@ h3[b-kg0x9e45a9]
 
 .ordered[b-kg0x9e45a9]
 {
-    grid-template-columns: 20px 40px auto;
+    grid-template-columns: 1fr 1fr 8fr;
 }
 /* /Pages/Categories/Tools/Pets/PetReturnChanceCalculator.razor.rz.scp.css */
 select[b-037yjzoic7], input[b-037yjzoic7]

@@ -170,6 +170,7 @@ button
     font-size: 0.9em;
     background: var(--color-accent-normal);
     padding: 1px 7px;
+    border: none;
 }
 
 .flex-row
@@ -194,6 +195,11 @@ button
     align-items: center;
 }
 
+.justify-content-center
+{
+    justify-content: center;
+}
+
 .wrap
 {
     white-space: pre-line;
@@ -212,7 +218,7 @@ input[type=checkbox], .checkbox
 
 .Accent
 {
-    --color-accent-normal: var(--color-accent-normal);
+/*    color: var(--color-accent-normal);*/
 }
 
 .Success
@@ -268,6 +274,11 @@ input[type=checkbox], .checkbox
 .icon
 {
     height: 1.5em;
+}
+
+.transparent
+{
+    background: transparent;
 }
 
 #blazor-error-ui {
