@@ -1,4 +1,4 @@
-/* Manifest version: WCVIQCTI */
+/* Manifest version: zQTvE3tk */
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
@@ -16,7 +16,7 @@ const dataCacheName = `${cacheNamePrefix}${self.dataManifest.version}`;
 //const offlineAssetsExclude = [ /^service-worker\.js$/ ];
 //https://github.com/jsakamoto/BlazorWasmPreRendering.Build/issues/45
 const offlineAssetsInclude = [/\.dll$/, /\.pdb$/, /\.wasm/, /^index\.html$/, /\.js$/, /\.css$/, /\.woff$/, /\.ttf$/ , /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
-const offlineAssetsExclude = [/^service-worker\.js$/, /\.json$/];
+const offlineAssetsExclude = [/^service-worker\.js$/, /^service-worker-data\.js$/, /\.json$/];
 
 async function onInstall(event) {
     console.info('Service worker: Install');
@@ -51,9 +51,9 @@ async function onFetch(event) {
         // For all navigation requests, try to serve index.html from cache
         const shouldServeIndexHtml = event.request.mode === 'navigate';
 
-        const request = shouldServeIndexHtml ? 'index.html' : event.request;
+        const request = shouldServeIndexHtml ? 'index.html' : event.request.url;
 
-        const selectedCacheName = request.url.endsWith(".json") ? dataCacheName : cacheName;
+        const selectedCacheName = request.endsWith(".json") ? dataCacheName : cacheName;
 
         const cache = await caches.open(selectedCacheName);
         cachedResponse = await cache.match(request);

@@ -1,19 +1,25 @@
 self.dataManifest = {
-  "version": "2505071409",
+  "version": "2506060700",
   "assets": [
     {"url": "Data/JSON/Ability.json"},
     {"url": "Data/JSON/AbilityAvailability.json"},
     {"url": "Data/JSON/AbilityPoolType.json"},
     {"url": "Data/JSON/AbilityRarity.json"},
+    {"url": "Data/JSON/Badge.json"},
     {"url": "Data/JSON/Creature.json"},
     {"url": "Data/JSON/CreatureClass.json"},
     {"url": "Data/JSON/CreatureType.json"},
     {"url": "Data/JSON/Currency.json"},
+    {"url": "Data/JSON/FirstName.json"},
+    {"url": "Data/JSON/Gender.json"},
     {"url": "Data/JSON/HatchingCost.json"},
     {"url": "Data/JSON/ItemCard.json"},
     {"url": "Data/JSON/Jewel.json"},
     {"url": "Data/JSON/JewelSocket.json"},
     {"url": "Data/JSON/JewelType.json"},
+    {"url": "Data/JSON/KeyboardShortcut.json"},
+    {"url": "Data/JSON/LastNamePrefix.json"},
+    {"url": "Data/JSON/LastNameSufix.json"},
     {"url": "Data/JSON/Location.json"},
     {"url": "Data/JSON/NPC.json"},
     {"url": "Data/JSON/Pet.json"},
@@ -25,6 +31,7 @@ self.dataManifest = {
     {"url": "Data/JSON/Seed.json"},
     {"url": "Data/JSON/Snack.json"},
     {"url": "Data/JSON/SnackClass.json"},
-    {"url": "Data/JSON/SpellType.json"}
+    {"url": "Data/JSON/SpellType.json"},
+    {"url": "Data/JSON/World.json"}
   ]
 };

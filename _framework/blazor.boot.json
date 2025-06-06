@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Wizard101.Blazor.WebAssembly",
   "resources": {
-    "hash": "sha256-iUrf7/ExsjhbcQ5m35EI5I/0UHvXxQJ/pBg40hz/NqM=",
+    "hash": "sha256-Rm7fFqPNGWB5YMtPsw3uQJ9e36kCJ9dJV1aInNBgzqk=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "Dapper.hj0ug1b3le.wasm": "Dapper.wasm",
@@ -104,7 +104,7 @@
       "System.Xml.XDocument.2zthwj8j9g.wasm": "System.Xml.XDocument.wasm",
       "System.Xml.XmlSerializer.x1fy924me1.wasm": "System.Xml.XmlSerializer.wasm",
       "System.Xml.XPath.7rwonv9ngp.wasm": "System.Xml.XPath.wasm",
-      "Wizard101.Blazor.WebAssembly.u9j4p0uvd3.wasm": "Wizard101.Blazor.WebAssembly.wasm",
+      "Wizard101.Blazor.WebAssembly.f6oh8hpln6.wasm": "Wizard101.Blazor.WebAssembly.wasm",
       "Wizard101.Discord.Library.0ppjhsuggp.wasm": "Wizard101.Discord.Library.wasm",
       "Wizard101.Library.q4ccer4nfj.wasm": "Wizard101.Library.wasm",
       "dotnet.native.3d622isiuj.js": "dotnet.native.js",
@@ -233,7 +233,7 @@
       "System.Xml.XDocument.2zthwj8j9g.wasm": "sha256-/j2bxCGujwFZoav+qfLhqiKV/cxU2OzPXOehq/vdoB4=",
       "System.Xml.XmlSerializer.x1fy924me1.wasm": "sha256-S85jw6X/adCd2ojI2Thl1ya0Z/hq0VAJZdfjDC70O4E=",
       "System.Xml.XPath.7rwonv9ngp.wasm": "sha256-LaHT8Aa5p//jhUp5yBI/3uW5ZPRfV6VJRLbBoVzxVtg=",
-      "Wizard101.Blazor.WebAssembly.u9j4p0uvd3.wasm": "sha256-kpN6LyGuZiMBNGWdj4wREE+T8no4rxq1j9u1RckkdsQ=",
+      "Wizard101.Blazor.WebAssembly.f6oh8hpln6.wasm": "sha256-p1DhzBLM6k0/9zgGTnWYtk0dF39hjOY0+kvkYiDsLA0=",
       "Wizard101.Discord.Library.0ppjhsuggp.wasm": "sha256-1ImXk4TTDcIVjW+rnDehpqpnVMckZdLKA3L7R44uwIM=",
       "Wizard101.Library.q4ccer4nfj.wasm": "sha256-auJtTJaoYlpQ7IKy8d1mdltSgE6tQbuzYZZypQC5Kz4="
     },
