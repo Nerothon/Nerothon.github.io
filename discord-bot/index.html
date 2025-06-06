@@ -1,0 +1,134 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta property="og:site_name" content="Wizard's Companion"/>
+    <link rel="icon" href="spellbook.png"/>
+    <base href="/"/>
+    <base target="_blank"/>
+
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, target-densitydpi=device-dpi"/>
+    <meta charset="utf-8"/>
+    <meta name="language" content="EN"/>
+    <meta name="author" content="Nerothon"/>
+    
+    <meta name="google-site-verification" content="KSWdcnkNSNYdjqEMelbOxJt-aZEbfPY4Sc0eAmICeuM"/>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp" rel="stylesheet"/>
+
+    <link href="css/app.css" rel="stylesheet"/>
+    <link href="manifest.json" rel="manifest"/>
+
+    <!-- If you add any scoped CSS files, uncomment the following to load them -->
+    <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
+
+<!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
+<title>Discord Bot - Wizard&#x27;s Companion</title><meta property="og:title" content="Discord Bot - Wizard&#x27;s Companion" />
+    <meta property="og:url" content="" />
+    <meta property="og:type" content="article" />
+
+    <meta name="date" content="" />
+    <meta name="theme-color" content="#ffff00" />
+
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+
+    <meta name="keywords" content="" />
+    <meta property="article:tag" content="" />
+
+    <meta name="image" content="" />
+    <meta property="og:image" content="" />
+    <meta name="twitter:card" content="summary_large_image">
+<!-- %%-PRERENDERING-HEADOUTLET-END-%% -->
+</head>
+
+<body>
+    <div id="app">
+        <div id="app">
+            <div id="loading-container">
+                <!--<svg class="loading-progress">
+                    <circle r="40%" cx="50%" cy="50%" />
+                    <circle r="40%" cx="50%" cy="50%" />
+                </svg>-->
+                <h1 id="loading-text">Loading... </h1>
+                <div class="loading-progress-text"></div>
+                <div class="linear-progress"></div>
+                <h2>First load might take a while.</h2>
+                <h2>All future loads should be much faster as most resources will get cached on your device.</h2>
+            </div>
+        </div>
+    
+<!-- %%-PRERENDERING-BEGIN-%% -->
+<div style="opacity: 0; position: fixed; z-index: -1; top: 0; left: 0; bottom: 0; right: 0;">
+    
+
+
+
+<header><h1><a href="/">Wizard's Companion</a></h1></header>
+<main><h2>Discord Bot</h2>
+<a href="https://discord.com/oauth2/authorize?client_id=1354341148575137822">Click here</a> to install Wizard's Companion Discord bot for your Discord account or server.
+
+The bot implements tools and database from this website but now you can use them straight from Discord.
+List of commands:
+<ul><li>
+            /sheets date - Search the &quot;Wizard101 Sales, Events &amp; Dates of Interest Tracker&quot; for latest entry.
+            <ul><li>poi = (Optional)  Name of the &quot;Point of Interest&quot;.</li><li>oldest = (Optional)  Set to True if you want to ge the oldest instead of newest. Default: False</li></ul></li><li>
+            /sheets dates - List all entries of the selected Point of Interest.
+            <ul><li>poi = (Required)  Name of the &quot;Point of Interest&quot;.</li><li>limit = (Optional)  Limit number of results. Default: 25 Minimum: 1 Maximum: 80</li><li>offset = (Optional)  Offset. Default: 0 Minimum: 0</li><li>order-by = (Optional)  [WIP] Name of property to order by. Default: Start Date</li><li>order-direction = (Optional)  [WIP] Order by direction. Default: Descending</li></ul></li><li>
+            /sheets add-date - Add a new date of a sale or an event.
+            <ul><li>poi = (Required)  Name of the &quot;Point of Interest&quot;.</li><li>type = (Required)  Name of the &quot;Type&quot; of the &quot;Point of Interest&quot;.</li><li>start-date = (Required)  Start Date.  Format: YYYY-MM-DD  Example: 2025-06-30</li><li>end-date = (Optional)  End Date.  Format: YYYY-MM-DD  Example: 2025-06-30  Default: empty</li><li>credit = (Optional)  Credit. Default: Your Discord Username.</li><li>notes = (Optional)  Notes.  Default: -</li></ul></li><li>
+            /ravenwood news - Embed latest Ravenwood News article.
+            <ul><li>full = (Optional)  Set to True if you want the full version. Default: False</li><li>offset = (Optional)  Offset. Default: 0</li></ul></li><li>
+            /tools deckathalon schedule - Get schedule of all Deckathalons happening in chosen year.
+            <ul><li>year = (Optional)  Year. Default: Current year.</li></ul></li><li>
+            /tools deckathalon next - Get dates and School of next upcomming Deckathalon event.
+            <ul><li>school = (Optional)  School.</li></ul></li><li>
+            /tools pets return-chance - Calculate return chance of 2 pets.
+            <ul><li>left-pet = (Required)  Name of the pet on the LEFT side of the hatching screen.</li><li>right-pet = (Required)  Name of the pet on the RIGHT side of the hatching screen.</li></ul></li><li>
+            /tools pets hatching-cost - Calculate hatching cost of 2 pets.
+            <ul><li>level-1 = (Required)  Pet level of first parent.</li><li>pedigree-1 = (Required)  Total pedigree of the first parent. (The number in the brackets near the DNA symbol)</li><li>kiosk = (Optional)  True if hatching through kiosk, otherwise False. Default: False</li><li>level-2 = (Optional)  Pet level of the second parent. Default: Asssumes &quot;level-1&quot; is the highest.</li><li>pedigree-2 = (Optional)  Total pedigree of the second parent. Default: Asssumes &quot;pedigree-1&quot; is the highest.</li></ul></li><li>
+            /tools pets ability-prioritizer - Work in progress.
+            <ul><li>a1 = (Required)  Name of the Pet Ability #1.</li><li>a2 = (Required)  Name of the Pet Ability #2.</li><li>a3 = (Optional)  Name of the Pet Ability #3.</li><li>a4 = (Optional)  Name of the Pet Ability #4.</li><li>a5 = (Optional)  Name of the Pet Ability #5.</li><li>a6 = (Optional)  Name of the Pet Ability #6.</li><li>a7 = (Optional)  Name of the Pet Ability #7.</li><li>a8 = (Optional)  Name of the Pet Ability #8.</li><li>a9 = (Optional)  Name of the Pet Ability #9.</li><li>a10 = (Optional)  Name of the Pet Ability #10.</li><li>a11 = (Optional)  Name of the Pet Ability #11.</li><li>a12 = (Optional)  Name of the Pet Ability #12.</li><li>a13 = (Optional)  Name of the Pet Ability #13.</li><li>a14 = (Optional)  Name of the Pet Ability #14.</li><li>a15 = (Optional)  Name of the Pet Ability #15.</li><li>rarity = (Optional)  Ability rarity.</li><li>include-links = (Optional)  Set to False if you don&#x27;t want to include links in the embed (for example because of server rules).</li></ul></li><li>
+            /database pet - Embed all info about a Pet.
+            <ul><li>type = (Required)  Name of the pet type/body.</li></ul></li><li>
+            /database pets - Query the Pet database.
+            <ul><li>type = (Optional)  Name of the pet Type/Body.</li><li>cards = (Optional)  Name of the pet&#x27;s Cards.</li><li>egg = (Optional)  Name of the pet Egg.</li><li>skin = (Optional)  Name of the pet Skin.</li><li>school = (Optional)  Name of the Pet&#x27;s School.</li><li>is-school-only = (Optional)  Is School Only?</li><li>school-only = (Optional)  Name of the School.</li><li>is-weaving-school-only = (Optional)  Is Weaving School Only?</li><li>weaving-school-only = (Optional)  Name of the Weaving School.</li><li>wow-factor = (Optional)  Wow Factor of the pet.</li><li>is-exclusive = (Optional)  Is Exclusive?</li><li>is-unhatchable = (Optional)  Is Unhatchable?</li><li>is-kioskable = (Optional)  Is Kioskable?</li><li>is-transferable = (Optional)  Is Transferable?</li><li>is-hybrid = (Optional)  Is Hybrid?</li><li>order-by = (Optional)  Name of the property/parameter to order results by.</li><li>order-by-direction = (Optional)  Direction to order results by.</li><li>limit = (Optional)  Number of results to return.</li><li>offset = (Optional)  Number of results to offset the start of results.</li><li>include-links = (Optional)  Set to False if you don&#x27;t want to include links in the embed (for example because of server rules).</li></ul></li><li>
+            /database quest - Embed all info about a Quest.
+            <ul><li>name = (Required)  Name of the Quest.</li></ul></li><li>
+            /database quests - Query the Quest database.
+            <ul><li>name = (Required)  Name of the Quest.</li><li>order-by = (Optional)  Name of the property/parameter to order results by.</li><li>order-by-direction = (Optional)  Direction to order results by.</li><li>limit = (Optional)  Number of results to return.</li><li>offset = (Optional)  Number of results to offset the start of results.</li></ul></li><li>
+            /database snack - Embed all info about a Snack.
+            <ul><li>name = (Required)  Name of the Snack.</li></ul></li><li>
+            /database snacks - Query the Snack database.
+            <ul><li>name = (Optional)  Name of the Snack.</li><li>rank = (Optional)  Rank of the Snack.</li><li>school = (Optional)  School of the Snack.</li><li>class = (Optional)  Class of the Snack.</li><li>statistic = (Optional)  Name of a pet statistic that the Snack gives.</li><li>order-by = (Optional)  Name of the property/parameter to order results by.</li><li>order-by-direction = (Optional)  Direction to order results by.</li><li>limit = (Optional)  Number of results to return.</li><li>offset = (Optional)  Number of results to offset the start of results.</li><li>include-links = (Optional)  Set to False if you don&#x27;t want to include links in the embed (for example because of server rules).</li></ul></li></ul></main>
+        <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
+
+</div>
+<!-- %%-PRERENDERING-END-%% -->
+</div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="sw-registrator.js"></script>
+    <!--<script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>-->
+    <!--<environment names="Development">
+        <script src="_framework/aspnetcore-browser-refresh.js"></script>
+    </environment>-->
+
+    <script>
+        /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
+        const origScrollTo = window.scrollTo;
+        window.scrollTo = (x, y) => {
+            const shouldSkip = true; // TODO: Insert your own logic here
+            if (x === 0 && y === 0 && shouldSkip)
+                return;
+            return origScrollTo.apply(this, arguments);
+        };
+    </script>
+
+    <!--https://www.syncfusion.com/faq/blazor/general/how-do-i-generate-and-save-a-file-client-side-using-blazor-->
+    <script src="saveFile.js"></script>
+
+
+
+</body></html>

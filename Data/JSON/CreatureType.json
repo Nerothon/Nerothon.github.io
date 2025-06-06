@@ -1,1 +1,1 @@
-[{"$id":"1","Name":"Minion","Id":1},{"$id":"2","Name":"Elite","Id":2},{"$id":"3","Name":"Boss","Id":3}]
+{"$id":"1","$values":[{"$id":"2","Name":"Minion","Id":1},{"$id":"3","Name":"Elite","Id":2},{"$id":"4","Name":"Boss","Id":3}]}

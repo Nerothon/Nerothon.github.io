@@ -146,6 +146,12 @@ input[type="range"][b-dlhs2bxz04]
     height: 4px;
     background: var(--accent-color-normal);
 }
+/* /Components/Icon.razor.rz.scp.css */
+.icon[b-csu5abv9v1]
+{
+    height: 1.5em;
+    vertical-align: bottom;
+}
 /* /Components/ItemDetails.razor.rz.scp.css */
 img[b-dfyquw6to6]
 {
@@ -272,11 +278,35 @@ div[b-4apox4k35f]
     border-image: url("Data/Images/Icon/ItemBorder.png") 19 round;
     background: url(Data/Images/Icon/ItemPreviewBackground.png);
 }
+/* /Components/Key.razor.rz.scp.css */
+.key[b-llbac7b0v3]
+{
+    position: relative;
+    text-align: center;
+    font-family: 'Wizard Fancy';
+    color: black;
+    font-size: calc(var(--height) * 0.375);
+}
+
+img[b-llbac7b0v3]
+{
+    /*position: absolute;*/
+    height: var(--height);
+}
+
+span[b-llbac7b0v3]
+{
+    position: absolute;
+    top: 27%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 /* /Components/MaterialSymbol.razor.rz.scp.css */
 .material-symbols-sharp[b-e4j66vqyph]
 {
+    --size: 1.5em;
     color: var(--color-accent-normal);
-    font-size: 1.5em;
+    font-size: var(--size);
 }
 /* /Components/Overlay.razor.rz.scp.css */
 #overlay[b-ppa89y19dd]
@@ -287,11 +317,14 @@ div[b-4apox4k35f]
     height: 100%; /* Full height (cover the whole page) */
     top: 0;
     left: 0;
-    right: 0;
-    bottom: 0;
     z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
-
+    border-image: url("Data/Images/Icon/BorderUnequiped.png") 19 round;
 }
+
+    #overlay.visible[b-ppa89y19dd]
+    {
+        display: grid;
+    }
 
 #background[b-ppa89y19dd]
 {
@@ -306,22 +339,34 @@ div[b-4apox4k35f]
 
 #content[b-ppa89y19dd]
 {
-    margin: 50px;
+    position: relative;
+    border: 10px solid;
+    padding: 10px;
+    border-image: url("Data/Images/Icon/BorderUnequiped.png") 19 round;
+
+    justify-self: center;
+    align-self: center;
+    max-width: 90vw;
+    max-height: 90vh;
+    margin: 5vh 5vw;
+    background-color: rgba(0,0,0,0.75);
+
+    overflow-y: auto;
 }
 /* /Components/PetAbility.razor.rz.scp.css */
-div[b-4bhjtnqlhp]
+/*div
 {
     position: relative;
 }
 
-div img[b-4bhjtnqlhp]
+div img
 {
     position: absolute;
     top: 0;
     left: 0;
 }
 
-div span[b-4bhjtnqlhp]
+div span
 {
     position: absolute;
     top: 0;
@@ -329,6 +374,172 @@ div span[b-4bhjtnqlhp]
     text-align: center;
     font-family: 'Wizard Fancy';
     font-size: 24px;
+}*/
+
+.ability[b-4bhjtnqlhp]
+{
+    --height: calc(60px * var(--scale));
+    --width: calc(460px * var(--scale));
+
+    position: relative;
+    /*    display: grid;*/
+    height: var(--height);
+    width: var(--width);
+    margin-left: calc(25px * var(--scale));
+}
+    .ability img[b-4bhjtnqlhp]
+    {
+        position: absolute;
+        user-select: none;
+    }
+.ability-button[b-4bhjtnqlhp]
+{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    /*display: grid;
+    grid-template-columns: auto calc(60px * var(--scale));*/
+
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-image: url(Data/Images/Photoshop/TalentManifested.png);
+}
+
+.derby-power .ability-button[b-4bhjtnqlhp]
+{
+    background-image: url(Data/Images/Photoshop/DerbyPowerManifested.png);
+}
+
+.derby-power.unmanifested.hidden .ability-button[b-4bhjtnqlhp]
+{
+    background-image: url(Data/Images/Photoshop/DerbyPowerNotManifested.png)
+}
+
+.talent.unmanifested.hidden .ability-button[b-4bhjtnqlhp]
+{
+    background-image: url(Data/Images/Photoshop/TalentNotManifested.png)
+}
+
+.unmanifested:not(.hidden)[b-4bhjtnqlhp]
+{
+    filter: grayscale(1);
+}
+
+.ability-button .text[b-4bhjtnqlhp]
+{
+    top: 0;
+    left: 0;
+    width: 100%;
+
+    margin-right: var(--height);
+    text-align: center;
+    font-family: 'Wizard Fancy';
+    font-size: calc(22px * var(--scale));
+    color: var(--color-accent-normal);
+    align-self: center;
+}
+
+.hidden:not(.manifested) .text[b-4bhjtnqlhp]
+{
+    color: black;
+}
+
+
+.locked:not(.hidden) .text[b-4bhjtnqlhp]
+{
+    opacity: 50%;
+}
+
+
+.iconContainer[b-4bhjtnqlhp]
+{
+    display: block;
+    position: absolute;
+    right: 0;
+    top: calc(1px * var(--scale));
+    height: 100%;
+    width: var(--height);
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+    .iconContainer > .icon[b-4bhjtnqlhp]
+    {
+        position: absolute;
+        top: calc(5px * var(--scale));
+        left: calc(5px * var(--scale));
+        height: calc(50px * var(--scale));
+        z-index: 1;
+    }
+
+    .iconContainer > .ring[b-4bhjtnqlhp]
+    {
+        /*top: calc(-5px * var(--scale));*/
+        position: absolute;
+        top: 0;
+        right: 0;
+        height: 100%;
+        width: 100%;
+        z-index: 2;
+    }
+
+.rarity[b-4bhjtnqlhp]
+{
+    left: calc(var(--x) * var(--scale));
+    bottom: calc(var(--y) * var(--scale));
+    height: calc(10px * var(--scale));
+    z-index: 3;
+}
+
+
+.iconContainer.lock[b-4bhjtnqlhp]
+{
+    top: calc(5px * var(--scale));
+    left: calc(-25px * var(--scale));
+    height: calc(50px * var(--scale));
+    width: calc(50px * var(--scale));
+    transition: all linear 0.2s;
+}
+
+    .iconContainer.lock .icon[b-4bhjtnqlhp]
+    {
+        height: calc(40px * var(--scale));
+        width: calc(40px * var(--scale));
+        top: calc(5px * var(--scale));
+        left: calc(5px * var(--scale));
+    }
+
+    .iconContainer.lock .ring[b-4bhjtnqlhp]
+    {
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+    }
+
+    .lock:hover[b-4bhjtnqlhp]
+    {
+        opacity: 50%;
+    }
+
+.unlocked .lock[b-4bhjtnqlhp]
+{
+    opacity: 50%;
+}
+
+    .unlocked .lock:hover[b-4bhjtnqlhp]
+    {
+        opacity: 100%;
+    }
+
+.ring[b-4bhjtnqlhp]
+{
+    pointer-events: none;
+    height: calc(50px * var(--scale));
+    width: calc(50px * var(--scale));
 }
 /* /Components/TalentCalculatorResult.razor.rz.scp.css */
 .header[b-5kfoitmmnu]
@@ -383,18 +594,24 @@ div span[b-4bhjtnqlhp]
         width: 270px;
 /*        margin: 10px;*/
         margin-left: -135px;
+
+        transition: 0s visibility;
     }
 
     /* Show the tooltip content when you mouse over the tooltip container */
-    .keep-open:hover .tooltip-content[b-uncmwlhkc4]
-    {
-        visibility: visible;
-    }
+.keep-open:hover .tooltip-content[b-uncmwlhkc4]
+{
+    visibility: visible;
+    transition-delay: 0.5s;
+    transition-duration: 1s;
+}
 
-    .content:hover + .tooltip-content[b-uncmwlhkc4]
-    {
-        visibility: visible;
-    }
+.content:hover + .tooltip-content[b-uncmwlhkc4]
+{
+    visibility: visible;
+    transition-delay: 0.5s;
+    transition-duration: 1s;
+}
 
     /* Tooltip arrow */
     .tooltip .tooltip-content[b-uncmwlhkc4]::after
@@ -425,6 +642,22 @@ div span[b-4bhjtnqlhp]
     top: 0;
     padding: 1rem 1.5rem;
     width: 100%;
+}
+/* /Pages/Categories/Accounts/Account.razor.rz.scp.css */
+.characters[b-zsvdnzdlkv]
+{
+    display: grid;
+    grid-template-columns: repeat(8, auto);
+}
+
+.column-span-2[b-zsvdnzdlkv]
+{
+    grid-column: span 2;
+}
+
+.currentEnergy[b-zsvdnzdlkv]
+{
+    color: hsl(calc(120 - var(--energy-percentage) * 120) 100% 50%);
 }
 /* /Pages/Categories/Database/Creatures/Creatures.razor.rz.scp.css */
 .creature[b-3h0memyx8i]
@@ -540,12 +773,109 @@ div span[b-4bhjtnqlhp]
     width: auto;
     height: 100%;
 }
+/* /Pages/Categories/Database/Quests/Quests.razor.rz.scp.css */
+.quests[b-n1wy182g8s]
+{
+    display: grid;
+    grid-template-columns: 290px 50px 170px 100px 80px 80px 50px 50px auto;
+}
+
+@media only screen and (max-width: 1000px)
+{
+    .quests[b-n1wy182g8s]
+    {
+        grid-template-columns: repeat(9, auto);
+    }
+}
+
+    .quests span[b-n1wy182g8s]
+    {
+        /*height: 100%;
+        width: 100%;*/
+        border: 1px solid #4f4f4f;
+        /*align-items: center;*/
+    }
+
+.headers[b-n1wy182g8s], .quest[b-n1wy182g8s]
+{
+    display: grid;
+    /*grid-template-columns: 260px 50px 170px 120px 80px 80px 50px 50px 50px;*/
+    grid-template-columns: subgrid;
+    width: max-content;
+/*    align-items: center;*/
+}
+    .headers[b-n1wy182g8s]
+    {
+        position: sticky;
+        top: 0;
+    }
+
+    .headers label[b-n1wy182g8s]
+    {
+        display: block;
+        background-color: var(--color-accent-normal);
+        color: var(--color-background-normal);
+        margin: 0;
+    }
+
+    .quest:nth-of-type(even)[b-n1wy182g8s]
+    {
+        background-color: #232323;
+    }
+
+    .quest:nth-of-type(odd)[b-n1wy182g8s]
+    {
+        background-color: #3C3C3C;
+    }
+
+.quest:hover[b-n1wy182g8s]
+{
+    background-color: rgba(255, 255, 168, 0.30);
+}
+
+[b-n1wy182g8s] div, [b-n1wy182g8s] div
+{
+    grid-column: 1 / -1;
+}
+
+/* /Pages/Categories/Guides/KeyboardShortcuts.razor.rz.scp.css */
 /* /Pages/Categories/Guides/Pets/Pedigree.razor.rz.scp.css */
 .abilities[b-74n660n5yd]
 {
+    font-size: 0.8em;
     display: grid;
-    grid-template-columns: 100px 20px 20px;
+    grid-template-columns: 30px auto 70px auto;
+    justify-items: center;
+    align-items: center;
 }
+
+.total[b-74n660n5yd]
+{
+    text-align: center;
+    grid-column: 1 / span 3;
+    width: 100%;
+}
+
+.buttons[b-74n660n5yd]
+{
+    justify-self: center;
+    margin-bottom: 20px;
+}
+
+label[b-74n660n5yd]
+{
+    margin: 0;
+}
+
+button[b-74n660n5yd]
+{
+    border: 2px solid var(--color-accent-normal);
+}
+
+    button + button[b-74n660n5yd]
+    {
+        margin-left: 10px;
+    }
 /* /Pages/Categories/Tools/Pets/AbilityPrioritizer.razor.rz.scp.css */
 h3[b-kg0x9e45a9]
 {
@@ -567,8 +897,9 @@ h3[b-kg0x9e45a9]
 {
     display: flex;
     flex-direction: column;
+    margin: 10px;
     /*align-items: center;*/
-    width: 350px;
+    /*    width: 350px;*/
 }
 
 .abilities[b-kg0x9e45a9]
@@ -577,12 +908,13 @@ h3[b-kg0x9e45a9]
     grid-template-columns: 50px auto;*/
     height: 600px;
     overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .ability[b-kg0x9e45a9]
 {
     display: grid;
-    grid-template-columns: 1fr 9fr;
+    grid-template-columns: 35px auto;
     /*grid-template-rows: 36px;*/
     align-items: center;
     /*width: 330px;
@@ -614,6 +946,78 @@ h3[b-kg0x9e45a9]
 {
     grid-template-columns: 1fr 1fr 8fr;
 }
+
+#testContainer[b-kg0x9e45a9]
+{
+    height: 20px;
+}
+/* /Pages/Categories/Tools/Pets/HatchingCostCalculator.razor.rz.scp.css */
+.switch[b-7tgiar6wao]
+{
+    --switch-width: 3em;
+    --switch-height: 1.5em;
+    --slider-width: calc(var(--switch-height) * 0.8);
+    --slider-height: calc(var(--switch-height) * 0.8);
+
+    position: relative;
+    display: inline-block;
+    height: var(--switch-height);
+    width: var(--switch-width);
+
+    margin: 0 10px;
+}
+
+    .switch input[b-7tgiar6wao]
+    {
+        display: none;
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+
+.slider[b-7tgiar6wao]
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    background-color: #ccc;
+    transition: .4s;
+}
+
+    .slider[b-7tgiar6wao]:before
+    {
+        content: "";
+        position: absolute;
+        height: var(--slider-height);
+        width: var(--slider-width);
+        bottom: calc((var(--switch-height) - var(--slider-height)) / 2);
+        left: calc(var(--slider-width) * 0.2);
+        background-color: #434343;
+        transition: .4s;
+    }
+
+input:checked + .slider[b-7tgiar6wao]
+{
+    background-color: var(--color-accent-normal);
+}
+
+    input:checked + .slider[b-7tgiar6wao]:before
+    {
+        transform: translateX(calc(var(--switch-width) * 0.8 - var(--slider-width)));
+    }
+
+.slider.round[b-7tgiar6wao]
+{
+    border-radius: var(--switch-height);
+}
+
+    .slider.round[b-7tgiar6wao]:before
+    {
+        border-radius: 50%;
+    }
 /* /Pages/Categories/Tools/Pets/PetReturnChanceCalculator.razor.rz.scp.css */
 select[b-037yjzoic7], input[b-037yjzoic7]
 {
@@ -621,11 +1025,13 @@ select[b-037yjzoic7], input[b-037yjzoic7]
     grid-row: 1;
     max-width: 140px;
 }
-.flex-columb[b-037yjzoic7]
-{
-    /*height: 220px;*/
-}
 
+
+object[b-037yjzoic7], img[b-037yjzoic7]
+{
+    max-width: 140px;
+    align-self: center;
+}
 
 #calculators[b-037yjzoic7]
 {
@@ -637,34 +1043,17 @@ select[b-037yjzoic7], input[b-037yjzoic7]
 
 .calculator[b-037yjzoic7]
 {
-    min-width: 340px;
+    max-width: 340px;
     justify-content: space-around;
     margin-bottom: 20px;
     padding: 8px;
     border: 1px solid var(--color-accent-normal);
 }
 
-
-
-.wow[b-037yjzoic7]
+.wow[b-037yjzoic7], h3[b-037yjzoic7]
 {
     text-align: center;
 }
-
-h3[b-037yjzoic7]{
-    align-self: center;
-}
-
-.column[b-037yjzoic7]
-{
-/*    width: 50%;*/
-}
-
-    .column + .column[b-037yjzoic7]
-    {
-        margin-left: 10px;
-    }
-
 
 .dropdown[b-037yjzoic7]
 {

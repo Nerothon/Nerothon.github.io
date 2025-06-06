@@ -1,1 +1,1 @@
-[{"$id":"1","Pedigree":1,"Name":"Common","Id":1},{"$id":"2","Pedigree":2,"Name":"Uncommon","Id":2},{"$id":"3","Pedigree":3,"Name":"Rare","Id":3},{"$id":"4","Pedigree":4,"Name":"Ultra-Rare","Id":4},{"$id":"5","Pedigree":5,"Name":"Epic","Id":5}]
+{"$id":"1","$values":[{"$id":"2","Pedigree":1,"Name":"Common","Id":1},{"$id":"3","Pedigree":2,"Name":"Uncommon","Id":2},{"$id":"4","Pedigree":3,"Name":"Rare","Id":3},{"$id":"5","Pedigree":4,"Name":"Ultra-Rare","Id":4},{"$id":"6","Pedigree":5,"Name":"Epic","Id":5}]}

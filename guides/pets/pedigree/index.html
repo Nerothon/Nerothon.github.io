@@ -1,0 +1,306 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta property="og:site_name" content="Wizard's Companion"/>
+    <link rel="icon" href="spellbook.png"/>
+    <base href="/"/>
+    <base target="_blank"/>
+
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, target-densitydpi=device-dpi"/>
+    <meta charset="utf-8"/>
+    <meta name="language" content="EN"/>
+    <meta name="author" content="Nerothon"/>
+    
+    <meta name="google-site-verification" content="KSWdcnkNSNYdjqEMelbOxJt-aZEbfPY4Sc0eAmICeuM"/>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp" rel="stylesheet"/>
+
+    <link href="css/app.css" rel="stylesheet"/>
+    <link href="manifest.json" rel="manifest"/>
+
+    <!-- If you add any scoped CSS files, uncomment the following to load them -->
+    <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
+
+<!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
+<title>Pedigree - Pets - Guides - Wizard&#x27;s Companion</title><meta property="og:title" content="Pedigree - Pets - Guides - Wizard&#x27;s Companion" />
+    <meta property="og:url" content="" />
+    <meta property="og:type" content="article" />
+
+    <meta name="date" content="" />
+    <meta name="theme-color" content="#ffff00" />
+
+    <meta name="description" content="In the simplest sense, pet&#x27;s pedigree is a number that represents the sum of rarities of pet&#x27;s abilities.&#xD;&#xA;There are two types of pedigrees:&#xD;&#xA;&#x2022; Manifested Pedigree - sum of rarities of all pet&#x27;s MANIFESTED abilities&#xD;&#xA;&#x2022; Total Pedigree - sum of rarities of ALL pet&#x27;s abilities&#xD;&#xA;&#xD;&#xA;There are 5 Ability Rarities, each worth:&#xD;&#xA;&#x2022; Common &#x2192; &#x2B;1 Pedigree&#xD;&#xA;&#x2022; Uncommon &#x2192; &#x2B;2 Pedigree&#xD;&#xA;&#x2022; Rare &#x2192; &#x2B;3 Pedigree&#xD;&#xA;&#x2022; Ultra-Rare &#x2192; &#x2B;4 Pedigree&#xD;&#xA;&#x2022; Epic &#x2192; &#x2B;5 Pedigree&#xD;&#xA;&#xD;&#xA;Example: 4(20)&#xD;&#xA;&#x2022; 4 - Manifested Pedigree - 2 Common Talents and 2 Common Derby Powers&#xD;&#xA;&#x2022; 20 - Total Pedigree - 10 Common Talents and 10 Common Derby Powers" />
+    <meta property="og:description" content="In the simplest sense, pet&#x27;s pedigree is a number that represents the sum of rarities of pet&#x27;s abilities.&#xD;&#xA;There are two types of pedigrees:&#xD;&#xA;&#x2022; Manifested Pedigree - sum of rarities of all pet&#x27;s MANIFESTED abilities&#xD;&#xA;&#x2022; Total Pedigree - sum of rarities of ALL pet&#x27;s abilities&#xD;&#xA;&#xD;&#xA;There are 5 Ability Rarities, each worth:&#xD;&#xA;&#x2022; Common &#x2192; &#x2B;1 Pedigree&#xD;&#xA;&#x2022; Uncommon &#x2192; &#x2B;2 Pedigree&#xD;&#xA;&#x2022; Rare &#x2192; &#x2B;3 Pedigree&#xD;&#xA;&#x2022; Ultra-Rare &#x2192; &#x2B;4 Pedigree&#xD;&#xA;&#x2022; Epic &#x2192; &#x2B;5 Pedigree&#xD;&#xA;&#xD;&#xA;Example: 4(20)&#xD;&#xA;&#x2022; 4 - Manifested Pedigree - 2 Common Talents and 2 Common Derby Powers&#xD;&#xA;&#x2022; 20 - Total Pedigree - 10 Common Talents and 10 Common Derby Powers" />
+
+    <meta name="keywords" content="wizard101, pets, guides, pedigree" />
+    <meta property="article:tag" content="wizard101, pets, guides, pedigree" />
+
+    <meta name="image" content="" />
+    <meta property="og:image" content="" />
+    <meta name="twitter:card" content="summary_large_image">
+<!-- %%-PRERENDERING-HEADOUTLET-END-%% -->
+</head>
+
+<body>
+    <div id="app">
+        <div id="app">
+            <div id="loading-container">
+                <!--<svg class="loading-progress">
+                    <circle r="40%" cx="50%" cy="50%" />
+                    <circle r="40%" cx="50%" cy="50%" />
+                </svg>-->
+                <h1 id="loading-text">Loading... </h1>
+                <div class="loading-progress-text"></div>
+                <div class="linear-progress"></div>
+                <h2>First load might take a while.</h2>
+                <h2>All future loads should be much faster as most resources will get cached on your device.</h2>
+            </div>
+        </div>
+    
+<!-- %%-PRERENDERING-BEGIN-%% -->
+<div style="opacity: 0; position: fixed; z-index: -1; top: 0; left: 0; bottom: 0; right: 0;">
+    
+
+
+
+<header><h1><a href="/">Wizard's Companion</a></h1></header>
+<main><h2>Pedigree</h2>
+<section b-74n660n5yd><h3 id="what" b-74n660n5yd>What is pedigree</h3>
+    <div class="section-content" b-74n660n5yd>
+        In the simplest sense, pet's pedigree is a number that represents the sum of rarities of pet's abilities. There are two types of pedigrees:
+        <ul b-74n660n5yd><li b-74n660n5yd>Manifested Pedigree - sum of rarities of manifested abilities</li>
+            <li b-74n660n5yd>Total Pedigree - sum of rarities of all abilities in the pools</li></ul>
+        <p b-74n660n5yd>
+            Pedigree is represented as: <img class="icon" src="Data/Images/Icon/(Icon) Pet Pedigree.png" alt="Pet Pedigree" title="Pet Pedigree" b-csu5abv9v1 /><code b-74n660n5yd>MANIFESTED PEDIGREE(TOTAL PEDIGREE)</code>
+            Example: Adult pet with <img class="icon" src="Data/Images/Icon/(Icon) Pet Pedigree.png" alt="Pet Pedigree" title="Pet Pedigree" b-csu5abv9v1 />4(20)
+        </p>
+        <ul b-74n660n5yd><li b-74n660n5yd>4 - Manifested Pedigree - 2 Common Talents and 2 Common Derby Powers</li>
+            <li b-74n660n5yd>20 - Total Pedigree - 10 Common Talents and 10 Common Derby Powers</li></ul></div></section>
+
+<section b-74n660n5yd><h3 id="rarities" b-74n660n5yd>Ability Rarities</h3>
+    <div class="section-content" b-74n660n5yd>
+        There are 5 Ability Rarities, each worth:
+        <ul b-74n660n5yd><li b-74n660n5yd><a href="/tools/pets/ability-prioritizer?&amp;rarity=Common" b-74n660n5yd>Common</a> = &#x2B;1 Pedigree</li>
+            <li b-74n660n5yd><a href="/tools/pets/ability-prioritizer?&amp;rarity=Uncommon" b-74n660n5yd>Uncommon</a> = &#x2B;2 Pedigree</li>
+            <li b-74n660n5yd><a href="/tools/pets/ability-prioritizer?&amp;rarity=Rare" b-74n660n5yd>Rare</a> = &#x2B;3 Pedigree</li>
+            <li b-74n660n5yd><a href="/tools/pets/ability-prioritizer?&amp;rarity=Ultra-Rare" b-74n660n5yd>Ultra-Rare</a> = &#x2B;4 Pedigree</li>
+            <li b-74n660n5yd><a href="/tools/pets/ability-prioritizer?&amp;rarity=Epic" b-74n660n5yd>Epic</a> = &#x2B;5 Pedigree</li></ul></div></section>
+
+<section b-74n660n5yd><h3 id="manifested-pedigree" b-74n660n5yd>Manifested Pedigree</h3>
+    <div class="section-content" b-74n660n5yd><p b-74n660n5yd>
+            Manifested Pedigree is a number that represents sum of rarities of all pet's <b b-74n660n5yd>MANIFESTED</b> abilities. So sum of all rarities of Talents and Derby Powers your pet gains upon level up.
+
+            Minimum (Baby pet): 0 * 0 + 0 * 0 = 0 + 0 = 0 (0 Common Talents and 0 Common Derby Powers)
+            Minimum (Mega pet): 5 * 1 + 5 * 1 = 5 + 5 = 10 (5 Common Talents and 5 Common Derby Powers)
+            Maximum: 5 * 5 + 5 * 5 = 25 + 25 = 50 (5 Epic Talents and 5 Epic Derby Powers)
+        </p></div></section>
+
+<section b-74n660n5yd><h3 id="total-pedigree" b-74n660n5yd>Total/Potential Pedigree</h3>
+    <div class="section-content" b-74n660n5yd><p b-74n660n5yd>
+            Total Pedigree is a number that represents sum of rarities of <b b-74n660n5yd>ALL</b> pet's abilities. So sum of all rarities of Talents that are in the pet's Talents pool and Derby Powers that are in the pet's Derby pool.
+
+            Minimum: 10 * 1 + 10 * 1 = 10 + 10 = 20 (10 Common Talents and 10 Common Derby Powers)
+            Maximum: 10 * 5 + 10 * 5 = 50 + 50 = 100 (10 Epic Talents and 10 Epic Derby Powers)
+        </p></div></section>
+
+<section b-74n660n5yd><h3 id="example" b-74n660n5yd>Interactive Example</h3>
+        <div class="section-content" b-74n660n5yd><div class="flex-row buttons" b-74n660n5yd>
+                    Functions:
+                    <button class="transparent" title="Randomize" b-74n660n5yd><span class="material-symbols-sharp Accent" style=" --size: 1.5em;" b-e4j66vqyph>casino</span></button>
+                    <button class="transparent" title="MIN" b-74n660n5yd>MIN</button>
+                    <button class="transparent" title="MAX" b-74n660n5yd>MAX</button></div>
+                <div class="flex-row flex-wrap justify-contant-space-evenly" b-74n660n5yd><div class="abilities" b-74n660n5yd><label b-74n660n5yd>Index</label>
+                        <label b-74n660n5yd>Talent</label>
+                        <label b-74n660n5yd>Rarity</label>
+                        <label b-74n660n5yd><img class="icon" src="Data/Images/Icon/(Icon) Pet Pedigree.png" alt="Pet Pedigree" title="Pet Pedigree" b-csu5abv9v1 /></label><div b-74n660n5yd>1</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability talent manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Talent #1</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Talent #1</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>2</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability talent manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Talent #2</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Talent #2</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>3</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability talent manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Talent #3</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Talent #3</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>4</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability talent manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Talent #4</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Talent #4</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>5</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability talent manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Talent #5</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Talent #5</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>6</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability talent manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Talent #6</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Talent #6</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>7</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability talent manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Talent #7</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Talent #7</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>8</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability talent manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Talent #8</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Talent #8</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>9</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability talent manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Talent #9</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Talent #9</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>10</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability talent manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Talent #10</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Talent #10</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><p class="total" b-74n660n5yd>
+                            Manifested Pedigree of Talent Pool:
+                            1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 = <b b-74n660n5yd>10</b>
+
+                            Total Pedigree of Talent Pool:
+                            1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 = <b b-74n660n5yd>10</b></p></div>
+
+                    <div class="abilities" b-74n660n5yd><label b-74n660n5yd>Index</label>
+                        <label b-74n660n5yd>Derby Power</label>
+                        <label b-74n660n5yd>Rarity</label>
+                        <label b-74n660n5yd><img class="icon" src="Data/Images/Icon/(Icon) Pet Pedigree.png" alt="Pet Pedigree" title="Pet Pedigree" b-csu5abv9v1 /></label><div b-74n660n5yd>1</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability derby-power manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Derby Power #1</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Derby Power #1</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>2</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability derby-power manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Derby Power #2</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Derby Power #2</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>3</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability derby-power manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Derby Power #3</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Derby Power #3</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>4</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability derby-power manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Derby Power #4</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Derby Power #4</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>5</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability derby-power manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Derby Power #5</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Derby Power #5</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>6</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability derby-power manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Derby Power #6</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Derby Power #6</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>7</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability derby-power manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Derby Power #7</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Derby Power #7</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>8</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability derby-power manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Derby Power #8</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Derby Power #8</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>9</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability derby-power manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Derby Power #9</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Derby Power #9</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><div b-74n660n5yd>10</div>
+                            <div class="tooltip keep-open" b-uncmwlhkc4><div class="ability derby-power manifested  " style="--scale: 0.5434782608695652;" b-4bhjtnqlhp><button class="transparent ability-button" b-4bhjtnqlhp><span class="text" b-4bhjtnqlhp>Derby Power #10</span></button><button class="iconContainer" __internal_stopPropagation_onclick __internal_preventDefault_onclick b-4bhjtnqlhp><img class="icon" src="Data/Images/Photoshop/PetAbilityIcons/.png" b-4bhjtnqlhp />
+                <img class="ring" src="Data/Images/Photoshop/Ring2.png" alt="Ring" title="Ring" b-4bhjtnqlhp /></button></div>
+    <div class="tooltip-content" b-uncmwlhkc4><div class="outer-container Unequiped" b-dfyquw6to6><div class="inner-container" b-dfyquw6to6><span class="header" b-dfyquw6to6>Derby Power #10</span>
+        <div class="content" b-dfyquw6to6> </div>
+        <div class="footer" b-dfyquw6to6></div></div></div></div></div>
+                            <div b-74n660n5yd>Common</div>
+                            <div b-74n660n5yd>&#x2B; 1</div><p class="total" b-74n660n5yd>
+                            Manifested Pedigree of Derby Power Pool:
+                            1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 = <b b-74n660n5yd>10</b>
+
+                            Total Pedigree of Derby Power Pool:
+                            1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 &#x2B; 1 = <b b-74n660n5yd>10</b></p></div></div><p class="total m-t-20" b-74n660n5yd>
+                    Manifested Pedigree: 10 &#x2B; 10 = <b b-74n660n5yd>20</b>
+                    Total Pedigree: 10 &#x2B; 10 = <b b-74n660n5yd>20</b>
+                    Pedigree: <img class="icon" src="Data/Images/Icon/(Icon) Pet Pedigree.png" alt="Pet Pedigree" title="Pet Pedigree" b-csu5abv9v1 /> 20 (20)
+            </p></div></section></main>
+        <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
+
+</div>
+<!-- %%-PRERENDERING-END-%% -->
+</div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="sw-registrator.js"></script>
+    <!--<script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>-->
+    <!--<environment names="Development">
+        <script src="_framework/aspnetcore-browser-refresh.js"></script>
+    </environment>-->
+
+    <script>
+        /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
+        const origScrollTo = window.scrollTo;
+        window.scrollTo = (x, y) => {
+            const shouldSkip = true; // TODO: Insert your own logic here
+            if (x === 0 && y === 0 && shouldSkip)
+                return;
+            return origScrollTo.apply(this, arguments);
+        };
+    </script>
+
+    <!--https://www.syncfusion.com/faq/blazor/general/how-do-i-generate-and-save-a-file-client-side-using-blazor-->
+    <script src="saveFile.js"></script>
+
+
+
+</body></html>

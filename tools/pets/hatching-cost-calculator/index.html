@@ -1,0 +1,152 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta property="og:site_name" content="Wizard's Companion"/>
+    <link rel="icon" href="spellbook.png"/>
+    <base href="/"/>
+    <base target="_blank"/>
+
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, target-densitydpi=device-dpi"/>
+    <meta charset="utf-8"/>
+    <meta name="language" content="EN"/>
+    <meta name="author" content="Nerothon"/>
+    
+    <meta name="google-site-verification" content="KSWdcnkNSNYdjqEMelbOxJt-aZEbfPY4Sc0eAmICeuM"/>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp" rel="stylesheet"/>
+
+    <link href="css/app.css" rel="stylesheet"/>
+    <link href="manifest.json" rel="manifest"/>
+
+    <!-- If you add any scoped CSS files, uncomment the following to load them -->
+    <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
+
+<!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
+<title>Hatching Cost Calculator - Wizard&#x27;s Companion</title><meta property="og:title" content="Hatching Cost Calculator - Wizard&#x27;s Companion" />
+    <meta property="og:url" content="" />
+    <meta property="og:type" content="article" />
+
+    <meta name="date" content="" />
+    <meta name="theme-color" content="#ffff00" />
+
+    <meta name="description" content="Hatching cost is determined by 3 factors:&#xD;&#xA;&#x2022; Pet&#x27;s level (higher level = higher cost, cheapest if Adult).&#xD;&#xA;&#x2022; Pet&#x27;s total pedigree (higher pedigree = higher cost, cheapest if under 61).&#xD;&#xA;&#x2022; Hatching in-person vs. via Hatchmaking Kiosk (Kiosk doubles the cost).&#xD;&#xA;Cheapest cost: 2 Adults, both with total pedigree under 61, in-person = 3750 Gold" />
+    <meta property="og:description" content="Hatching cost is determined by 3 factors:&#xD;&#xA;&#x2022; Pet&#x27;s level (higher level = higher cost, cheapest if Adult).&#xD;&#xA;&#x2022; Pet&#x27;s total pedigree (higher pedigree = higher cost, cheapest if under 61).&#xD;&#xA;&#x2022; Hatching in-person vs. via Hatchmaking Kiosk (Kiosk doubles the cost).&#xD;&#xA;Cheapest cost: 2 Adults, both with total pedigree under 61, in-person = 3750 Gold" />
+
+    <meta name="keywords" content="wizard101, pets, tools, hatching cost" />
+    <meta property="article:tag" content="wizard101, pets, tools, hatching cost" />
+
+    <meta name="image" content="" />
+    <meta property="og:image" content="" />
+    <meta name="twitter:card" content="summary_large_image">
+<!-- %%-PRERENDERING-HEADOUTLET-END-%% -->
+</head>
+
+<body>
+    <div id="app">
+        <div id="app">
+            <div id="loading-container">
+                <!--<svg class="loading-progress">
+                    <circle r="40%" cx="50%" cy="50%" />
+                    <circle r="40%" cx="50%" cy="50%" />
+                </svg>-->
+                <h1 id="loading-text">Loading... </h1>
+                <div class="loading-progress-text"></div>
+                <div class="linear-progress"></div>
+                <h2>First load might take a while.</h2>
+                <h2>All future loads should be much faster as most resources will get cached on your device.</h2>
+            </div>
+        </div>
+    
+<!-- %%-PRERENDERING-BEGIN-%% -->
+<div style="opacity: 0; position: fixed; z-index: -1; top: 0; left: 0; bottom: 0; right: 0;">
+    
+
+
+
+<header><h1><a href="/">Wizard's Companion</a></h1></header>
+<main><h2>Hatching Cost Calculator</h2>
+<div class="flex-column align-items-center" b-7tgiar6wao><div class="flex-row" b-7tgiar6wao><div class="flex-column align-items-center m-r-10" b-7tgiar6wao><h3 b-7tgiar6wao>Parent 1</h3>
+                <label b-7tgiar6wao>Level:</label>
+                <select b-7tgiar6wao><option value selected b-7tgiar6wao></option><option value="Adult" b-7tgiar6wao>Adult</option><option value="Ancient" b-7tgiar6wao>Ancient</option><option value="Epic" b-7tgiar6wao>Epic</option><option value="Mega" b-7tgiar6wao>Mega</option></select>
+                <label class="m-t-10" b-7tgiar6wao>Total pedigree:</label>
+                <input type="number" min="20" max="100" onfocus="this.select();" b-7tgiar6wao /></div>
+
+            <div class="flex-column align-items-center" b-7tgiar6wao><h3 b-7tgiar6wao>Parent 2</h3>
+                <label b-7tgiar6wao>Level:</label>
+                <select b-7tgiar6wao><option value selected b-7tgiar6wao></option><option value="Adult" b-7tgiar6wao>Adult</option><option value="Ancient" b-7tgiar6wao>Ancient</option><option value="Epic" b-7tgiar6wao>Epic</option><option value="Mega" b-7tgiar6wao>Mega</option></select>
+                <label class="m-t-10" b-7tgiar6wao>Total pedigree:</label>
+                <input type="number" min="20" max="100" onfocus="this.select();" b-7tgiar6wao /></div></div>
+
+        <label class="m-t-10" b-7tgiar6wao>Is Hatchmaking Kiosk hatch?</label>
+        <div class="flex-row" b-7tgiar6wao><span style="width: 180px; text-align: end;" b-7tgiar6wao>In-Person</span>
+
+            <label class="switch" b-7tgiar6wao><input type="checkbox" b-7tgiar6wao />
+                <span class="slider round" b-7tgiar6wao></span></label>
+
+            <span style="width: 180px;" b-7tgiar6wao>via Hatchmaking Kiosk</span></div>
+
+        <label class="m-t-20" b-7tgiar6wao>Highest pet level:</label>
+        <span b-7tgiar6wao>Unknown</span>
+        <label b-7tgiar6wao>Highest total pedigree:</label>
+        <span b-7tgiar6wao>Unknown</span>
+        <h3 class="m-t-20" b-7tgiar6wao>Cost:</h3><ul b-7tgiar6wao><li b-7tgiar6wao>Enter at least one pet level!</li><li b-7tgiar6wao>Enter at least one total pedigree between 20 and 100!</li></ul></div><div class="flex-column justify-content-center m-t-10" b-7tgiar6wao><section b-7tgiar6wao><h3 b-7tgiar6wao>What affects hatching cost?</h3>
+            <div class="section-content" b-7tgiar6wao>
+                Cost of every hatch is determined by 3 factors:
+                <ol b-7tgiar6wao><li b-7tgiar6wao>Highest pet level</li>
+                    <li b-7tgiar6wao>Highest total pedigree</li>
+                    <li b-7tgiar6wao>In-Person vs. via Hatchmaking Kiosk</li></ol></div></section>
+        <section b-7tgiar6wao><h3 b-7tgiar6wao>Pet level</h3>
+            <div class="section-content" b-7tgiar6wao><p b-7tgiar6wao>
+                    The higher level the pet is, the higher the hatching cost.
+                    Cost is always calculated based on level of a parent that has it the highest.
+                    Cheapest hatch is between two Adult pets and most expensive if one of the pets is Mega or Ultra (same price).
+
+                    Example: Adult + Mega = Cost is calculated based on level of the Mega pet.
+                </p></div></section>
+        <section b-7tgiar6wao><h3 b-7tgiar6wao>Total pedigree</h3>
+            <div class="section-content" b-7tgiar6wao><p b-7tgiar6wao>
+                    Total pedigree is the sum of pedigree of all abilities in both of the pet's ability pools.
+                    The higher it is (pet has more rare abilities), the higher the hatching cost.
+                    Cost is always calculated based on total pedigree of a parent that has it the highest.
+                    Cheapest hatch is between two pets that both have total pedigree lower than 61 (so between 20-60) and most expensive if one of the pets has total pedigree of 100.
+
+                    Example: 45 + 89 = Cost is calculated based on total pedigree of 89.
+                </p></div></section>
+        <section b-7tgiar6wao><h3 b-7tgiar6wao>In-Person vs. via Hatchmaking Kiosk</h3>
+            <div class="section-content" b-7tgiar6wao><p b-7tgiar6wao>
+                    Hatching via Hatchmaking Kiosk approximately doubles the cost of the hatch.
+                    So if you are tight on gold, always try to hatch in-person.
+                    Either by searching for in-person hatches in Hatchmaking Kiosk, in the hatchery or online (ie. Discord). 
+                </p></div></section></div></main>
+        <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
+
+</div>
+<!-- %%-PRERENDERING-END-%% -->
+</div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="sw-registrator.js"></script>
+    <!--<script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>-->
+    <!--<environment names="Development">
+        <script src="_framework/aspnetcore-browser-refresh.js"></script>
+    </environment>-->
+
+    <script>
+        /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
+        const origScrollTo = window.scrollTo;
+        window.scrollTo = (x, y) => {
+            const shouldSkip = true; // TODO: Insert your own logic here
+            if (x === 0 && y === 0 && shouldSkip)
+                return;
+            return origScrollTo.apply(this, arguments);
+        };
+    </script>
+
+    <!--https://www.syncfusion.com/faq/blazor/general/how-do-i-generate-and-save-a-file-client-side-using-blazor-->
+    <script src="saveFile.js"></script>
+
+
+
+</body></html>

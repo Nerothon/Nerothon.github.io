@@ -1,11 +1,10 @@
 <!DOCTYPE html><html lang="en"><head>
     <meta property="og:site_name" content="Wizard's Companion"/>
-
     <link rel="icon" href="spellbook.png"/>
     <base href="/"/>
     <base target="_blank"/>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, target-densitydpi=device-dpi"/>
     <meta charset="utf-8"/>
     <meta name="language" content="EN"/>
     <meta name="author" content="Nerothon"/>
@@ -89,7 +88,8 @@
         <script src="_framework/aspnetcore-browser-refresh.js"></script>
     </environment>-->
 
-    <script> /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
+    <script>
+        /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
         const origScrollTo = window.scrollTo;
         window.scrollTo = (x, y) => {
             const shouldSkip = true; // TODO: Insert your own logic here
@@ -98,6 +98,9 @@
             return origScrollTo.apply(this, arguments);
         };
     </script>
+
+    <!--https://www.syncfusion.com/faq/blazor/general/how-do-i-generate-and-save-a-file-client-side-using-blazor-->
+    <script src="saveFile.js"></script>
 
 
 

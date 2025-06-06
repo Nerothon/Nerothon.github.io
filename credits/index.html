@@ -1,11 +1,10 @@
 <!DOCTYPE html><html lang="en"><head>
     <meta property="og:site_name" content="Wizard's Companion"/>
-
     <link rel="icon" href="spellbook.png"/>
     <base href="/"/>
     <base target="_blank"/>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, target-densitydpi=device-dpi"/>
     <meta charset="utf-8"/>
     <meta name="language" content="EN"/>
     <meta name="author" content="Nerothon"/>
@@ -63,17 +62,17 @@
 
 <header><h1><a href="/">Wizard's Companion</a></h1></header>
 <main><h2>Credits</h2>
-<div class="flex-row"><label>General Icons:</label>
-    <a href="https://fonts.google.com/icons">Goodle Fonts - Material Symbols and Icons</a></div>
-
-<div class="flex-row"><label>Game Images and Icons:</label>
-    <a href="https://wiki.wizard101central.com/wiki/Category:Images">Wizard101 Central Wikipedia</a></div>
-
 <div class="flex-row"><label>Game Data:</label>
     <a href="https://wiki.wizard101central.com/wiki">Wizard101 Central Wikipedia</a></div>
 
 <div class="flex-row"><label>Additional Pet Data:</label>
     <a href="https://linktr.ee/101Resources">101Resources</a> - <a href="https://docs.google.com/spreadsheets/d/17GW9W7w-J_04HBu2WmhaGhQRHduIfkqkNEAwB-vb-k8/">Wizard101 Pet Tome</a></div>
+
+<div class="flex-row"><label>Game Images and Icons:</label>
+    <a href="https://wiki.wizard101central.com/wiki/Category:Images">Wizard101 Central Wikipedia</a></div>
+
+<div class="flex-row"><label>General Icons:</label>
+    <a href="https://fonts.google.com/icons">Google Fonts - Material Symbols and Icons</a></div>
 
 <div class="flex-row"><label>Framework:</label>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor">Blazor</a></div>
@@ -104,7 +103,8 @@
         <script src="_framework/aspnetcore-browser-refresh.js"></script>
     </environment>-->
 
-    <script> /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
+    <script>
+        /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
         const origScrollTo = window.scrollTo;
         window.scrollTo = (x, y) => {
             const shouldSkip = true; // TODO: Insert your own logic here
@@ -113,6 +113,9 @@
             return origScrollTo.apply(this, arguments);
         };
     </script>
+
+    <!--https://www.syncfusion.com/faq/blazor/general/how-do-i-generate-and-save-a-file-client-side-using-blazor-->
+    <script src="saveFile.js"></script>
 
 
 

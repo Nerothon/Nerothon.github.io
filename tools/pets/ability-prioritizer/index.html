@@ -1,0 +1,145 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta property="og:site_name" content="Wizard's Companion"/>
+    <link rel="icon" href="spellbook.png"/>
+    <base href="/"/>
+    <base target="_blank"/>
+
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, target-densitydpi=device-dpi"/>
+    <meta charset="utf-8"/>
+    <meta name="language" content="EN"/>
+    <meta name="author" content="Nerothon"/>
+    
+    <meta name="google-site-verification" content="KSWdcnkNSNYdjqEMelbOxJt-aZEbfPY4Sc0eAmICeuM"/>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp" rel="stylesheet"/>
+
+    <link href="css/app.css" rel="stylesheet"/>
+    <link href="manifest.json" rel="manifest"/>
+
+    <!-- If you add any scoped CSS files, uncomment the following to load them -->
+    <link href="Wizard101.Blazor.WebAssembly.styles.css" rel="stylesheet"/>
+
+<!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
+<title>Ability Prioritizer - Wizard&#x27;s Companion</title><meta property="og:title" content="Ability Prioritizer - Wizard&#x27;s Companion" />
+    <meta property="og:url" content="" />
+    <meta property="og:type" content="article" />
+
+    <meta name="date" content="" />
+    <meta name="theme-color" content="#ffff00" />
+
+    <meta name="description" content="Every pet ability has set hidden index.&#xD;&#xA;    Ability pools are ordered from lowest to highest index.&#xD;&#xA;    That means an ability A with lower index than ability B can never appear under B.&#xD;&#xA;Thanks to that if you know two abilities, you can find which possible abilities could be between them based on their indexes and rarities or even identify other." />
+    <meta property="og:description" content="Every pet ability has set hidden index.&#xD;&#xA;    Ability pools are ordered from lowest to highest index.&#xD;&#xA;    That means an ability A with lower index than ability B can never appear under B.&#xD;&#xA;Thanks to that if you know two abilities, you can find which possible abilities could be between them based on their indexes and rarities or even identify other." />
+
+    <meta name="keywords" content="wizard101, pets, tools, abilities, index" />
+    <meta property="article:tag" content="wizard101, pets, tools, abilities, index" />
+
+    <meta name="image" content="" />
+    <meta property="og:image" content="" />
+    <meta name="twitter:card" content="summary_large_image">
+<!-- %%-PRERENDERING-HEADOUTLET-END-%% -->
+</head>
+
+<body>
+    <div id="app">
+        <div id="app">
+            <div id="loading-container">
+                <!--<svg class="loading-progress">
+                    <circle r="40%" cx="50%" cy="50%" />
+                    <circle r="40%" cx="50%" cy="50%" />
+                </svg>-->
+                <h1 id="loading-text">Loading... </h1>
+                <div class="loading-progress-text"></div>
+                <div class="linear-progress"></div>
+                <h2>First load might take a while.</h2>
+                <h2>All future loads should be much faster as most resources will get cached on your device.</h2>
+            </div>
+        </div>
+    
+<!-- %%-PRERENDERING-BEGIN-%% -->
+<div style="opacity: 0; position: fixed; z-index: -1; top: 0; left: 0; bottom: 0; right: 0;">
+    
+
+
+
+<header><h1><a href="/">Wizard's Companion</a></h1></header>
+<main><h2>Ability Prioritizer</h2>
+<div style="margin: 15px;" b-kg0x9e45a9><div class="flex-row flex-wrap" b-kg0x9e45a9><div b-kg0x9e45a9><label b-kg0x9e45a9>Name:</label>
+                <input type="text" placeholder="Filter by ability name..." onfocus="this.select();" b-kg0x9e45a9 /></div>
+
+            <div b-kg0x9e45a9><label b-kg0x9e45a9>Card Name:</label>
+                <input type="text" placeholder="Filter by card name..." onfocus="this.select();" b-kg0x9e45a9 /></div>
+
+            <div b-kg0x9e45a9><label b-kg0x9e45a9>Type:</label>
+                <select b-kg0x9e45a9><option selected="selected" value="Ability" b-kg0x9e45a9>All</option>
+                    <option value="Talent" b-kg0x9e45a9>Talents</option>
+                    <option value="DerbyPower" b-kg0x9e45a9>Derby Powers</option>
+                    <option value="CharacterStatisticTalent" b-kg0x9e45a9>Wizard Statistic Boosting Talents</option>
+                    <option value="PetStatisticTalent" b-kg0x9e45a9>Pet Statistic Boosting Talents</option>
+                    <option value="CardGivingTalent" b-kg0x9e45a9>Card Giving Talents</option>
+                    <option value="MayCastTalent" b-kg0x9e45a9>May-Cast Talents</option>
+                    <option value="AdventureTalent" b-kg0x9e45a9>Adventure Talents</option>
+                    <option value="CombatTalent" b-kg0x9e45a9>Combat/Will-Cast Talents</option></select></div>
+
+            <div b-kg0x9e45a9><label b-kg0x9e45a9>Rarity:</label>
+                <select b-kg0x9e45a9><option selected="selected" value="All" b-kg0x9e45a9>All</option>
+                    <option value="Common" b-kg0x9e45a9>Common</option>
+                    <option value="Uncommon" b-kg0x9e45a9>Uncommon</option>
+                    <option value="Rare" b-kg0x9e45a9>Rare</option>
+                    <option value="Ultra-Rare" b-kg0x9e45a9>Ultra-Rare</option>
+                    <option value="Epic" b-kg0x9e45a9>Epic</option></select></div>
+
+            <div b-kg0x9e45a9><label b-kg0x9e45a9>Order by:</label>
+                <select b-kg0x9e45a9><option selected="selected" value="Name" b-kg0x9e45a9>Name</option>
+                    <option value="AbilityRarity" b-kg0x9e45a9>Rarity</option>
+                    <option value="Index" b-kg0x9e45a9>Index</option></select></div>
+
+            <div b-kg0x9e45a9><label b-kg0x9e45a9>Order direction:</label>
+                <select b-kg0x9e45a9><option selected="selected" value="Ascending" b-kg0x9e45a9>Ascending</option>
+                    <option value="Descending" b-kg0x9e45a9>Descending</option></select></div></div><div class="flex-row flex-wrap" b-kg0x9e45a9><label b-kg0x9e45a9>PV 45:</label><button class="transparent p-0 m-r-5" b-kg0x9e45a9><img class="icon" src="Data/Images/Icon/(Icon) Balance.png" alt="Balance" title="Balance" b-csu5abv9v1 /></button><button class="transparent p-0 m-r-5" b-kg0x9e45a9><img class="icon" src="Data/Images/Icon/(Icon) Death.png" alt="Death" title="Death" b-csu5abv9v1 /></button><button class="transparent p-0 m-r-5" b-kg0x9e45a9><img class="icon" src="Data/Images/Icon/(Icon) Fire.png" alt="Fire" title="Fire" b-csu5abv9v1 /></button><button class="transparent p-0 m-r-5" b-kg0x9e45a9><img class="icon" src="Data/Images/Icon/(Icon) Ice.png" alt="Ice" title="Ice" b-csu5abv9v1 /></button><button class="transparent p-0 m-r-5" b-kg0x9e45a9><img class="icon" src="Data/Images/Icon/(Icon) Life.png" alt="Life" title="Life" b-csu5abv9v1 /></button><button class="transparent p-0 m-r-5" b-kg0x9e45a9><img class="icon" src="Data/Images/Icon/(Icon) Myth.png" alt="Myth" title="Myth" b-csu5abv9v1 /></button><button class="transparent p-0 m-r-5" b-kg0x9e45a9><img class="icon" src="Data/Images/Icon/(Icon) Storm.png" alt="Storm" title="Storm" b-csu5abv9v1 /></button></div><div class="container flex-row flex-wrap" b-kg0x9e45a9><div class="column" b-kg0x9e45a9><h3 b-kg0x9e45a9>All Abilities</h3>
+                <span style="text-align: center;" b-kg0x9e45a9>Showing 595 out of 595 abilities.</span>
+                <div class="abilities" b-kg0x9e45a9><div style="height: 0px; flex-shrink: 0;"></div><div style="height: 29750px; flex-shrink: 0;"></div></div></div>
+
+            <div class="column" b-kg0x9e45a9><div class="flex-row justify-content-center" b-kg0x9e45a9><h3 b-kg0x9e45a9>Talents</h3>
+                    <button class="transparent" b-kg0x9e45a9><span class="material-symbols-sharp Accent" style=" --size: 1.5em;" b-e4j66vqyph>playlist_remove</span></button></div>
+
+                <div b-kg0x9e45a9></div></div>
+
+
+            <div class="column" b-kg0x9e45a9><div class="flex-row justify-content-center" b-kg0x9e45a9><h3 b-kg0x9e45a9>Derby Powers</h3>
+                    <button class="transparent" b-kg0x9e45a9><span class="material-symbols-sharp Accent" style=" --size: 1.5em;" b-e4j66vqyph>playlist_remove</span></button></div>
+
+                <div b-kg0x9e45a9></div></div></div></div></main>
+        <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
+
+</div>
+<!-- %%-PRERENDERING-END-%% -->
+</div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="sw-registrator.js"></script>
+    <!--<script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>-->
+    <!--<environment names="Development">
+        <script src="_framework/aspnetcore-browser-refresh.js"></script>
+    </environment>-->
+
+    <script>
+        /*https://github.com/dotnet/aspnetcore/issues/40190#issuecomment-1203857906*/
+        const origScrollTo = window.scrollTo;
+        window.scrollTo = (x, y) => {
+            const shouldSkip = true; // TODO: Insert your own logic here
+            if (x === 0 && y === 0 && shouldSkip)
+                return;
+            return origScrollTo.apply(this, arguments);
+        };
+    </script>
+
+    <!--https://www.syncfusion.com/faq/blazor/general/how-do-i-generate-and-save-a-file-client-side-using-blazor-->
+    <script src="saveFile.js"></script>
+
+
+
+</body></html>

@@ -1,0 +1,30 @@
+self.dataManifest = {
+  "version": "2505071409",
+  "assets": [
+    {"url": "Data/JSON/Ability.json"},
+    {"url": "Data/JSON/AbilityAvailability.json"},
+    {"url": "Data/JSON/AbilityPoolType.json"},
+    {"url": "Data/JSON/AbilityRarity.json"},
+    {"url": "Data/JSON/Creature.json"},
+    {"url": "Data/JSON/CreatureClass.json"},
+    {"url": "Data/JSON/CreatureType.json"},
+    {"url": "Data/JSON/Currency.json"},
+    {"url": "Data/JSON/HatchingCost.json"},
+    {"url": "Data/JSON/ItemCard.json"},
+    {"url": "Data/JSON/Jewel.json"},
+    {"url": "Data/JSON/JewelSocket.json"},
+    {"url": "Data/JSON/JewelType.json"},
+    {"url": "Data/JSON/Location.json"},
+    {"url": "Data/JSON/NPC.json"},
+    {"url": "Data/JSON/Pet.json"},
+    {"url": "Data/JSON/PetLevel.json"},
+    {"url": "Data/JSON/PetStatistic.json"},
+    {"url": "Data/JSON/Quest.json"},
+    {"url": "Data/JSON/QuestType.json"},
+    {"url": "Data/JSON/School.json"},
+    {"url": "Data/JSON/Seed.json"},
+    {"url": "Data/JSON/Snack.json"},
+    {"url": "Data/JSON/SnackClass.json"},
+    {"url": "Data/JSON/SpellType.json"}
+  ]
+};

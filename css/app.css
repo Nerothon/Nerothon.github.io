@@ -7,6 +7,7 @@
 :root
 {
     --color-accent-normal: #ffff00;
+    --color-accent-dark: #bcbc00;
     --color-success: #00ff00;
     --color-error: #f00;
 
@@ -162,6 +163,14 @@ input
 {
     font-family: 'Comic Sans MS';
     font-size: 0.9em;
+    /*background-color: #282828;
+    border: 1px solid var(--color-accent-normal);
+    color: var(--color-text-normal);*/
+}
+
+input[type=checkbox]
+{
+    background-color: yellow;
 }
 
 button
@@ -170,8 +179,58 @@ button
     font-size: 0.9em;
     background: var(--color-accent-normal);
     padding: 1px 7px;
-    border: none;
+    border: 2px solid black;
+
+    display: flex;
+    justify-content: center;
 }
+
+hr
+{
+    margin: 20px 5px;
+    border-color: var(--color-accent-normal);
+}
+
+
+/* width */
+::-webkit-scrollbar
+{
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track
+{
+    background: #282828;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb
+{
+    background: var(--color-accent-normal);
+    border-radius: 10px;
+}
+
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover
+    {
+        background: var(--color-accent-dark);
+    }
+
+.text-align-center
+{
+    text-align: center;
+}
+
+.text-align-start
+{
+    text-align: start;
+}
+
+.text-align-end
+{
+    text-align: end;
+} 
 
 .flex-row
 {
@@ -195,15 +254,116 @@ button
     align-items: center;
 }
 
+.justify-content-start
+{
+    justify-content: start;
+}
+
 .justify-content-center
 {
     justify-content: center;
+}
+
+.justify-content-end
+{
+    justify-content: end;
+}
+
+.justify-contant-space-evenly
+{
+    justify-content: space-evenly;
 }
 
 .wrap
 {
     white-space: pre-line;
 }
+
+.p-0{padding: 0;}
+.p-5{padding: 5px;}
+.p-10{padding: 10px;}
+.p-15{padding: 15px;}
+.p-20{padding: 20px;}
+.p-25{padding: 25px;}
+.p-30{padding: 30px;}
+.p-35{padding: 35px;}
+.p-40{padding: 40px;}
+.p-45{padding: 45px;}
+.p-50{padding: 50px;}
+.p-55{padding: 55px;}
+.p-60{padding: 60px;}
+.p-65{padding: 65px;}
+
+.p-l-5{padding: 0 0 0 5px;}
+.p-l-10{padding: 0 0 0 10px;}
+.p-l-15{padding: 0 0 0 15px;}
+.p-l-20{padding: 0 0 0 20px;}
+.p-l-25{padding: 0 0 0 25px;}
+.p-l-30{padding: 0 0 0 30px;}
+.p-l-35{padding: 0 0 0 35px;}
+.p-l-40{padding: 0 0 0 40px;}
+.p-l-45{padding: 0 0 0 45px;}
+.p-l-50{padding: 0 0 0 50px;}
+.p-l-55{padding: 0 0 0 55px;}
+.p-l-60{padding: 0 0 0 60px;}
+.p-l-65{padding: 0 0 0 65px;}
+
+.m-0{margin: 0;}
+.m-5{margin: 5px;}
+.m-10{margin: 10px;}
+.m-15{margin: 15px;}
+.m-20{margin: 20px;}
+.m-25{margin: 25px;}
+.m-30{margin: 30px;}
+.m-35{margin: 35px;}
+.m-40{margin: 40px;}
+.m-45{margin: 45px;}
+.m-50{margin: 50px;}
+.m-55{margin: 55px;}
+.m-60{margin: 60px;}
+.m-65{margin: 65px;}
+
+.m-t-5{margin: 5px 0 0 0;}
+.m-t-10{margin: 10px 0 0 0;}
+.m-t-15{margin: 15px 0 0 0;}
+.m-t-20{margin: 20px 0 0 0;}
+.m-t-25{margin: 25px 0 0 0;}
+.m-t-30{margin: 30px 0 0 0;}
+.m-t-35{margin: 35px 0 0 0;}
+.m-t-40{margin: 40px 0 0 0;}
+.m-t-45{margin: 45px 0 0 0;}
+.m-t-50{margin: 50px 0 0 0;}
+.m-t-55{margin: 55px 0 0 0;}
+.m-t-60{margin: 60px 0 0 0;}
+.m-t-65{margin: 65px 0 0 0;}
+
+.m-r-5{margin: 0 5px 0 0;}
+.m-r-10{margin: 0 10px 0 0;}
+.m-r-15{margin: 0 15px 0 0;}
+.m-r-20{margin: 0 20px 0 0;}
+.m-r-25{margin: 0 25px 0 0;}
+.m-r-30{margin: 0 30px 0 0;}
+.m-r-35{margin: 0 35px 0 0;}
+.m-r-40{margin: 0 40px 0 0;}
+.m-r-45{margin: 0 45px 0 0;}
+.m-r-50{margin: 0 50px 0 0;}
+.m-r-55{margin: 0 55px 0 0;}
+.m-r-60{margin: 0 60px 0 0;}
+.m-r-65{margin: 0 65px 0 0;}
+
+.m-l-5{margin: 0 0 0 5px;}
+.m-l-10{margin: 0 0 0 10px;}
+.m-l-15{margin: 0 0 0 15px;}
+.m-l-20{margin: 0 0 0 20px;}
+.m-l-25{margin: 0 0 0 25px;}
+.m-l-30{margin: 0 0 0 30px;}
+.m-l-35{margin: 0 0 0 35px;}
+.m-l-40{margin: 0 0 0 40px;}
+.m-l-45{margin: 0 0 0 45px;}
+.m-l-50{margin: 0 0 0 50px;}
+.m-l-55{margin: 0 0 0 55px;}
+.m-l-60{margin: 0 0 0 60px;}
+.m-l-65{margin: 0 0 0 65px;}
 
 h1:focus
 {
@@ -271,14 +431,13 @@ input[type=checkbox], .checkbox
     --color-accent-normal: var(--color-accent-moon);
 }
 
-.icon
-{
-    height: 1.5em;
-}
 
-.transparent
+button.transparent
 {
     background: transparent;
+    border: none;
+    color: var(--color-accent-normal)
+    /*border: 1px solid var(--color-accent-normal);*/
 }
 
 #blazor-error-ui {
