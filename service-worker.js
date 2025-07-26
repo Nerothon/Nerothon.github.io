@@ -15,8 +15,8 @@ const dataCacheName = `${cacheNamePrefix}${self.dataManifest.version}`;
 //const offlineAssetsInclude = [ /\.dll$/, /\.pdb$/, /\.wasm/, /\.html/, /\.js$/, /\.json$/, /\.css$/, /\.woff$/, /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
 //const offlineAssetsExclude = [ /^service-worker\.js$/ ];
 //https://github.com/jsakamoto/BlazorWasmPreRendering.Build/issues/45
-const offlineAssetsInclude = [/\.dll$/, /\.pdb$/, /\.wasm/, /^index\.html$/, /\.js$/, /\.css$/, /\.woff$/, /\.ttf$/ , /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
-const offlineAssetsExclude = [/^service-worker\.js$/, /^service-worker-data\.js$/, /\.json$/];
+const offlineAssetsInclude = [/\.dll$/, /\.pdb$/, /\.wasm/, /^index\.html$/, /\.js$/, /\.json$/, /\.css$/, /\.woff$/, /\.ttf$/ , /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
+const offlineAssetsExclude = [/^service-worker\.js$/, /^service-worker-data\.js$/, /^Data/];
 
 async function onInstall(event) {
     console.info('Service worker: Install');
