@@ -1,5 +1,5 @@
 self.dataManifest = {
-  "version": "2507260000",
+  "version": "2509300000",
   "assets": [
     {"url": "Data/JSON/Ability.json"},
     {"url": "Data/JSON/AbilityAvailability.json"},
